@@ -13,7 +13,7 @@
         "clength": 44,
         "doc_ID": 11036,
         "doc_URL": "https://www.glossa-journal.org/article/id/11036",
-        "entities": null,
+        "entities": {},
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Encontré  libro, pero no  compré [+definite]</div>\n\t\t<div class=\"glossblock\">find-PST.1SG. the book, but not cl-3SG.M.ACC buy-PST.1SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "find-PST.1SG. the book, but not cl-3SG.M.ACC buy-PST.1SG"
@@ -22,6 +22,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": null,
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -42,7 +43,7 @@
         "clength": 45,
         "doc_ID": 11036,
         "doc_URL": "https://www.glossa-journal.org/article/id/11036",
-        "entities": null,
+        "entities": {},
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Encontré azúcar, pero no Ø compré [–definite]</div>\n\t\t<div class=\"glossblock\">find-PST.1SG sugar, but not buy-PST.1SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "find-PST.1SG sugar, but not buy-PST.1SG"
@@ -51,6 +52,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": null,
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -73,7 +75,7 @@
         "clength": 54,
         "doc_ID": 11036,
         "doc_URL": "https://www.glossa-journal.org/article/id/11036",
-        "entities": null,
+        "entities": {},
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Quería la manzana verde, pero no  compré [finite verb]</div>\n\t\t<div class=\"glossblock\">want-PST.1SG the green apple, but not cl-SG.F.ACC buy-PST.1SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "want-PST.1SG the green apple, but not cl-SG.F.ACC buy-PST.1SG"
@@ -83,6 +85,7 @@
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "modality": "volitive",
+        "parent_entities": null,
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -106,7 +109,9 @@
         "clength": 64,
         "doc_ID": 11036,
         "doc_URL": "https://www.glossa-journal.org/article/id/11036",
-        "entities": null,
+        "entities": {
+            "Q1364": "fresh fruit"
+        },
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">La fruta fresca está muy cara. No  compres [negative imperative]</div>\n\t\t<div class=\"glossblock\">the fresh fruit be-PRS.3SG very expensive, not cl.SG.F.ACC buy-IMP.2SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the fresh fruit be-PRS.3SG very expensive, not cl.SG.F.ACC buy-IMP.2SG"
@@ -115,6 +120,38 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": {
+            "Q103940464": "continuant",
+            "Q1310239": "component",
+            "Q1454986": "physical system",
+            "Q15989253": "part",
+            "Q16686022": "natural physical object",
+            "Q20011319": null,
+            "Q223557": "physical object",
+            "Q23958946": "individual entity",
+            "Q24060707": null,
+            "Q27043948": "material anatomical entity",
+            "Q27043950": "anatomical entity",
+            "Q28728771": "matter",
+            "Q28732711": "physical substance",
+            "Q28845870": "biological component",
+            "Q29651224": "natural object",
+            "Q30060700": "scientific object",
+            "Q337060": "perceptible physical object",
+            "Q35120": "entity",
+            "Q35459920": "three-dimensional object",
+            "Q35758": "matter",
+            "Q4406616": "concrete object",
+            "Q488383": "object",
+            "Q4936952": "anatomical structure",
+            "Q53617407": "material entity",
+            "Q53617489": "independent continuant",
+            "Q58778": "system",
+            "Q66394244": "physical anatomical entity",
+            "Q6671777": "structure",
+            "Q712378": "Organ_(biology)",
+            "Q99527517": "collective entity"
+        },
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -139,7 +176,7 @@
         "coordination": "and",
         "doc_ID": 11036,
         "doc_URL": "https://www.glossa-journal.org/article/id/11036",
-        "entities": null,
+        "entities": {},
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Quiero un libro y tengo dinero para comprar [infinitive]</div>\n\t\t<div class=\"glossblock\">want-PRS.1SG a book and have-PRS.1SG money to buy-INF.1SG cl- SG.M.ACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "want-PRS.1SG a book and have-PRS.1SG money to buy-INF.1SG cl- SG.M.ACC"
@@ -149,6 +186,7 @@
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "modality": "volitive",
+        "parent_entities": null,
         "provider": "glossa",
         "srcwordsbare": [
             "Quiero un libro y tengo dinero para comprar [infinitive]"
@@ -171,7 +209,9 @@
         "clength": 62,
         "doc_ID": 11036,
         "doc_URL": "https://www.glossa-journal.org/article/id/11036",
-        "entities": null,
+        "entities": {
+            "Q43013": "notebook"
+        },
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">La tienda tiene el cuaderno que necesitas, cómpra [imperative]</div>\n\t\t<div class=\"glossblock\">the store have-PRS.3SG the notebook that you need-PRS.2SG, buy-IMP.2SG cl-SG.F.ACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the store have-PRS.3SG the notebook that you need-PRS.2SG, buy-IMP.2SG cl-SG.F.ACC"
@@ -180,6 +220,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": {},
         "provider": "glossa",
         "srcwordsbare": [
             "La tienda tiene el cuaderno que necesitas, cómpra [imperative]"
@@ -203,7 +244,7 @@
         "clength": 58,
         "doc_ID": 11036,
         "doc_URL": "https://www.glossa-journal.org/article/id/11036",
-        "entities": null,
+        "entities": {},
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Por favor, repite el número porque estoy anotándo [gerund]</div>\n\t\t<div class=\"glossblock\">please, repeat-IMP.2SG the number because be-1.PRS.1SG write-GER cl-SG.M.ACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "please, repeat-IMP.2SG the number because be-1.PRS.1SG write-GER cl-SG.M.ACC"
@@ -212,6 +253,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": null,
         "provider": "glossa",
         "srcwordsbare": [
             "Por favor, repite el número porque estoy anotándo [gerund]"
@@ -234,7 +276,7 @@
         "clength": 64,
         "doc_ID": 11036,
         "doc_URL": "https://www.glossa-journal.org/article/id/11036",
-        "entities": null,
+        "entities": {},
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">João conheceu a Maria pela Internet em 2012 e  em pessoa em 2014</div>\n\t\t<div class=\"glossblock\">João meet-PST.3SG maria on the internet in 2012 and cl-SG.F.ACC see-PST.3SG in person in 2014</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "João meet-PST.3SG maria on the internet in 2012 and cl-SG.F.ACC see-PST.3SG in person in 2014"
@@ -243,6 +285,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": null,
         "provider": "glossa",
         "srcwordsbare": [
             "João conheceu a Maria pela Internet em 2012 e  em pessoa em 2014"
@@ -266,7 +309,9 @@
         "coordination": "and",
         "doc_ID": 11036,
         "doc_URL": "https://www.glossa-journal.org/article/id/11036",
-        "entities": null,
+        "entities": {
+            "Q75": "Internet"
+        },
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">João conoció a María en Internet en 2012 y  en persona en 2014</div>\n\t\t<div class=\"glossblock\">João meet-PST.3SG maria on the internet in 2012 and cl-SG.F.ACC see-PST.3SG in person in 2014</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "João meet-PST.3SG maria on the internet in 2012 and cl-SG.F.ACC see-PST.3SG in person in 2014"
@@ -275,6 +320,36 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": {
+            "Q106865223": null,
+            "Q1068715": "Telecommunications_network",
+            "Q1150771": "output",
+            "Q1207505": "quality",
+            "Q121359": null,
+            "Q1347367": null,
+            "Q151885": null,
+            "Q15401930": "artificial object",
+            "Q16686448": "artificial object",
+            "Q1900326": "network",
+            "Q2145290": null,
+            "Q28877": "goods",
+            "Q2897903": "goods and services",
+            "Q2995644": "result",
+            "Q30241068": "observable entity",
+            "Q35120": "entity",
+            "Q386724": "work",
+            "Q4393498": null,
+            "Q488383": "object",
+            "Q577764": "Communications_system",
+            "Q58415929": "spatio-temporal entity",
+            "Q58778": "system",
+            "Q6671777": "structure",
+            "Q7048977": "abstract entity",
+            "Q7184903": "abstract entity",
+            "Q930933": "relation",
+            "Q937228": "property",
+            "Q99527517": "collective entity"
+        },
         "provider": "glossa",
         "srcwordsbare": [
             "João conoció a María en Internet en 2012 y  en persona en 2014"
@@ -295,7 +370,7 @@
         "clength": 62,
         "doc_ID": 11036,
         "doc_URL": "https://www.glossa-journal.org/article/id/11036",
-        "entities": null,
+        "entities": {},
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">João imprimiu sua foto da viagem e  várias vezes durante o dia</div>\n\t\t<div class=\"glossblock\">João print-PST.3SG his pictures from the trip and  see-PST.3SG many times throughout the day</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "João print-PST.3SG his pictures from the trip and  see-PST.3SG many times throughout the day"
@@ -304,6 +379,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": null,
         "provider": "glossa",
         "srcwordsbare": [
             "João imprimiu sua foto da viagem e  várias vezes durante o dia"
@@ -328,7 +404,7 @@
         "coordination": "and",
         "doc_ID": 11036,
         "doc_URL": "https://www.glossa-journal.org/article/id/11036",
-        "entities": null,
+        "entities": {},
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">João imprimió su foto del viaje y  varias veces durante el día</div>\n\t\t<div class=\"glossblock\">João print-PST.3SG his pictures from the trip and cl-PL.F.ACC see-PST.3SG many times throughout the day</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "João print-PST.3SG his pictures from the trip and cl-PL.F.ACC see-PST.3SG many times throughout the day"
@@ -337,6 +413,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": null,
         "provider": "glossa",
         "srcwordsbare": [
             "João imprimió su foto del viaje y  varias veces durante el día"
@@ -359,7 +436,7 @@
         "clength": 26,
         "doc_ID": 11036,
         "doc_URL": "https://www.glossa-journal.org/article/id/11036",
-        "entities": null,
+        "entities": {},
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Eu  vi, mas não disse nada</div>\n\t\t<div class=\"glossblock\">I cl-SG.M.ACC see-PST.1SG, but not say-PST.1SG nothing</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I cl-SG.M.ACC see-PST.1SG, but not say-PST.1SG nothing"
@@ -368,6 +445,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": null,
         "provider": "glossa",
         "srcwordsbare": [
             "Eu  vi, mas não disse nada"
@@ -390,7 +468,7 @@
         "clength": 26,
         "doc_ID": 11036,
         "doc_URL": "https://www.glossa-journal.org/article/id/11036",
-        "entities": null,
+        "entities": {},
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Eu vi-, mas não disse nada</div>\n\t\t<div class=\"glossblock\">I see-PST.1SG cl-SG.M.ACC, but not say-PST.1SG nothing</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I see-PST.1SG cl-SG.M.ACC, but not say-PST.1SG nothing"
@@ -399,6 +477,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": null,
         "provider": "glossa",
         "srcwordsbare": [
             "Eu vi-, mas não disse nada"
@@ -419,7 +498,7 @@
         "clength": 36,
         "doc_ID": 11036,
         "doc_URL": "https://www.glossa-journal.org/article/id/11036",
-        "entities": null,
+        "entities": {},
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">…quando olho suas areias  também a .</div>\n\t\t<div class=\"glossblock\">…when see-PRS.1SG her sand contemplate-PRS.1SG also acc.marker strong pronoun-SG.F</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "…when see-PRS.1SG her sand contemplate-PRS.1SG also acc.marker strong pronoun-SG.F"
@@ -428,6 +507,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": null,
         "provider": "glossa",
         "srcwordsbare": [
             "…quando olho suas areias  também a ."
@@ -449,7 +529,7 @@
         "clength": 36,
         "doc_ID": 11036,
         "doc_URL": "https://www.glossa-journal.org/article/id/11036",
-        "entities": null,
+        "entities": {},
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">…quando olho as tuas areias  também.</div>\n\t\t<div class=\"glossblock\">…when see-PRS.1SG your sand contemplate-PRS.1SG cl-SG.F.ACC also</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "…when see-PRS.1SG your sand contemplate-PRS.1SG cl-SG.F.ACC also"
@@ -458,6 +538,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": null,
         "provider": "glossa",
         "srcwordsbare": [
             "…quando olho as tuas areias  também."

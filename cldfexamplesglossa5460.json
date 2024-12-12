@@ -15,7 +15,7 @@
         "coordination": "and",
         "doc_ID": 5460,
         "doc_URL": "https://www.glossa-journal.org/article/id/5460",
-        "entities": null,
+        "entities": {},
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mark</div>\n\t\t<div class=\"glossblock\">Mark</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">und</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Raymond</div>\n\t\t<div class=\"glossblock\">Raymond</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lesen</div>\n\t\t<div class=\"glossblock\">read.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">verschiedene/#andere</div>\n\t\t<div class=\"glossblock\">different.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Bücher.</div>\n\t\t<div class=\"glossblock\">books</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mark",
@@ -29,6 +29,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": null,
         "provider": "glossa",
         "srcwordsbare": [
             "Mark",
@@ -56,7 +57,7 @@
         "clength": 48,
         "doc_ID": 5460,
         "doc_URL": "https://www.glossa-journal.org/article/id/5460",
-        "entities": null,
+        "entities": {},
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Jeder</div>\n\t\t<div class=\"glossblock\">every</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junge</div>\n\t\t<div class=\"glossblock\">boy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">las</div>\n\t\t<div class=\"glossblock\">read.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ein</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anderes/*verschiedenes</div>\n\t\t<div class=\"glossblock\">different.N.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Buch.</div>\n\t\t<div class=\"glossblock\">book</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "every",
@@ -70,6 +71,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": null,
         "provider": "glossa",
         "srcwordsbare": [
             "Jeder",
@@ -100,17 +102,21 @@
         "coordination": "and",
         "doc_ID": 5460,
         "doc_URL": "https://www.glossa-journal.org/article/id/5460",
-        "entities": null,
+        "entities": {
+            "Q152491": "Herzliya",
+            "Q309164": "Raanana"
+        },
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Herzliya</div>\n\t\t<div class=\"glossblock\">Herzliya</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ve-Raanana</div>\n\t\t<div class=\"glossblock\">and-Raanana</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">krovot.</div>\n\t\t<div class=\"glossblock\">near.F.PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Herzliya",
             "and-Raanana",
             "near.F.PL"
         ],
-        "language_glottocode": "anci1244",
-        "language_iso6393": "hbo",
-        "language_name": "Ancient Hebrew",
+        "language_glottocode": "hebr1245",
+        "language_iso6393": "heb",
+        "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": {},
         "provider": "glossa",
         "srcwordsbare": [
             "Herzliya",
@@ -140,7 +146,9 @@
         "coordination": "and",
         "doc_ID": 5460,
         "doc_URL": "https://www.glossa-journal.org/article/id/5460",
-        "entities": null,
+        "entities": {
+            "Q52698285": "Ruti"
+        },
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Leon</div>\n\t\t<div class=\"glossblock\">Leon</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ve-Ruti</div>\n\t\t<div class=\"glossblock\">and-Ruti</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">garim</div>\n\t\t<div class=\"glossblock\">reside.M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">be-arim</div>\n\t\t<div class=\"glossblock\">in-cities</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">krovot.</div>\n\t\t<div class=\"glossblock\">near.F.PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Leon",
@@ -149,10 +157,11 @@
             "in-cities",
             "near.F.PL"
         ],
-        "language_glottocode": "anci1244",
-        "language_iso6393": "hbo",
-        "language_name": "Ancient Hebrew",
+        "language_glottocode": "hebr1245",
+        "language_iso6393": "heb",
+        "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": {},
         "provider": "glossa",
         "srcwordsbare": [
             "Leon",
@@ -180,7 +189,11 @@
         "coordination": "and",
         "doc_ID": 5460,
         "doc_URL": "https://www.glossa-journal.org/article/id/5460",
-        "entities": null,
+        "entities": {
+            "Q1715": "Hannover",
+            "Q55636518": "Unavailable",
+            "Q64": "Berlin"
+        },
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#Berlin</div>\n\t\t<div class=\"glossblock\">Berlin</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">und</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hannover</div>\n\t\t<div class=\"glossblock\">Hannover</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sind</div>\n\t\t<div class=\"glossblock\">are</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anders.</div>\n\t\t<div class=\"glossblock\">different.PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Berlin",
@@ -193,6 +206,7 @@
         "language_iso6393": "deu",
         "language_name": "German",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": {},
         "provider": "glossa",
         "srcwordsbare": [
             "#Berlin",
@@ -222,7 +236,10 @@
         "coordination": "and",
         "doc_ID": 5460,
         "doc_URL": "https://www.glossa-journal.org/article/id/5460",
-        "entities": null,
+        "entities": {
+            "Q152491": "Herzliya",
+            "Q309164": "Raanana"
+        },
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#?Herzliya</div>\n\t\t<div class=\"glossblock\">Herzliya</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ve-Raanana</div>\n\t\t<div class=\"glossblock\">and-Raanana</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(hen)</div>\n\t\t<div class=\"glossblock\">(are.F)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">axerot.</div>\n\t\t<div class=\"glossblock\">different.F.PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Herzliya",
@@ -230,10 +247,11 @@
             "(are.F)",
             "different.F.PL"
         ],
-        "language_glottocode": "anci1244",
-        "language_iso6393": "hbo",
-        "language_name": "Ancient Hebrew",
+        "language_glottocode": "hebr1245",
+        "language_iso6393": "heb",
+        "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": {},
         "provider": "glossa",
         "srcwordsbare": [
             "#?Herzliya",
@@ -259,7 +277,7 @@
         "clength": 40,
         "doc_ID": 5460,
         "doc_URL": "https://www.glossa-journal.org/article/id/5460",
-        "entities": null,
+        "entities": {},
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Jeder</div>\n\t\t<div class=\"glossblock\">every</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junge</div>\n\t\t<div class=\"glossblock\">boy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lebt</div>\n\t\t<div class=\"glossblock\">lives</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">in</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">einer</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anderen</div>\n\t\t<div class=\"glossblock\">different.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Stadt.</div>\n\t\t<div class=\"glossblock\">city</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "every",
@@ -274,6 +292,7 @@
         "language_iso6393": "deu",
         "language_name": "German",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": null,
         "provider": "glossa",
         "srcwordsbare": [
             "Jeder",
@@ -304,7 +323,7 @@
         "clength": 27,
         "doc_ID": 5460,
         "doc_URL": "https://www.glossa-journal.org/article/id/5460",
-        "entities": null,
+        "entities": {},
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kol</div>\n\t\t<div class=\"glossblock\">every</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yeled</div>\n\t\t<div class=\"glossblock\">boy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gar</div>\n\t\t<div class=\"glossblock\">resides.M.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">be-ir</div>\n\t\t<div class=\"glossblock\">in-city</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">axeret.</div>\n\t\t<div class=\"glossblock\">different.F.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "every",
@@ -313,10 +332,11 @@
             "in-city",
             "different.F.SG"
         ],
-        "language_glottocode": "anci1244",
-        "language_iso6393": "hbo",
-        "language_name": "Ancient Hebrew",
+        "language_glottocode": "hebr1245",
+        "language_iso6393": "heb",
+        "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": null,
         "provider": "glossa",
         "srcwordsbare": [
             "kol",
@@ -345,7 +365,9 @@
         "clength": 27,
         "doc_ID": 5460,
         "doc_URL": "https://www.glossa-journal.org/article/id/5460",
-        "entities": null,
+        "entities": {
+            "Q2717842": "nearby city"
+        },
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#kol</div>\n\t\t<div class=\"glossblock\">every</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yeled</div>\n\t\t<div class=\"glossblock\">boy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gar</div>\n\t\t<div class=\"glossblock\">resides.M.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">be-ir</div>\n\t\t<div class=\"glossblock\">in-city</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">krova.</div>\n\t\t<div class=\"glossblock\">near.F.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "every",
@@ -354,10 +376,11 @@
             "in-city",
             "near.F.SG"
         ],
-        "language_glottocode": "anci1244",
-        "language_iso6393": "hbo",
-        "language_name": "Ancient Hebrew",
+        "language_glottocode": "hebr1245",
+        "language_iso6393": "heb",
+        "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": {},
         "provider": "glossa",
         "srcwordsbare": [
             "#kol",
@@ -386,7 +409,7 @@
         "clength": 25,
         "doc_ID": 5460,
         "doc_URL": "https://www.glossa-journal.org/article/id/5460",
-        "entities": null,
+        "entities": {},
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">I</div>\n\t\t<div class=\"glossblock\">the.M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mobili</div>\n\t\t<div class=\"glossblock\">pieces.of.furniture</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">si</div>\n\t\t<div class=\"glossblock\">SE</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">toccati.</div>\n\t\t<div class=\"glossblock\">touched.PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the.M.PL",
@@ -399,6 +422,7 @@
         "language_iso6393": "ita",
         "language_name": "Italian",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": null,
         "provider": "glossa",
         "srcwordsbare": [
             "I",
@@ -427,7 +451,7 @@
         "clength": 26,
         "doc_ID": 5460,
         "doc_URL": "https://www.glossa-journal.org/article/id/5460",
-        "entities": null,
+        "entities": {},
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">??Il</div>\n\t\t<div class=\"glossblock\">the.M.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mobilio</div>\n\t\t<div class=\"glossblock\">furniture</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">si</div>\n\t\t<div class=\"glossblock\">SE</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">è</div>\n\t\t<div class=\"glossblock\">has</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">toccato.</div>\n\t\t<div class=\"glossblock\">touched.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the.M.SG",
@@ -440,6 +464,7 @@
         "language_iso6393": "ita",
         "language_name": "Italian",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": null,
         "provider": "glossa",
         "srcwordsbare": [
             "??Il",

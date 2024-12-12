@@ -24,7 +24,7 @@
         "clength": 43,
         "doc_ID": 279,
         "doc_URL": "https://langsci-press.org/catalog/book/279",
-        "entities": null,
+        "entities": {},
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Chay-ta</div>\n\t\t<div class=\"glossblock\">That-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">las</div>\n\t\t<div class=\"glossblock\">ART</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dos</div>\n\t\t<div class=\"glossblock\">TWO</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">PREP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">ART</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">noche-ta</div>\n\t\t<div class=\"glossblock\">night-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">chaya-mu-yku</div>\n\t\t<div class=\"glossblock\">arrive-TRANS-1PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "That-ACC",
@@ -39,6 +39,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": null,
         "provider": "langsci",
         "srcwordsbare": [
             "Chay-ta",
@@ -78,7 +79,7 @@
         "clength": 69,
         "doc_ID": 279,
         "doc_URL": "https://langsci-press.org/catalog/book/279",
-        "entities": null,
+        "entities": {},
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Bizarra</div>\n\t\t<div class=\"glossblock\">beard.DET</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">moztuko</div>\n\t\t<div class=\"glossblock\">cut.FUT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dut</div>\n\t\t<div class=\"glossblock\">AUX.TR.1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">orain</div>\n\t\t<div class=\"glossblock\">now</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">porque</div>\n\t\t<div class=\"glossblock\">because</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bihar...</div>\n\t\t<div class=\"glossblock\">tomorrow...</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bihar</div>\n\t\t<div class=\"glossblock\">tomorrow</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ez</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dut</div>\n\t\t<div class=\"glossblock\">AUX.TR.1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gogorik</div>\n\t\t<div class=\"glossblock\">want.PART</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">izango</div>\n\t\t<div class=\"glossblock\">be.FUT</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "beard.DET",
@@ -97,6 +98,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": null,
         "provider": "langsci",
         "srcwordsbare": [
             "Bizarra",
@@ -133,7 +135,9 @@
         "clength": 21,
         "doc_ID": 279,
         "doc_URL": "https://langsci-press.org/catalog/book/279",
-        "entities": null,
+        "entities": {
+            "Q190": "God"
+        },
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mon</div>\n\t\t<div class=\"glossblock\">My</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dié</div>\n\t\t<div class=\"glossblock\">God</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">moi</div>\n\t\t<div class=\"glossblock\">1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fini</div>\n\t\t<div class=\"glossblock\">INT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bête</div>\n\t\t<div class=\"glossblock\">stupid</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "My",
@@ -146,6 +150,31 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": {
+            "Q103940464": "continuant",
+            "Q106559804": null,
+            "Q15619164": null,
+            "Q178885": "Deity",
+            "Q18336849": null,
+            "Q18706315": null,
+            "Q21070598": null,
+            "Q215627": null,
+            "Q23958946": "individual entity",
+            "Q24229398": "agent",
+            "Q24334685": "mythical_entity",
+            "Q26720107": null,
+            "Q28855038": "supernatural_being",
+            "Q30060629": null,
+            "Q35120": "entity",
+            "Q3778211": null,
+            "Q4271324": null,
+            "Q4356623": "Intelligent_designer",
+            "Q488383": "object",
+            "Q635155": "Creator_deity",
+            "Q7048977": "abstract entity",
+            "Q795052": null,
+            "Q830077": "subject"
+        },
         "provider": "langsci",
         "srcwordsbare": [
             "Mon",
@@ -175,7 +204,7 @@
         "clength": 16,
         "doc_ID": 279,
         "doc_URL": "https://langsci-press.org/catalog/book/279",
-        "entities": null,
+        "entities": {},
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">M</div>\n\t\t<div class=\"glossblock\">1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fini</div>\n\t\t<div class=\"glossblock\">COMPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">travay-la</div>\n\t\t<div class=\"glossblock\">work-DEF</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1SG",
@@ -186,6 +215,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": null,
         "provider": "langsci",
         "srcwordsbare": [
             "M",
@@ -210,7 +240,7 @@
         "clength": 15,
         "doc_ID": 279,
         "doc_URL": "https://langsci-press.org/catalog/book/279",
-        "entities": null,
+        "entities": {},
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Bos-mu</div>\n\t\t<div class=\"glossblock\">You-to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da-ni-mi</div>\n\t\t<div class=\"glossblock\">give-1-AFF</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "You-to",
@@ -220,6 +250,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": null,
         "provider": "langsci",
         "srcwordsbare": [
             "Bos-mu",

@@ -12,7 +12,9 @@
         "clength": 30,
         "doc_ID": 5352,
         "doc_URL": "https://www.glossa-journal.org/article/id/5352",
-        "entities": null,
+        "entities": {
+            "Q16338": "PC"
+        },
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">PC: t’aimerais</div>\n\t\t<div class=\"glossblock\">PC: would-like-2P-SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">parler</div>\n\t\t<div class=\"glossblock\">speak</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">quoi?</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PC: would-like-2P-SG",
@@ -24,6 +26,38 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": {
+            "Q10273457": "equipment",
+            "Q11019": "Machine",
+            "Q1150771": "output",
+            "Q1183543": null,
+            "Q121182": null,
+            "Q1454986": "physical system",
+            "Q15401930": "artificial object",
+            "Q1662611": null,
+            "Q16686448": "artificial object",
+            "Q223557": "physical object",
+            "Q241317": null,
+            "Q2424752": "product",
+            "Q28877": "goods",
+            "Q2897903": "goods and services",
+            "Q2995644": "result",
+            "Q30060700": "scientific object",
+            "Q30241068": "observable entity",
+            "Q35120": "entity",
+            "Q35459920": "three-dimensional object",
+            "Q35825432": "converter",
+            "Q386724": "work",
+            "Q39546": "Tool",
+            "Q4406616": "concrete object",
+            "Q488383": "object",
+            "Q58415929": "spatio-temporal entity",
+            "Q58778": "system",
+            "Q6671777": "structure",
+            "Q68": "Computer",
+            "Q8205328": "artificial physical object",
+            "Q99527517": "collective entity"
+        },
         "provider": "glossa",
         "srcwordsbare": [
             "PC: t’aimerais",
@@ -46,7 +80,11 @@
         "clength": 72,
         "doc_ID": 5352,
         "doc_URL": "https://www.glossa-journal.org/article/id/5352",
-        "entities": null,
+        "entities": {
+            "Q1649799": "Priego",
+            "Q3112768": "Valverde",
+            "Q796212": "semantics"
+        },
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">PC: ⟨smile⟩ du</div>\n\t\t<div class=\"glossblock\">PC: ⟨smile⟩ of-DEF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cours ⟨/smile⟩ ⟨laugh⟩ de sémantique</div>\n\t\t<div class=\"glossblock\">class ⟨/smile⟩ ⟨laugh⟩ of semantics</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ce matin ⟨/laugh⟩</div>\n\t\t<div class=\"glossblock\">this morning ⟨/laugh⟩</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PC: ⟨smile⟩ of-DEF",
@@ -58,6 +96,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parent_entities": {},
         "provider": "glossa",
         "srcwordsbare": [
             "PC: ⟨smile⟩ du",
