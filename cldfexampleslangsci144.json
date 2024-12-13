@@ -21,7 +21,7 @@
         "language_iso6393": "och",
         "language_name": "Old Chinese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "polarity": "negative",
         "provider": "langsci",
         "srcwordsbare": [
@@ -65,7 +65,7 @@
         "language_iso6393": "spa",
         "language_name": "Spanish",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {
+        "parententities": {
             "Q10273457": "equipment",
             "Q1150771": "output",
             "Q1454986": "physical system",
@@ -136,7 +136,7 @@
         "language_iso6393": "spa",
         "language_name": "Spanish",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {
+        "parententities": {
             "Q10273457": "equipment",
             "Q1150771": "output",
             "Q1454986": "physical system",
@@ -205,7 +205,7 @@
         "language_iso6393": "jpn",
         "language_name": "Japanese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Sasaki",
@@ -241,7 +241,7 @@
         "language_iso6393": "jpn",
         "language_name": "Japanese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "*Ame=ga",
@@ -254,10 +254,10 @@
         "ID": "langsci144-c11b252a38",
         "abbrkey": {
             "COP": "copula",
-            "HON": null,
+            "HON": "",
             "NEG": "negation, negative",
             "NOM": "nominative",
-            "PAST": null
+            "PAST": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -285,7 +285,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {
+        "parententities": {
             "Q1190554": "occurrence",
             "Q16887380": "group",
             "Q1914636": "activity",
@@ -309,8 +309,8 @@
     {
         "ID": "langsci144-ff23cbfdcc",
         "abbrkey": {
-            "HON": null,
-            "PAST": null,
+            "HON": "",
+            "PAST": "",
             "Q": "question particle/marker",
             "TOP": "topic"
         },
@@ -338,7 +338,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {
+        "parententities": {
             "Q1190554": "occurrence",
             "Q16887380": "group",
             "Q1914636": "activity",
@@ -363,8 +363,8 @@
         "abbrkey": {
             "ACC": "accusative",
             "DECL": "declarative",
-            "FORM": null,
-            "PAST": null
+            "FORM": "",
+            "PAST": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -388,7 +388,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Chayk=ul",
@@ -402,8 +402,8 @@
         "abbrkey": {
             "ACC": "accusative",
             "DECL": "declarative",
-            "PAST": null,
-            "POL": null
+            "PAST": "",
+            "POL": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -427,7 +427,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Chayk=ul",
@@ -441,8 +441,8 @@
         "abbrkey": {
             "ACC": "accusative",
             "DECL": "declarative",
-            "INT": null,
-            "PAST": null
+            "INT": "",
+            "PAST": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -466,7 +466,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Chayk=ul",
@@ -480,7 +480,7 @@
         "abbrkey": {
             "ACC": "accusative",
             "DECL": "declarative",
-            "PAST": null
+            "PAST": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -503,7 +503,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Chayk=ul",
@@ -517,7 +517,7 @@
         "abbrkey": {
             "DECL": "declarative",
             "NOM": "nominative",
-            "POL": null
+            "POL": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -540,7 +540,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Pi=ka",
@@ -555,7 +555,7 @@
             "DECL": "declarative",
             "NEG": "negation, negative",
             "NOM": "nominative",
-            "POL": null
+            "POL": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -579,7 +579,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "polarity": "negative",
         "provider": "langsci",
         "srcwordsbare": [
@@ -594,7 +594,7 @@
         "abbrkey": {
             "DECL": "declarative",
             "NOM": "nominative",
-            "POL": null
+            "POL": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -617,7 +617,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Pi=ka",
@@ -660,7 +660,7 @@
         "language_iso6393": "spa",
         "language_name": "Spanish",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {},
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "María",
@@ -709,7 +709,7 @@
         "language_iso6393": "spa",
         "language_name": "Spanish",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {},
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "María",
@@ -765,7 +765,7 @@
         "language_name": "Greek",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "modality": "volitive",
-        "parent_entities": {},
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Theloume",
@@ -824,7 +824,7 @@
         "language_name": "Greek",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "modality": "volitive",
-        "parent_entities": {},
+        "parententities": {},
         "polarity": "negative",
         "provider": "langsci",
         "srcwordsbare": [
@@ -846,7 +846,7 @@
         "ID": "langsci144-5235b95f25",
         "abbrkey": {
             "3SG": "third person singular",
-            "R": null,
+            "R": "",
             "REL": "relative",
             "SBJV": "subjunctive"
         },
@@ -885,7 +885,7 @@
         "language_name": "Greek",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "modality": "volitive",
-        "parent_entities": {},
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "I",
@@ -943,7 +943,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Prepi",
@@ -966,11 +966,11 @@
         "ID": "langsci144-a721a32455",
         "abbrkey": {
             "DET": "determiner",
-            "EPIS": null,
-            "EXIS": null,
+            "EPIS": "",
+            "EXIS": "",
             "NOM": "nominative",
             "POSS": "possessive",
-            "STAT": null
+            "STAT": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -1001,7 +1001,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {},
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "wá7=k’a",
@@ -1015,12 +1015,12 @@
     {
         "ID": "langsci144-b5da3bc802",
         "abbrkey": {
-            "DEON": null,
+            "DEON": "",
             "DET": "determiner",
-            "DIR": null,
-            "EXIS": null,
+            "DIR": "",
+            "EXIS": "",
             "POSS": "possessive",
-            "SUBJ": null
+            "SUBJ": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -1047,7 +1047,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "lán=lhkacw=ka",
@@ -1061,7 +1061,7 @@
         "ID": "langsci144-900f28e95b",
         "abbrkey": {
             "IND": "indicative",
-            "NEC": null
+            "NEC": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -1082,7 +1082,7 @@
         "language_iso6393": "kal",
         "language_name": "Kalaallisut",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Inna-jaa-ssa-atit."
@@ -1094,7 +1094,7 @@
         "ID": "langsci144-191737f426",
         "abbrkey": {
             "IND": "indicative",
-            "NEC": null
+            "NEC": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -1118,7 +1118,7 @@
         "language_iso6393": "kal",
         "language_name": "Kalaallisut",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {},
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Københavni-mii-ssa-aq."
@@ -1149,7 +1149,7 @@
         "language_iso6393": "kal",
         "language_name": "Kalaallisut",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Timmi-sinnaa-vuq."
@@ -1160,7 +1160,7 @@
     {
         "ID": "langsci144-34ba7f42d2",
         "abbrkey": {
-            "ALLATIVE": null,
+            "ALLATIVE": "",
             "IND": "indicative"
         },
         "book_metalanguage": "stan1293",
@@ -1187,7 +1187,7 @@
         "language_iso6393": "kal",
         "language_name": "Kalaallisut",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {},
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Nuum-mut",
@@ -1223,40 +1223,40 @@
         "language_iso6393": "deu",
         "language_name": "German",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {
-            "Q100195948": null,
+        "parententities": {
+            "Q100195948": "",
             "Q10273457": "equipment",
             "Q1032176": "Countermeasure",
-            "Q104127086": null,
-            "Q104637332": null,
+            "Q104127086": "",
+            "Q104637332": "",
             "Q108163": "proposition",
             "Q11028": "information",
             "Q1150070": "change",
             "Q1150771": "output",
-            "Q1151067": null,
-            "Q1168263": null,
+            "Q1151067": "",
+            "Q1168263": "",
             "Q1190554": "occurrence",
             "Q1207505": "quality",
-            "Q12488383": null,
-            "Q12894677": null,
-            "Q1347367": null,
+            "Q12488383": "",
+            "Q12894677": "",
+            "Q1347367": "",
             "Q1379672": "Evaluation",
             "Q1454986": "physical system",
             "Q1474521": "function",
             "Q15401930": "artificial object",
-            "Q1544281": null,
+            "Q1544281": "",
             "Q15916540": "semantic unit",
-            "Q160402": null,
+            "Q160402": "",
             "Q1665268": "command",
             "Q16686448": "artificial object",
             "Q1674502": "Isolation_(health_care)",
             "Q16877783": "meaning",
             "Q16887380": "group",
             "Q16889133": "class",
-            "Q1724915": null,
+            "Q1724915": "",
             "Q1783823": "coordination",
             "Q1786828": "constituent",
-            "Q1799072": null,
+            "Q1799072": "",
             "Q182899": "Quarantine",
             "Q183046": "meaning",
             "Q18340964": "power",
@@ -1264,10 +1264,10 @@
             "Q185698": "Methodology",
             "Q188572": "fact",
             "Q1914636": "activity",
-            "Q1920219": null,
-            "Q193181": null,
+            "Q1920219": "",
+            "Q193181": "",
             "Q19829125": "absence",
-            "Q205961": null,
+            "Q205961": "",
             "Q207449": "Division_of_labour",
             "Q20817253": "linguistic unit",
             "Q20937557": "sequence",
@@ -1277,40 +1277,40 @@
             "Q217602": "Analysis",
             "Q223557": "physical object",
             "Q23498130": "isolation",
-            "Q2421951": null,
+            "Q2421951": "",
             "Q2424752": "product",
             "Q24651263": "management_tool",
             "Q246672": "mathematical object",
             "Q2556572": "order",
-            "Q2574811": null,
+            "Q2574811": "",
             "Q2684591": "statement",
             "Q26907166": "temporal entity",
-            "Q2695280": null,
+            "Q2695280": "",
             "Q2783798": "communicable_disease_control",
             "Q28813620": "set",
             "Q28877": "goods",
             "Q2897903": "goods and services",
             "Q29017603": "control",
-            "Q29182544": null,
+            "Q29182544": "",
             "Q2920921": "Management",
             "Q29651519": "mental object",
             "Q2995644": "result",
             "Q30060700": "scientific object",
             "Q30241068": "observable entity",
             "Q30314010": "Social_distancing",
-            "Q309100": null,
-            "Q31207": null,
+            "Q309100": "",
+            "Q31207": "",
             "Q31464082": "source",
             "Q3249551": "process",
             "Q334401": "Surveillance",
             "Q338754": "Control_(psychology)",
-            "Q3505845": null,
+            "Q3505845": "",
             "Q35120": "entity",
             "Q35459920": "three-dimensional object",
             "Q35825432": "converter",
             "Q3769299": "human behavior",
             "Q39546": "Tool",
-            "Q4026292": null,
+            "Q4026292": "",
             "Q41796": "sentence",
             "Q428148": "Regulation",
             "Q42848": "data",
@@ -1319,29 +1319,29 @@
             "Q474328": "declarative sentence",
             "Q483247": "phenomenon",
             "Q488383": "object",
-            "Q4897819": null,
+            "Q4897819": "",
             "Q5371079": "emic unit",
             "Q55608371": "Control_(management)",
             "Q567696": "order",
             "Q58415929": "spatio-temporal entity",
             "Q58778": "system",
             "Q61788060": "human activity",
-            "Q621184": null,
+            "Q621184": "",
             "Q628523": "Message",
             "Q65089289": "Risk_control",
             "Q65938634": "quality_control_method",
             "Q6671777": "structure",
             "Q67130236": "public_health_practice",
-            "Q67518233": null,
+            "Q67518233": "",
             "Q67518978": "occurrent",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
             "Q7336285": "Risk_management_tools",
-            "Q7406919": null,
-            "Q781413": null,
-            "Q813912": null,
+            "Q7406919": "",
+            "Q781413": "",
+            "Q813912": "",
             "Q8205328": "artificial physical object",
-            "Q855395": null,
+            "Q855395": "",
             "Q88221447": "non-pharmaceutical_countermeasure",
             "Q88708584": "public_health_measure",
             "Q9081": "Knowledge",
@@ -1395,40 +1395,40 @@
         "language_iso6393": "deu",
         "language_name": "German",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {
-            "Q100195948": null,
+        "parententities": {
+            "Q100195948": "",
             "Q10273457": "equipment",
             "Q1032176": "Countermeasure",
-            "Q104127086": null,
-            "Q104637332": null,
+            "Q104127086": "",
+            "Q104637332": "",
             "Q108163": "proposition",
             "Q11028": "information",
             "Q1150070": "change",
             "Q1150771": "output",
-            "Q1151067": null,
-            "Q1168263": null,
+            "Q1151067": "",
+            "Q1168263": "",
             "Q1190554": "occurrence",
             "Q1207505": "quality",
-            "Q12488383": null,
-            "Q12894677": null,
-            "Q1347367": null,
+            "Q12488383": "",
+            "Q12894677": "",
+            "Q1347367": "",
             "Q1379672": "Evaluation",
             "Q1454986": "physical system",
             "Q1474521": "function",
             "Q15401930": "artificial object",
-            "Q1544281": null,
+            "Q1544281": "",
             "Q15916540": "semantic unit",
-            "Q160402": null,
+            "Q160402": "",
             "Q1665268": "command",
             "Q16686448": "artificial object",
             "Q1674502": "Isolation_(health_care)",
             "Q16877783": "meaning",
             "Q16887380": "group",
             "Q16889133": "class",
-            "Q1724915": null,
+            "Q1724915": "",
             "Q1783823": "coordination",
             "Q1786828": "constituent",
-            "Q1799072": null,
+            "Q1799072": "",
             "Q182899": "Quarantine",
             "Q183046": "meaning",
             "Q18340964": "power",
@@ -1436,10 +1436,10 @@
             "Q185698": "Methodology",
             "Q188572": "fact",
             "Q1914636": "activity",
-            "Q1920219": null,
-            "Q193181": null,
+            "Q1920219": "",
+            "Q193181": "",
             "Q19829125": "absence",
-            "Q205961": null,
+            "Q205961": "",
             "Q207449": "Division_of_labour",
             "Q20817253": "linguistic unit",
             "Q20937557": "sequence",
@@ -1449,40 +1449,40 @@
             "Q217602": "Analysis",
             "Q223557": "physical object",
             "Q23498130": "isolation",
-            "Q2421951": null,
+            "Q2421951": "",
             "Q2424752": "product",
             "Q24651263": "management_tool",
             "Q246672": "mathematical object",
             "Q2556572": "order",
-            "Q2574811": null,
+            "Q2574811": "",
             "Q2684591": "statement",
             "Q26907166": "temporal entity",
-            "Q2695280": null,
+            "Q2695280": "",
             "Q2783798": "communicable_disease_control",
             "Q28813620": "set",
             "Q28877": "goods",
             "Q2897903": "goods and services",
             "Q29017603": "control",
-            "Q29182544": null,
+            "Q29182544": "",
             "Q2920921": "Management",
             "Q29651519": "mental object",
             "Q2995644": "result",
             "Q30060700": "scientific object",
             "Q30241068": "observable entity",
             "Q30314010": "Social_distancing",
-            "Q309100": null,
-            "Q31207": null,
+            "Q309100": "",
+            "Q31207": "",
             "Q31464082": "source",
             "Q3249551": "process",
             "Q334401": "Surveillance",
             "Q338754": "Control_(psychology)",
-            "Q3505845": null,
+            "Q3505845": "",
             "Q35120": "entity",
             "Q35459920": "three-dimensional object",
             "Q35825432": "converter",
             "Q3769299": "human behavior",
             "Q39546": "Tool",
-            "Q4026292": null,
+            "Q4026292": "",
             "Q41796": "sentence",
             "Q428148": "Regulation",
             "Q42848": "data",
@@ -1491,29 +1491,29 @@
             "Q474328": "declarative sentence",
             "Q483247": "phenomenon",
             "Q488383": "object",
-            "Q4897819": null,
+            "Q4897819": "",
             "Q5371079": "emic unit",
             "Q55608371": "Control_(management)",
             "Q567696": "order",
             "Q58415929": "spatio-temporal entity",
             "Q58778": "system",
             "Q61788060": "human activity",
-            "Q621184": null,
+            "Q621184": "",
             "Q628523": "Message",
             "Q65089289": "Risk_control",
             "Q65938634": "quality_control_method",
             "Q6671777": "structure",
             "Q67130236": "public_health_practice",
-            "Q67518233": null,
+            "Q67518233": "",
             "Q67518978": "occurrent",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
             "Q7336285": "Risk_management_tools",
-            "Q7406919": null,
-            "Q781413": null,
-            "Q813912": null,
+            "Q7406919": "",
+            "Q781413": "",
+            "Q813912": "",
             "Q8205328": "artificial physical object",
-            "Q855395": null,
+            "Q855395": "",
             "Q88221447": "non-pharmaceutical_countermeasure",
             "Q88708584": "public_health_measure",
             "Q9081": "Knowledge",
@@ -1569,7 +1569,7 @@
         "language_iso6393": "mbf",
         "language_name": "Baba Malay",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "polarity": "negative",
         "provider": "langsci",
         "srcwordsbare": [
@@ -1609,7 +1609,7 @@
         "language_iso6393": "mbf",
         "language_name": "Baba Malay",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "polarity": "negative",
         "provider": "langsci",
         "srcwordsbare": [
@@ -1624,7 +1624,7 @@
     {
         "ID": "langsci144-f718860ec3",
         "abbrkey": {
-            "MID": null,
+            "MID": "",
             "NEG": "negation, negative"
         },
         "book_metalanguage": "stan1293",
@@ -1653,7 +1653,7 @@
         "language_iso6393": "mbf",
         "language_name": "Baba Malay",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {
+        "parententities": {
             "Q108163": "proposition",
             "Q11028": "information",
             "Q15916540": "semantic unit",
@@ -1662,13 +1662,13 @@
             "Q1786828": "constituent",
             "Q183046": "meaning",
             "Q188572": "fact",
-            "Q1920219": null,
+            "Q1920219": "",
             "Q20817253": "linguistic unit",
             "Q246672": "mathematical object",
             "Q2684591": "statement",
             "Q29651519": "mental object",
             "Q30060700": "scientific object",
-            "Q3505845": null,
+            "Q3505845": "",
             "Q35120": "entity",
             "Q3539169": "Economic_problem",
             "Q41796": "sentence",
@@ -1677,11 +1677,11 @@
             "Q483247": "phenomenon",
             "Q488383": "object",
             "Q5371079": "emic unit",
-            "Q621184": null,
+            "Q621184": "",
             "Q628523": "Message",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
-            "Q813912": null,
+            "Q813912": "",
             "Q937228": "property",
             "Q9380010": "utterance",
             "Q99527517": "collective entity"
@@ -1730,7 +1730,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "polarity": "negative",
         "provider": "langsci",
         "srcwordsbare": [
@@ -1752,7 +1752,7 @@
     {
         "ID": "langsci144-d08559af17",
         "abbrkey": {
-            "HEARSAY": null,
+            "HEARSAY": "",
             "NOM": "nominative"
         },
         "book_metalanguage": "stan1293",
@@ -1776,7 +1776,7 @@
         "language_iso6393": "tgl",
         "language_name": "Tagalog",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Mabuti",
@@ -1789,10 +1789,10 @@
     {
         "ID": "langsci144-ae1872ed6c",
         "abbrkey": {
-            "DIRECT": null,
+            "DIRECT": "",
             "OBJ": "object",
             "PRF": "perfect",
-            "SUBJ": null
+            "SUBJ": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -1816,7 +1816,7 @@
         "language_iso6393": "qug",
         "language_name": "Bolivar-North Chimborazo Highland Quichua",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Qam-pis",
@@ -1828,10 +1828,10 @@
     {
         "ID": "langsci144-20d1788007",
         "abbrkey": {
-            "HEARSAY": null,
+            "HEARSAY": "",
             "OBJ": "object",
             "PRF": "perfect",
-            "SUBJ": null
+            "SUBJ": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -1856,7 +1856,7 @@
         "language_iso6393": "qug",
         "language_name": "Bolivar-North Chimborazo Highland Quichua",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Qam-pis",
@@ -1868,10 +1868,10 @@
     {
         "ID": "langsci144-8af0ce5cdc",
         "abbrkey": {
-            "CONJECT": null,
+            "CONJECT": "",
             "OBJ": "object",
             "PRF": "perfect",
-            "SUBJ": null
+            "SUBJ": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -1895,7 +1895,7 @@
         "language_iso6393": "qug",
         "language_name": "Bolivar-North Chimborazo Highland Quichua",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Qam-pis",
@@ -1907,7 +1907,7 @@
     {
         "ID": "langsci144-ca31a3561e",
         "abbrkey": {
-            "VISUAL": null
+            "VISUAL": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -1928,7 +1928,7 @@
         "language_iso6393": "tue",
         "language_name": "Tuyuca",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "díiga",
@@ -1940,7 +1940,7 @@
     {
         "ID": "langsci144-08ffca6eeb",
         "abbrkey": {
-            "NONVISUAL": null
+            "NONVISUAL": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -1962,7 +1962,7 @@
         "language_iso6393": "tue",
         "language_name": "Tuyuca",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "díiga",
@@ -1974,7 +1974,7 @@
     {
         "ID": "langsci144-157927df63",
         "abbrkey": {
-            "INFERENCE": null
+            "INFERENCE": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -1998,7 +1998,7 @@
         "language_iso6393": "tue",
         "language_name": "Tuyuca",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {
+        "parententities": {
             "Q1048366": "trace",
             "Q11028": "information",
             "Q1150771": "output",
@@ -2024,7 +2024,7 @@
     {
         "ID": "langsci144-cb30144064",
         "abbrkey": {
-            "HEARSAY": null
+            "HEARSAY": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -2045,7 +2045,7 @@
         "language_iso6393": "tue",
         "language_name": "Tuyuca",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "díiga",
@@ -2057,7 +2057,7 @@
     {
         "ID": "langsci144-735c79725b",
         "abbrkey": {
-            "ASSUMED": null
+            "ASSUMED": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -2078,7 +2078,7 @@
         "language_iso6393": "tue",
         "language_name": "Tuyuca",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "díiga",
@@ -2115,7 +2115,7 @@
         "language_iso6393": "deu",
         "language_name": "German",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Kim",
@@ -2134,7 +2134,7 @@
         "ID": "langsci144-99fa62fb32",
         "abbrkey": {
             "1SG": "first person singular",
-            "INDIRECT": null,
+            "INDIRECT": "",
             "PRF": "perfect"
         },
         "book_metalanguage": "stan1293",
@@ -2158,7 +2158,7 @@
         "language_iso6393": "klj",
         "language_name": "Turkic Khalaj",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "zefer",
@@ -2172,8 +2172,8 @@
         "abbrkey": {
             "ACC": "accusative",
             "NEG": "negation, negative",
-            "PAST1": null,
-            "REPORT": null,
+            "PAST1": "",
+            "REPORT": "",
             "TOP": "topic"
         },
         "book_metalanguage": "stan1293",
@@ -2205,7 +2205,7 @@
         "language_iso6393": "qug",
         "language_name": "Bolivar-North Chimborazo Highland Quichua",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {
+        "parententities": {
             "Q11028": "information",
             "Q15916540": "semantic unit",
             "Q16877783": "meaning",
@@ -2268,7 +2268,7 @@
         "language_iso6393": "qug",
         "language_name": "Bolivar-North Chimborazo Highland Quichua",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {
+        "parententities": {
             "Q11028": "information",
             "Q15916540": "semantic unit",
             "Q16877783": "meaning",
@@ -2304,10 +2304,10 @@
         "ID": "langsci144-0fbbf11c49",
         "abbrkey": {
             "ACC": "accusative",
-            "DIRECT": null,
-            "LIMIT": null,
+            "DIRECT": "",
+            "LIMIT": "",
             "NEG": "negation, negative",
-            "PAST1": null
+            "PAST1": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -2334,7 +2334,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "polarity": "negative",
         "provider": "langsci",
         "srcwordsbare": [
@@ -2350,9 +2350,9 @@
         "ID": "langsci144-0c9fc80c91",
         "abbrkey": {
             "ACC": "accusative",
-            "DIRECT": null,
+            "DIRECT": "",
             "NEG": "negation, negative",
-            "PAST1": null
+            "PAST1": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -2381,7 +2381,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "polarity": "negative",
         "provider": "langsci",
         "srcwordsbare": [
@@ -2401,7 +2401,7 @@
             "NEG": "negation, negative",
             "PL": "plural",
             "PROG": "progressive",
-            "REPORT": null
+            "REPORT": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -2428,7 +2428,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "polarity": "negative",
         "provider": "langsci",
         "srcwordsbare": [
@@ -2445,7 +2445,7 @@
         "abbrkey": {
             "NEG": "negation, negative",
             "PROG": "progressive",
-            "REPORT": null
+            "REPORT": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -2470,7 +2470,7 @@
         "language_iso6393": "qug",
         "language_name": "Bolivar-North Chimborazo Highland Quichua",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Para-sha-n=si,",
@@ -2484,12 +2484,12 @@
     {
         "ID": "langsci144-ff26915e69",
         "abbrkey": {
-            "CONTR": null,
-            "DIR": null,
-            "INAN": null,
-            "MODANIM": null,
+            "CONTR": "",
+            "DIR": "",
+            "INAN": "",
+            "MODANIM": "",
             "NEG": "negation, negative",
-            "REPORT": null,
+            "REPORT": "",
             "SG": "singular"
         },
         "book_metalanguage": "stan1293",
@@ -2519,7 +2519,7 @@
         "language_iso6393": "chy",
         "language_name": "Cheyenne",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "É-hoo'kȯhó-nėse",
@@ -2534,13 +2534,13 @@
         "ID": "langsci144-267f628615",
         "abbrkey": {
             "DET": "determiner",
-            "DIR": null,
+            "DIR": "",
             "ERG": "ergative",
             "NEG": "negation, negative",
             "NOM": "nominative",
             "OBJ": "object",
             "PL": "plural",
-            "REPORT": null
+            "REPORT": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -2578,7 +2578,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "*Um’-en-tsal-itás",
@@ -2601,7 +2601,7 @@
         "ID": "langsci144-ac5b5c3b06",
         "abbrkey": {
             "GEN": "genitive",
-            "PAST": null,
+            "PAST": "",
             "PROG": "progressive",
             "PTCP": "participle",
             "TOP": "topic"
@@ -2639,7 +2639,7 @@
         "language_iso6393": "qug",
         "language_name": "Bolivar-North Chimborazo Highland Quichua",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {
+        "parententities": {
             "Q11028": "information",
             "Q15916540": "semantic unit",
             "Q16877783": "meaning",
@@ -2674,13 +2674,13 @@
     {
         "ID": "langsci144-70c38d32d0",
         "abbrkey": {
-            "DEIC": null,
+            "DEIC": "",
             "DEM": "demonstrative",
             "DET": "determiner",
-            "DIR": null,
+            "DIR": "",
             "NOM": "nominative",
-            "REPORT": null,
-            "SUBJ": null
+            "REPORT": "",
+            "SUBJ": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -2721,7 +2721,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Tsut",
@@ -2780,7 +2780,7 @@
         "language_iso6393": "deu",
         "language_name": "German",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Ich",
@@ -2832,25 +2832,25 @@
         "language_iso6393": "deu",
         "language_name": "German",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {
+        "parententities": {
             "Q108163": "proposition",
             "Q11028": "information",
             "Q1190554": "occurrence",
-            "Q12036439": null,
+            "Q12036439": "",
             "Q1207505": "quality",
-            "Q1322005": null,
-            "Q1347367": null,
-            "Q151885": null,
+            "Q1322005": "",
+            "Q1347367": "",
+            "Q151885": "",
             "Q15916540": "semantic unit",
-            "Q16332653": null,
+            "Q16332653": "",
             "Q16877783": "meaning",
             "Q16889133": "class",
             "Q1786828": "constituent",
             "Q183046": "meaning",
             "Q188572": "fact",
-            "Q1972098": null,
+            "Q1972098": "",
             "Q20817253": "linguistic unit",
-            "Q2145290": null,
+            "Q2145290": "",
             "Q246672": "mathematical object",
             "Q25257": "Precipitation",
             "Q2684591": "statement",
@@ -2858,16 +2858,16 @@
             "Q29651519": "mental object",
             "Q30060700": "scientific object",
             "Q35120": "entity",
-            "Q4072190": null,
+            "Q4072190": "",
             "Q41796": "sentence",
             "Q42848": "data",
-            "Q4393498": null,
+            "Q4393498": "",
             "Q474328": "declarative sentence",
             "Q483247": "phenomenon",
             "Q488383": "object",
             "Q5371079": "emic unit",
             "Q58415929": "spatio-temporal entity",
-            "Q58928516": null,
+            "Q58928516": "",
             "Q628523": "Message",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
@@ -2922,7 +2922,7 @@
         "language_iso6393": "deu",
         "language_name": "German",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Es",
@@ -2966,7 +2966,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Denn",
@@ -3010,7 +3010,7 @@
         "language_iso6393": "deu",
         "language_name": "German",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Ich",
@@ -3062,7 +3062,7 @@
         "language_iso6393": "deu",
         "language_name": "German",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Sie",
@@ -3101,7 +3101,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "—",
@@ -3138,7 +3138,7 @@
         "language_iso6393": "deu",
         "language_name": "German",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "[Sondern",
@@ -3179,7 +3179,7 @@
         "language_iso6393": "deu",
         "language_name": "German",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Wer",
@@ -3237,58 +3237,58 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {
-            "Q102186648": null,
-            "Q104493": null,
+        "parententities": {
+            "Q102186648": "",
+            "Q104493": "",
             "Q108163": "proposition",
             "Q11028": "information",
             "Q1132455": "Hazard",
             "Q1150070": "change",
-            "Q1168263": null,
+            "Q1168263": "",
             "Q1190554": "occurrence",
             "Q12040808": "neurological_symptom",
             "Q1207505": "quality",
-            "Q12894677": null,
-            "Q1441305": null,
+            "Q12894677": "",
+            "Q1441305": "",
             "Q1454986": "physical system",
             "Q15916540": "semantic unit",
-            "Q160402": null,
+            "Q160402": "",
             "Q16686448": "artificial object",
             "Q16877783": "meaning",
             "Q16887380": "group",
             "Q16889133": "class",
-            "Q169872": null,
-            "Q1724915": null,
+            "Q169872": "",
+            "Q1724915": "",
             "Q1786828": "constituent",
             "Q183046": "meaning",
-            "Q18603648": null,
+            "Q18603648": "",
             "Q188572": "fact",
             "Q1914636": "activity",
-            "Q193181": null,
-            "Q2057971": null,
+            "Q193181": "",
+            "Q2057971": "",
             "Q20817253": "linguistic unit",
             "Q20937557": "sequence",
-            "Q21170479": null,
+            "Q21170479": "",
             "Q223557": "physical object",
             "Q246672": "mathematical object",
-            "Q2574811": null,
+            "Q2574811": "",
             "Q2684591": "statement",
             "Q26907166": "temporal entity",
-            "Q286583": null,
-            "Q28807560": null,
+            "Q286583": "",
+            "Q28807560": "",
             "Q28813620": "set",
-            "Q29182544": null,
+            "Q29182544": "",
             "Q29651519": "mental object",
             "Q30060700": "scientific object",
             "Q31464082": "source",
             "Q3249551": "process",
-            "Q340169": null,
-            "Q3505845": null,
+            "Q340169": "",
+            "Q3505845": "",
             "Q35120": "entity",
             "Q35459920": "three-dimensional object",
             "Q3769299": "human behavior",
             "Q3955369": "sensation",
-            "Q4026292": null,
+            "Q4026292": "",
             "Q41796": "sentence",
             "Q42848": "data",
             "Q4406616": "concrete object",
@@ -3298,32 +3298,32 @@
             "Q483247": "phenomenon",
             "Q488383": "object",
             "Q5371079": "emic unit",
-            "Q5422048": null,
-            "Q5720030": null,
+            "Q5422048": "",
+            "Q5720030": "",
             "Q58415929": "spatio-temporal entity",
             "Q58778": "system",
-            "Q593289": null,
+            "Q593289": "",
             "Q61788060": "human activity",
-            "Q621184": null,
+            "Q621184": "",
             "Q628523": "Message",
-            "Q639907": null,
+            "Q639907": "",
             "Q6671777": "structure",
             "Q67518978": "occurrent",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
-            "Q7189713": null,
-            "Q733553": null,
-            "Q781413": null,
-            "Q813912": null,
+            "Q7189713": "",
+            "Q733553": "",
+            "Q781413": "",
+            "Q813912": "",
             "Q81938": "Pain",
             "Q8205328": "artificial physical object",
-            "Q855395": null,
-            "Q86923152": null,
-            "Q87075524": null,
+            "Q855395": "",
+            "Q86923152": "",
+            "Q87075524": "",
             "Q9332": "behavior",
             "Q937228": "property",
             "Q9380010": "utterance",
-            "Q944806": null,
+            "Q944806": "",
             "Q99527517": "collective entity"
         },
         "provider": "langsci",
@@ -3375,25 +3375,25 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {
+        "parententities": {
             "Q108163": "proposition",
             "Q11028": "information",
             "Q1190554": "occurrence",
-            "Q12036439": null,
+            "Q12036439": "",
             "Q1207505": "quality",
-            "Q1322005": null,
-            "Q1347367": null,
-            "Q151885": null,
+            "Q1322005": "",
+            "Q1347367": "",
+            "Q151885": "",
             "Q15916540": "semantic unit",
-            "Q16332653": null,
+            "Q16332653": "",
             "Q16877783": "meaning",
             "Q16889133": "class",
             "Q1786828": "constituent",
             "Q183046": "meaning",
             "Q188572": "fact",
-            "Q1972098": null,
+            "Q1972098": "",
             "Q20817253": "linguistic unit",
-            "Q2145290": null,
+            "Q2145290": "",
             "Q246672": "mathematical object",
             "Q25257": "Precipitation",
             "Q2684591": "statement",
@@ -3401,16 +3401,16 @@
             "Q29651519": "mental object",
             "Q30060700": "scientific object",
             "Q35120": "entity",
-            "Q4072190": null,
+            "Q4072190": "",
             "Q41796": "sentence",
             "Q42848": "data",
-            "Q4393498": null,
+            "Q4393498": "",
             "Q474328": "declarative sentence",
             "Q483247": "phenomenon",
             "Q488383": "object",
             "Q5371079": "emic unit",
             "Q58415929": "spatio-temporal entity",
-            "Q58928516": null,
+            "Q58928516": "",
             "Q628523": "Message",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
@@ -3466,17 +3466,17 @@
         "language_iso6393": "por",
         "language_name": "Portuguese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {
+        "parententities": {
             "Q112608": "Italo-Western_languages",
             "Q131848": "Italic_languages",
             "Q17376908": "Languoid",
             "Q19814": "Romance_languages",
             "Q19860": "Indo-European_languages",
-            "Q20162172": null,
-            "Q276314": null,
+            "Q20162172": "",
+            "Q276314": "",
             "Q3313381": "Italo-Dalmatian_languages",
             "Q3356483": "Italian_romance_languages",
-            "Q34770": null,
+            "Q34770": "",
             "Q35120": "entity",
             "Q488383": "object",
             "Q7048977": "abstract entity",
@@ -3533,17 +3533,17 @@
         "language_iso6393": "por",
         "language_name": "Portuguese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {
+        "parententities": {
             "Q112608": "Italo-Western_languages",
             "Q131848": "Italic_languages",
             "Q17376908": "Languoid",
             "Q19814": "Romance_languages",
             "Q19860": "Indo-European_languages",
-            "Q20162172": null,
-            "Q276314": null,
+            "Q20162172": "",
+            "Q276314": "",
             "Q3313381": "Italo-Dalmatian_languages",
             "Q3356483": "Italian_romance_languages",
-            "Q34770": null,
+            "Q34770": "",
             "Q35120": "entity",
             "Q488383": "object",
             "Q7048977": "abstract entity",
@@ -3602,17 +3602,17 @@
         "language_iso6393": "por",
         "language_name": "Portuguese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {
+        "parententities": {
             "Q112608": "Italo-Western_languages",
             "Q131848": "Italic_languages",
             "Q17376908": "Languoid",
             "Q19814": "Romance_languages",
             "Q19860": "Indo-European_languages",
-            "Q20162172": null,
-            "Q276314": null,
+            "Q20162172": "",
+            "Q276314": "",
             "Q3313381": "Italo-Dalmatian_languages",
             "Q3356483": "Italian_romance_languages",
-            "Q34770": null,
+            "Q34770": "",
             "Q35120": "entity",
             "Q488383": "object",
             "Q7048977": "abstract entity",
@@ -3666,7 +3666,7 @@
         "language_iso6393": "rus",
         "language_name": "Russian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Esli",
@@ -3716,7 +3716,7 @@
         "language_iso6393": "rus",
         "language_name": "Russian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Esli",
@@ -3764,7 +3764,7 @@
         "language_iso6393": "und",
         "language_name": "Arabic",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Dá",
@@ -3783,7 +3783,7 @@
         "ID": "langsci144-4c16292a4a",
         "abbrkey": {
             "FUT": "future",
-            "PRES": null
+            "PRES": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -3812,7 +3812,7 @@
         "language_iso6393": "und",
         "language_name": "Arabic",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Má",
@@ -3832,9 +3832,9 @@
         "ID": "langsci144-3001985220",
         "abbrkey": {
             "ACC": "accusative",
-            "FRUS": null,
-            "NPST": null,
-            "POTENT": null,
+            "FRUS": "",
+            "NPST": "",
+            "POTENT": "",
             "PST": "past"
         },
         "book_metalanguage": "stan1293",
@@ -3869,7 +3869,7 @@
         "language_iso6393": "kqr",
         "language_name": "Kimaragang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Ong",
@@ -3890,12 +3890,12 @@
     {
         "ID": "langsci144-0a98a369f3",
         "abbrkey": {
-            "FRUS": null,
+            "FRUS": "",
             "LOC": "locative",
             "NEG": "negation, negative",
             "NOM": "nominative",
-            "NPST": null,
-            "POTENT": null,
+            "NPST": "",
+            "POTENT": "",
             "PST": "past"
         },
         "book_metalanguage": "stan1293",
@@ -3931,7 +3931,7 @@
         "language_iso6393": "kqr",
         "language_name": "Kimaragang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "polarity": "negative",
         "provider": "langsci",
         "srcwordsbare": [
@@ -3984,7 +3984,7 @@
         "language_iso6393": "kqr",
         "language_name": "Kimaragang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Ong",
@@ -4006,8 +4006,8 @@
         "abbrkey": {
             "3SG": "third person singular",
             "ACC": "accusative",
-            "EMPH": null,
-            "PROB": null
+            "EMPH": "",
+            "PROB": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -4036,7 +4036,7 @@
         "language_iso6393": "kqr",
         "language_name": "Kimaragang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Kaanak=i’",
@@ -4053,7 +4053,7 @@
     {
         "ID": "langsci144-fd41ce0be8",
         "abbrkey": {
-            "EXCLAM": null,
+            "EXCLAM": "",
             "NOM": "nominative"
         },
         "book_metalanguage": "stan1293",
@@ -4080,7 +4080,7 @@
         "language_iso6393": "ind",
         "language_name": "Indonesian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Musuko=ga",
@@ -4121,7 +4121,7 @@
         "language_iso6393": "deu",
         "language_name": "German",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "[Als",
@@ -4166,7 +4166,7 @@
         "language_name": "German",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "modality": "volitive",
-        "parent_entities": {
+        "parententities": {
             "Q105569679": "function_of_an_integer_variable",
             "Q11028": "information",
             "Q11563": "Number",
@@ -4175,7 +4175,7 @@
             "Q1244890": "Rational_number",
             "Q12503": "Integer",
             "Q12916": "Real_number",
-            "Q130901": null,
+            "Q130901": "",
             "Q1321926": "Constructible_number",
             "Q133250": "Sequence",
             "Q13896108": "non-negative_real_number",
@@ -4190,17 +4190,17 @@
             "Q1879813": "solution",
             "Q191290": "Ordered_pair",
             "Q191780": "Ordinal_number",
-            "Q1948412": null,
+            "Q1948412": "",
             "Q19546578": "nonzero_real_number",
             "Q20113351": "Polynomial_root",
             "Q20154908": "decimal_number",
-            "Q203066": null,
+            "Q203066": "",
             "Q20937557": "sequence",
             "Q21075690": "solution",
-            "Q21146257": null,
+            "Q21146257": "",
             "Q21199": "Natural_number",
             "Q214604": "Zero_of_a_function",
-            "Q217594": null,
+            "Q217594": "",
             "Q240651": "Prime_element",
             "Q246672": "mathematical object",
             "Q2509291": "Square-free_element",
@@ -4215,25 +4215,25 @@
             "Q2995644": "result",
             "Q30060700": "scientific object",
             "Q30241068": "observable entity",
-            "Q309314": null,
+            "Q309314": "",
             "Q311627": "P-adic_number",
             "Q3176558": "Positive_real_numbers",
             "Q35120": "entity",
-            "Q36161": null,
-            "Q370502": null,
-            "Q379825": null,
+            "Q36161": "",
+            "Q370502": "",
+            "Q379825": "",
             "Q3884033": "Operation_(mathematics)",
             "Q3893614": "Definable_real_number",
             "Q3927329": "4-tuple",
             "Q41205988": "8-tuple",
             "Q42848": "data",
             "Q43851442": "unordered_n-tuple",
-            "Q4393498": null,
+            "Q4393498": "",
             "Q488383": "object",
             "Q494756": "Data_(computing)",
             "Q50706": "Square-free_integer",
-            "Q5358816": null,
-            "Q5469988": null,
+            "Q5358816": "",
+            "Q5469988": "",
             "Q600590": "Tuple",
             "Q646245": "Algebraic_integer",
             "Q66707394": "countable_set",
@@ -4252,7 +4252,7 @@
             "Q837414": "Hypercomplex_number",
             "Q8424307": "number_with_finite_decimal_representations",
             "Q861681": "Function_of_a_real_variable",
-            "Q864377": null,
+            "Q864377": "",
             "Q91463289": "non-unit",
             "Q930933": "relation",
             "Q93468132": "hexadecad",
@@ -4308,7 +4308,7 @@
         "language_iso6393": "deu",
         "language_name": "German",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "[Wenn",
@@ -4357,7 +4357,7 @@
         "language_iso6393": "deu",
         "language_name": "German",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "[Wenn",
@@ -4379,7 +4379,7 @@
         "ID": "langsci144-f87cfa3a57",
         "abbrkey": {
             "1SG": "first person singular",
-            "PAST": null
+            "PAST": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -4400,7 +4400,7 @@
         "language_iso6393": "lit",
         "language_name": "Lithuanian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "dirb-au"
@@ -4412,7 +4412,7 @@
         "ID": "langsci144-a6518b2bd4",
         "abbrkey": {
             "1SG": "first person singular",
-            "PRESENT": null
+            "PRESENT": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -4433,7 +4433,7 @@
         "language_iso6393": "lit",
         "language_name": "Lithuanian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "dirb-u"
@@ -4445,7 +4445,7 @@
         "ID": "langsci144-932b56042e",
         "abbrkey": {
             "1SG": "first person singular",
-            "FUTURE": null
+            "FUTURE": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -4466,7 +4466,7 @@
         "language_iso6393": "lit",
         "language_name": "Lithuanian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "dirb-s-iu"
@@ -4500,7 +4500,7 @@
         "language_iso6393": "cmn",
         "language_name": "Mandarin Chinese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Zhāngsān",
@@ -4539,7 +4539,7 @@
         "language_iso6393": "cmn",
         "language_name": "Mandarin Chinese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "*Wo",
@@ -4553,7 +4553,7 @@
     {
         "ID": "langsci144-5039a91236",
         "abbrkey": {
-            "CONT": null
+            "CONT": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -4576,7 +4576,7 @@
         "language_iso6393": "cmn",
         "language_name": "Mandarin Chinese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Chēzi",
@@ -4591,7 +4591,7 @@
         "ID": "langsci144-211b0f991a",
         "abbrkey": {
             "3SG": "third person singular",
-            "CONT": null
+            "CONT": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -4615,7 +4615,7 @@
         "language_iso6393": "cmn",
         "language_name": "Mandarin Chinese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Tā",
@@ -4629,7 +4629,7 @@
     {
         "ID": "langsci144-4f9f63d658",
         "abbrkey": {
-            "CONT": null
+            "CONT": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -4651,7 +4651,7 @@
         "language_iso6393": "cmn",
         "language_name": "Mandarin Chinese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "*Zhāngsān",
@@ -4688,7 +4688,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Tā",
@@ -4703,7 +4703,7 @@
         "ID": "langsci144-4e5bf7808f",
         "abbrkey": {
             "3SG": "third person singular",
-            "CONT": null
+            "CONT": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -4726,7 +4726,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Tā",
@@ -4764,7 +4764,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Tā",
@@ -4779,7 +4779,7 @@
         "ID": "langsci144-a493523e10",
         "abbrkey": {
             "3SG": "third person singular",
-            "CONT": null
+            "CONT": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -4802,7 +4802,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Tā",
@@ -4816,7 +4816,7 @@
         "ID": "langsci144-3960b97de2",
         "abbrkey": {
             "3SG": "third person singular",
-            "CONT": null
+            "CONT": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -4838,7 +4838,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "*Tā",
@@ -4851,7 +4851,7 @@
         "ID": "langsci144-ef69622f96",
         "abbrkey": {
             "2SG": "second person singular",
-            "CONT": null
+            "CONT": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -4885,7 +4885,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {},
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Nǐ",
@@ -4902,8 +4902,8 @@
         "ID": "langsci144-33bbeb0fba",
         "abbrkey": {
             "3SG": "third person singular",
-            "CONT": null,
-            "COS": null
+            "CONT": "",
+            "COS": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -4931,7 +4931,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Tā",
@@ -4948,8 +4948,8 @@
     {
         "ID": "langsci144-078f2642c2",
         "abbrkey": {
-            "CONT": null,
-            "COS": null
+            "CONT": "",
+            "COS": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -4977,7 +4977,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {},
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Xiǎo",
@@ -5019,7 +5019,7 @@
         "language_iso6393": "och",
         "language_name": "Old Chinese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {},
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Zhāngsān",
@@ -5056,7 +5056,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Anne",
@@ -5069,7 +5069,7 @@
     {
         "ID": "langsci144-6a234497c7",
         "abbrkey": {
-            "PS": null
+            "PS": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -5092,7 +5092,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Anne",
@@ -5105,7 +5105,7 @@
     {
         "ID": "langsci144-8c48e212c9",
         "abbrkey": {
-            "PS": null
+            "PS": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -5133,7 +5133,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Georges",
@@ -5178,7 +5178,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Georges",
@@ -5195,7 +5195,7 @@
     {
         "ID": "langsci144-463c7e0cfa",
         "abbrkey": {
-            "PS": null
+            "PS": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -5224,7 +5224,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Quand",
@@ -5271,7 +5271,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Quand",
@@ -5289,7 +5289,7 @@
     {
         "ID": "langsci144-989a09e28a",
         "abbrkey": {
-            "PS": null
+            "PS": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -5316,7 +5316,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Anne",
@@ -5360,7 +5360,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Anne",
@@ -5380,7 +5380,7 @@
             "1SG": "first person singular",
             "2SG": "second person singular",
             "FUT": "future",
-            "PAST": null,
+            "PAST": "",
             "SBJV": "subjunctive"
         },
         "book_metalanguage": "stan1293",
@@ -5409,7 +5409,7 @@
         "language_iso6393": "pes",
         "language_name": "Western Farsi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Quando",
@@ -5426,8 +5426,8 @@
         "ID": "langsci144-1825c0d958",
         "abbrkey": {
             "ACC": "accusative",
-            "PAST": null,
-            "PRES": null
+            "PAST": "",
+            "PRES": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -5455,7 +5455,7 @@
         "language_iso6393": "qug",
         "language_name": "Bolivar-North Chimborazo Highland Quichua",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "[Marya",
@@ -5470,7 +5470,7 @@
         "ID": "langsci144-5885f346cd",
         "abbrkey": {
             "ACC": "accusative",
-            "PAST": null
+            "PAST": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -5499,7 +5499,7 @@
         "language_iso6393": "qug",
         "language_name": "Bolivar-North Chimborazo Highland Quichua",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {},
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "[Marya",
@@ -5515,7 +5515,7 @@
         "abbrkey": {
             "ACC": "accusative",
             "FUT": "future",
-            "PAST": null
+            "PAST": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -5543,7 +5543,7 @@
         "language_iso6393": "qug",
         "language_name": "Bolivar-North Chimborazo Highland Quichua",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "[Marya",
@@ -5584,7 +5584,7 @@
         "language_iso6393": "lat",
         "language_name": "Latin",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "polarity": "negative",
         "provider": "langsci",
         "srcwordsbare": [
@@ -5625,7 +5625,7 @@
         "language_iso6393": "lat",
         "language_name": "Latin",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Paululum",
@@ -5665,7 +5665,7 @@
         "language_iso6393": "rus",
         "language_name": "Russian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Džon",
@@ -5710,7 +5710,7 @@
         "language_iso6393": "rus",
         "language_name": "Russian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Džon",
@@ -5752,7 +5752,7 @@
         "language_iso6393": "bva",
         "language_name": "Barain",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "polarity": "negative",
         "provider": "langsci",
         "srcwordsbare": [
@@ -5796,7 +5796,7 @@
         "language_iso6393": "bva",
         "language_name": "Barain",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {},
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "kà",
@@ -5837,7 +5837,7 @@
         "language_iso6393": "bva",
         "language_name": "Barain",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "kà",
@@ -5878,7 +5878,7 @@
         "language_iso6393": "bva",
         "language_name": "Barain",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {},
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "rámà",
@@ -5920,7 +5920,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {},
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "ki",
@@ -5962,7 +5962,7 @@
         "language_iso6393": "bva",
         "language_name": "Barain",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "kà",
@@ -6006,7 +6006,7 @@
         "language_iso6393": "bva",
         "language_name": "Barain",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "kà",
@@ -6053,7 +6053,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "polarity": "negative",
         "provider": "langsci",
         "srcwordsbare": [
@@ -6095,7 +6095,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "átːá",
@@ -6134,7 +6134,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "átːá",
@@ -6171,7 +6171,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "kà",
@@ -6206,7 +6206,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "kà",
@@ -6248,7 +6248,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "kà",
@@ -6292,7 +6292,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "kà",
@@ -6340,7 +6340,7 @@
         "language_iso6393": "cmn",
         "language_name": "Mandarin Chinese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Nǐ",
@@ -6357,7 +6357,7 @@
         "abbrkey": {
             "1SG": "first person singular",
             "2SG": "second person singular",
-            "EXPER": null,
+            "EXPER": "",
             "POSS": "possessive",
             "Q": "question particle/marker"
         },
@@ -6386,7 +6386,7 @@
         "language_iso6393": "cmn",
         "language_name": "Mandarin Chinese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Nǐ",
@@ -6430,7 +6430,7 @@
         "language_iso6393": "cmn",
         "language_name": "Mandarin Chinese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Qùnián",
@@ -6449,7 +6449,7 @@
         "ID": "langsci144-e0c90066bc",
         "abbrkey": {
             "1SG": "first person singular",
-            "EXPER": null
+            "EXPER": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -6477,7 +6477,7 @@
         "language_iso6393": "cmn",
         "language_name": "Mandarin Chinese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Qùnián",
@@ -6496,7 +6496,7 @@
         "ID": "langsci144-b17e7e4901",
         "abbrkey": {
             "1SG": "first person singular",
-            "COS": null
+            "COS": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -6520,7 +6520,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Wǒ",
@@ -6535,7 +6535,7 @@
         "ID": "langsci144-ff3ca916a0",
         "abbrkey": {
             "2SG": "second person singular",
-            "COS": null
+            "COS": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -6561,7 +6561,7 @@
         "language_iso6393": "och",
         "language_name": "Old Chinese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Nǐ",
@@ -6578,7 +6578,7 @@
         "ID": "langsci144-4ac0208f1d",
         "abbrkey": {
             "1SG": "first person singular",
-            "EXPER": null
+            "EXPER": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -6601,7 +6601,7 @@
         "language_iso6393": "och",
         "language_name": "Old Chinese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Wǒ",
@@ -6640,7 +6640,7 @@
         "language_iso6393": "och",
         "language_name": "Old Chinese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {},
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Wǒ",
@@ -6654,8 +6654,8 @@
         "ID": "langsci144-402012f4b9",
         "abbrkey": {
             "3SG": "third person singular",
-            "EXPER": null,
-            "PRTCL": null
+            "EXPER": "",
+            "PRTCL": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -6689,7 +6689,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {},
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Tā",
@@ -6711,7 +6711,7 @@
         "abbrkey": {
             "3SG": "third person singular",
             "PFV": "perfective",
-            "PRTCL": null
+            "PRTCL": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -6745,7 +6745,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {},
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Tā",
@@ -6766,9 +6766,9 @@
         "ID": "langsci144-9e8eb69e3d",
         "abbrkey": {
             "3SG": "third person singular",
-            "CONT": null,
-            "EXPER": null,
-            "PRTCL": null
+            "CONT": "",
+            "EXPER": "",
+            "PRTCL": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -6801,7 +6801,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Tā",
@@ -6821,9 +6821,9 @@
         "ID": "langsci144-250ed3268e",
         "abbrkey": {
             "3SG": "third person singular",
-            "CONT": null,
-            "COS": null,
-            "PRTCL": null
+            "CONT": "",
+            "COS": "",
+            "PRTCL": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -6859,7 +6859,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {},
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Tā",
@@ -6903,7 +6903,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Lǐsì",
@@ -6942,7 +6942,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Lǐsì",
@@ -6958,7 +6958,7 @@
         "ID": "langsci144-4e9590a0f4",
         "abbrkey": {
             "3SG": "third person singular",
-            "EXPER": null
+            "EXPER": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -6980,7 +6980,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Tā",
@@ -6992,7 +6992,7 @@
     {
         "ID": "langsci144-9840f1f2bb",
         "abbrkey": {
-            "EXPER": null
+            "EXPER": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -7014,7 +7014,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Nǐ",
@@ -7027,7 +7027,7 @@
     {
         "ID": "langsci144-24d947b045",
         "abbrkey": {
-            "EXPER": null
+            "EXPER": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -7049,7 +7049,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "*Nǐ",
@@ -7062,7 +7062,7 @@
     {
         "ID": "langsci144-280ff106fb",
         "abbrkey": {
-            "EXPER": null
+            "EXPER": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -7088,7 +7088,7 @@
         "language_iso6393": "cmn",
         "language_name": "Mandarin Chinese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {},
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Columbus",
@@ -7101,8 +7101,8 @@
     {
         "ID": "langsci144-f46907661a",
         "abbrkey": {
-            "CL": null,
-            "EXPER": null
+            "CL": "",
+            "EXPER": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -7131,7 +7131,7 @@
         "language_iso6393": "cmn",
         "language_name": "Mandarin Chinese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {},
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Columbus",
@@ -7147,7 +7147,7 @@
     {
         "ID": "langsci144-e20f8d9a30",
         "abbrkey": {
-            "EXPER": null
+            "EXPER": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -7172,7 +7172,7 @@
         "language_iso6393": "cmn",
         "language_name": "Mandarin Chinese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "polarity": "negative",
         "provider": "langsci",
         "srcwordsbare": [
@@ -7187,7 +7187,7 @@
     {
         "ID": "langsci144-0abd99c46d",
         "abbrkey": {
-            "EXPER": null
+            "EXPER": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -7213,9 +7213,9 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {
+        "parententities": {
             "Q103940464": "continuant",
-            "Q10675206": null,
+            "Q10675206": "",
             "Q10990": "Meat",
             "Q1150771": "output",
             "Q1194058": "disposable product",
@@ -7228,18 +7228,18 @@
             "Q16686448": "artificial object",
             "Q1681365": "consumables",
             "Q16887380": "group",
-            "Q20088819": null,
+            "Q20088819": "",
             "Q2095": "Food",
             "Q214609": "material",
             "Q223557": "physical object",
             "Q23958946": "individual entity",
             "Q2424752": "product",
-            "Q25403900": null,
+            "Q25403900": "",
             "Q25416091": "substance",
-            "Q25570959": null,
+            "Q25570959": "",
             "Q27043948": "material anatomical entity",
             "Q27043950": "anatomical entity",
-            "Q27062218": null,
+            "Q27062218": "",
             "Q28555911": "ordinary matter",
             "Q28728771": "matter",
             "Q28732711": "physical substance",
@@ -7247,7 +7247,7 @@
             "Q28845870": "biological component",
             "Q28877": "goods",
             "Q28921572": "common matter",
-            "Q289472": null,
+            "Q289472": "",
             "Q2897903": "goods and services",
             "Q29651224": "natural object",
             "Q2995644": "result",
@@ -7257,8 +7257,8 @@
             "Q35120": "entity",
             "Q35459920": "three-dimensional object",
             "Q35758": "matter",
-            "Q3955017": null,
-            "Q40397": null,
+            "Q3955017": "",
+            "Q40397": "",
             "Q4406616": "concrete object",
             "Q488383": "object",
             "Q4936952": "anatomical structure",
@@ -7267,10 +7267,10 @@
             "Q58415929": "spatio-temporal entity",
             "Q58778": "system",
             "Q6005984": "baryonic matter",
-            "Q629103": null,
+            "Q629103": "",
             "Q66394244": "physical anatomical entity",
             "Q6671777": "structure",
-            "Q96417649": null,
+            "Q96417649": "",
             "Q99527517": "collective entity"
         },
         "polarity": "negative",
@@ -7288,7 +7288,7 @@
         "ID": "langsci144-f532d8bf09",
         "abbrkey": {
             "3SG": "third person singular",
-            "EXPER": null
+            "EXPER": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -7317,36 +7317,36 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {
+        "parententities": {
             "Q103940464": "continuant",
-            "Q106559804": null,
+            "Q106559804": "",
             "Q110551885": "mammal",
             "Q110551902": "vertebrate",
-            "Q154954": null,
-            "Q159344": null,
-            "Q15978631": null,
-            "Q164509": null,
-            "Q18336849": null,
-            "Q215627": null,
-            "Q22947": null,
+            "Q154954": "",
+            "Q159344": "",
+            "Q15978631": "",
+            "Q164509": "",
+            "Q18336849": "",
+            "Q215627": "",
+            "Q22947": "",
             "Q23958946": "individual entity",
             "Q24229398": "agent",
-            "Q26720107": null,
+            "Q26720107": "",
             "Q27043950": "anatomical entity",
             "Q29651224": "natural object",
             "Q35120": "entity",
-            "Q3778211": null,
-            "Q394067": null,
+            "Q3778211": "",
+            "Q394067": "",
             "Q488383": "object",
             "Q49542": "Russians",
-            "Q5": null,
+            "Q5": "",
             "Q53617489": "independent continuant",
             "Q7239": "Organism",
-            "Q72638": null,
+            "Q72638": "",
             "Q729": "Animal",
-            "Q795052": null,
+            "Q795052": "",
             "Q830077": "subject",
-            "Q94696335": null
+            "Q94696335": ""
         },
         "polarity": "negative",
         "provider": "langsci",
@@ -7364,7 +7364,7 @@
     {
         "ID": "langsci144-c73d70b8ed",
         "abbrkey": {
-            "EXPER": null
+            "EXPER": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -7389,7 +7389,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Dāngdì",
@@ -7405,7 +7405,7 @@
     {
         "ID": "langsci144-35abe30a5c",
         "abbrkey": {
-            "EXPER": null
+            "EXPER": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -7428,7 +7428,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Lǐsì",
@@ -7442,8 +7442,8 @@
         "ID": "langsci144-62e8c264b4",
         "abbrkey": {
             "1SG": "first person singular",
-            "GUO": null,
-            "LNK": null,
+            "GUO": "",
+            "LNK": "",
             "PROG": "progressive"
         },
         "book_metalanguage": "stan1293",
@@ -7476,7 +7476,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Wǒ",
@@ -7496,8 +7496,8 @@
         "ID": "langsci144-51ee84060f",
         "abbrkey": {
             "1SG": "first person singular",
-            "GUO": null,
-            "LNK": null
+            "GUO": "",
+            "LNK": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -7527,7 +7527,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Wǒ",
@@ -7547,8 +7547,8 @@
         "ID": "langsci144-ba754d1f85",
         "abbrkey": {
             "3SG": "third person singular",
-            "CLASS": null,
-            "EXPER": null
+            "CLASS": "",
+            "EXPER": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -7573,7 +7573,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Tā",
@@ -7588,8 +7588,8 @@
         "ID": "langsci144-5b0f1a6202",
         "abbrkey": {
             "3SG": "third person singular",
-            "CLASS": null,
-            "EXPER": null
+            "CLASS": "",
+            "EXPER": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -7614,7 +7614,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Tā",
@@ -7629,8 +7629,8 @@
         "ID": "langsci144-4c15b04ec6",
         "abbrkey": {
             "3SG": "third person singular",
-            "CLASS": null,
-            "EXPER": null
+            "CLASS": "",
+            "EXPER": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -7655,7 +7655,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Tā",
@@ -7692,7 +7692,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Tā",
@@ -7704,8 +7704,8 @@
     {
         "ID": "langsci144-9f6a06fb7d",
         "abbrkey": {
-            "CL": null,
-            "EXPER": null
+            "CL": "",
+            "EXPER": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -7733,7 +7733,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Yǒu",
@@ -7752,7 +7752,7 @@
         "ID": "langsci144-07715e5811",
         "abbrkey": {
             "1SG": "first person singular",
-            "EXPER": null
+            "EXPER": ""
         },
         "book_metalanguage": "stan1293",
         "book_title": "Superseded: Analyzing meaning",
@@ -7776,7 +7776,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Wǒ",
@@ -7817,7 +7817,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Gǒu",
@@ -7833,7 +7833,7 @@
     {
         "ID": "langsci144-66965076a9",
         "abbrkey": {
-            "EXPER": null,
+            "EXPER": "",
             "POSS": "possessive"
         },
         "book_metalanguage": "stan1293",
@@ -7860,7 +7860,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Gǒu",
@@ -7911,7 +7911,7 @@
         "language_iso6393": "tpi",
         "language_name": "Tok Pisin",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Bung",
@@ -7965,59 +7965,59 @@
         "language_iso6393": "tpi",
         "language_name": "Tok Pisin",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {
+        "parententities": {
             "Q103940464": "continuant",
             "Q106110777": "predecessor",
-            "Q106559804": null,
+            "Q106559804": "",
             "Q108163": "proposition",
             "Q11028": "information",
             "Q12758374": "kin",
             "Q15916540": "semantic unit",
-            "Q16334295": null,
-            "Q16334298": null,
+            "Q16334295": "",
+            "Q16334298": "",
             "Q16877783": "meaning",
             "Q16889133": "class",
             "Q171318": "Kinship",
             "Q1786828": "constituent",
             "Q183046": "meaning",
-            "Q18336849": null,
+            "Q18336849": "",
             "Q188572": "fact",
             "Q20817253": "linguistic unit",
-            "Q215627": null,
-            "Q2198779": null,
+            "Q215627": "",
+            "Q2198779": "",
             "Q23958946": "individual entity",
             "Q24229398": "agent",
             "Q246672": "mathematical object",
             "Q24882651": "Second-degree_relative",
-            "Q26720107": null,
+            "Q26720107": "",
             "Q2684591": "statement",
             "Q29651519": "mental object",
             "Q30060700": "scientific object",
             "Q35120": "entity",
-            "Q3778211": null,
+            "Q3778211": "",
             "Q402152": "Ancestor",
             "Q41796": "sentence",
             "Q42848": "data",
-            "Q4330518": null,
+            "Q4330518": "",
             "Q474328": "declarative sentence",
             "Q483247": "phenomenon",
             "Q488383": "object",
             "Q5371079": "emic unit",
             "Q58778": "system",
-            "Q602884": null,
-            "Q61961344": null,
+            "Q602884": "",
+            "Q61961344": "",
             "Q628523": "Message",
             "Q6671777": "structure",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
-            "Q7887142": null,
-            "Q795052": null,
+            "Q7887142": "",
+            "Q795052": "",
             "Q830077": "subject",
-            "Q853725": null,
-            "Q874405": null,
+            "Q853725": "",
+            "Q874405": "",
             "Q930933": "relation",
             "Q9380010": "utterance",
-            "Q98119401": null,
+            "Q98119401": "",
             "Q99527517": "collective entity"
         },
         "provider": "langsci",
@@ -8064,7 +8064,7 @@
         "language_iso6393": "tpi",
         "language_name": "Tok Pisin",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Wanem",
@@ -8112,7 +8112,7 @@
         "language_iso6393": "tpi",
         "language_name": "Tok Pisin",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "polarity": "negative",
         "provider": "langsci",
         "srcwordsbare": [
@@ -8162,7 +8162,7 @@
         "language_iso6393": "tpi",
         "language_name": "Tok Pisin",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Ol",
@@ -8207,7 +8207,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Long",
@@ -8249,7 +8249,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Tumora/#Asde",
@@ -8296,27 +8296,27 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {
-            "Q11047409": null,
+        "parententities": {
+            "Q11047409": "",
             "Q11410": "Game",
             "Q1150070": "change",
             "Q1150958": "Play_(activity)",
             "Q1190554": "occurrence",
-            "Q12044624": null,
-            "Q1293220": null,
+            "Q12044624": "",
+            "Q1293220": "",
             "Q13406554": "Sports_competition",
-            "Q15275719": null,
+            "Q15275719": "",
             "Q15900616": "event_sequence",
-            "Q1656682": null,
-            "Q16722960": null,
+            "Q1656682": "",
+            "Q16722960": "",
             "Q16887380": "group",
-            "Q17320256": null,
-            "Q173799": null,
-            "Q17988854": null,
-            "Q184872": null,
+            "Q17320256": "",
+            "Q173799": "",
+            "Q17988854": "",
+            "Q184872": "",
             "Q18608583": "recurring_sporting_event",
             "Q1914636": "activity",
-            "Q193514": null,
+            "Q193514": "",
             "Q20937557": "sequence",
             "Q212434": "Olympic_sports",
             "Q2426135": "List_of_racket_sports",
@@ -8328,19 +8328,19 @@
             "Q349": "Sport",
             "Q35120": "entity",
             "Q3769299": "human behavior",
-            "Q4026292": null,
+            "Q4026292": "",
             "Q451967": "intentional human activity",
             "Q476300": "Competition",
             "Q488383": "object",
             "Q51031626": "sport_competition_at_a_multi-sport_event",
-            "Q52948": null,
+            "Q52948": "",
             "Q58415929": "spatio-temporal entity",
             "Q61788060": "human activity",
             "Q6666023": "motion",
-            "Q67518233": null,
+            "Q67518233": "",
             "Q67518978": "occurrent",
-            "Q747883": null,
-            "Q79782": null,
+            "Q747883": "",
+            "Q79782": "",
             "Q877517": "Ball_game",
             "Q9332": "behavior",
             "Q99527517": "collective entity"
@@ -8395,7 +8395,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Sapos",
@@ -8447,7 +8447,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Mipela",
@@ -8489,7 +8489,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Mi",
@@ -8548,7 +8548,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {},
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Long",
@@ -8609,7 +8609,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Mipla",
@@ -8658,7 +8658,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Ol",
@@ -8704,7 +8704,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Ol",
@@ -8751,7 +8751,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Dua",
@@ -8796,7 +8796,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Em",
@@ -8840,7 +8840,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Hamas",
@@ -8893,7 +8893,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Taim",
@@ -8956,7 +8956,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "polarity": "negative",
         "provider": "langsci",
         "srcwordsbare": [
@@ -9014,7 +9014,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {
+        "parententities": {
             "Q1190554": "occurrence",
             "Q16887380": "group",
             "Q1914636": "activity",
@@ -9071,7 +9071,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Gavman",
@@ -9112,7 +9112,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Dok",
@@ -9150,7 +9150,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Mi",
@@ -9190,28 +9190,28 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {
+        "parententities": {
             "Q103940464": "continuant",
-            "Q16334295": null,
-            "Q16334298": null,
-            "Q2198779": null,
+            "Q16334295": "",
+            "Q16334298": "",
+            "Q2198779": "",
             "Q23958946": "individual entity",
             "Q27043950": "anatomical entity",
             "Q29651224": "natural object",
             "Q35120": "entity",
-            "Q4330518": null,
+            "Q4330518": "",
             "Q488383": "object",
             "Q53617489": "independent continuant",
             "Q58778": "system",
-            "Q61961344": null,
+            "Q61961344": "",
             "Q6671777": "structure",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
             "Q7239": "Organism",
-            "Q7887142": null,
-            "Q851990": null,
-            "Q874405": null,
-            "Q98119401": null,
+            "Q7887142": "",
+            "Q851990": "",
+            "Q874405": "",
+            "Q98119401": "",
             "Q99527517": "collective entity"
         },
         "provider": "langsci",
@@ -9253,7 +9253,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "*Ol",
@@ -9303,7 +9303,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Pen",
@@ -9364,7 +9364,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {
+        "parententities": {
             "Q1190554": "occurrence",
             "Q16887380": "group",
             "Q1914636": "activity",
@@ -9429,7 +9429,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": {},
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Esra",
@@ -9470,7 +9470,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Man",
@@ -9509,7 +9509,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "Wanpela",
@@ -9550,7 +9550,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parent_entities": null,
+        "parententities": {},
         "provider": "langsci",
         "srcwordsbare": [
             "#Diwai",
