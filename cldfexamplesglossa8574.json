@@ -485,7 +485,7 @@
         "ID": "glossa8574-11",
         "abbrkey": {
             "3SG": "third person singular",
-            "NI": "",
+            "NI": null,
             "SIQUIERA": ", and ni siquiera as"
         },
         "book_metalanguage": "stan1293",
@@ -565,7 +565,29 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q11460": "Clothing",
+            "Q1150771": "output",
+            "Q1454986": "physical system",
+            "Q15401930": "artificial object",
+            "Q16686448": "artificial object",
+            "Q223557": "physical object",
+            "Q2424752": "product",
+            "Q28877": "goods",
+            "Q2897903": "goods and services",
+            "Q2995644": "result",
+            "Q30060700": "scientific object",
+            "Q30241068": "observable entity",
+            "Q35120": "entity",
+            "Q35459920": "three-dimensional object",
+            "Q386724": "work",
+            "Q4406616": "concrete object",
+            "Q488383": "object",
+            "Q58415929": "spatio-temporal entity",
+            "Q58778": "system",
+            "Q6671777": "structure",
+            "Q99527517": "collective entity"
+        },
         "provider": "glossa",
         "srcwordsbare": [
             "Todos",
@@ -1195,7 +1217,7 @@
         "abbrkey": {
             "3SG": "third person singular",
             "NEG": "negation",
-            "NI": ""
+            "NI": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -1235,7 +1257,7 @@
         "ID": "glossa8574-25",
         "abbrkey": {
             "3SG": "third person singular",
-            "NI": ""
+            "NI": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -1273,7 +1295,7 @@
         "abbrkey": {
             "3SG": "third person singular",
             "NEG": "negation",
-            "NI": ""
+            "NI": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -1314,7 +1336,7 @@
         "ID": "glossa8574-27",
         "abbrkey": {
             "3SG": "third person singular",
-            "NI": ""
+            "NI": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -1353,7 +1375,7 @@
         "abbrkey": {
             "3SG": "third person singular",
             "NEG": "negation",
-            "NI": "",
+            "NI": null,
             "SIQUIERA": ", and ni siquiera as"
         },
         "book_metalanguage": "stan1293",
@@ -1397,7 +1419,7 @@
         "ID": "glossa8574-29",
         "abbrkey": {
             "3SG": "third person singular",
-            "NI": "",
+            "NI": null,
             "SIQUIERA": ", and ni siquiera as"
         },
         "book_metalanguage": "stan1293",
@@ -1439,7 +1461,7 @@
         "abbrkey": {
             "3SG": "third person singular",
             "INF": "infinitive",
-            "NI": "",
+            "NI": null,
             "SIQUIERA": ", and ni siquiera as"
         },
         "book_metalanguage": "stan1293",
@@ -1493,7 +1515,7 @@
         "ID": "glossa8574-31",
         "abbrkey": {
             "3SG": "third person singular",
-            "NI": "",
+            "NI": null,
             "SIQUIERA": ", and ni siquiera as",
             "SUBJ": "subjunctive. We gloss se as"
         },
@@ -1552,7 +1574,7 @@
         "ID": "glossa8574-32",
         "abbrkey": {
             "3SG": "third person singular",
-            "NI": "",
+            "NI": null,
             "SIQUIERA": ", and ni siquiera as"
         },
         "book_metalanguage": "stan1293",
@@ -1940,9 +1962,9 @@
         "ID": "glossa8574-40",
         "abbrkey": {
             "INF": "infinitive",
-            "SC": "",
+            "SC": null,
             "SIQUIERA": ", and ni siquiera as",
-            "US": ""
+            "US": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -1993,7 +2015,64 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q1066689": "human communication",
+            "Q108163": "proposition",
+            "Q11024": "communication",
+            "Q11028": "information",
+            "Q1150070": "change",
+            "Q1190554": "occurrence",
+            "Q13878858": "natural process",
+            "Q15916540": "semantic unit",
+            "Q16877783": "meaning",
+            "Q16887380": "group",
+            "Q16889133": "class",
+            "Q1786828": "constituent",
+            "Q17988854": "active motion",
+            "Q183046": "meaning",
+            "Q1875737": "verbal_communication",
+            "Q188572": "fact",
+            "Q1914636": "activity",
+            "Q20817253": "linguistic unit",
+            "Q20937557": "sequence",
+            "Q22269697": "multi-organism process",
+            "Q22294683": "biological process involved in intraspecies interaction between organisms",
+            "Q23009552": "gift exchange",
+            "Q23009675": "transfer",
+            "Q246672": "mathematical object",
+            "Q2684591": "statement",
+            "Q26907166": "temporal entity",
+            "Q28813620": "set",
+            "Q29651519": "mental object",
+            "Q2990593": "animal behavior",
+            "Q2996394": "biological process",
+            "Q30060700": "scientific object",
+            "Q3030248": "Discussion",
+            "Q3249551": "process",
+            "Q35120": "entity",
+            "Q3685487": "interpersonal communication",
+            "Q3689704": "oral_communication",
+            "Q3769299": "human behavior",
+            "Q4026292": "action",
+            "Q41796": "sentence",
+            "Q42848": "data",
+            "Q474328": "declarative sentence",
+            "Q483247": "phenomenon",
+            "Q488383": "object",
+            "Q52948": "interaction",
+            "Q5371079": "emic unit",
+            "Q58415929": "spatio-temporal entity",
+            "Q6031064": "information exchange",
+            "Q628523": "Message",
+            "Q64732777": "biological phenomenon",
+            "Q67518978": "occurrent",
+            "Q7048977": "abstract entity",
+            "Q7184903": "abstract entity",
+            "Q921513": "social behavior",
+            "Q9332": "behavior",
+            "Q9380010": "utterance",
+            "Q99527517": "collective entity"
+        },
         "provider": "glossa",
         "srcwordsbare": [
             "¿Quién",
@@ -2518,7 +2597,7 @@
     {
         "ID": "glossa8574-51",
         "abbrkey": {
-            "CUALQUIERA": ""
+            "CUALQUIERA": null
         },
         "book_metalanguage": "stan1293",
         "categories": [

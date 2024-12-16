@@ -130,7 +130,7 @@
     {
         "ID": "langsci256-8602667434",
         "abbrkey": {
-            "PLURAL": ""
+            "PLURAL": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "The clausal syntax of German Sign Language",
@@ -260,8 +260,8 @@
         "ID": "langsci256-9a10670d1a",
         "abbrkey": {
             "FUT": "future",
-            "PART": "",
-            "PERF": ""
+            "PART": null,
+            "PERF": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "The clausal syntax of German Sign Language",
@@ -309,8 +309,8 @@
         "ID": "langsci256-e05b5071cb",
         "abbrkey": {
             "INF": "infinitive",
-            "PART": "",
-            "PERF": ""
+            "PART": null,
+            "PERF": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "The clausal syntax of German Sign Language",
@@ -358,8 +358,8 @@
         "ID": "langsci256-87f339f0e1",
         "abbrkey": {
             "FUT": "future",
-            "PAR": "",
-            "PERF": ""
+            "PAR": null,
+            "PERF": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "The clausal syntax of German Sign Language",
@@ -409,10 +409,10 @@
         "ID": "langsci256-8364d403b9",
         "abbrkey": {
             "3SG": "third person singular",
-            "CLIT": "",
+            "CLIT": null,
             "INF": "infinitive",
-            "PAR": "",
-            "PERF": ""
+            "PAR": null,
+            "PERF": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "The clausal syntax of German Sign Language",
@@ -462,10 +462,10 @@
         "ID": "langsci256-8d1a4eb423",
         "abbrkey": {
             "3SG": "third person singular",
-            "CLIT": "",
+            "CLIT": null,
             "INF": "infinitive",
-            "PAR": "",
-            "PERF": ""
+            "PAR": null,
+            "PERF": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "The clausal syntax of German Sign Language",
@@ -614,7 +614,7 @@
     {
         "ID": "langsci256-3c79ed1f0b",
         "abbrkey": {
-            "CLIT": "",
+            "CLIT": null,
             "FUT": "future"
         },
         "book_metalanguage": "stan1293",
@@ -702,17 +702,17 @@
         "parententities": {
             "Q1190554": "occurrence",
             "Q1207505": "quality",
-            "Q1347367": "",
+            "Q1347367": "aptitude",
             "Q13537604": "religious_ceremony",
-            "Q151885": "",
-            "Q1656682": "",
-            "Q2145290": "",
+            "Q151885": "concept",
+            "Q1656682": "event",
+            "Q2145290": "mental representation",
             "Q2245405": "key_event",
             "Q23847174": "religious_concept",
             "Q2627975": "Ceremony",
             "Q26907166": "temporal entity",
             "Q35120": "entity",
-            "Q4393498": "",
+            "Q4393498": "representation",
             "Q488383": "object",
             "Q58415929": "spatio-temporal entity",
             "Q7048977": "abstract entity",
@@ -954,7 +954,7 @@
     {
         "ID": "langsci256-f4dea6fae2",
         "abbrkey": {
-            "INTER": ""
+            "INTER": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "The clausal syntax of German Sign Language",
@@ -1039,7 +1039,7 @@
         "ID": "langsci256-532b4f4566",
         "abbrkey": {
             "1SG": "first person singular",
-            "INTER": ""
+            "INTER": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "The clausal syntax of German Sign Language",
@@ -1089,7 +1089,7 @@
             "3SG": "third person singular",
             "DET": "determiner",
             "FOC": "focus",
-            "INJ": "",
+            "INJ": null,
             "TOP": "topic"
         },
         "book_metalanguage": "stan1293",
@@ -1202,7 +1202,7 @@
         "ID": "langsci256-636afdee1a",
         "abbrkey": {
             "FOC": "focus",
-            "INTER": "",
+            "INTER": null,
             "SG": "singular"
         },
         "book_metalanguage": "stan1293",
@@ -1399,7 +1399,7 @@
     {
         "ID": "langsci256-182248cf72",
         "abbrkey": {
-            "PRT": ""
+            "PRT": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "The clausal syntax of German Sign Language",
@@ -1706,35 +1706,35 @@
         "parententities": {
             "Q102310586": "construction_machine",
             "Q10273457": "equipment",
-            "Q106839123": "",
+            "Q106839123": "means of transport",
             "Q11019": "Machine",
             "Q1150771": "output",
-            "Q1183543": "",
+            "Q1183543": "appliance",
             "Q1301433": "Land_vehicle",
-            "Q1408229": "",
+            "Q1408229": "finished good",
             "Q1454986": "physical system",
-            "Q1485500": "",
-            "Q1515493": "",
+            "Q1485500": "tangible good",
+            "Q1515493": "road vehicle",
             "Q15401930": "artificial object",
-            "Q15618781": "",
-            "Q16000047": "",
+            "Q15618781": "wheeled vehicle",
+            "Q16000047": "agricultural machinery",
             "Q16686448": "artificial object",
             "Q16889133": "class",
-            "Q1836700": "",
+            "Q1836700": "manufactured good",
             "Q223557": "physical object",
             "Q2424752": "product",
-            "Q26902962": "",
+            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
             "Q28877": "goods",
             "Q2897903": "goods and services",
             "Q2995644": "result",
             "Q30060700": "scientific object",
             "Q30241068": "observable entity",
             "Q337060": "perceptible physical object",
-            "Q3406743": "",
+            "Q3406743": "manufactured product",
             "Q35120": "entity",
             "Q35459920": "three-dimensional object",
             "Q35825432": "converter",
-            "Q3629395": "",
+            "Q3629395": "agricultural tool",
             "Q386724": "work",
             "Q39546": "Tool",
             "Q42889": "Vehicle",
@@ -1743,10 +1743,10 @@
             "Q58415929": "spatio-temporal entity",
             "Q58778": "system",
             "Q6671777": "structure",
-            "Q752870": "",
+            "Q752870": "motor vehicle",
             "Q8205328": "artificial physical object",
             "Q874311": "Heavy_equipment",
-            "Q9158768": "",
+            "Q9158768": "storage",
             "Q946596": "Off-road_vehicle",
             "Q97408605": "agricultural_motor_vehicle",
             "Q987767": "Container",
@@ -1794,35 +1794,35 @@
         "parententities": {
             "Q102310586": "construction_machine",
             "Q10273457": "equipment",
-            "Q106839123": "",
+            "Q106839123": "means of transport",
             "Q11019": "Machine",
             "Q1150771": "output",
-            "Q1183543": "",
+            "Q1183543": "appliance",
             "Q1301433": "Land_vehicle",
-            "Q1408229": "",
+            "Q1408229": "finished good",
             "Q1454986": "physical system",
-            "Q1485500": "",
-            "Q1515493": "",
+            "Q1485500": "tangible good",
+            "Q1515493": "road vehicle",
             "Q15401930": "artificial object",
-            "Q15618781": "",
-            "Q16000047": "",
+            "Q15618781": "wheeled vehicle",
+            "Q16000047": "agricultural machinery",
             "Q16686448": "artificial object",
             "Q16889133": "class",
-            "Q1836700": "",
+            "Q1836700": "manufactured good",
             "Q223557": "physical object",
             "Q2424752": "product",
-            "Q26902962": "",
+            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
             "Q28877": "goods",
             "Q2897903": "goods and services",
             "Q2995644": "result",
             "Q30060700": "scientific object",
             "Q30241068": "observable entity",
             "Q337060": "perceptible physical object",
-            "Q3406743": "",
+            "Q3406743": "manufactured product",
             "Q35120": "entity",
             "Q35459920": "three-dimensional object",
             "Q35825432": "converter",
-            "Q3629395": "",
+            "Q3629395": "agricultural tool",
             "Q386724": "work",
             "Q39546": "Tool",
             "Q42889": "Vehicle",
@@ -1831,10 +1831,10 @@
             "Q58415929": "spatio-temporal entity",
             "Q58778": "system",
             "Q6671777": "structure",
-            "Q752870": "",
+            "Q752870": "motor vehicle",
             "Q8205328": "artificial physical object",
             "Q874311": "Heavy_equipment",
-            "Q9158768": "",
+            "Q9158768": "storage",
             "Q946596": "Off-road_vehicle",
             "Q97408605": "agricultural_motor_vehicle",
             "Q987767": "Container",
@@ -1938,7 +1938,7 @@
     {
         "ID": "langsci256-0fd48bf1ae",
         "abbrkey": {
-            "CLITIC": ""
+            "CLITIC": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "The clausal syntax of German Sign Language",
@@ -2165,7 +2165,7 @@
     {
         "ID": "langsci256-7f95c44614",
         "abbrkey": {
-            "PRES": ""
+            "PRES": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "The clausal syntax of German Sign Language",
@@ -2376,7 +2376,7 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q16887380": "group",
-            "Q184754": "",
+            "Q184754": "string",
             "Q20937557": "sequence",
             "Q28813620": "set",
             "Q35120": "entity",
@@ -2396,8 +2396,8 @@
         "ID": "langsci256-667a7bc973",
         "abbrkey": {
             "2SG": "second person singular",
-            "PRES": "",
-            "SUBJ": ""
+            "PRES": null,
+            "SUBJ": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "The clausal syntax of German Sign Language",
@@ -2437,7 +2437,7 @@
         "ID": "langsci256-1a441e6d0e",
         "abbrkey": {
             "IMP": "imperative",
-            "O": ""
+            "O": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "The clausal syntax of German Sign Language",
@@ -2536,7 +2536,7 @@
     {
         "ID": "langsci256-67e0586225",
         "abbrkey": {
-            "SUBJ": ""
+            "SUBJ": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "The clausal syntax of German Sign Language",
@@ -2577,8 +2577,8 @@
         "ID": "langsci256-2c437808cd",
         "abbrkey": {
             "1SG": "first person singular",
-            "AOR": "",
-            "OPT": ""
+            "AOR": null,
+            "OPT": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "The clausal syntax of German Sign Language",
@@ -2866,12 +2866,12 @@
         "ID": "langsci256-1aded01b91",
         "abbrkey": {
             "AGR": "agreement",
-            "ANT": "",
-            "EPIST": "",
-            "EVID": "",
+            "ANT": null,
+            "EPIST": null,
+            "EVID": null,
             "NOM": "nominative",
             "PASS": "passive",
-            "PAST": "",
+            "PAST": null,
             "Q": "question particle/marker"
         },
         "book_metalanguage": "stan1293",
@@ -2940,33 +2940,33 @@
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
-            "Q100195948": "",
+            "Q100195948": "relative quality",
             "Q11410": "Game",
             "Q11416": "Gambling",
             "Q1150958": "Play_(activity)",
             "Q1190554": "occurrence",
             "Q1207505": "quality",
-            "Q12737077": "",
+            "Q12737077": "occupation",
             "Q16887380": "group",
-            "Q173799": "",
-            "Q1807498": "",
-            "Q184872": "",
+            "Q173799": "entertainment",
+            "Q1807498": "social position",
+            "Q184872": "recreation",
             "Q1914636": "activity",
             "Q20937557": "sequence",
-            "Q214339": "",
+            "Q214339": "role",
             "Q26907166": "temporal entity",
             "Q28813620": "set",
             "Q28877": "goods",
             "Q2897903": "goods and services",
             "Q35120": "entity",
-            "Q3590573": "",
+            "Q3590573": "game of chance",
             "Q3769299": "human behavior",
             "Q451967": "intentional human activity",
             "Q488383": "object",
-            "Q4897819": "",
+            "Q4897819": "role",
             "Q58415929": "spatio-temporal entity",
             "Q61788060": "human activity",
-            "Q8187769": "",
+            "Q8187769": "economic activity",
             "Q9332": "behavior",
             "Q937228": "property",
             "Q99527517": "collective entity"
@@ -3012,33 +3012,33 @@
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
-            "Q100195948": "",
+            "Q100195948": "relative quality",
             "Q11410": "Game",
             "Q11416": "Gambling",
             "Q1150958": "Play_(activity)",
             "Q1190554": "occurrence",
             "Q1207505": "quality",
-            "Q12737077": "",
+            "Q12737077": "occupation",
             "Q16887380": "group",
-            "Q173799": "",
-            "Q1807498": "",
-            "Q184872": "",
+            "Q173799": "entertainment",
+            "Q1807498": "social position",
+            "Q184872": "recreation",
             "Q1914636": "activity",
             "Q20937557": "sequence",
-            "Q214339": "",
+            "Q214339": "role",
             "Q26907166": "temporal entity",
             "Q28813620": "set",
             "Q28877": "goods",
             "Q2897903": "goods and services",
             "Q35120": "entity",
-            "Q3590573": "",
+            "Q3590573": "game of chance",
             "Q3769299": "human behavior",
             "Q451967": "intentional human activity",
             "Q488383": "object",
-            "Q4897819": "",
+            "Q4897819": "role",
             "Q58415929": "spatio-temporal entity",
             "Q61788060": "human activity",
-            "Q8187769": "",
+            "Q8187769": "economic activity",
             "Q9332": "behavior",
             "Q937228": "property",
             "Q99527517": "collective entity"

@@ -480,74 +480,74 @@
         "language_name": "Igo",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
-            "Q102187407": "",
-            "Q104493": "",
+            "Q102187407": "nutrition, metabolism, and development symptom",
+            "Q104493": "risk",
             "Q108163": "proposition",
             "Q11028": "information",
             "Q1132455": "Hazard",
             "Q1150070": "change",
-            "Q1168263": "",
+            "Q1168263": "function",
             "Q1190554": "occurrence",
             "Q1207505": "quality",
             "Q15916540": "semantic unit",
-            "Q160402": "",
+            "Q160402": "perception",
             "Q16877783": "meaning",
             "Q16887380": "group",
             "Q16889133": "class",
-            "Q169872": "",
-            "Q1724915": "",
+            "Q169872": "symptom",
+            "Q1724915": "use",
             "Q1786828": "constituent",
             "Q183046": "meaning",
-            "Q18603648": "",
+            "Q18603648": "contributing factor",
             "Q188572": "fact",
             "Q1914636": "activity",
-            "Q193181": "",
-            "Q2057971": "",
+            "Q193181": "observation",
+            "Q2057971": "health problem",
             "Q20817253": "linguistic unit",
             "Q20937557": "sequence",
             "Q21128838": "body_weight_change",
-            "Q21170479": "",
+            "Q21170479": "possibility",
             "Q246672": "mathematical object",
             "Q2684591": "statement",
             "Q26907166": "temporal entity",
-            "Q28807560": "",
+            "Q28807560": "clinical finding",
             "Q28813620": "set",
-            "Q29182544": "",
+            "Q29182544": "assignment",
             "Q29651519": "mental object",
             "Q30060700": "scientific object",
             "Q31464082": "source",
             "Q3249551": "process",
-            "Q3505845": "",
+            "Q3505845": "state",
             "Q35120": "entity",
             "Q3769299": "human behavior",
-            "Q4026292": "",
+            "Q4026292": "action",
             "Q41796": "sentence",
             "Q42848": "data",
             "Q451967": "intentional human activity",
             "Q474328": "declarative sentence",
-            "Q47496130": "",
+            "Q47496130": "reduction",
             "Q483247": "phenomenon",
             "Q488383": "object",
             "Q5371079": "emic unit",
-            "Q5422048": "",
+            "Q5422048": "external risk",
             "Q58415929": "spatio-temporal entity",
             "Q61788060": "human activity",
-            "Q621184": "",
+            "Q621184": "problem",
             "Q628523": "Message",
-            "Q639907": "",
+            "Q639907": "medical finding",
             "Q67518978": "occurrent",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
-            "Q7189713": "",
-            "Q781413": "",
-            "Q813912": "",
-            "Q855395": "",
-            "Q86923152": "",
-            "Q87075524": "",
+            "Q7189713": "physiological condition",
+            "Q781413": "mental process",
+            "Q813912": "condition",
+            "Q855395": "interpretation",
+            "Q86923152": "risk source",
+            "Q87075524": "health risk",
             "Q9332": "behavior",
             "Q937228": "property",
             "Q9380010": "utterance",
-            "Q944806": "",
+            "Q944806": "operational risk",
             "Q99527517": "collective entity"
         },
         "provider": "langsci",
@@ -607,9 +607,9 @@
         "abbrkey": {
             "3PL": "third person plural",
             "3SG": "third person singular",
-            "CV": "",
+            "CV": null,
             "CVB": "converb",
-            "DP": "",
+            "DP": null,
             "PST": "past",
             "TOP": "topic"
         },
@@ -678,10 +678,10 @@
         "abbrkey": {
             "DEF": "definite",
             "F": "feminine",
-            "LINK": "",
+            "LINK": null,
             "PASS": "passive",
-            "RED": "",
-            "REF": ""
+            "RED": null,
+            "REF": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -718,11 +718,11 @@
         "parententities": {
             "Q10354783": "practice",
             "Q1150070": "change",
-            "Q1168263": "",
+            "Q1168263": "function",
             "Q1190554": "occurrence",
             "Q168796": "Spirituality",
             "Q16887380": "group",
-            "Q1724915": "",
+            "Q1724915": "use",
             "Q1914636": "activity",
             "Q20937557": "sequence",
             "Q2110808": "Religious_behaviour",
@@ -738,7 +738,7 @@
             "Q58415929": "spatio-temporal entity",
             "Q61788060": "human activity",
             "Q67518978": "occurrent",
-            "Q781413": "",
+            "Q781413": "mental process",
             "Q9332": "behavior",
             "Q937228": "property",
             "Q99527517": "collective entity"
@@ -758,10 +758,10 @@
         "ID": "langsci237-380a32c72c",
         "abbrkey": {
             "DEF": "definite",
-            "LINK": "",
-            "NF": "",
-            "RED": "",
-            "TN": ""
+            "LINK": null,
+            "NF": null,
+            "RED": null,
+            "TN": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -819,14 +819,14 @@
     {
         "ID": "langsci237-bbbe9c4613",
         "abbrkey": {
-            "AN": "",
+            "AN": null,
             "DEF": "definite",
             "F": "feminine",
-            "INDEF": "",
+            "INDEF": null,
             "M": "masculine",
             "PST": "past",
             "SG": "singular",
-            "TA": ""
+            "TA": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -1439,7 +1439,7 @@
         "ID": "langsci237-a4ff56c706",
         "abbrkey": {
             "2SG": "second person singular",
-            "ANA": "",
+            "ANA": null,
             "DEF": "definite",
             "DEM": "demonstrative",
             "F": "feminine"
@@ -1481,7 +1481,7 @@
     {
         "ID": "langsci237-b1763268d5",
         "abbrkey": {
-            "ANA": ""
+            "ANA": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -1537,8 +1537,8 @@
             "CAUS": "causative",
             "COMP": "complementizer",
             "NEG": "negation, negative",
-            "POT": "",
-            "PP": "",
+            "POT": null,
+            "PP": null,
             "PROG": "progressive",
             "Q": "question particle/marker"
         },
@@ -1741,11 +1741,11 @@
     {
         "ID": "langsci237-ba69569d39",
         "abbrkey": {
-            "CL": "",
+            "CL": null,
             "COMPL": "completive",
-            "DETRANS": "",
+            "DETRANS": null,
             "ERG": "ergative",
-            "INCOMPL": "",
+            "INCOMPL": null,
             "POSS": "possessive"
         },
         "book_metalanguage": "stan1293",
@@ -1805,9 +1805,9 @@
     {
         "ID": "langsci237-57905856fa",
         "abbrkey": {
-            "CL": "",
-            "DETRANS": "",
-            "DIR": "",
+            "CL": null,
+            "DETRANS": null,
+            "DIR": null,
             "ERG": "ergative",
             "POSS": "possessive"
         },
@@ -1853,10 +1853,10 @@
     {
         "ID": "langsci237-e67d3a905b",
         "abbrkey": {
-            "ANIM": "",
+            "ANIM": null,
             "CLF": "classifier",
             "F": "feminine",
-            "NUM": ""
+            "NUM": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -1892,10 +1892,10 @@
     {
         "ID": "langsci237-79d824ab66",
         "abbrkey": {
-            "ANIM": "",
+            "ANIM": null,
             "CLF": "classifier",
             "M": "masculine",
-            "NUM": ""
+            "NUM": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -1936,7 +1936,7 @@
             "CLF": "classifier",
             "F": "feminine",
             "GEN": "genitive",
-            "HUM": "",
+            "HUM": null,
             "PL": "plural",
             "PROX": "proximal/proximate"
         },
@@ -1991,7 +1991,7 @@
         "abbrkey": {
             "CLF": "classifier",
             "LOC": "locative",
-            "NHUM": "",
+            "NHUM": null,
             "PL": "plural"
         },
         "book_metalanguage": "stan1293",
@@ -2025,7 +2025,67 @@
         "language_iso6393": "pbv",
         "language_name": "Pnar",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q101998": "Biome",
+            "Q105889895": "religious site",
+            "Q106865223": "technical system",
+            "Q106865236": "natural_system",
+            "Q107425": "Landscape",
+            "Q110910055": "region of space",
+            "Q1150771": "output",
+            "Q11908691": "artificial physical structure",
+            "Q13226383": "facility",
+            "Q1370598": "Place_of_worship",
+            "Q1454986": "physical system",
+            "Q1496967": "territory",
+            "Q1510380": "Grove_(nature)",
+            "Q15401930": "artificial object",
+            "Q15710813": "physical structure",
+            "Q16334298": "group of living things",
+            "Q16686448": "artificial object",
+            "Q16889133": "class",
+            "Q17334923": "physical location",
+            "Q184806": "Biocoenosis",
+            "Q2083910": "vegetational formation",
+            "Q21029893": "religious_object",
+            "Q2221906": "geographic location",
+            "Q223557": "physical object",
+            "Q24398318": "religious_building",
+            "Q27096213": "geographic entity",
+            "Q27096235": "artificial geographic entity",
+            "Q29553": "sanctuary",
+            "Q29651224": "natural object",
+            "Q2995644": "result",
+            "Q30060700": "scientific object",
+            "Q30241068": "observable entity",
+            "Q30336093": "Biological_system",
+            "Q35120": "entity",
+            "Q35145743": "artificial geographic object",
+            "Q35459920": "three-dimensional object",
+            "Q37813": "Ecosystem",
+            "Q386724": "work",
+            "Q41176": "building",
+            "Q4406616": "concrete object",
+            "Q4421": "Forest",
+            "Q4588528": "Holy_place",
+            "Q488383": "object",
+            "Q55610479": "ecological unit",
+            "Q5608096": "Community_(ecology)",
+            "Q56627913": "ceremonial_object",
+            "Q58415929": "spatio-temporal entity",
+            "Q58416391": "spatial object",
+            "Q58778": "system",
+            "Q618123": "geographical feature",
+            "Q61961344": "group of physical objects",
+            "Q6506039": "Living_systems",
+            "Q6671777": "structure",
+            "Q811430": "fixed construction",
+            "Q811979": "architectural structure",
+            "Q8205328": "artificial physical object",
+            "Q82794": "geographic region",
+            "Q98119401": "group or class of physical objects",
+            "Q99527517": "collective entity"
+        },
         "provider": "langsci",
         "srcwordsbare": [
             "ɛm",
@@ -2047,8 +2107,8 @@
             "CLF": "classifier",
             "F": "feminine",
             "LOC": "locative",
-            "NVIS": "",
-            "WK": ""
+            "NVIS": null,
+            "WK": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -2171,9 +2231,9 @@
     {
         "ID": "langsci237-138beece9e",
         "abbrkey": {
-            "CLT": "",
+            "CLT": null,
             "DET": "determiner",
-            "ICMP": ""
+            "ICMP": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -2217,10 +2277,10 @@
     {
         "ID": "langsci237-6bfa39f3e0",
         "abbrkey": {
-            "CLT": "",
+            "CLT": null,
             "DET": "determiner",
             "POSS": "possessive",
-            "PREP": ""
+            "PREP": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -2410,7 +2470,7 @@
         "ID": "langsci237-acbad80157",
         "abbrkey": {
             "CLF": "classifier",
-            "REF": ""
+            "REF": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -2437,67 +2497,67 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q10675206": "",
-            "Q107122728": "",
-            "Q107122793": "",
-            "Q107126067": "",
+            "Q10675206": "ingredient",
+            "Q107122728": "plant-based food",
+            "Q107122793": "plant product",
+            "Q107126067": "vegetarian food",
             "Q11004": "Vegetable",
             "Q1150771": "output",
-            "Q11879003": "",
+            "Q11879003": "environmental resource",
             "Q1194058": "disposable product",
             "Q1310239": "component",
             "Q13184": "Berry_(botany)",
             "Q1364": "Fruit",
             "Q1454986": "physical system",
-            "Q1485500": "",
-            "Q15075845": "",
-            "Q15197056": "",
+            "Q1485500": "tangible good",
+            "Q15075845": "primary commodity",
+            "Q15197056": "fleshy fruit",
             "Q15401930": "artificial object",
-            "Q1554231": "",
+            "Q1554231": "resource",
             "Q15989253": "part",
             "Q16686022": "natural physical object",
             "Q16686448": "artificial object",
             "Q1681365": "consumables",
-            "Q188460": "",
-            "Q20011319": "",
+            "Q188460": "natural resource",
+            "Q20011319": "plant structure",
             "Q2095": "Food",
             "Q214609": "material",
             "Q223557": "physical object",
             "Q23958946": "individual entity",
-            "Q24060707": "",
+            "Q24060707": "plant organ",
             "Q2424752": "product",
-            "Q25403900": "",
+            "Q25403900": "food ingredient",
             "Q25416091": "substance",
-            "Q26902770": "",
-            "Q26902962": "",
+            "Q26902770": "food products by OKPD2 (10)",
+            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
             "Q26988402": "",
-            "Q26988406": "",
-            "Q27043864": "",
+            "Q26988406": "Agricultural, hunting and forestry products",
+            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
             "Q27043948": "material anatomical entity",
             "Q27043950": "anatomical entity",
             "Q27478161": "",
-            "Q27480917": "",
+            "Q27480917": "Perennial crops (CPA 2008)",
             "Q27481006": "",
-            "Q27481647": "",
+            "Q27481647": "tropical and subtropical fruit",
             "Q28555911": "ordinary matter",
             "Q28728771": "matter",
             "Q28732711": "physical substance",
-            "Q28791169": "",
+            "Q28791169": "simple fruit",
             "Q28845870": "biological component",
             "Q28877": "goods",
             "Q28921572": "common matter",
-            "Q28969293": "",
-            "Q28969364": "",
+            "Q28969293": "biological material",
+            "Q28969364": "plant material",
             "Q2897903": "goods and services",
-            "Q29043258": "",
+            "Q29043258": "Other fruit and nuts",
             "Q29651224": "natural object",
             "Q2995644": "result",
             "Q30060700": "scientific object",
             "Q30241068": "observable entity",
             "Q31464082": "source",
-            "Q3314483": "",
+            "Q3314483": "fruit",
             "Q337060": "perceptible physical object",
-            "Q3405827": "",
+            "Q3405827": "natural material",
             "Q35120": "entity",
             "Q35459920": "three-dimensional object",
             "Q35758": "matter",
@@ -2595,7 +2655,7 @@
     {
         "ID": "langsci237-179d44e775",
         "abbrkey": {
-            "ANIM": "",
+            "ANIM": null,
             "CLF": "classifier",
             "SG": "singular"
         },
@@ -2638,9 +2698,9 @@
         "ID": "langsci237-5851fd0eb7",
         "abbrkey": {
             "3SG": "third person singular",
-            "ANIM": "",
+            "ANIM": null,
             "CLF": "classifier",
-            "PROX1": "",
+            "PROX1": null,
             "SG": "singular"
         },
         "book_metalanguage": "stan1293",
@@ -2684,7 +2744,7 @@
             "3SG": "third person singular",
             "A": "agent-like argument of canonical transitive verb",
             "CLF": "classifier",
-            "FIN": "",
+            "FIN": null,
             "M": "masculine",
             "OBJ": "object",
             "PRF": "perfect",
@@ -2809,7 +2869,7 @@
     {
         "ID": "langsci237-fe64a88c86",
         "abbrkey": {
-            "ANIM": "",
+            "ANIM": null,
             "REFL": "reflexive"
         },
         "book_metalanguage": "stan1293",
@@ -2855,14 +2915,14 @@
     {
         "ID": "langsci237-4b0189d3cb",
         "abbrkey": {
-            "ANIM": "",
+            "ANIM": null,
             "ART": "article",
             "CLF": "classifier",
             "DEM": "demonstrative",
-            "EMPH": "",
-            "GM": "",
+            "EMPH": null,
+            "GM": null,
             "M": "masculine",
-            "NUM": "",
+            "NUM": null,
             "PL": "plural"
         },
         "book_metalanguage": "stan1293",
@@ -2920,9 +2980,9 @@
         "ID": "langsci237-334bac7f20",
         "abbrkey": {
             "3PL": "third person plural",
-            "AFFIRMATION": "",
-            "ANIM": "",
-            "DIM": ""
+            "AFFIRMATION": null,
+            "ANIM": null,
+            "DIM": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -2964,10 +3024,10 @@
         "abbrkey": {
             "3SG": "third person singular",
             "A": "agent-like argument of canonical transitive verb",
-            "ACT": "",
-            "INT": "",
-            "IV": "",
-            "NEUT": "",
+            "ACT": null,
+            "INT": null,
+            "IV": null,
+            "NEUT": null,
             "PRS": "present"
         },
         "book_metalanguage": "stan1293",
@@ -3062,9 +3122,9 @@
         "abbrkey": {
             "1PL": "first person plural",
             "DECL": "declarative",
-            "DERIV": "",
+            "DERIV": null,
             "F": "feminine",
-            "INALIEN": "",
+            "INALIEN": null,
             "INCL": "inclusive",
             "M": "masculine"
         },
@@ -3164,11 +3224,11 @@
             "3SG": "third person singular",
             "GEN": "genitive",
             "IPFV": "imperfective",
-            "K": "",
+            "K": null,
             "NOM": "nominative",
             "PRS": "present",
             "SG": "singular",
-            "U": ""
+            "U": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -3226,7 +3286,7 @@
             "ERG": "ergative",
             "N": "neuter",
             "PST": "past",
-            "UNI": ""
+            "UNI": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -3431,9 +3491,9 @@
         "ID": "langsci237-b20b3197ca",
         "abbrkey": {
             "3SG": "third person singular",
-            "CM": "",
-            "LNK": "",
-            "PN": "",
+            "CM": null,
+            "LNK": null,
+            "PN": null,
             "POSS": "possessive",
             "Q": "question particle/marker",
             "TOP": "topic"
@@ -3487,7 +3547,7 @@
     {
         "ID": "langsci237-651b1d338c",
         "abbrkey": {
-            "NOMIN": "",
+            "NOMIN": null,
             "TR": "transitive"
         },
         "book_metalanguage": "stan1293",
@@ -3543,7 +3603,7 @@
         "abbrkey": {
             "CLF": "classifier",
             "GEN": "genitive",
-            "HUM": "",
+            "HUM": null,
             "M": "masculine",
             "NMLZ": "nominalizer/nominalization",
             "PL": "plural"
@@ -3600,7 +3660,7 @@
         "ID": "langsci237-41e99af845",
         "abbrkey": {
             "1SG": "first person singular",
-            "DETR": "",
+            "DETR": null,
             "F": "feminine",
             "POSS": "possessive",
             "REL": "relative"
@@ -3692,7 +3752,7 @@
         "ID": "langsci237-bf61620537",
         "abbrkey": {
             "3SG": "third person singular",
-            "LEAF": ""
+            "LEAF": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -3731,7 +3791,7 @@
             "3SG": "third person singular",
             "DEM": "demonstrative",
             "M": "masculine",
-            "WOODEN": ""
+            "WOODEN": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -3763,7 +3823,45 @@
         "language_iso6393": "und",
         "language_name": "Oceanic",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q10273457": "equipment",
+            "Q1150771": "output",
+            "Q11653": "electronic component",
+            "Q1183543": "appliance",
+            "Q1310239": "component",
+            "Q1454986": "physical system",
+            "Q15401930": "artificial object",
+            "Q15989253": "part",
+            "Q16686448": "artificial object",
+            "Q16889133": "class",
+            "Q210729": "electrical element",
+            "Q21146257": "type",
+            "Q223557": "physical object",
+            "Q22811462": "type of manufactured good",
+            "Q2424752": "product",
+            "Q28816538": "aircraft component",
+            "Q28877": "goods",
+            "Q2897903": "goods and services",
+            "Q2995644": "result",
+            "Q30060700": "scientific object",
+            "Q30241068": "observable entity",
+            "Q337060": "perceptible physical object",
+            "Q35120": "entity",
+            "Q35459920": "three-dimensional object",
+            "Q35825432": "converter",
+            "Q3749263": "electrical device",
+            "Q39546": "Tool",
+            "Q4406616": "concrete object",
+            "Q488383": "object",
+            "Q58415929": "spatio-temporal entity",
+            "Q58778": "system",
+            "Q61964189": "structural component",
+            "Q61964280": "inanimate object",
+            "Q66310125": "nonbiological component",
+            "Q6671777": "structure",
+            "Q8205328": "artificial physical object",
+            "Q99527517": "collective entity"
+        },
         "provider": "langsci",
         "srcwordsbare": [
             "M-to-na",
@@ -3816,7 +3914,7 @@
     {
         "ID": "langsci237-7a37d34e59",
         "abbrkey": {
-            "INAN": "",
+            "INAN": null,
             "NEG": "negation, negative",
             "PL": "plural"
         },
@@ -3866,12 +3964,12 @@
             "1PL": "first person plural",
             "DECL": "declarative",
             "EXCL": "exclusive",
-            "N1": "",
-            "N2": "",
+            "N1": null,
+            "N2": null,
             "PFV": "perfective",
-            "PN": "",
+            "PN": null,
             "PRED": "predicative",
-            "REAL": "",
+            "REAL": null,
             "SBJ": "subject",
             "SG": "singular"
         },
@@ -3972,32 +4070,32 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q106559804": "",
+            "Q106559804": "person or organization",
             "Q110551885": "mammal",
             "Q110551902": "vertebrate",
             "Q1318423": "Australians",
-            "Q154954": "",
-            "Q159344": "",
-            "Q15978631": "",
-            "Q164509": "",
+            "Q154954": "natural person",
+            "Q159344": "heterotroph",
+            "Q15978631": "Homo sapiens",
+            "Q164509": "omnivore",
             "Q18336849": "",
             "Q2065556": "Pacific_Islander",
-            "Q215627": "",
-            "Q22947": "",
+            "Q215627": "person",
+            "Q22947": "inhabitant",
             "Q23958946": "individual entity",
             "Q24229398": "agent",
-            "Q26720107": "",
+            "Q26720107": "personal law",
             "Q27043950": "anatomical entity",
             "Q29651224": "natural object",
             "Q35120": "entity",
-            "Q3778211": "",
+            "Q3778211": "legal person",
             "Q488383": "object",
-            "Q5": "",
+            "Q5": "human",
             "Q53617489": "independent continuant",
             "Q7239": "Organism",
-            "Q72638": "",
+            "Q72638": "consumer",
             "Q729": "Animal",
-            "Q795052": "",
+            "Q795052": "individual",
             "Q830077": "subject"
         },
         "provider": "langsci",
@@ -4214,7 +4312,7 @@
     {
         "ID": "langsci237-9741ed1bdb",
         "abbrkey": {
-            "CL1": ""
+            "CL1": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -4245,7 +4343,7 @@
     {
         "ID": "langsci237-fdebf7d557",
         "abbrkey": {
-            "CL12": ""
+            "CL12": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -4276,7 +4374,7 @@
     {
         "ID": "langsci237-4bb87719dd",
         "abbrkey": {
-            "CL5": ""
+            "CL5": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -4307,7 +4405,7 @@
     {
         "ID": "langsci237-7e1970d0bc",
         "abbrkey": {
-            "CL18": ""
+            "CL18": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -4470,7 +4568,7 @@
     {
         "ID": "langsci237-8565a00ef1",
         "abbrkey": {
-            "CL3": ""
+            "CL3": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -4501,7 +4599,7 @@
     {
         "ID": "langsci237-d748ec6af9",
         "abbrkey": {
-            "CL4": ""
+            "CL4": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -4532,7 +4630,7 @@
     {
         "ID": "langsci237-2bb2b5c1f9",
         "abbrkey": {
-            "CL5": ""
+            "CL5": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -4771,7 +4869,7 @@
     {
         "ID": "langsci237-501e2f1e35",
         "abbrkey": {
-            "CM": "",
+            "CM": null,
             "N": "neuter",
             "PL": "plural",
             "PRS": "present",
@@ -4869,12 +4967,12 @@
             "DEF": "definite",
             "F": "feminine",
             "INF": "infinitive",
-            "IT": "",
+            "IT": null,
             "N": "neuter",
             "PL": "plural",
             "PRS": "present",
             "SG": "singular",
-            "SHE": ""
+            "SHE": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -5004,7 +5102,47 @@
         "language_iso6393": "und",
         "language_name": "Romance",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q1150771": "output",
+            "Q1194058": "disposable product",
+            "Q1454986": "physical system",
+            "Q14915034": "Course_(food)",
+            "Q15401930": "artificial object",
+            "Q15989253": "part",
+            "Q16686448": "artificial object",
+            "Q1681365": "consumables",
+            "Q182940": "Dessert",
+            "Q185583": "Candy",
+            "Q2095": "Food",
+            "Q2134742": "real good",
+            "Q223557": "physical object",
+            "Q2424752": "product",
+            "Q26834928": "Production of food industry by OKP",
+            "Q26902699": "food products, beverages and tobacco products (OKPD, subsection DA)",
+            "Q26902770": "food products by OKPD2 (10)",
+            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
+            "Q26904113": "food and drink products (OKPD 15, includes not only edible)",
+            "Q27161574": "Products on the All-Russian classifier of production",
+            "Q28877": "goods",
+            "Q2897903": "goods and services",
+            "Q2995644": "result",
+            "Q30060700": "scientific object",
+            "Q30241068": "observable entity",
+            "Q35120": "entity",
+            "Q35459920": "three-dimensional object",
+            "Q4406616": "concrete object",
+            "Q488383": "object",
+            "Q5159627": "Confectionery",
+            "Q58415929": "spatio-temporal entity",
+            "Q58778": "system",
+            "Q6671777": "structure",
+            "Q746549": "Dish_(food)",
+            "Q8195619": "human_food",
+            "Q8205328": "artificial physical object",
+            "Q868404": "final good",
+            "Q951964": "food product",
+            "Q99527517": "collective entity"
+        },
         "provider": "langsci",
         "srcwordsbare": [
             "Queste",
@@ -5076,11 +5214,11 @@
         "ID": "langsci237-35fd31a16f",
         "abbrkey": {
             "3SG": "third person singular",
-            "ASS": "",
-            "CL1": "",
-            "CL2": "",
+            "ASS": null,
+            "CL1": null,
+            "CL2": null,
             "IPFV": "imperfective",
-            "NARR": "",
+            "NARR": null,
             "NEG": "negation, negative",
             "NMLZ": "nominalizer/nominalization"
         },
@@ -5133,7 +5271,7 @@
             "Q1914636": "activity",
             "Q20817253": "linguistic unit",
             "Q20937557": "sequence",
-            "Q223642": "",
+            "Q223642": "interpersonal relationship",
             "Q246672": "mathematical object",
             "Q2684591": "statement",
             "Q26907166": "temporal entity",
@@ -5149,12 +5287,12 @@
             "Q488383": "object",
             "Q5371079": "emic unit",
             "Q58415929": "spatio-temporal entity",
-            "Q602884": "",
+            "Q602884": "social phenomenon",
             "Q628523": "Message",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
             "Q8445": "Marriage",
-            "Q853725": "",
+            "Q853725": "social relation",
             "Q930933": "relation",
             "Q9332": "behavior",
             "Q9380010": "utterance",
@@ -5181,9 +5319,9 @@
         "ID": "langsci237-5493aca8ae",
         "abbrkey": {
             "1SG": "first person singular",
-            "CL1": "",
-            "CL2A": "",
-            "CL3": "",
+            "CL1": null,
+            "CL2A": null,
+            "CL3": null,
             "IPFV": "imperfective",
             "PL": "plural",
             "REL": "relative"
@@ -5237,13 +5375,13 @@
         "ID": "langsci237-1074609919",
         "abbrkey": {
             "1SG": "first person singular",
-            "ASS": "",
-            "CL1": "",
-            "CL4": "",
-            "OBLIQUE": "",
+            "ASS": null,
+            "CL1": null,
+            "CL4": null,
+            "OBLIQUE": null,
             "PRF": "perfect",
             "REL": "relative",
-            "TOPONYM": ""
+            "TOPONYM": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -5297,9 +5435,9 @@
     {
         "ID": "langsci237-1f22744b0c",
         "abbrkey": {
-            "CL4": "",
+            "CL4": null,
             "Q": "question particle/marker",
-            "TENSE": ""
+            "TENSE": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -5340,8 +5478,8 @@
         "abbrkey": {
             "DAT": "dative",
             "DEM": "demonstrative",
-            "DN": "",
-            "DP": "",
+            "DN": null,
+            "DP": null,
             "TOP": "topic"
         },
         "book_metalanguage": "stan1293",
@@ -5386,9 +5524,9 @@
         "ID": "langsci237-442083f1c0",
         "abbrkey": {
             "3SG": "third person singular",
-            "DERIV": "",
+            "DERIV": null,
             "F": "feminine",
-            "KA": "",
+            "KA": null,
             "N": "neuter"
         },
         "book_metalanguage": "stan1293",
@@ -5441,9 +5579,9 @@
             "N": "neuter",
             "NOM": "nominative",
             "PRS": "present",
-            "RFL": "",
+            "RFL": null,
             "SG": "singular",
-            "SUPERL": ""
+            "SUPERL": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -5571,9 +5709,9 @@
         "abbrkey": {
             "3PL": "third person plural",
             "3SG": "third person singular",
-            "CV": "",
+            "CV": null,
             "CVB": "converb",
-            "DP": "",
+            "DP": null,
             "IPFV": "imperfective",
             "PST": "past",
             "TOP": "topic"
@@ -5766,12 +5904,12 @@
         "ID": "langsci237-99973c8d3d",
         "abbrkey": {
             "1SG": "first person singular",
-            "ASPECT": "",
-            "CL2": "",
-            "CL4": "",
+            "ASPECT": null,
+            "CL2": null,
+            "CL4": null,
             "NMLZ": "nominalizer/nominalization",
             "POSS": "possessive",
-            "TENSE": ""
+            "TENSE": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -5873,7 +6011,7 @@
         "ID": "langsci237-95510c2b1a",
         "abbrkey": {
             "ABS": "absolutive",
-            "AOR": "",
+            "AOR": null,
             "CVB": "converb",
             "DAT": "dative",
             "INF": "infinitive",
@@ -5931,10 +6069,10 @@
         "ID": "langsci237-070ddb444f",
         "abbrkey": {
             "A": "agent-like argument of canonical transitive verb",
-            "CONTESSIVE": "",
-            "IV": "",
+            "CONTESSIVE": null,
+            "IV": null,
             "NEG": "negation, negative",
-            "U": ""
+            "U": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -5964,7 +6102,57 @@
         "language_iso6393": "und",
         "language_name": "Anim",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q1150771": "output",
+            "Q1310239": "component",
+            "Q1454986": "physical system",
+            "Q15401930": "artificial object",
+            "Q15989253": "part",
+            "Q16686448": "artificial object",
+            "Q17334923": "physical location",
+            "Q19603939": "building component",
+            "Q214609": "material",
+            "Q2221906": "geographic location",
+            "Q223557": "physical object",
+            "Q2424752": "product",
+            "Q25416091": "substance",
+            "Q27096213": "geographic entity",
+            "Q27096235": "artificial geographic entity",
+            "Q28555911": "ordinary matter",
+            "Q28728771": "matter",
+            "Q28732711": "physical substance",
+            "Q28877": "goods",
+            "Q28921572": "common matter",
+            "Q2897903": "goods and services",
+            "Q2995644": "result",
+            "Q30060700": "scientific object",
+            "Q30241068": "observable entity",
+            "Q337060": "perceptible physical object",
+            "Q35120": "entity",
+            "Q35145743": "artificial geographic object",
+            "Q35459920": "three-dimensional object",
+            "Q35758": "matter",
+            "Q386724": "work",
+            "Q391414": "architectural element",
+            "Q3955017": "intermediate good",
+            "Q4406616": "concrete object",
+            "Q488383": "object",
+            "Q58415929": "spatio-temporal entity",
+            "Q58416391": "spatial object",
+            "Q58778": "system",
+            "Q6005984": "baryonic matter",
+            "Q618123": "geographical feature",
+            "Q61964189": "structural component",
+            "Q61964280": "inanimate object",
+            "Q66098993": "fencing structure",
+            "Q6671777": "structure",
+            "Q7625012": "structural building component",
+            "Q811430": "fixed construction",
+            "Q811679": "structural element",
+            "Q8205328": "artificial physical object",
+            "Q83180": "Roof",
+            "Q99527517": "collective entity"
+        },
         "provider": "langsci",
         "srcwordsbare": [
             "ebta",
@@ -6031,15 +6219,15 @@
             "3SG": "third person singular",
             "ACC": "accusative",
             "DEF": "definite",
-            "DERIV": "",
+            "DERIV": null,
             "F": "feminine",
-            "FEM": "",
+            "FEM": null,
             "NOM": "nominative",
             "PRS": "present",
             "PST": "past",
             "REL": "relative",
             "SG": "singular",
-            "WEAK": ""
+            "WEAK": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -6112,7 +6300,7 @@
             "PL": "plural",
             "PRS": "present",
             "SG": "singular",
-            "SUPERL": ""
+            "SUPERL": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -6348,7 +6536,7 @@
         "ID": "langsci237-ca3c0ba314",
         "abbrkey": {
             "CLF": "classifier",
-            "LIQUID": ""
+            "LIQUID": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -6443,7 +6631,81 @@
         "language_iso6393": "und",
         "language_name": "Iroquoian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q103940464": "continuant",
+            "Q104127086": "memory",
+            "Q105948247": "knowledge system",
+            "Q1063801": "tertiary source",
+            "Q106418668": "standard",
+            "Q1068473": "educational technology",
+            "Q107435521": "record",
+            "Q11016": "Technology",
+            "Q11028": "information",
+            "Q1150070": "change",
+            "Q1150771": "output",
+            "Q1190554": "occurrence",
+            "Q12453": "Measurement",
+            "Q12488383": "content",
+            "Q12894677": "means",
+            "Q13136": "Reference_work",
+            "Q1348645": "learning material",
+            "Q1454986": "physical system",
+            "Q15401930": "artificial object",
+            "Q1554231": "resource",
+            "Q15621286": "intellectual work",
+            "Q16686448": "artificial object",
+            "Q16887380": "group",
+            "Q17537576": "creative work",
+            "Q1754533": "source text",
+            "Q184754": "string",
+            "Q1914636": "activity",
+            "Q20937557": "sequence",
+            "Q223557": "physical object",
+            "Q234460": "text",
+            "Q23958946": "individual entity",
+            "Q2574811": "cause",
+            "Q26907166": "temporal entity",
+            "Q2695280": "technique",
+            "Q286583": "manifestation",
+            "Q28797": "applied science",
+            "Q28813620": "set",
+            "Q2897903": "goods and services",
+            "Q2995644": "result",
+            "Q30060700": "scientific object",
+            "Q30241068": "observable entity",
+            "Q31464082": "source",
+            "Q317623": "Technical_standard",
+            "Q3249551": "process",
+            "Q336": "science",
+            "Q340169": "media",
+            "Q35120": "entity",
+            "Q3523102": "source of information",
+            "Q35459920": "three-dimensional object",
+            "Q3604747": "acquisition",
+            "Q37112258": "finding",
+            "Q3769299": "human behavior",
+            "Q37866906": "information resource",
+            "Q386724": "work",
+            "Q4026292": "action",
+            "Q4406616": "concrete object",
+            "Q451967": "intentional human activity",
+            "Q47461344": "written work",
+            "Q488383": "object",
+            "Q49848": "Document",
+            "Q58415929": "spatio-temporal entity",
+            "Q58778": "system",
+            "Q61788060": "human activity",
+            "Q6671777": "structure",
+            "Q67518978": "occurrent",
+            "Q7048977": "abstract entity",
+            "Q7184903": "abstract entity",
+            "Q7406919": "service",
+            "Q791801": "estimation",
+            "Q8205328": "artificial physical object",
+            "Q9081": "Knowledge",
+            "Q9332": "behavior",
+            "Q99527517": "collective entity"
+        },
         "provider": "langsci",
         "srcwordsbare": [
             "o-nenhst-E'",
@@ -6457,7 +6719,7 @@
         "ID": "langsci237-70799845b7",
         "abbrkey": {
             "PRS": "present",
-            "VEGETATION": ""
+            "VEGETATION": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -6551,7 +6813,7 @@
     {
         "ID": "langsci237-92d828a3ec",
         "abbrkey": {
-            "GENERAL": "",
+            "GENERAL": null,
             "M": "masculine"
         },
         "book_metalanguage": "stan1293",
@@ -6622,7 +6884,7 @@
         "ID": "langsci237-5fa6689c00",
         "abbrkey": {
             "F": "feminine",
-            "GENERAL": ""
+            "GENERAL": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Grammatical gender and linguistic complexity II",
@@ -6691,7 +6953,7 @@
     {
         "ID": "langsci237-df23a6fe37",
         "abbrkey": {
-            "PAUC": "",
+            "PAUC": null,
             "PL": "plural"
         },
         "book_metalanguage": "stan1293",
@@ -6726,7 +6988,7 @@
     {
         "ID": "langsci237-86d3da459e",
         "abbrkey": {
-            "PAUC": "",
+            "PAUC": null,
             "PL": "plural"
         },
         "book_metalanguage": "stan1293",
@@ -6943,7 +7205,7 @@
     {
         "ID": "langsci237-284da507de",
         "abbrkey": {
-            "ACT": "",
+            "ACT": null,
             "DAT": "dative",
             "F": "feminine",
             "M": "masculine",
@@ -6995,31 +7257,31 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q106559804": "",
+            "Q106559804": "person or organization",
             "Q108288352": "skilled_agricultural,_forestry_and_fishery_workers",
-            "Q108289043": "",
-            "Q108289653": "",
-            "Q108290536": "",
-            "Q1191714": "",
+            "Q108289043": "market-oriented skilled agricultural workers",
+            "Q108289653": "market gardeners and crop growers",
+            "Q108290536": "field crop and vegetable growers",
+            "Q1191714": "blue-collar worker",
             "Q12059906": "Herder",
-            "Q12713481": "",
+            "Q12713481": "laborer",
             "Q131512": "Farmer",
             "Q18336849": "",
             "Q19261760": "agricultural_worker",
-            "Q215627": "",
+            "Q215627": "person",
             "Q23958946": "individual entity",
             "Q24229398": "agent",
-            "Q26720107": "",
+            "Q26720107": "personal law",
             "Q327055": "Worker",
             "Q35120": "entity",
-            "Q3778211": "",
+            "Q3778211": "legal person",
             "Q488383": "object",
-            "Q702269": "",
-            "Q703534": "",
-            "Q795052": "",
+            "Q702269": "professional",
+            "Q703534": "employee",
+            "Q795052": "individual",
             "Q830077": "subject",
             "Q838811": "Peasant",
-            "Q852998": ""
+            "Q852998": "stakeholder"
         },
         "provider": "langsci",
         "srcwordsbare": [

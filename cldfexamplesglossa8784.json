@@ -1360,7 +1360,7 @@
         "ID": "glossa8784-29",
         "abbrkey": {
             "CL": "clitic",
-            "FSG": ""
+            "FSG": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -1725,16 +1725,16 @@
             "Q14897293": "fictional_entity",
             "Q15306849": "fictitious_work",
             "Q15401930": "artificial object",
-            "Q15621286": "",
+            "Q15621286": "intellectual work",
             "Q15706911": "fictional_object",
             "Q16686448": "artificial object",
-            "Q17537576": "",
+            "Q17537576": "creative work",
             "Q2995644": "result",
             "Q30241068": "observable entity",
             "Q35120": "entity",
             "Q386724": "work",
             "Q488383": "object",
-            "Q64728693": "",
+            "Q64728693": "non-existent entity",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity"
         },
@@ -2636,7 +2636,7 @@
     {
         "ID": "glossa8784-55",
         "abbrkey": {
-            "B": ""
+            "B": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -2670,7 +2670,7 @@
     {
         "ID": "glossa8784-56",
         "abbrkey": {
-            "B": ""
+            "B": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -3205,7 +3205,21 @@
         "language_iso6393": "spa",
         "language_name": "Spanish",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q103940464": "continuant",
+            "Q15619164": "abstract being",
+            "Q18336849": "",
+            "Q18706315": "hypothetical entity",
+            "Q21070598": "character that may or may not be fictional",
+            "Q2239243": "mythical creature",
+            "Q23958946": "individual entity",
+            "Q24334685": "mythical_entity",
+            "Q276453": "Monster",
+            "Q35120": "entity",
+            "Q4271324": "mythical character",
+            "Q7048977": "abstract entity",
+            "Q830077": "subject"
+        },
         "provider": "glossa",
         "srcwordsbare": [
             "Es",

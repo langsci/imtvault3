@@ -4,7 +4,7 @@
         "abbrkey": {
             "1SG": "first person singular",
             "3SG": "third person singular",
-            "COME": ""
+            "COME": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -95,7 +95,7 @@
         "ID": "glossa5337-3",
         "abbrkey": {
             "3SG": "third person singular",
-            "COME": ""
+            "COME": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -242,7 +242,7 @@
         "ID": "glossa5337-6",
         "abbrkey": {
             "3SG": "third person singular",
-            "COME": "",
+            "COME": null,
             "PROX": "proximal/proximate",
             "SEQ": "sequential marker"
         },
@@ -510,7 +510,7 @@
             "1PL": "first person plural",
             "3PL": "third person plural",
             "3SG": "third person singular",
-            "FORTHC": "",
+            "FORTHC": null,
             "INCL": "inclusive",
             "REAL": "realis",
             "SIM": "simultaneous marker, and",
@@ -891,12 +891,12 @@
         "abbrkey": {
             "1SG": "first person singular",
             "A": "agent-like argument of canonical transitive verb",
-            "CL": "",
-            "PERF": "",
+            "CL": null,
+            "PERF": null,
             "QUOT": "quotative",
             "REAL": "realis",
-            "REALIS": "",
-            "WATER": ""
+            "REALIS": null,
+            "WATER": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -1147,7 +1147,7 @@
             "3PL": "third person plural",
             "3SG": "third person singular",
             "CONT": "continuative",
-            "DST": "",
+            "DST": null,
             "FOC": "focus marker"
         },
         "book_metalanguage": "stan1293",
@@ -1339,7 +1339,7 @@
         "ID": "glossa5337-29",
         "abbrkey": {
             "3SG": "third person singular",
-            "DST": "",
+            "DST": null,
             "PART": "particle ma in Old Babylonian"
         },
         "book_metalanguage": "stan1293",
@@ -1531,7 +1531,7 @@
         "ID": "glossa5337-33",
         "abbrkey": {
             "1SG": "first person singular",
-            "COME": "",
+            "COME": null,
             "NEG": "negator"
         },
         "book_metalanguage": "stan1293",
@@ -1579,7 +1579,7 @@
         "ID": "glossa5337-34",
         "abbrkey": {
             "2SG": "second person singular",
-            "COME": "",
+            "COME": null,
             "FOC": "focus marker"
         },
         "book_metalanguage": "stan1293",
@@ -1622,7 +1622,7 @@
         "ID": "glossa5337-35",
         "abbrkey": {
             "2SG": "second person singular",
-            "COME": ""
+            "COME": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -1934,7 +1934,7 @@
         "abbrkey": {
             "3SG": "third person singular",
             "CONT": "continuative",
-            "DST": ""
+            "DST": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -1989,7 +1989,7 @@
         "abbrkey": {
             "3SG": "third person singular",
             "CONT": "continuative",
-            "DST": ""
+            "DST": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -2091,7 +2091,7 @@
         "ID": "glossa5337-45",
         "abbrkey": {
             "2SG": "second person singular",
-            "COME": "",
+            "COME": null,
             "PART": "particle ma in Old Babylonian",
             "REAL": "realis"
         },
@@ -2162,7 +2162,20 @@
         "language_iso6393": "twe",
         "language_name": "Teiwa",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q103940464": "continuant",
+            "Q106559804": "person or organization",
+            "Q18336849": "",
+            "Q215627": "person",
+            "Q23958946": "individual entity",
+            "Q24229398": "agent",
+            "Q26720107": "personal law",
+            "Q35120": "entity",
+            "Q3778211": "legal person",
+            "Q488383": "object",
+            "Q795052": "individual",
+            "Q830077": "subject"
+        },
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -2179,7 +2192,7 @@
             "1SG": "first person singular",
             "2SG": "second person singular",
             "3SG": "third person singular",
-            "COME": "",
+            "COME": null,
             "PART": "particle ma in Old Babylonian"
         },
         "book_metalanguage": "stan1293",
@@ -2280,7 +2293,7 @@
         "abbrkey": {
             "2SG": "second person singular",
             "3SG": "third person singular",
-            "COME": "",
+            "COME": null,
             "FOC": "focus marker",
             "REAL": "realis"
         },
@@ -2484,7 +2497,7 @@
         "abbrkey": {
             "1SG": "first person singular",
             "3SG": "third person singular",
-            "COME": "",
+            "COME": null,
             "IND": "Indonesian loan"
         },
         "book_metalanguage": "stan1293",
@@ -2882,34 +2895,34 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q10675206": "",
+            "Q10675206": "ingredient",
             "Q1150771": "output",
             "Q1194058": "disposable product",
             "Q1310239": "component",
             "Q1364": "Fruit",
             "Q1454986": "physical system",
-            "Q14712": "",
-            "Q1485500": "",
-            "Q15197056": "",
+            "Q14712": "drupe",
+            "Q1485500": "tangible good",
+            "Q15197056": "fleshy fruit",
             "Q15401930": "artificial object",
             "Q15989253": "part",
             "Q16686022": "natural physical object",
             "Q16686448": "artificial object",
             "Q1681365": "consumables",
-            "Q20011319": "",
+            "Q20011319": "plant structure",
             "Q2095": "Food",
             "Q214609": "material",
             "Q223557": "physical object",
             "Q23958946": "individual entity",
-            "Q24060707": "",
+            "Q24060707": "plant organ",
             "Q2424752": "product",
-            "Q25403900": "",
+            "Q25403900": "food ingredient",
             "Q25416091": "substance",
-            "Q26902770": "",
-            "Q26902962": "",
+            "Q26902770": "food products by OKPD2 (10)",
+            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
             "Q26988402": "",
-            "Q26988406": "",
-            "Q27043864": "",
+            "Q26988406": "Agricultural, hunting and forestry products",
+            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
             "Q27043948": "material anatomical entity",
             "Q27043950": "anatomical entity",
             "Q27478161": "",
@@ -2917,17 +2930,17 @@
             "Q28555911": "ordinary matter",
             "Q28728771": "matter",
             "Q28732711": "physical substance",
-            "Q28791169": "",
+            "Q28791169": "simple fruit",
             "Q28845870": "biological component",
             "Q28877": "goods",
             "Q28921572": "common matter",
             "Q2897903": "goods and services",
-            "Q29043258": "",
+            "Q29043258": "Other fruit and nuts",
             "Q29651224": "natural object",
             "Q2995644": "result",
             "Q30060700": "scientific object",
             "Q30241068": "observable entity",
-            "Q3314483": "",
+            "Q3314483": "fruit",
             "Q3320037": "Nut_(food)",
             "Q337060": "perceptible physical object",
             "Q35120": "entity",
@@ -3166,7 +3179,7 @@
         "abbrkey": {
             "3SG": "third person singular",
             "CONT": "continuative",
-            "DST": "",
+            "DST": null,
             "FOC": "focus marker",
             "SIM": "simultaneous marker, and"
         },
@@ -3228,7 +3241,7 @@
         "abbrkey": {
             "3SG": "third person singular",
             "CONT": "continuative",
-            "DST": "",
+            "DST": null,
             "FOC": "focus marker",
             "SIM": "simultaneous marker, and"
         },
@@ -3273,34 +3286,34 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q10675206": "",
+            "Q10675206": "ingredient",
             "Q1150771": "output",
             "Q1194058": "disposable product",
             "Q1310239": "component",
             "Q1364": "Fruit",
             "Q1454986": "physical system",
-            "Q14712": "",
-            "Q1485500": "",
-            "Q15197056": "",
+            "Q14712": "drupe",
+            "Q1485500": "tangible good",
+            "Q15197056": "fleshy fruit",
             "Q15401930": "artificial object",
             "Q15989253": "part",
             "Q16686022": "natural physical object",
             "Q16686448": "artificial object",
             "Q1681365": "consumables",
-            "Q20011319": "",
+            "Q20011319": "plant structure",
             "Q2095": "Food",
             "Q214609": "material",
             "Q223557": "physical object",
             "Q23958946": "individual entity",
-            "Q24060707": "",
+            "Q24060707": "plant organ",
             "Q2424752": "product",
-            "Q25403900": "",
+            "Q25403900": "food ingredient",
             "Q25416091": "substance",
-            "Q26902770": "",
-            "Q26902962": "",
+            "Q26902770": "food products by OKPD2 (10)",
+            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
             "Q26988402": "",
-            "Q26988406": "",
-            "Q27043864": "",
+            "Q26988406": "Agricultural, hunting and forestry products",
+            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
             "Q27043948": "material anatomical entity",
             "Q27043950": "anatomical entity",
             "Q27478161": "",
@@ -3308,17 +3321,17 @@
             "Q28555911": "ordinary matter",
             "Q28728771": "matter",
             "Q28732711": "physical substance",
-            "Q28791169": "",
+            "Q28791169": "simple fruit",
             "Q28845870": "biological component",
             "Q28877": "goods",
             "Q28921572": "common matter",
             "Q2897903": "goods and services",
-            "Q29043258": "",
+            "Q29043258": "Other fruit and nuts",
             "Q29651224": "natural object",
             "Q2995644": "result",
             "Q30060700": "scientific object",
             "Q30241068": "observable entity",
-            "Q3314483": "",
+            "Q3314483": "fruit",
             "Q3320037": "Nut_(food)",
             "Q337060": "perceptible physical object",
             "Q35120": "entity",
@@ -3363,7 +3376,7 @@
             "1SG": "first person singular",
             "2SG": "second person singular",
             "3SG": "third person singular",
-            "COME": "",
+            "COME": null,
             "PART": "particle ma in Old Babylonian"
         },
         "book_metalanguage": "stan1293",

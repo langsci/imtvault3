@@ -154,7 +154,7 @@
         "abbrkey": {
             "3SG": "third person singular",
             "FOC": "focus",
-            "INTENS": "",
+            "INTENS": null,
             "TOP": "topic"
         },
         "book_metalanguage": "stan1293",
@@ -202,7 +202,7 @@
         "ID": "langsci94-37698c96cf",
         "abbrkey": {
             "FOC": "focus",
-            "MOVE": ""
+            "MOVE": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -286,7 +286,7 @@
     {
         "ID": "langsci94-2d614394df",
         "abbrkey": {
-            "ASRT": "",
+            "ASRT": null,
             "DECL": "declarative",
             "M": "masculine",
             "TOP": "topic"
@@ -331,8 +331,8 @@
         "abbrkey": {
             "COP": "copula",
             "NOM": "nominative",
-            "PREV": "",
-            "TNS": ""
+            "PREV": null,
+            "TNS": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -371,8 +371,8 @@
         "ID": "langsci94-b58c551793",
         "abbrkey": {
             "ACC": "accusative",
-            "ASRT": "",
-            "EVID": ""
+            "ASRT": null,
+            "EVID": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -418,7 +418,7 @@
     {
         "ID": "langsci94-720754b999",
         "abbrkey": {
-            "ASRT": ""
+            "ASRT": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -551,9 +551,9 @@
         "ID": "langsci94-1b951b6272",
         "abbrkey": {
             "INDF": "indefinite",
-            "NZR": "",
+            "NZR": null,
             "OBJ": "object",
-            "SUBJ": ""
+            "SUBJ": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -590,12 +590,12 @@
         "abbrkey": {
             "1SG": "first person singular",
             "AUX": "auxiliary",
-            "INC": "",
+            "INC": null,
             "INDF": "indefinite",
             "OBJ": "object",
-            "PHR": "",
-            "PVB": "",
-            "TRM": ""
+            "PHR": null,
+            "PVB": null,
+            "TRM": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -633,7 +633,7 @@
     {
         "ID": "langsci94-da216e30d9",
         "abbrkey": {
-            "STAND": ""
+            "STAND": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -670,7 +670,7 @@
     {
         "ID": "langsci94-445fae84fa",
         "abbrkey": {
-            "SIT": ""
+            "SIT": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -705,7 +705,7 @@
         "abbrkey": {
             "DEF": "definite",
             "LOC": "locative",
-            "STAND": ""
+            "STAND": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -745,8 +745,8 @@
             "3SG": "third person singular",
             "DEM": "demonstrative",
             "LOC": "locative",
-            "NZR": "",
-            "PRTP": "",
+            "NZR": null,
+            "PRTP": null,
             "REFL": "reflexive"
         },
         "book_metalanguage": "stan1293",
@@ -828,7 +828,7 @@
             "ALL": "allative",
             "ART": "article",
             "AUX": "auxiliary",
-            "PVB": ""
+            "PVB": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -1673,7 +1673,59 @@
         "language_iso6393": "und",
         "language_name": "Iowa",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q100195948": "relative quality",
+            "Q107329943": "acknowledgement",
+            "Q11028": "information",
+            "Q111352": "lexeme",
+            "Q11424100": "status",
+            "Q1190554": "occurrence",
+            "Q1207505": "quality",
+            "Q12767945": "language device",
+            "Q1499548": "monetary value",
+            "Q16686448": "artificial object",
+            "Q16889133": "class",
+            "Q1786828": "constituent",
+            "Q187931": "phrase",
+            "Q189970": "social status",
+            "Q194112": "value",
+            "Q194980": "intangible good",
+            "Q20817253": "linguistic unit",
+            "Q214339": "role",
+            "Q216353": "title",
+            "Q230788": "grant",
+            "Q240673": "monetary cost",
+            "Q26907166": "temporal entity",
+            "Q28877": "goods",
+            "Q2897903": "goods and services",
+            "Q2944660": "lexical item",
+            "Q29651519": "mental object",
+            "Q3320743": "title of honor",
+            "Q35120": "entity",
+            "Q3695082": "sign",
+            "Q4120621": "rank",
+            "Q4164871": "position",
+            "Q4189293": "rank",
+            "Q488383": "object",
+            "Q4897819": "role",
+            "Q5127848": "class",
+            "Q5371079": "emic unit",
+            "Q58415929": "spatio-temporal entity",
+            "Q618779": "Award",
+            "Q628523": "Message",
+            "Q7048977": "abstract entity",
+            "Q7184903": "abstract entity",
+            "Q7302601": "recognition",
+            "Q760120": "expenditure",
+            "Q8171": "word",
+            "Q82799": "name",
+            "Q83492918": "acknowledgement",
+            "Q83493482": "thanking",
+            "Q868257": "economic value",
+            "Q878143": "value",
+            "Q937228": "property",
+            "Q99527517": "collective entity"
+        },
         "provider": "langsci",
         "srcwordsbare": [
             "Hįyį́no",
@@ -2109,7 +2161,7 @@
     {
         "ID": "langsci94-ca5f39da16",
         "abbrkey": {
-            "D": "",
+            "D": null,
             "DECL": "declarative",
             "DET": "determiner"
         },
@@ -2242,7 +2294,7 @@
         "abbrkey": {
             "CAUS": "causative",
             "CONT": "continuative",
-            "D": "",
+            "D": null,
             "N": "neuter",
             "NE": "narrative ending",
             "POSS": "possessive",
@@ -2345,7 +2397,7 @@
     {
         "ID": "langsci94-bd53fca23f",
         "abbrkey": {
-            "D": "",
+            "D": null,
             "DECL": "declarative",
             "DET": "determiner",
             "EPE": "epenthetic consonant",
@@ -2394,7 +2446,7 @@
     {
         "ID": "langsci94-d0b1e19a3a",
         "abbrkey": {
-            "D": "",
+            "D": null,
             "DECL": "declarative",
             "DET": "determiner",
             "EPE": "epenthetic consonant",
@@ -2443,7 +2495,7 @@
     {
         "ID": "langsci94-ca4810f745",
         "abbrkey": {
-            "D": "",
+            "D": null,
             "DECL": "declarative",
             "DET": "determiner",
             "REL": "relative",
@@ -2492,8 +2544,8 @@
     {
         "ID": "langsci94-480ff7bcaf",
         "abbrkey": {
-            "D": "",
-            "DECLL": "",
+            "D": null,
+            "DECLL": null,
             "DET": "determiner",
             "REL": "relative",
             "S": "single argument of canonical intransitive verb"
@@ -2540,7 +2592,7 @@
         "ID": "langsci94-9e67922172",
         "abbrkey": {
             "CAUS": "causative",
-            "D": "",
+            "D": null,
             "DECL": "declarative",
             "DET": "determiner",
             "REL": "relative",
@@ -2589,13 +2641,13 @@
     {
         "ID": "langsci94-e6c47cce69",
         "abbrkey": {
-            "D": "",
+            "D": null,
             "DECL": "declarative",
             "DET": "determiner",
             "PL": "plural",
             "REL": "relative",
             "S": "single argument of canonical intransitive verb",
-            "SPEC": ""
+            "SPEC": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -2644,7 +2696,7 @@
     {
         "ID": "langsci94-65783d42dc",
         "abbrkey": {
-            "D": "",
+            "D": null,
             "DECL": "declarative",
             "DET": "determiner",
             "INDEF": "indefinite",
@@ -2691,7 +2743,7 @@
     {
         "ID": "langsci94-48a287cb08",
         "abbrkey": {
-            "D": "",
+            "D": null,
             "DECL": "declarative",
             "DET": "determiner",
             "INDEF": "indefinite",
@@ -2737,7 +2789,7 @@
     {
         "ID": "langsci94-72782f7b3d",
         "abbrkey": {
-            "D": "",
+            "D": null,
             "DECL": "declarative",
             "DET": "determiner",
             "INDEF": "indefinite",
@@ -2783,7 +2835,7 @@
     {
         "ID": "langsci94-6876a0d6f3",
         "abbrkey": {
-            "D": "",
+            "D": null,
             "DECL": "declarative",
             "DET": "determiner",
             "PL": "plural",
@@ -2833,7 +2885,7 @@
     {
         "ID": "langsci94-77f24770ab",
         "abbrkey": {
-            "D": "",
+            "D": null,
             "DECL": "declarative",
             "DET": "determiner",
             "PL": "plural",
@@ -2881,7 +2933,7 @@
         "ID": "langsci94-dc1af10d52",
         "abbrkey": {
             "CAUS": "causative",
-            "D": "",
+            "D": null,
             "DECL": "declarative",
             "DET": "determiner",
             "REL": "relative",
@@ -2930,7 +2982,7 @@
     {
         "ID": "langsci94-02096e1597",
         "abbrkey": {
-            "D": "",
+            "D": null,
             "DET": "determiner",
             "REL": "relative",
             "S": "single argument of canonical intransitive verb"
@@ -3063,26 +3115,26 @@
         "language_name": "Ho-Chunk",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
-            "Q104127086": "",
+            "Q104127086": "memory",
             "Q11028": "information",
             "Q1150070": "change",
             "Q1150771": "output",
             "Q1190554": "occurrence",
-            "Q12488383": "",
-            "Q1293220": "",
+            "Q12488383": "content",
+            "Q1293220": "physical phenomenon",
             "Q15401930": "artificial object",
-            "Q15621286": "",
+            "Q15621286": "intellectual work",
             "Q16686448": "artificial object",
-            "Q16722960": "",
+            "Q16722960": "phenomenon",
             "Q16887380": "group",
-            "Q17320256": "",
-            "Q17537576": "",
-            "Q17988854": "",
+            "Q17320256": "physical process",
+            "Q17537576": "creative work",
+            "Q17988854": "active motion",
             "Q184485": "Performing_arts",
-            "Q184872": "",
+            "Q184872": "recreation",
             "Q1914636": "activity",
-            "Q193514": "",
-            "Q2018526": "",
+            "Q193514": "deformation",
+            "Q2018526": "arts",
             "Q20937557": "sequence",
             "Q26907166": "temporal entity",
             "Q28813620": "set",
@@ -3101,9 +3153,9 @@
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
             "Q735": "Art",
-            "Q747883": "",
-            "Q79782": "",
-            "Q80083": "",
+            "Q747883": "physical activity",
+            "Q79782": "motion",
+            "Q80083": "humanities",
             "Q9081": "Knowledge",
             "Q9332": "behavior",
             "Q99527517": "collective entity"
@@ -3677,26 +3729,26 @@
         "language_name": "Ho-Chunk",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
-            "Q104127086": "",
+            "Q104127086": "memory",
             "Q11028": "information",
             "Q1150070": "change",
             "Q1150771": "output",
             "Q1190554": "occurrence",
-            "Q12488383": "",
-            "Q1293220": "",
+            "Q12488383": "content",
+            "Q1293220": "physical phenomenon",
             "Q15401930": "artificial object",
-            "Q15621286": "",
+            "Q15621286": "intellectual work",
             "Q16686448": "artificial object",
-            "Q16722960": "",
+            "Q16722960": "phenomenon",
             "Q16887380": "group",
-            "Q17320256": "",
-            "Q17537576": "",
-            "Q17988854": "",
+            "Q17320256": "physical process",
+            "Q17537576": "creative work",
+            "Q17988854": "active motion",
             "Q184485": "Performing_arts",
-            "Q184872": "",
+            "Q184872": "recreation",
             "Q1914636": "activity",
-            "Q193514": "",
-            "Q2018526": "",
+            "Q193514": "deformation",
+            "Q2018526": "arts",
             "Q20937557": "sequence",
             "Q26907166": "temporal entity",
             "Q28813620": "set",
@@ -3715,9 +3767,9 @@
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
             "Q735": "Art",
-            "Q747883": "",
-            "Q79782": "",
-            "Q80083": "",
+            "Q747883": "physical activity",
+            "Q79782": "motion",
+            "Q80083": "humanities",
             "Q9081": "Knowledge",
             "Q9332": "behavior",
             "Q99527517": "collective entity"
@@ -4155,7 +4207,7 @@
         "ID": "langsci94-95e7149cda",
         "abbrkey": {
             "PROP": "proper name",
-            "STAT": ""
+            "STAT": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -4203,7 +4255,7 @@
         "abbrkey": {
             "NEG": "negative",
             "PROP": "proper name",
-            "STAT": ""
+            "STAT": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -4344,7 +4396,7 @@
     {
         "ID": "langsci94-dbe9c7c5b6",
         "abbrkey": {
-            "STAT": ""
+            "STAT": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -6228,7 +6280,16 @@
         "language_iso6393": "win",
         "language_name": "Ho-Chunk",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q207961": "Shape",
+            "Q246672": "mathematical object",
+            "Q30060700": "scientific object",
+            "Q35120": "entity",
+            "Q488383": "object",
+            "Q7048977": "abstract entity",
+            "Q7184903": "abstract entity",
+            "Q937228": "property"
+        },
         "provider": "langsci",
         "srcwordsbare": [
             "Mateja-ga",
@@ -6365,7 +6426,16 @@
         "language_iso6393": "win",
         "language_name": "Ho-Chunk",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q207961": "Shape",
+            "Q246672": "mathematical object",
+            "Q30060700": "scientific object",
+            "Q35120": "entity",
+            "Q488383": "object",
+            "Q7048977": "abstract entity",
+            "Q7184903": "abstract entity",
+            "Q937228": "property"
+        },
         "provider": "langsci",
         "srcwordsbare": [
             "Mateja-ga",
@@ -6414,7 +6484,16 @@
         "language_iso6393": "win",
         "language_name": "Ho-Chunk",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q207961": "Shape",
+            "Q246672": "mathematical object",
+            "Q30060700": "scientific object",
+            "Q35120": "entity",
+            "Q488383": "object",
+            "Q7048977": "abstract entity",
+            "Q7184903": "abstract entity",
+            "Q937228": "property"
+        },
         "provider": "langsci",
         "srcwordsbare": [
             "Mateja-ga",
@@ -6464,7 +6543,16 @@
         "language_iso6393": "win",
         "language_name": "Ho-Chunk",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q207961": "Shape",
+            "Q246672": "mathematical object",
+            "Q30060700": "scientific object",
+            "Q35120": "entity",
+            "Q488383": "object",
+            "Q7048977": "abstract entity",
+            "Q7184903": "abstract entity",
+            "Q937228": "property"
+        },
         "provider": "langsci",
         "srcwordsbare": [
             "Mateja-ga",
@@ -7207,7 +7295,7 @@
     {
         "ID": "langsci94-fe350c3947",
         "abbrkey": {
-            "ACT": "",
+            "ACT": null,
             "DECL": "declarative",
             "DEF": "definite"
         },
@@ -7249,8 +7337,8 @@
     {
         "ID": "langsci94-663d749f85",
         "abbrkey": {
-            "ASP": "",
-            "LE": ""
+            "ASP": null,
+            "LE": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -7295,7 +7383,7 @@
         "abbrkey": {
             "ACC": "accusative",
             "NOM": "nominative",
-            "PAST": ""
+            "PAST": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -7335,7 +7423,7 @@
     {
         "ID": "langsci94-595dbbc47e",
         "abbrkey": {
-            "ASP": ""
+            "ASP": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -7615,7 +7703,16 @@
         "language_iso6393": "win",
         "language_name": "Ho-Chunk",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q207961": "Shape",
+            "Q246672": "mathematical object",
+            "Q30060700": "scientific object",
+            "Q35120": "entity",
+            "Q488383": "object",
+            "Q7048977": "abstract entity",
+            "Q7184903": "abstract entity",
+            "Q937228": "property"
+        },
         "provider": "langsci",
         "srcwordsbare": [
             "Mateja-ga",
@@ -7747,7 +7844,7 @@
         "ID": "langsci94-b749d24c40",
         "abbrkey": {
             "PROP": "proper noun",
-            "STAT": ""
+            "STAT": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -8310,7 +8407,7 @@
     {
         "ID": "langsci94-2fce6bd000",
         "abbrkey": {
-            "DDEF": ""
+            "DDEF": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -8598,67 +8695,67 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q10675206": "",
-            "Q107122728": "",
-            "Q107122793": "",
-            "Q107126067": "",
+            "Q10675206": "ingredient",
+            "Q107122728": "plant-based food",
+            "Q107122793": "plant product",
+            "Q107126067": "vegetarian food",
             "Q11004": "Vegetable",
             "Q1150771": "output",
-            "Q11879003": "",
+            "Q11879003": "environmental resource",
             "Q1194058": "disposable product",
             "Q1310239": "component",
             "Q13184": "Berry_(botany)",
             "Q1364": "Fruit",
             "Q1454986": "physical system",
-            "Q1485500": "",
-            "Q15075845": "",
-            "Q15197056": "",
+            "Q1485500": "tangible good",
+            "Q15075845": "primary commodity",
+            "Q15197056": "fleshy fruit",
             "Q15401930": "artificial object",
-            "Q1554231": "",
+            "Q1554231": "resource",
             "Q15989253": "part",
             "Q16686022": "natural physical object",
             "Q16686448": "artificial object",
             "Q1681365": "consumables",
-            "Q188460": "",
-            "Q20011319": "",
+            "Q188460": "natural resource",
+            "Q20011319": "plant structure",
             "Q2095": "Food",
             "Q214609": "material",
             "Q223557": "physical object",
             "Q23958946": "individual entity",
-            "Q24060707": "",
+            "Q24060707": "plant organ",
             "Q2424752": "product",
-            "Q25403900": "",
+            "Q25403900": "food ingredient",
             "Q25416091": "substance",
-            "Q26902770": "",
-            "Q26902962": "",
+            "Q26902770": "food products by OKPD2 (10)",
+            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
             "Q26988402": "",
-            "Q26988406": "",
-            "Q27043864": "",
+            "Q26988406": "Agricultural, hunting and forestry products",
+            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
             "Q27043948": "material anatomical entity",
             "Q27043950": "anatomical entity",
             "Q27478161": "",
-            "Q27480917": "",
+            "Q27480917": "Perennial crops (CPA 2008)",
             "Q27481006": "",
-            "Q27481647": "",
+            "Q27481647": "tropical and subtropical fruit",
             "Q28555911": "ordinary matter",
             "Q28728771": "matter",
             "Q28732711": "physical substance",
-            "Q28791169": "",
+            "Q28791169": "simple fruit",
             "Q28845870": "biological component",
             "Q28877": "goods",
             "Q28921572": "common matter",
-            "Q28969293": "",
-            "Q28969364": "",
+            "Q28969293": "biological material",
+            "Q28969364": "plant material",
             "Q2897903": "goods and services",
-            "Q29043258": "",
+            "Q29043258": "Other fruit and nuts",
             "Q29651224": "natural object",
             "Q2995644": "result",
             "Q30060700": "scientific object",
             "Q30241068": "observable entity",
             "Q31464082": "source",
-            "Q3314483": "",
+            "Q3314483": "fruit",
             "Q337060": "perceptible physical object",
-            "Q3405827": "",
+            "Q3405827": "natural material",
             "Q35120": "entity",
             "Q35459920": "three-dimensional object",
             "Q35758": "matter",
@@ -8692,7 +8789,7 @@
     {
         "ID": "langsci94-82afb362c8",
         "abbrkey": {
-            "D": "",
+            "D": null,
             "DECL": "declarative",
             "DET": "determiner"
         },
@@ -8731,8 +8828,8 @@
     {
         "ID": "langsci94-cebf5f13fd",
         "abbrkey": {
-            "D": "",
-            "DDET": "",
+            "D": null,
+            "DDET": null,
             "DECL": "declarative",
             "DET": "determiner"
         },
@@ -8773,8 +8870,8 @@
         "ID": "langsci94-79657ad330",
         "abbrkey": {
             "DET": "determiner",
-            "DIMIN": "",
-            "SS": ""
+            "DIMIN": null,
+            "SS": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -8898,8 +8995,8 @@
     {
         "ID": "langsci94-6c3bec6794",
         "abbrkey": {
-            "CONJ": "",
-            "HAB": "",
+            "CONJ": null,
+            "HAB": null,
             "PL": "plural"
         },
         "book_metalanguage": "stan1293",
@@ -8950,7 +9047,7 @@
     {
         "ID": "langsci94-9a0527d413",
         "abbrkey": {
-            "CONT": "",
+            "CONT": null,
             "DECL": "declarative"
         },
         "book_metalanguage": "stan1293",
@@ -8991,7 +9088,7 @@
     {
         "ID": "langsci94-00731ccebe",
         "abbrkey": {
-            "CONJ": "",
+            "CONJ": null,
             "DET": "determiner"
         },
         "book_metalanguage": "stan1293",
@@ -9539,26 +9636,26 @@
         "language_name": "Ho-Chunk",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
-            "Q104127086": "",
+            "Q104127086": "memory",
             "Q11028": "information",
             "Q1150070": "change",
             "Q1150771": "output",
             "Q1190554": "occurrence",
-            "Q12488383": "",
-            "Q1293220": "",
+            "Q12488383": "content",
+            "Q1293220": "physical phenomenon",
             "Q15401930": "artificial object",
-            "Q15621286": "",
+            "Q15621286": "intellectual work",
             "Q16686448": "artificial object",
-            "Q16722960": "",
+            "Q16722960": "phenomenon",
             "Q16887380": "group",
-            "Q17320256": "",
-            "Q17537576": "",
-            "Q17988854": "",
+            "Q17320256": "physical process",
+            "Q17537576": "creative work",
+            "Q17988854": "active motion",
             "Q184485": "Performing_arts",
-            "Q184872": "",
+            "Q184872": "recreation",
             "Q1914636": "activity",
-            "Q193514": "",
-            "Q2018526": "",
+            "Q193514": "deformation",
+            "Q2018526": "arts",
             "Q20937557": "sequence",
             "Q26907166": "temporal entity",
             "Q28813620": "set",
@@ -9577,9 +9674,9 @@
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
             "Q735": "Art",
-            "Q747883": "",
-            "Q79782": "",
-            "Q80083": "",
+            "Q747883": "physical activity",
+            "Q79782": "motion",
+            "Q80083": "humanities",
             "Q9081": "Knowledge",
             "Q9332": "behavior",
             "Q99527517": "collective entity"
@@ -9636,26 +9733,26 @@
         "language_name": "Ho-Chunk",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
-            "Q104127086": "",
+            "Q104127086": "memory",
             "Q11028": "information",
             "Q1150070": "change",
             "Q1150771": "output",
             "Q1190554": "occurrence",
-            "Q12488383": "",
-            "Q1293220": "",
+            "Q12488383": "content",
+            "Q1293220": "physical phenomenon",
             "Q15401930": "artificial object",
-            "Q15621286": "",
+            "Q15621286": "intellectual work",
             "Q16686448": "artificial object",
-            "Q16722960": "",
+            "Q16722960": "phenomenon",
             "Q16887380": "group",
-            "Q17320256": "",
-            "Q17537576": "",
-            "Q17988854": "",
+            "Q17320256": "physical process",
+            "Q17537576": "creative work",
+            "Q17988854": "active motion",
             "Q184485": "Performing_arts",
-            "Q184872": "",
+            "Q184872": "recreation",
             "Q1914636": "activity",
-            "Q193514": "",
-            "Q2018526": "",
+            "Q193514": "deformation",
+            "Q2018526": "arts",
             "Q20937557": "sequence",
             "Q26907166": "temporal entity",
             "Q28813620": "set",
@@ -9674,9 +9771,9 @@
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
             "Q735": "Art",
-            "Q747883": "",
-            "Q79782": "",
-            "Q80083": "",
+            "Q747883": "physical activity",
+            "Q79782": "motion",
+            "Q80083": "humanities",
             "Q9081": "Knowledge",
             "Q9332": "behavior",
             "Q99527517": "collective entity"
@@ -10208,7 +10305,7 @@
         "ID": "langsci94-1fbb6f104f",
         "abbrkey": {
             "PROX": "proximate",
-            "SGA": ""
+            "SGA": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -10461,27 +10558,27 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q106559804": "",
-            "Q15619164": "",
+            "Q106559804": "person or organization",
+            "Q15619164": "abstract being",
             "Q178885": "Deity",
             "Q18336849": "",
-            "Q18706315": "",
-            "Q21070598": "",
-            "Q215627": "",
+            "Q18706315": "hypothetical entity",
+            "Q21070598": "character that may or may not be fictional",
+            "Q215627": "person",
             "Q23958946": "individual entity",
             "Q24229398": "agent",
             "Q24334685": "mythical_entity",
-            "Q26720107": "",
+            "Q26720107": "personal law",
             "Q28855038": "supernatural_being",
-            "Q30060629": "",
+            "Q30060629": "object of non-science",
             "Q35120": "entity",
-            "Q3778211": "",
-            "Q4271324": "",
+            "Q3778211": "legal person",
+            "Q4271324": "mythical character",
             "Q4356623": "Intelligent_designer",
             "Q488383": "object",
             "Q635155": "Creator_deity",
             "Q7048977": "abstract entity",
-            "Q795052": "",
+            "Q795052": "individual",
             "Q830077": "subject"
         },
         "provider": "langsci",
@@ -10673,7 +10770,7 @@
     {
         "ID": "langsci94-8875ce8bdb",
         "abbrkey": {
-            "LA": ""
+            "LA": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -11203,7 +11300,7 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q10675206": "",
+            "Q10675206": "ingredient",
             "Q1150771": "output",
             "Q1194058": "disposable product",
             "Q1310239": "component",
@@ -11211,48 +11308,48 @@
             "Q1364": "Fruit",
             "Q1429336": "Hesperidium",
             "Q1454986": "physical system",
-            "Q1485500": "",
-            "Q15197056": "",
+            "Q1485500": "tangible good",
+            "Q15197056": "fleshy fruit",
             "Q15401930": "artificial object",
             "Q15989253": "part",
             "Q16686022": "natural physical object",
             "Q16686448": "artificial object",
             "Q1681365": "consumables",
-            "Q20011319": "",
+            "Q20011319": "plant structure",
             "Q2095": "Food",
             "Q214609": "material",
             "Q223557": "physical object",
             "Q23958946": "individual entity",
-            "Q24060707": "",
+            "Q24060707": "plant organ",
             "Q2424752": "product",
-            "Q25403900": "",
+            "Q25403900": "food ingredient",
             "Q25416091": "substance",
             "Q2574750": "citrus_fruit",
-            "Q26902770": "",
-            "Q26902962": "",
+            "Q26902770": "food products by OKPD2 (10)",
+            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
             "Q26988402": "",
-            "Q26988406": "",
-            "Q27043864": "",
+            "Q26988406": "Agricultural, hunting and forestry products",
+            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
             "Q27043948": "material anatomical entity",
             "Q27043950": "anatomical entity",
             "Q27478161": "",
-            "Q27480917": "",
+            "Q27480917": "Perennial crops (CPA 2008)",
             "Q27481006": "",
             "Q28555911": "ordinary matter",
             "Q28728771": "matter",
             "Q28732711": "physical substance",
-            "Q28791169": "",
+            "Q28791169": "simple fruit",
             "Q28845870": "biological component",
             "Q28877": "goods",
             "Q28921572": "common matter",
             "Q2897903": "goods and services",
-            "Q29043258": "",
+            "Q29043258": "Other fruit and nuts",
             "Q29651224": "natural object",
             "Q2995644": "result",
             "Q30060700": "scientific object",
             "Q30241068": "observable entity",
             "Q30546671": "no title",
-            "Q3314483": "",
+            "Q3314483": "fruit",
             "Q337060": "perceptible physical object",
             "Q35120": "entity",
             "Q35459920": "three-dimensional object",
@@ -12068,8 +12165,8 @@
     {
         "ID": "langsci94-c4e9491635",
         "abbrkey": {
-            "SS": "",
-            "TEMP": ""
+            "SS": null,
+            "TEMP": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -12105,20 +12202,20 @@
             "Q15989253": "part",
             "Q16686022": "natural physical object",
             "Q16887380": "group",
-            "Q20088819": "",
+            "Q20088819": "group of cells",
             "Q223557": "physical object",
             "Q23958946": "individual entity",
             "Q25416091": "substance",
             "Q25615": "Connective_tissue",
             "Q27043948": "material anatomical entity",
             "Q27043950": "anatomical entity",
-            "Q27062218": "",
-            "Q27162596": "",
+            "Q27062218": "multicellular structure",
+            "Q27162596": "organ part",
             "Q28728771": "matter",
             "Q28732711": "physical substance",
             "Q28813620": "set",
             "Q28845870": "biological component",
-            "Q289472": "",
+            "Q289472": "biogenic substance",
             "Q29651224": "natural object",
             "Q30060700": "scientific object",
             "Q3216202": "Dense_connective_tissue",
@@ -12126,7 +12223,7 @@
             "Q35120": "entity",
             "Q35459920": "three-dimensional object",
             "Q35758": "matter",
-            "Q40397": "",
+            "Q40397": "tissue",
             "Q4406616": "concrete object",
             "Q488383": "object",
             "Q4936952": "anatomical structure",
@@ -12157,7 +12254,7 @@
         "abbrkey": {
             "DECL": "declarative",
             "M": "masculine",
-            "NARR": "",
+            "NARR": null,
             "PROG": "progressive",
             "PST": "past"
         },
@@ -12210,7 +12307,7 @@
     {
         "ID": "langsci94-bafaf95943",
         "abbrkey": {
-            "INFER": ""
+            "INFER": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -12252,7 +12349,7 @@
         "ID": "langsci94-19221d121f",
         "abbrkey": {
             "DECL": "declarative",
-            "HEARSAY": ""
+            "HEARSAY": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -12359,7 +12456,7 @@
         "language_name": "Crow",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
-            "Q1065579": "",
+            "Q1065579": "costume accessory",
             "Q11460": "Clothing",
             "Q1150771": "output",
             "Q1454986": "physical system",
@@ -12397,8 +12494,8 @@
     {
         "ID": "langsci94-fe6b7a5df1",
         "abbrkey": {
-            "COMMAND": "",
-            "MOD": ""
+            "COMMAND": null,
+            "MOD": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -12444,10 +12541,10 @@
         "ID": "langsci94-e8324e7d0a",
         "abbrkey": {
             "BEN": "benefactive",
-            "CONT": "",
+            "CONT": null,
             "DECL": "declarative",
-            "INFER": "",
-            "INSTR": "",
+            "INFER": null,
+            "INSTR": null,
             "PL": "plural"
         },
         "book_metalanguage": "stan1293",
@@ -12518,7 +12615,7 @@
         "ID": "langsci94-20638637fc",
         "abbrkey": {
             "DECL": "declarative",
-            "INFER": "",
+            "INFER": null,
             "PL": "plural"
         },
         "book_metalanguage": "stan1293",
@@ -12560,7 +12657,7 @@
         "abbrkey": {
             "DECL": "declarative",
             "M": "masculine",
-            "NPST": ""
+            "NPST": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -12602,11 +12699,11 @@
     {
         "ID": "langsci94-f280a15379",
         "abbrkey": {
-            "DS": "",
+            "DS": null,
             "INDF": "indefinite",
-            "ITER": "",
+            "ITER": null,
             "PL": "plural",
-            "ST": ""
+            "ST": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -12650,7 +12747,7 @@
         "ID": "langsci94-d9673c7239",
         "abbrkey": {
             "DECL": "declarative",
-            "DS": "",
+            "DS": null,
             "PL": "plural"
         },
         "book_metalanguage": "stan1293",
@@ -12698,8 +12795,8 @@
     {
         "ID": "langsci94-246bf43ab8",
         "abbrkey": {
-            "HEARSAY": "",
-            "SS": ""
+            "HEARSAY": null,
+            "SS": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -12746,7 +12843,7 @@
         "ID": "langsci94-5d4c999a3d",
         "abbrkey": {
             "DECL": "declarative",
-            "ST": ""
+            "ST": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -12784,8 +12881,8 @@
     {
         "ID": "langsci94-32e11e7d3f",
         "abbrkey": {
-            "HEARSAY": "",
-            "ST": ""
+            "HEARSAY": null,
+            "ST": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -12825,11 +12922,11 @@
         "ID": "langsci94-bf8033ab2e",
         "abbrkey": {
             "DECL": "declarative",
-            "DISJUNCT": "",
+            "DISJUNCT": null,
             "M": "masculine",
-            "NARR": "",
+            "NARR": null,
             "PST": "past",
-            "ST": ""
+            "ST": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -12894,7 +12991,7 @@
             "DEF": "definite article",
             "PL": "plural",
             "SBJ": "subject",
-            "U": ""
+            "U": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -13014,9 +13111,9 @@
         "ID": "langsci94-2386ef0099",
         "abbrkey": {
             "DEF": "definite article",
-            "OBJ3SG": "",
+            "OBJ3SG": null,
             "POSS": "possessive",
-            "RFL": "",
+            "RFL": null,
             "SBJ": "subject"
         },
         "book_metalanguage": "stan1293",
@@ -13165,7 +13262,7 @@
         "abbrkey": {
             "3PL": "third person plural",
             "DEF": "definite article",
-            "U": ""
+            "U": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -13202,7 +13299,7 @@
         "ID": "langsci94-ab9449d098",
         "abbrkey": {
             "DEF": "definite article",
-            "LINKER": ""
+            "LINKER": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -13276,7 +13373,7 @@
             "3PL": "third person plural",
             "DEF": "definite article",
             "OBJ": "object",
-            "U": ""
+            "U": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -13452,7 +13549,7 @@
         "ID": "langsci94-5e4182b752",
         "abbrkey": {
             "DEF": "definite article",
-            "J": "",
+            "J": null,
             "PROP": "proper name"
         },
         "book_metalanguage": "stan1293",
@@ -13675,7 +13772,7 @@
         "abbrkey": {
             "DECL": "declarative",
             "DEF": "definite article",
-            "J": "",
+            "J": null,
             "PROP": "proper name"
         },
         "book_metalanguage": "stan1293",
@@ -13721,7 +13818,7 @@
             "3SG": "third person singular",
             "DECL": "declarative",
             "DEF": "definite article",
-            "J": "",
+            "J": null,
             "PROP": "proper name",
             "SBJ": "subject"
         },
@@ -13847,7 +13944,7 @@
         "ID": "langsci94-c32d3e670a",
         "abbrkey": {
             "DEF": "definite article",
-            "J": "",
+            "J": null,
             "PROP": "proper name"
         },
         "book_metalanguage": "stan1293",
@@ -13919,7 +14016,7 @@
         "ID": "langsci94-a098895cc4",
         "abbrkey": {
             "3SG": "third person singular",
-            "C": "",
+            "C": null,
             "DET": "determiner",
             "POSS": "possessive"
         },
@@ -14450,7 +14547,7 @@
         "ID": "langsci94-9afdaef7e0",
         "abbrkey": {
             "3SG": "third person singular",
-            "D": "",
+            "D": null,
             "DEF": "definite article"
         },
         "book_metalanguage": "stan1293",
@@ -14921,11 +15018,11 @@
         "ID": "langsci94-9876a27f0d",
         "abbrkey": {
             "3SG": "third person singular",
-            "J": "",
+            "J": null,
             "M": "masculine",
             "PL": "plural",
             "POSS": "possessive",
-            "SYL": ""
+            "SYL": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",
@@ -15119,7 +15216,7 @@
         "abbrkey": {
             "3SG": "third person singular",
             "DET": "determiner",
-            "T": ""
+            "T": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Advances in the study of Siouan languages and linguistics",

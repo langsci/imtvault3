@@ -199,7 +199,7 @@
         "ID": "glossa5779-6",
         "abbrkey": {
             "3PL": "third person plural",
-            "DE": "",
+            "DE": null,
             "PERF": "perfective."
         },
         "book_metalanguage": "stan1293",
@@ -416,7 +416,7 @@
     {
         "ID": "glossa5779-11",
         "abbrkey": {
-            "1/3": ""
+            "1/3": null
         },
         "book_metalanguage": "stan1293",
         "categories": [],
@@ -458,7 +458,7 @@
     {
         "ID": "glossa5779-12",
         "abbrkey": {
-            "1/3": ""
+            "1/3": null
         },
         "book_metalanguage": "stan1293",
         "categories": [],
@@ -502,7 +502,7 @@
     {
         "ID": "glossa5779-13",
         "abbrkey": {
-            "1/3": ""
+            "1/3": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -608,7 +608,23 @@
         "language_iso6393": "und",
         "language_name": "Brazilian Portuguese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q103940464": "continuant",
+            "Q11710365": "aquatic organism",
+            "Q1756633": "Aquatic_animal",
+            "Q2382443": "Biota",
+            "Q23958946": "individual entity",
+            "Q27043950": "anatomical entity",
+            "Q29651224": "natural object",
+            "Q3039055": "Aquatic_mammal",
+            "Q35120": "entity",
+            "Q382441": "Marine_mammal",
+            "Q488383": "object",
+            "Q53617489": "independent continuant",
+            "Q7239": "Organism",
+            "Q729": "Animal",
+            "Q7377": "Mammal"
+        },
         "provider": "glossa",
         "srcwordsbare": [
             "Baleia",
@@ -742,19 +758,19 @@
         "parententities": {
             "Q103940464": "continuant",
             "Q1150771": "output",
-            "Q11879003": "",
+            "Q11879003": "environmental resource",
             "Q1310239": "component",
             "Q1454986": "physical system",
-            "Q15075845": "",
+            "Q15075845": "primary commodity",
             "Q15401930": "artificial object",
-            "Q1554231": "",
+            "Q1554231": "resource",
             "Q15989253": "part",
             "Q16686022": "natural physical object",
             "Q16686448": "artificial object",
             "Q16887380": "group",
-            "Q188460": "",
-            "Q20011319": "",
-            "Q20088819": "",
+            "Q188460": "natural resource",
+            "Q20011319": "plant structure",
+            "Q20088819": "group of cells",
             "Q214609": "material",
             "Q223557": "physical object",
             "Q23958946": "individual entity",
@@ -762,7 +778,7 @@
             "Q25416091": "substance",
             "Q27043948": "material anatomical entity",
             "Q27043950": "anatomical entity",
-            "Q27062218": "",
+            "Q27062218": "multicellular structure",
             "Q2707831": "plant_tissue",
             "Q28555911": "ordinary matter",
             "Q28728771": "matter",
@@ -771,9 +787,9 @@
             "Q28845870": "biological component",
             "Q28877": "goods",
             "Q28921572": "common matter",
-            "Q289472": "",
-            "Q28969293": "",
-            "Q28969364": "",
+            "Q289472": "biogenic substance",
+            "Q28969293": "biological material",
+            "Q28969364": "plant material",
             "Q2897903": "goods and services",
             "Q29651224": "natural object",
             "Q2995644": "result",
@@ -782,11 +798,11 @@
             "Q31464082": "source",
             "Q332076": "no title",
             "Q337060": "perceptible physical object",
-            "Q3405827": "",
+            "Q3405827": "natural material",
             "Q35120": "entity",
             "Q35459920": "three-dimensional object",
             "Q35758": "matter",
-            "Q40397": "",
+            "Q40397": "tissue",
             "Q4406616": "concrete object",
             "Q488383": "object",
             "Q4936952": "anatomical structure",
@@ -925,7 +941,34 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q1150771": "output",
+            "Q1454986": "physical system",
+            "Q15401930": "artificial object",
+            "Q16686448": "artificial object",
+            "Q2142903": "jewelry",
+            "Q223557": "physical object",
+            "Q2424752": "product",
+            "Q2467478": "Widget_(economics)",
+            "Q28877": "goods",
+            "Q2897903": "goods and services",
+            "Q2995644": "result",
+            "Q30060700": "scientific object",
+            "Q30241068": "observable entity",
+            "Q337060": "perceptible physical object",
+            "Q35120": "entity",
+            "Q35459920": "three-dimensional object",
+            "Q3575260": "Bijou_(jewellery)",
+            "Q362200": "accessory",
+            "Q4406616": "concrete object",
+            "Q46847": "Ring_(jewellery)",
+            "Q488383": "object",
+            "Q58415929": "spatio-temporal entity",
+            "Q58778": "system",
+            "Q6671777": "structure",
+            "Q8205328": "artificial physical object",
+            "Q99527517": "collective entity"
+        },
         "provider": "glossa",
         "srcwordsbare": [
             "“Perdi",
@@ -1433,7 +1476,9 @@
         ],
         "doc_ID": 5779,
         "doc_URL": "https://www.glossa-journal.org/article/id/5779",
+        "entities": {},
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parententities": {},
         "provider": "glossa"
     },
     {
@@ -2122,7 +2167,7 @@
     {
         "ID": "glossa5779-47",
         "abbrkey": {
-            "NE": ""
+            "NE": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -2194,10 +2239,10 @@
             "Q17376908": "Languoid",
             "Q19814": "Romance_languages",
             "Q19860": "Indo-European_languages",
-            "Q20162172": "",
+            "Q20162172": "human language",
             "Q2714388": "Western_Romance_languages",
-            "Q276314": "",
-            "Q34770": "",
+            "Q276314": "Nostratic",
+            "Q34770": "language",
             "Q35120": "entity",
             "Q488383": "object",
             "Q7048977": "abstract entity",
@@ -2284,10 +2329,10 @@
             "Q17376908": "Languoid",
             "Q19814": "Romance_languages",
             "Q19860": "Indo-European_languages",
-            "Q20162172": "",
+            "Q20162172": "human language",
             "Q2714388": "Western_Romance_languages",
-            "Q276314": "",
-            "Q34770": "",
+            "Q276314": "Nostratic",
+            "Q34770": "language",
             "Q35120": "entity",
             "Q488383": "object",
             "Q7048977": "abstract entity",

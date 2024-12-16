@@ -232,7 +232,7 @@
         "ID": "glossa5365-8",
         "abbrkey": {
             "A": "agent-like argument of canonical transitive verb",
-            "C": ""
+            "C": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -277,7 +277,7 @@
     {
         "ID": "glossa5365-9",
         "abbrkey": {
-            "C": ""
+            "C": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -318,7 +318,7 @@
         "ID": "glossa5365-10",
         "abbrkey": {
             "F": "feminine",
-            "FSG": ""
+            "FSG": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -425,7 +425,7 @@
     {
         "ID": "glossa5365-13",
         "abbrkey": {
-            "FSG": ""
+            "FSG": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -493,7 +493,7 @@
     {
         "ID": "glossa5365-15",
         "abbrkey": {
-            "MSG": ""
+            "MSG": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -529,7 +529,7 @@
     {
         "ID": "glossa5365-16",
         "abbrkey": {
-            "FPL": ""
+            "FPL": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -555,29 +555,29 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q106559804": "",
+            "Q106559804": "person or organization",
             "Q108288352": "skilled_agricultural,_forestry_and_fishery_workers",
-            "Q108289043": "",
-            "Q108289653": "",
-            "Q108290536": "",
-            "Q1191714": "",
-            "Q12713481": "",
+            "Q108289043": "market-oriented skilled agricultural workers",
+            "Q108289653": "market gardeners and crop growers",
+            "Q108290536": "field crop and vegetable growers",
+            "Q1191714": "blue-collar worker",
+            "Q12713481": "laborer",
             "Q131512": "Farmer",
             "Q18336849": "",
             "Q19261760": "agricultural_worker",
-            "Q215627": "",
+            "Q215627": "person",
             "Q23958946": "individual entity",
             "Q24229398": "agent",
-            "Q26720107": "",
+            "Q26720107": "personal law",
             "Q327055": "Worker",
             "Q35120": "entity",
-            "Q3778211": "",
+            "Q3778211": "legal person",
             "Q488383": "object",
-            "Q702269": "",
-            "Q703534": "",
-            "Q795052": "",
+            "Q702269": "professional",
+            "Q703534": "employee",
+            "Q795052": "individual",
             "Q830077": "subject",
-            "Q852998": ""
+            "Q852998": "stakeholder"
         },
         "provider": "glossa",
         "srcwordsbare": [
@@ -627,7 +627,7 @@
     {
         "ID": "glossa5365-18",
         "abbrkey": {
-            "MSG": "",
+            "MSG": null,
             "NOM": "nominative"
         },
         "book_metalanguage": "stan1293",
@@ -699,7 +699,7 @@
     {
         "ID": "glossa5365-20",
         "abbrkey": {
-            "FSG": ""
+            "FSG": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -737,7 +737,7 @@
     {
         "ID": "glossa5365-21",
         "abbrkey": {
-            "MSG": "",
+            "MSG": null,
             "NOM": "nominative"
         },
         "book_metalanguage": "stan1293",
@@ -774,7 +774,7 @@
         "ID": "glossa5365-22",
         "abbrkey": {
             "ACC": "accusative",
-            "FSG": ""
+            "FSG": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -813,7 +813,7 @@
     {
         "ID": "glossa5365-23",
         "abbrkey": {
-            "MSG": "",
+            "MSG": null,
             "NOM": "nominative"
         },
         "book_metalanguage": "stan1293",
@@ -962,7 +962,7 @@
     {
         "ID": "glossa5365-28",
         "abbrkey": {
-            "FSG": "",
+            "FSG": null,
             "REFL": "reflexive"
         },
         "book_metalanguage": "stan1293",
@@ -1030,7 +1030,7 @@
     {
         "ID": "glossa5365-30",
         "abbrkey": {
-            "MSG": ""
+            "MSG": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -1068,7 +1068,7 @@
     {
         "ID": "glossa5365-31",
         "abbrkey": {
-            "MSG": ""
+            "MSG": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -1138,7 +1138,7 @@
     {
         "ID": "glossa5365-33",
         "abbrkey": {
-            "MSG": ""
+            "MSG": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -1169,7 +1169,7 @@
     {
         "ID": "glossa5365-34",
         "abbrkey": {
-            "NPL": ""
+            "NPL": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -1269,7 +1269,7 @@
     {
         "ID": "glossa5365-37",
         "abbrkey": {
-            "MSG": "",
+            "MSG": null,
             "NOM": "nominative"
         },
         "book_metalanguage": "stan1293",
@@ -1568,7 +1568,29 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q11460": "Clothing",
+            "Q1150771": "output",
+            "Q1454986": "physical system",
+            "Q15401930": "artificial object",
+            "Q16686448": "artificial object",
+            "Q223557": "physical object",
+            "Q2424752": "product",
+            "Q28877": "goods",
+            "Q2897903": "goods and services",
+            "Q2995644": "result",
+            "Q30060700": "scientific object",
+            "Q30241068": "observable entity",
+            "Q35120": "entity",
+            "Q35459920": "three-dimensional object",
+            "Q386724": "work",
+            "Q4406616": "concrete object",
+            "Q488383": "object",
+            "Q58415929": "spatio-temporal entity",
+            "Q58778": "system",
+            "Q6671777": "structure",
+            "Q99527517": "collective entity"
+        },
         "provider": "glossa",
         "srcwordsbare": [
             "pro₂",
@@ -1768,7 +1790,7 @@
     {
         "ID": "glossa5365-50",
         "abbrkey": {
-            "MSG": ""
+            "MSG": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -1804,7 +1826,7 @@
     {
         "ID": "glossa5365-51",
         "abbrkey": {
-            "MSG": ""
+            "MSG": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -1842,7 +1864,7 @@
     {
         "ID": "glossa5365-52",
         "abbrkey": {
-            "ITER": "",
+            "ITER": null,
             "REFL": "reflexive"
         },
         "book_metalanguage": "stan1293",
@@ -1953,9 +1975,9 @@
     {
         "ID": "glossa5365-55",
         "abbrkey": {
-            "MSG": "",
+            "MSG": null,
             "NOM": "nominative",
-            "NPL": ""
+            "NPL": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -1993,7 +2015,7 @@
     {
         "ID": "glossa5365-56",
         "abbrkey": {
-            "MSG": "",
+            "MSG": null,
             "NOM": "nominative"
         },
         "book_metalanguage": "stan1293",
@@ -2074,8 +2096,8 @@
     {
         "ID": "glossa5365-58",
         "abbrkey": {
-            "NPL": "",
-            "NSG": ""
+            "NPL": null,
+            "NSG": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -2196,8 +2218,8 @@
         "ID": "glossa5365-61",
         "abbrkey": {
             "3PL": "third person plural",
-            "FPL": "",
-            "MPL": ""
+            "FPL": null,
+            "MPL": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -2279,7 +2301,7 @@
     {
         "ID": "glossa5365-63",
         "abbrkey": {
-            "MSG": "",
+            "MSG": null,
             "NOM": "nominative"
         },
         "book_metalanguage": "stan1293",
@@ -2392,9 +2414,9 @@
     {
         "ID": "glossa5365-66",
         "abbrkey": {
-            "FSG": "",
+            "FSG": null,
             "M": "masculine",
-            "MSG": ""
+            "MSG": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -2476,7 +2498,7 @@
     {
         "ID": "glossa5365-68",
         "abbrkey": {
-            "FPL": "",
+            "FPL": null,
             "M": "masculine"
         },
         "book_metalanguage": "stan1293",

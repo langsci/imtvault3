@@ -3,7 +3,7 @@
         "ID": "langsci427-b045fc759a",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "I"
         ],
@@ -37,10 +37,10 @@
         "abbrkey": {
             "1PL": "first person plural",
             "COMP": "complementizer",
-            "IDEO": ""
+            "IDEO": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "COMP",
             "IDEO",
@@ -69,9 +69,9 @@
         "parententities": {
             "Q1150070": "change",
             "Q1190554": "occurrence",
-            "Q12044624": "",
-            "Q15275719": "",
-            "Q1656682": "",
+            "Q12044624": "periodic process",
+            "Q15275719": "recurring event",
+            "Q1656682": "event",
             "Q16887380": "group",
             "Q20937557": "sequence",
             "Q26907166": "temporal entity",
@@ -79,7 +79,7 @@
             "Q3249551": "process",
             "Q35120": "entity",
             "Q58415929": "spatio-temporal entity",
-            "Q67518233": "",
+            "Q67518233": "process",
             "Q67518978": "occurrent",
             "Q99527517": "collective entity"
         },
@@ -98,10 +98,10 @@
         "ID": "langsci427-a89640f777",
         "abbrkey": {
             "3SG": "third person singular",
-            "IDEO": ""
+            "IDEO": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "IDEO",
             "SG"
@@ -135,10 +135,10 @@
         "ID": "langsci427-3ceba2da64",
         "abbrkey": {
             "2PL": "second person plural",
-            "IDEO": ""
+            "IDEO": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "IDEO",
             "PL"
@@ -176,10 +176,10 @@
         "ID": "langsci427-c0c6132956",
         "abbrkey": {
             "COMP": "complementizer",
-            "IDEO": ""
+            "IDEO": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "COMP",
             "G",
@@ -205,27 +205,27 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q106559804": "",
-            "Q15619164": "",
+            "Q106559804": "person or organization",
+            "Q15619164": "abstract being",
             "Q178885": "Deity",
             "Q18336849": "",
-            "Q18706315": "",
-            "Q21070598": "",
-            "Q215627": "",
+            "Q18706315": "hypothetical entity",
+            "Q21070598": "character that may or may not be fictional",
+            "Q215627": "person",
             "Q23958946": "individual entity",
             "Q24229398": "agent",
             "Q24334685": "mythical_entity",
-            "Q26720107": "",
+            "Q26720107": "personal law",
             "Q28855038": "supernatural_being",
-            "Q30060629": "",
+            "Q30060629": "object of non-science",
             "Q35120": "entity",
-            "Q3778211": "",
-            "Q4271324": "",
+            "Q3778211": "legal person",
+            "Q4271324": "mythical character",
             "Q4356623": "Intelligent_designer",
             "Q488383": "object",
             "Q635155": "Creator_deity",
             "Q7048977": "abstract entity",
-            "Q795052": "",
+            "Q795052": "individual",
             "Q830077": "subject"
         },
         "provider": "langsci",
@@ -242,11 +242,11 @@
         "ID": "langsci427-c2e3e1a645",
         "abbrkey": {
             "3SG": "third person singular",
-            "IDEO": "",
+            "IDEO": null,
             "PFV": "perfective"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "IDEO",
             "PFV",
@@ -283,7 +283,7 @@
         "ID": "langsci427-4068f79a84",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [],
         "citation": "green:lotven:ed:24",
         "clength": 11,
@@ -315,7 +315,7 @@
             "2SG": "second person singular"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "SG"
         ],
@@ -358,7 +358,7 @@
             "Q": "question marker"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "Q",
             "SG"
@@ -405,7 +405,7 @@
             "INTJ": "interjection"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "INTJ",
             "SG"
@@ -443,7 +443,7 @@
             "1PL": "first person plural"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "G",
             "PL"
@@ -467,7 +467,31 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q103940464": "continuant",
+            "Q106559804": "person or organization",
+            "Q15619164": "abstract being",
+            "Q178885": "Deity",
+            "Q18336849": "",
+            "Q18706315": "hypothetical entity",
+            "Q21070598": "character that may or may not be fictional",
+            "Q215627": "person",
+            "Q23958946": "individual entity",
+            "Q24229398": "agent",
+            "Q24334685": "mythical_entity",
+            "Q26720107": "personal law",
+            "Q28855038": "supernatural_being",
+            "Q30060629": "object of non-science",
+            "Q35120": "entity",
+            "Q3778211": "legal person",
+            "Q4271324": "mythical character",
+            "Q4356623": "Intelligent_designer",
+            "Q488383": "object",
+            "Q635155": "Creator_deity",
+            "Q7048977": "abstract entity",
+            "Q795052": "individual",
+            "Q830077": "subject"
+        },
         "provider": "langsci",
         "srcwordsbare": [
             "Á",
@@ -482,7 +506,7 @@
         "ID": "langsci427-5b4fa03e52",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A"
         ],
@@ -517,7 +541,7 @@
             "1SG": "first person singular"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "SG"
         ],
@@ -554,7 +578,7 @@
             "Q": "question marker"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "Q"
         ],
@@ -591,7 +615,7 @@
             "INTJ": "interjection"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "INTJ"
         ],
@@ -620,7 +644,7 @@
         "ID": "langsci427-074aaf9423",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [],
         "citation": "green:lotven:ed:24",
         "clength": 11,
@@ -651,7 +675,7 @@
         "ID": "langsci427-b68c4abd5d",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [],
         "citation": "green:lotven:ed:24",
         "clength": 10,
@@ -684,7 +708,7 @@
             "2PL": "second person plural"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "PL"
         ],
@@ -719,7 +743,7 @@
         "ID": "langsci427-a30d032071",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [],
         "citation": "green:lotven:ed:24",
         "clength": 12,
@@ -752,7 +776,7 @@
             "DEF": "definite"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "DEF"
         ],
@@ -792,7 +816,7 @@
             "3SG": "third person singular"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "PL",
             "SG"
@@ -832,7 +856,7 @@
             "FUT": "future"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "FUT",
             "SG"
@@ -869,7 +893,7 @@
             "CONJ": "conjunction"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "CONJ",
             "G",
@@ -897,27 +921,27 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q106559804": "",
-            "Q15619164": "",
+            "Q106559804": "person or organization",
+            "Q15619164": "abstract being",
             "Q178885": "Deity",
             "Q18336849": "",
-            "Q18706315": "",
-            "Q21070598": "",
-            "Q215627": "",
+            "Q18706315": "hypothetical entity",
+            "Q21070598": "character that may or may not be fictional",
+            "Q215627": "person",
             "Q23958946": "individual entity",
             "Q24229398": "agent",
             "Q24334685": "mythical_entity",
-            "Q26720107": "",
+            "Q26720107": "personal law",
             "Q28855038": "supernatural_being",
-            "Q30060629": "",
+            "Q30060629": "object of non-science",
             "Q35120": "entity",
-            "Q3778211": "",
-            "Q4271324": "",
+            "Q3778211": "legal person",
+            "Q4271324": "mythical character",
             "Q4356623": "Intelligent_designer",
             "Q488383": "object",
             "Q635155": "Creator_deity",
             "Q7048977": "abstract entity",
-            "Q795052": "",
+            "Q795052": "individual",
             "Q830077": "subject"
         },
         "provider": "langsci",
@@ -940,7 +964,7 @@
             "FUT": "future"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "COND",
             "FUT",
@@ -981,7 +1005,7 @@
             "1PL": "first person plural"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "G",
             "PL"
@@ -1019,7 +1043,7 @@
             "1PL": "first person plural"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "G",
             "PL"
@@ -1058,7 +1082,7 @@
             "2SG": "second person singular"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "SG"
         ],
@@ -1099,7 +1123,7 @@
             "1SG": "first person singular"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "SG"
         ],
@@ -1137,7 +1161,7 @@
             "Q": "question marker"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "Q",
             "SG"
@@ -1175,7 +1199,7 @@
             "1SG": "first person singular"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "SG",
             "Y"
@@ -1211,7 +1235,7 @@
         "ID": "langsci427-570f50dcda",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "CONJ",
             "PL",
@@ -1265,7 +1289,7 @@
             "3PL": "third person plural"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "PL",
             "Y"
@@ -1308,7 +1332,7 @@
             "Q": "question marker"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "PL",
             "Q",
@@ -1355,7 +1379,7 @@
             "3PL": "third person plural"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "PL",
             "Y"
@@ -1397,7 +1421,7 @@
             "1SG": "first person singular"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "SG"
         ],
@@ -1430,7 +1454,7 @@
             "2SG": "second person singular"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "SG"
         ],
@@ -1464,7 +1488,7 @@
             "FOC": "focus"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "FOC",
             "K",
@@ -1499,7 +1523,7 @@
         "ID": "langsci427-54d7b09e4f",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [],
         "citation": "green:lotven:ed:24",
         "clength": 9,
@@ -1526,7 +1550,7 @@
         "ID": "langsci427-10e67ffa54",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [],
         "citation": "green:lotven:ed:24",
         "clength": 15,
@@ -1555,7 +1579,7 @@
         "ID": "langsci427-18c081c10e",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [],
         "citation": "green:lotven:ed:24",
         "clength": 17,
@@ -1586,7 +1610,7 @@
             "2SG": "second person singular"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "SG"
         ],
@@ -1622,7 +1646,7 @@
             "2PL": "second person plural"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "PL",
             "SG"
@@ -1658,7 +1682,7 @@
         "ID": "langsci427-f2a08e7a8b",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [],
         "citation": "green:lotven:ed:24",
         "clength": 12,
@@ -1690,7 +1714,7 @@
             "INDEF": "indefinite"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "INDEF",
             "PL"
@@ -1727,7 +1751,7 @@
             "FOC": "focus"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "FOC",
             "SG"
@@ -1763,7 +1787,7 @@
             "2SG": "second person singular"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "SG"
         ],
@@ -1799,7 +1823,7 @@
             "CONJ": "conjunction"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "CONJ",
             "PL"
@@ -1840,7 +1864,7 @@
             "3SG": "third person singular"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "SG"
         ],
@@ -1879,7 +1903,7 @@
             "1SG": "first person singular"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "SG"
         ],
@@ -1916,7 +1940,7 @@
             "INDEF": "indefinite"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "CONJ",
             "G",
@@ -1949,27 +1973,27 @@
         "modality": "volitive",
         "parententities": {
             "Q103940464": "continuant",
-            "Q106559804": "",
-            "Q15619164": "",
+            "Q106559804": "person or organization",
+            "Q15619164": "abstract being",
             "Q178885": "Deity",
             "Q18336849": "",
-            "Q18706315": "",
-            "Q21070598": "",
-            "Q215627": "",
+            "Q18706315": "hypothetical entity",
+            "Q21070598": "character that may or may not be fictional",
+            "Q215627": "person",
             "Q23958946": "individual entity",
             "Q24229398": "agent",
             "Q24334685": "mythical_entity",
-            "Q26720107": "",
+            "Q26720107": "personal law",
             "Q28855038": "supernatural_being",
-            "Q30060629": "",
+            "Q30060629": "object of non-science",
             "Q35120": "entity",
-            "Q3778211": "",
-            "Q4271324": "",
+            "Q3778211": "legal person",
+            "Q4271324": "mythical character",
             "Q4356623": "Intelligent_designer",
             "Q488383": "object",
             "Q635155": "Creator_deity",
             "Q7048977": "abstract entity",
-            "Q795052": "",
+            "Q795052": "individual",
             "Q830077": "subject"
         },
         "provider": "langsci",
@@ -1994,7 +2018,7 @@
             "SC": "serial connector"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "G",
             "SC",
@@ -2025,27 +2049,27 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q106559804": "",
-            "Q15619164": "",
+            "Q106559804": "person or organization",
+            "Q15619164": "abstract being",
             "Q178885": "Deity",
             "Q18336849": "",
-            "Q18706315": "",
-            "Q21070598": "",
-            "Q215627": "",
+            "Q18706315": "hypothetical entity",
+            "Q21070598": "character that may or may not be fictional",
+            "Q215627": "person",
             "Q23958946": "individual entity",
             "Q24229398": "agent",
             "Q24334685": "mythical_entity",
-            "Q26720107": "",
+            "Q26720107": "personal law",
             "Q28855038": "supernatural_being",
-            "Q30060629": "",
+            "Q30060629": "object of non-science",
             "Q35120": "entity",
-            "Q3778211": "",
-            "Q4271324": "",
+            "Q3778211": "legal person",
+            "Q4271324": "mythical character",
             "Q4356623": "Intelligent_designer",
             "Q488383": "object",
             "Q635155": "Creator_deity",
             "Q7048977": "abstract entity",
-            "Q795052": "",
+            "Q795052": "individual",
             "Q830077": "subject"
         },
         "provider": "langsci",
@@ -2070,7 +2094,7 @@
             "NEG": "negative"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "CONJ",
             "G",
@@ -2101,27 +2125,27 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q106559804": "",
-            "Q15619164": "",
+            "Q106559804": "person or organization",
+            "Q15619164": "abstract being",
             "Q178885": "Deity",
             "Q18336849": "",
-            "Q18706315": "",
-            "Q21070598": "",
-            "Q215627": "",
+            "Q18706315": "hypothetical entity",
+            "Q21070598": "character that may or may not be fictional",
+            "Q215627": "person",
             "Q23958946": "individual entity",
             "Q24229398": "agent",
             "Q24334685": "mythical_entity",
-            "Q26720107": "",
+            "Q26720107": "personal law",
             "Q28855038": "supernatural_being",
-            "Q30060629": "",
+            "Q30060629": "object of non-science",
             "Q35120": "entity",
-            "Q3778211": "",
-            "Q4271324": "",
+            "Q3778211": "legal person",
+            "Q4271324": "mythical character",
             "Q4356623": "Intelligent_designer",
             "Q488383": "object",
             "Q635155": "Creator_deity",
             "Q7048977": "abstract entity",
-            "Q795052": "",
+            "Q795052": "individual",
             "Q830077": "subject"
         },
         "provider": "langsci",
@@ -2147,7 +2171,7 @@
             "SC": "serial connector"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "DEF",
             "INDEF",
@@ -2205,7 +2229,7 @@
             "NEG": "negative"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "G",
@@ -2238,27 +2262,27 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q106559804": "",
-            "Q15619164": "",
+            "Q106559804": "person or organization",
+            "Q15619164": "abstract being",
             "Q178885": "Deity",
             "Q18336849": "",
-            "Q18706315": "",
-            "Q21070598": "",
-            "Q215627": "",
+            "Q18706315": "hypothetical entity",
+            "Q21070598": "character that may or may not be fictional",
+            "Q215627": "person",
             "Q23958946": "individual entity",
             "Q24229398": "agent",
             "Q24334685": "mythical_entity",
-            "Q26720107": "",
+            "Q26720107": "personal law",
             "Q28855038": "supernatural_being",
-            "Q30060629": "",
+            "Q30060629": "object of non-science",
             "Q35120": "entity",
-            "Q3778211": "",
-            "Q4271324": "",
+            "Q3778211": "legal person",
+            "Q4271324": "mythical character",
             "Q4356623": "Intelligent_designer",
             "Q488383": "object",
             "Q635155": "Creator_deity",
             "Q7048977": "abstract entity",
-            "Q795052": "",
+            "Q795052": "individual",
             "Q830077": "subject"
         },
         "provider": "langsci",
@@ -2283,7 +2307,7 @@
             "FOC": "focus"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "FOC",
             "PL"
@@ -2325,7 +2349,7 @@
             "SC": "serial connector"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "CONJ",
             "G",
@@ -2361,27 +2385,27 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q106559804": "",
-            "Q15619164": "",
+            "Q106559804": "person or organization",
+            "Q15619164": "abstract being",
             "Q178885": "Deity",
             "Q18336849": "",
-            "Q18706315": "",
-            "Q21070598": "",
-            "Q215627": "",
+            "Q18706315": "hypothetical entity",
+            "Q21070598": "character that may or may not be fictional",
+            "Q215627": "person",
             "Q23958946": "individual entity",
             "Q24229398": "agent",
             "Q24334685": "mythical_entity",
-            "Q26720107": "",
+            "Q26720107": "personal law",
             "Q28855038": "supernatural_being",
-            "Q30060629": "",
+            "Q30060629": "object of non-science",
             "Q35120": "entity",
-            "Q3778211": "",
-            "Q4271324": "",
+            "Q3778211": "legal person",
+            "Q4271324": "mythical character",
             "Q4356623": "Intelligent_designer",
             "Q488383": "object",
             "Q635155": "Creator_deity",
             "Q7048977": "abstract entity",
-            "Q795052": "",
+            "Q795052": "individual",
             "Q830077": "subject"
         },
         "provider": "langsci",
@@ -2409,7 +2433,7 @@
             "CONJ": "conjunction"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "CONJ",
             "G",
@@ -2438,27 +2462,27 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q106559804": "",
-            "Q15619164": "",
+            "Q106559804": "person or organization",
+            "Q15619164": "abstract being",
             "Q178885": "Deity",
             "Q18336849": "",
-            "Q18706315": "",
-            "Q21070598": "",
-            "Q215627": "",
+            "Q18706315": "hypothetical entity",
+            "Q21070598": "character that may or may not be fictional",
+            "Q215627": "person",
             "Q23958946": "individual entity",
             "Q24229398": "agent",
             "Q24334685": "mythical_entity",
-            "Q26720107": "",
+            "Q26720107": "personal law",
             "Q28855038": "supernatural_being",
-            "Q30060629": "",
+            "Q30060629": "object of non-science",
             "Q35120": "entity",
-            "Q3778211": "",
-            "Q4271324": "",
+            "Q3778211": "legal person",
+            "Q4271324": "mythical character",
             "Q4356623": "Intelligent_designer",
             "Q488383": "object",
             "Q635155": "Creator_deity",
             "Q7048977": "abstract entity",
-            "Q795052": "",
+            "Q795052": "individual",
             "Q830077": "subject"
         },
         "provider": "langsci",
@@ -2481,7 +2505,7 @@
             "FOC": "focus"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "FOC",
@@ -2521,7 +2545,7 @@
             "INDEF": "indefinite"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "INDEF",
             "SG"
@@ -2558,7 +2582,7 @@
             "SC": "serial connector"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "SC",
             "SG"
@@ -2603,7 +2627,7 @@
             "CONJ": "conjunction"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "CONJ",
             "G",
@@ -2633,27 +2657,27 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q106559804": "",
-            "Q15619164": "",
+            "Q106559804": "person or organization",
+            "Q15619164": "abstract being",
             "Q178885": "Deity",
             "Q18336849": "",
-            "Q18706315": "",
-            "Q21070598": "",
-            "Q215627": "",
+            "Q18706315": "hypothetical entity",
+            "Q21070598": "character that may or may not be fictional",
+            "Q215627": "person",
             "Q23958946": "individual entity",
             "Q24229398": "agent",
             "Q24334685": "mythical_entity",
-            "Q26720107": "",
+            "Q26720107": "personal law",
             "Q28855038": "supernatural_being",
-            "Q30060629": "",
+            "Q30060629": "object of non-science",
             "Q35120": "entity",
-            "Q3778211": "",
-            "Q4271324": "",
+            "Q3778211": "legal person",
+            "Q4271324": "mythical character",
             "Q4356623": "Intelligent_designer",
             "Q488383": "object",
             "Q635155": "Creator_deity",
             "Q7048977": "abstract entity",
-            "Q795052": "",
+            "Q795052": "individual",
             "Q830077": "subject"
         },
         "provider": "langsci",
@@ -2674,7 +2698,7 @@
         "ID": "langsci427-5ea2d0084b",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A"
         ],
@@ -2703,7 +2727,7 @@
         "ID": "langsci427-6651847bb6",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [],
         "citation": "green:lotven:ed:24",
         "clength": 8,
@@ -2734,7 +2758,7 @@
             "SC": "serial connector"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "G",
             "PL",
@@ -2763,27 +2787,27 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q106559804": "",
-            "Q15619164": "",
+            "Q106559804": "person or organization",
+            "Q15619164": "abstract being",
             "Q178885": "Deity",
             "Q18336849": "",
-            "Q18706315": "",
-            "Q21070598": "",
-            "Q215627": "",
+            "Q18706315": "hypothetical entity",
+            "Q21070598": "character that may or may not be fictional",
+            "Q215627": "person",
             "Q23958946": "individual entity",
             "Q24229398": "agent",
             "Q24334685": "mythical_entity",
-            "Q26720107": "",
+            "Q26720107": "personal law",
             "Q28855038": "supernatural_being",
-            "Q30060629": "",
+            "Q30060629": "object of non-science",
             "Q35120": "entity",
-            "Q3778211": "",
-            "Q4271324": "",
+            "Q3778211": "legal person",
+            "Q4271324": "mythical character",
             "Q4356623": "Intelligent_designer",
             "Q488383": "object",
             "Q635155": "Creator_deity",
             "Q7048977": "abstract entity",
-            "Q795052": "",
+            "Q795052": "individual",
             "Q830077": "subject"
         },
         "provider": "langsci",
@@ -2806,7 +2830,7 @@
             "FOC": "focus"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "FOC",
             "PL"
@@ -2846,7 +2870,7 @@
             "SC": "serial connector"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "SC"
         ],
@@ -2880,7 +2904,7 @@
             "2SG": "second person singular"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "G",
             "SG"
@@ -2906,27 +2930,27 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q106559804": "",
-            "Q15619164": "",
+            "Q106559804": "person or organization",
+            "Q15619164": "abstract being",
             "Q178885": "Deity",
             "Q18336849": "",
-            "Q18706315": "",
-            "Q21070598": "",
-            "Q215627": "",
+            "Q18706315": "hypothetical entity",
+            "Q21070598": "character that may or may not be fictional",
+            "Q215627": "person",
             "Q23958946": "individual entity",
             "Q24229398": "agent",
             "Q24334685": "mythical_entity",
-            "Q26720107": "",
+            "Q26720107": "personal law",
             "Q28855038": "supernatural_being",
-            "Q30060629": "",
+            "Q30060629": "object of non-science",
             "Q35120": "entity",
-            "Q3778211": "",
-            "Q4271324": "",
+            "Q3778211": "legal person",
+            "Q4271324": "mythical character",
             "Q4356623": "Intelligent_designer",
             "Q488383": "object",
             "Q635155": "Creator_deity",
             "Q7048977": "abstract entity",
-            "Q795052": "",
+            "Q795052": "individual",
             "Q830077": "subject"
         },
         "provider": "langsci",
@@ -2947,7 +2971,7 @@
             "CONJ": "conjunction"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "CONJ",
             "G",
@@ -2977,27 +3001,27 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q106559804": "",
-            "Q15619164": "",
+            "Q106559804": "person or organization",
+            "Q15619164": "abstract being",
             "Q178885": "Deity",
             "Q18336849": "",
-            "Q18706315": "",
-            "Q21070598": "",
-            "Q215627": "",
+            "Q18706315": "hypothetical entity",
+            "Q21070598": "character that may or may not be fictional",
+            "Q215627": "person",
             "Q23958946": "individual entity",
             "Q24229398": "agent",
             "Q24334685": "mythical_entity",
-            "Q26720107": "",
+            "Q26720107": "personal law",
             "Q28855038": "supernatural_being",
-            "Q30060629": "",
+            "Q30060629": "object of non-science",
             "Q35120": "entity",
-            "Q3778211": "",
-            "Q4271324": "",
+            "Q3778211": "legal person",
+            "Q4271324": "mythical character",
             "Q4356623": "Intelligent_designer",
             "Q488383": "object",
             "Q635155": "Creator_deity",
             "Q7048977": "abstract entity",
-            "Q795052": "",
+            "Q795052": "individual",
             "Q830077": "subject"
         },
         "provider": "langsci",
@@ -3021,7 +3045,7 @@
             "PFV": "perfective"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "K",
             "PFV",
@@ -3061,7 +3085,7 @@
             "PFV": "perfective"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "K",
             "PFV",
@@ -3102,7 +3126,7 @@
             "PFV": "perfective"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "K",
             "PFV"
@@ -3138,7 +3162,7 @@
             "PFV": "perfective"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "K",
             "PFV"
@@ -3174,7 +3198,7 @@
             "COMP": "complementizer"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "COMP",
             "K"
@@ -3214,7 +3238,7 @@
             "COMP": "complementizer"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "COMP",
             "K"
@@ -3258,7 +3282,7 @@
             "COMP": "complementizer"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "COMP"
@@ -3298,7 +3322,7 @@
             "COMP": "complementizer"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "COMP"
@@ -3342,7 +3366,7 @@
             "COMP": "complementizer"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "COMP"
@@ -3384,7 +3408,7 @@
             "COMP": "complementizer"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "COMP",
             "K"
@@ -3426,7 +3450,7 @@
             "COMP": "complementizer"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "COMP",
             "K"
@@ -3464,7 +3488,7 @@
             "DEF": "definite"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "DEF",
             "O",
@@ -3505,7 +3529,7 @@
             "DEF": "definite"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "DEF",
             "O",
@@ -3548,7 +3572,7 @@
             "DEF": "definite"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "DEF",
             "O",
@@ -3591,7 +3615,7 @@
         "ID": "langsci427-d33fdd66a0",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "K"
@@ -3627,7 +3651,7 @@
         "ID": "langsci427-1c729d98f0",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "K"
@@ -3663,10 +3687,10 @@
         "ID": "langsci427-d1612bea33",
         "abbrkey": {
             "DEF": "definite",
-            "SPECI": ""
+            "SPECI": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "DEF",
             "K",
@@ -3712,7 +3736,7 @@
             "NEG": "negation, negative"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "K",
@@ -3760,7 +3784,7 @@
             "NEG": "negation, negative"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "K",
@@ -3805,7 +3829,7 @@
         "ID": "langsci427-dc83c794be",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "K"
@@ -3841,7 +3865,7 @@
         "ID": "langsci427-2113f846b3",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "K"
@@ -3877,7 +3901,7 @@
         "ID": "langsci427-3bca080a97",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "K"
@@ -3922,7 +3946,7 @@
             "GEN": "genitive"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "GEN"
@@ -3967,7 +3991,7 @@
             "NEG": "negation, negative"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "GEN",
@@ -4024,7 +4048,7 @@
             "NEG": "negation, negative"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "GEN",
@@ -4081,7 +4105,7 @@
             "NEG": "negation, negative"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "GEN",
@@ -4140,14 +4164,14 @@
     {
         "ID": "langsci427-e3b51de86a",
         "abbrkey": {
-            "C1S": "",
-            "C3S": "",
+            "C1S": null,
+            "C3S": null,
             "DEF": "definite",
             "OBJ": "object",
             "PFV": "perfective"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "C",
             "DEF",
@@ -4172,53 +4196,53 @@
         "language_name": "Avatime",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
-            "Q104493": "",
-            "Q107289510": "",
+            "Q104493": "risk",
+            "Q107289510": "interpersonal activity",
             "Q108163": "proposition",
             "Q11028": "information",
             "Q1132455": "Hazard",
             "Q1150070": "change",
-            "Q1190058": "",
+            "Q1190058": "physical intimacy",
             "Q1190554": "occurrence",
             "Q1207505": "quality",
-            "Q1293220": "",
-            "Q13878858": "",
-            "Q14863654": "",
-            "Q14885910": "",
+            "Q1293220": "physical phenomenon",
+            "Q13878858": "natural process",
+            "Q14863654": "multicellular organismal reproductive process",
+            "Q14885910": "reproductive process",
             "Q15916540": "semantic unit",
-            "Q16358629": "",
-            "Q16722960": "",
+            "Q16358629": "intimacy",
+            "Q16722960": "phenomenon",
             "Q16877783": "meaning",
             "Q16887380": "group",
             "Q16889133": "class",
-            "Q17320256": "",
+            "Q17320256": "physical process",
             "Q1786828": "constituent",
             "Q183046": "meaning",
-            "Q18603648": "",
+            "Q18603648": "contributing factor",
             "Q188572": "fact",
             "Q1914636": "activity",
             "Q20817253": "linguistic unit",
             "Q20937557": "sequence",
-            "Q21170479": "",
-            "Q223642": "",
+            "Q21170479": "possibility",
+            "Q223642": "interpersonal relationship",
             "Q246672": "mathematical object",
             "Q2684591": "statement",
             "Q26907166": "temporal entity",
             "Q28813620": "set",
             "Q29651519": "mental object",
-            "Q2990593": "",
-            "Q2990595": "",
+            "Q2990593": "animal behavior",
+            "Q2990595": "reproductive behavior",
             "Q2990599": "dangerous_behavior",
             "Q2990601": "Risky_sexual_behavior",
-            "Q2990606": "",
-            "Q2996394": "",
+            "Q2990606": "sexual behavior",
+            "Q2996394": "biological process",
             "Q30060700": "scientific object",
             "Q31464082": "source",
             "Q3249551": "process",
-            "Q3505845": "",
+            "Q3505845": "state",
             "Q35120": "entity",
             "Q3769299": "human behavior",
-            "Q38183514": "",
+            "Q38183514": "physical contact",
             "Q4042967": "Sexuality",
             "Q41796": "sentence",
             "Q42848": "data",
@@ -4226,26 +4250,26 @@
             "Q483247": "phenomenon",
             "Q488383": "object",
             "Q5371079": "emic unit",
-            "Q5422048": "",
+            "Q5422048": "external risk",
             "Q58415929": "spatio-temporal entity",
-            "Q602884": "",
+            "Q602884": "social phenomenon",
             "Q608": "Human_sexual_activity",
             "Q61788060": "human activity",
             "Q628523": "Message",
-            "Q64732777": "",
+            "Q64732777": "biological phenomenon",
             "Q67518978": "occurrent",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
             "Q73822": "Sensation_seeking",
-            "Q813912": "",
-            "Q853725": "",
-            "Q86923152": "",
-            "Q87075524": "",
+            "Q813912": "condition",
+            "Q853725": "social relation",
+            "Q86923152": "risk source",
+            "Q87075524": "health risk",
             "Q930933": "relation",
             "Q9332": "behavior",
             "Q937228": "property",
             "Q9380010": "utterance",
-            "Q944806": "",
+            "Q944806": "operational risk",
             "Q99527517": "collective entity"
         },
         "provider": "langsci",
@@ -4259,14 +4283,14 @@
     {
         "ID": "langsci427-ac6630699b",
         "abbrkey": {
-            "C1S": "",
-            "C3S": "",
+            "C1S": null,
+            "C3S": null,
             "DEF": "definite",
             "OBJ": "object",
             "PFV": "perfective"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "C",
             "DEF",
@@ -4292,53 +4316,53 @@
         "language_name": "Avatime",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
-            "Q104493": "",
-            "Q107289510": "",
+            "Q104493": "risk",
+            "Q107289510": "interpersonal activity",
             "Q108163": "proposition",
             "Q11028": "information",
             "Q1132455": "Hazard",
             "Q1150070": "change",
-            "Q1190058": "",
+            "Q1190058": "physical intimacy",
             "Q1190554": "occurrence",
             "Q1207505": "quality",
-            "Q1293220": "",
-            "Q13878858": "",
-            "Q14863654": "",
-            "Q14885910": "",
+            "Q1293220": "physical phenomenon",
+            "Q13878858": "natural process",
+            "Q14863654": "multicellular organismal reproductive process",
+            "Q14885910": "reproductive process",
             "Q15916540": "semantic unit",
-            "Q16358629": "",
-            "Q16722960": "",
+            "Q16358629": "intimacy",
+            "Q16722960": "phenomenon",
             "Q16877783": "meaning",
             "Q16887380": "group",
             "Q16889133": "class",
-            "Q17320256": "",
+            "Q17320256": "physical process",
             "Q1786828": "constituent",
             "Q183046": "meaning",
-            "Q18603648": "",
+            "Q18603648": "contributing factor",
             "Q188572": "fact",
             "Q1914636": "activity",
             "Q20817253": "linguistic unit",
             "Q20937557": "sequence",
-            "Q21170479": "",
-            "Q223642": "",
+            "Q21170479": "possibility",
+            "Q223642": "interpersonal relationship",
             "Q246672": "mathematical object",
             "Q2684591": "statement",
             "Q26907166": "temporal entity",
             "Q28813620": "set",
             "Q29651519": "mental object",
-            "Q2990593": "",
-            "Q2990595": "",
+            "Q2990593": "animal behavior",
+            "Q2990595": "reproductive behavior",
             "Q2990599": "dangerous_behavior",
             "Q2990601": "Risky_sexual_behavior",
-            "Q2990606": "",
-            "Q2996394": "",
+            "Q2990606": "sexual behavior",
+            "Q2996394": "biological process",
             "Q30060700": "scientific object",
             "Q31464082": "source",
             "Q3249551": "process",
-            "Q3505845": "",
+            "Q3505845": "state",
             "Q35120": "entity",
             "Q3769299": "human behavior",
-            "Q38183514": "",
+            "Q38183514": "physical contact",
             "Q4042967": "Sexuality",
             "Q41796": "sentence",
             "Q42848": "data",
@@ -4346,26 +4370,26 @@
             "Q483247": "phenomenon",
             "Q488383": "object",
             "Q5371079": "emic unit",
-            "Q5422048": "",
+            "Q5422048": "external risk",
             "Q58415929": "spatio-temporal entity",
-            "Q602884": "",
+            "Q602884": "social phenomenon",
             "Q608": "Human_sexual_activity",
             "Q61788060": "human activity",
             "Q628523": "Message",
-            "Q64732777": "",
+            "Q64732777": "biological phenomenon",
             "Q67518978": "occurrent",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
             "Q73822": "Sensation_seeking",
-            "Q813912": "",
-            "Q853725": "",
-            "Q86923152": "",
-            "Q87075524": "",
+            "Q813912": "condition",
+            "Q853725": "social relation",
+            "Q86923152": "risk source",
+            "Q87075524": "health risk",
             "Q930933": "relation",
             "Q9332": "behavior",
             "Q937228": "property",
             "Q9380010": "utterance",
-            "Q944806": "",
+            "Q944806": "operational risk",
             "Q99527517": "collective entity"
         },
         "provider": "langsci",
@@ -4380,13 +4404,13 @@
     {
         "ID": "langsci427-45e9bca91f",
         "abbrkey": {
-            "C1S": "",
-            "C5S": "",
+            "C1S": null,
+            "C5S": null,
             "DEF": "definite",
             "PFV": "perfective"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "C",
             "DEF",
@@ -4423,12 +4447,12 @@
     {
         "ID": "langsci427-6ad3e6258e",
         "abbrkey": {
-            "CM": "",
+            "CM": null,
             "SG": "singular",
-            "SM": ""
+            "SM": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "CM",
@@ -4466,13 +4490,13 @@
     {
         "ID": "langsci427-aa1e7cf19f",
         "abbrkey": {
-            "CM": "",
+            "CM": null,
             "DEF": "definite",
             "SG": "singular",
-            "SM": ""
+            "SM": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "CM",
@@ -4516,11 +4540,11 @@
         "ID": "langsci427-8001c4c178",
         "abbrkey": {
             "DEF": "definite",
-            "FACT": "",
-            "PERF": ""
+            "FACT": null,
+            "PERF": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "D",
             "DEF",
@@ -4562,11 +4586,11 @@
         "ID": "langsci427-ffb5b4a3e1",
         "abbrkey": {
             "DEF": "definite",
-            "FACT": "",
-            "PERF": ""
+            "FACT": null,
+            "PERF": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "D",
             "DEF",
@@ -4612,7 +4636,7 @@
             "COMP": "complementizer"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "COMP",
@@ -4652,7 +4676,7 @@
             "COMP": "complementizer"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "COMP",
@@ -4696,10 +4720,10 @@
         "ID": "langsci427-49d9a6b754",
         "abbrkey": {
             "3SG": "third person singular",
-            "CONT": ""
+            "CONT": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "CONT",
@@ -4746,15 +4770,15 @@
     {
         "ID": "langsci427-cf49c40b37",
         "abbrkey": {
-            "CL1": "",
-            "CL7": "",
+            "CL1": null,
+            "CL7": null,
             "DEM": "demonstrative",
-            "DEM4": "",
-            "S3S": "",
-            "TAM": ""
+            "DEM4": null,
+            "S3S": null,
+            "TAM": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "CL",
             "DEM",
@@ -4783,34 +4807,34 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q10675206": "",
+            "Q10675206": "ingredient",
             "Q1150771": "output",
             "Q1194058": "disposable product",
             "Q1310239": "component",
             "Q1364": "Fruit",
             "Q1454986": "physical system",
-            "Q14712": "",
-            "Q1485500": "",
-            "Q15197056": "",
+            "Q14712": "drupe",
+            "Q1485500": "tangible good",
+            "Q15197056": "fleshy fruit",
             "Q15401930": "artificial object",
             "Q15989253": "part",
             "Q16686022": "natural physical object",
             "Q16686448": "artificial object",
             "Q1681365": "consumables",
-            "Q20011319": "",
+            "Q20011319": "plant structure",
             "Q2095": "Food",
             "Q214609": "material",
             "Q223557": "physical object",
             "Q23958946": "individual entity",
-            "Q24060707": "",
+            "Q24060707": "plant organ",
             "Q2424752": "product",
-            "Q25403900": "",
+            "Q25403900": "food ingredient",
             "Q25416091": "substance",
-            "Q26902770": "",
-            "Q26902962": "",
+            "Q26902770": "food products by OKPD2 (10)",
+            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
             "Q26988402": "",
-            "Q26988406": "",
-            "Q27043864": "",
+            "Q26988406": "Agricultural, hunting and forestry products",
+            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
             "Q27043948": "material anatomical entity",
             "Q27043950": "anatomical entity",
             "Q27478161": "",
@@ -4818,17 +4842,17 @@
             "Q28555911": "ordinary matter",
             "Q28728771": "matter",
             "Q28732711": "physical substance",
-            "Q28791169": "",
+            "Q28791169": "simple fruit",
             "Q28845870": "biological component",
             "Q28877": "goods",
             "Q28921572": "common matter",
             "Q2897903": "goods and services",
-            "Q29043258": "",
+            "Q29043258": "Other fruit and nuts",
             "Q29651224": "natural object",
             "Q2995644": "result",
             "Q30060700": "scientific object",
             "Q30241068": "observable entity",
-            "Q3314483": "",
+            "Q3314483": "fruit",
             "Q337060": "perceptible physical object",
             "Q35120": "entity",
             "Q35459920": "three-dimensional object",
@@ -4861,15 +4885,15 @@
     {
         "ID": "langsci427-833976a8bf",
         "abbrkey": {
-            "CL1": "",
-            "CL7": "",
+            "CL1": null,
+            "CL7": null,
             "DEM": "demonstrative",
-            "DEM4": "",
-            "S3S": "",
-            "TAM": ""
+            "DEM4": null,
+            "S3S": null,
+            "TAM": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "CL",
             "DEM",
@@ -4898,34 +4922,34 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q10675206": "",
+            "Q10675206": "ingredient",
             "Q1150771": "output",
             "Q1194058": "disposable product",
             "Q1310239": "component",
             "Q1364": "Fruit",
             "Q1454986": "physical system",
-            "Q14712": "",
-            "Q1485500": "",
-            "Q15197056": "",
+            "Q14712": "drupe",
+            "Q1485500": "tangible good",
+            "Q15197056": "fleshy fruit",
             "Q15401930": "artificial object",
             "Q15989253": "part",
             "Q16686022": "natural physical object",
             "Q16686448": "artificial object",
             "Q1681365": "consumables",
-            "Q20011319": "",
+            "Q20011319": "plant structure",
             "Q2095": "Food",
             "Q214609": "material",
             "Q223557": "physical object",
             "Q23958946": "individual entity",
-            "Q24060707": "",
+            "Q24060707": "plant organ",
             "Q2424752": "product",
-            "Q25403900": "",
+            "Q25403900": "food ingredient",
             "Q25416091": "substance",
-            "Q26902770": "",
-            "Q26902962": "",
+            "Q26902770": "food products by OKPD2 (10)",
+            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
             "Q26988402": "",
-            "Q26988406": "",
-            "Q27043864": "",
+            "Q26988406": "Agricultural, hunting and forestry products",
+            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
             "Q27043948": "material anatomical entity",
             "Q27043950": "anatomical entity",
             "Q27478161": "",
@@ -4933,17 +4957,17 @@
             "Q28555911": "ordinary matter",
             "Q28728771": "matter",
             "Q28732711": "physical substance",
-            "Q28791169": "",
+            "Q28791169": "simple fruit",
             "Q28845870": "biological component",
             "Q28877": "goods",
             "Q28921572": "common matter",
             "Q2897903": "goods and services",
-            "Q29043258": "",
+            "Q29043258": "Other fruit and nuts",
             "Q29651224": "natural object",
             "Q2995644": "result",
             "Q30060700": "scientific object",
             "Q30241068": "observable entity",
-            "Q3314483": "",
+            "Q3314483": "fruit",
             "Q337060": "perceptible physical object",
             "Q35120": "entity",
             "Q35459920": "three-dimensional object",
@@ -4977,7 +5001,7 @@
         "ID": "langsci427-34d6da431d",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "I"
         ],
@@ -5008,7 +5032,7 @@
         "ID": "langsci427-2b2fc2587f",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [],
         "citation": "green:lotven:ed:24",
         "clength": 12,
@@ -5035,7 +5059,7 @@
         "ID": "langsci427-3b340533f3",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "FUT",
@@ -5074,7 +5098,7 @@
         "ID": "langsci427-c0f2c1d318",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "FUT",
@@ -5113,7 +5137,7 @@
         "ID": "langsci427-6fda002a79",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [],
         "citation": "green:lotven:ed:24",
         "clength": 19,
@@ -5148,7 +5172,7 @@
         "ID": "langsci427-6016409eaf",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "ACC",
             "PFV",
@@ -5186,7 +5210,7 @@
         "ID": "langsci427-f7bc1c6f80",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "ACC",
@@ -5232,7 +5256,7 @@
             "PFV": "perfective"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "ACC",
             "PFV",
@@ -5268,13 +5292,13 @@
         "ID": "langsci427-1ee2c98e85",
         "abbrkey": {
             "ACC": "accusative",
-            "ANSG": "",
+            "ANSG": null,
             "DEF": "definite",
             "PFV": "perfective",
-            "PSM": ""
+            "PSM": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "ACC",
@@ -5326,7 +5350,7 @@
             "PFV": "perfective"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "ACC",
             "PFV",
@@ -5367,14 +5391,14 @@
     {
         "ID": "langsci427-e3db501c99",
         "abbrkey": {
-            "CMP": "",
+            "CMP": null,
             "DEF": "definite",
             "OBL": "oblique",
-            "POS": "",
+            "POS": null,
             "TR": "transitive"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "CMP",
             "DEF",
@@ -5416,14 +5440,14 @@
     {
         "ID": "langsci427-2d26d72d27",
         "abbrkey": {
-            "CMP": "",
+            "CMP": null,
             "DEF": "definite",
             "OBL": "oblique",
-            "POS": "",
+            "POS": null,
             "TR": "transitive"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "CMP",
             "DEF",
@@ -5466,12 +5490,12 @@
         "ID": "langsci427-a1c5e191e8",
         "abbrkey": {
             "DEF": "definite",
-            "PF": "",
-            "POS": "",
-            "POSTP": ""
+            "PF": null,
+            "POS": null,
+            "POSTP": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "DEF",
             "PF",
@@ -5514,12 +5538,12 @@
         "ID": "langsci427-df05b37c60",
         "abbrkey": {
             "DEF": "definite",
-            "PF": "",
-            "POS": "",
-            "POSTP": ""
+            "PF": null,
+            "POS": null,
+            "POSTP": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "DEF",
             "PF",
@@ -5562,10 +5586,10 @@
         "ID": "langsci427-6c1b03605e",
         "abbrkey": {
             "DEF": "definite",
-            "NARR": ""
+            "NARR": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "DEF",
             "NARR"
@@ -5606,10 +5630,10 @@
     {
         "ID": "langsci427-b113b3b490",
         "abbrkey": {
-            "PERF": ""
+            "PERF": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "I",
             "PERF"
@@ -5649,13 +5673,13 @@
         "ID": "langsci427-377e911f84",
         "abbrkey": {
             "3SG": "third person singular",
-            "CPL": "",
-            "INC": "",
+            "CPL": null,
+            "INC": null,
             "NEG": "negation, negative",
-            "NSP": ""
+            "NSP": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "CPL",
             "INC",
@@ -5696,7 +5720,7 @@
         "ID": "langsci427-d97993a684",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "CPL",
             "INC",
@@ -5741,13 +5765,13 @@
         "ID": "langsci427-c1885669fa",
         "abbrkey": {
             "3SG": "third person singular",
-            "DDEMSG": "",
-            "INC": "",
-            "NSP": "",
-            "REDUP": ""
+            "DDEMSG": null,
+            "INC": null,
+            "NSP": null,
+            "REDUP": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "DDEMSG",
             "INC",
@@ -5774,53 +5798,53 @@
         "language_name": "Obolo",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
-            "Q104493": "",
-            "Q107289510": "",
+            "Q104493": "risk",
+            "Q107289510": "interpersonal activity",
             "Q108163": "proposition",
             "Q11028": "information",
             "Q1132455": "Hazard",
             "Q1150070": "change",
-            "Q1190058": "",
+            "Q1190058": "physical intimacy",
             "Q1190554": "occurrence",
             "Q1207505": "quality",
-            "Q1293220": "",
-            "Q13878858": "",
-            "Q14863654": "",
-            "Q14885910": "",
+            "Q1293220": "physical phenomenon",
+            "Q13878858": "natural process",
+            "Q14863654": "multicellular organismal reproductive process",
+            "Q14885910": "reproductive process",
             "Q15916540": "semantic unit",
-            "Q16358629": "",
-            "Q16722960": "",
+            "Q16358629": "intimacy",
+            "Q16722960": "phenomenon",
             "Q16877783": "meaning",
             "Q16887380": "group",
             "Q16889133": "class",
-            "Q17320256": "",
+            "Q17320256": "physical process",
             "Q1786828": "constituent",
             "Q183046": "meaning",
-            "Q18603648": "",
+            "Q18603648": "contributing factor",
             "Q188572": "fact",
             "Q1914636": "activity",
             "Q20817253": "linguistic unit",
             "Q20937557": "sequence",
-            "Q21170479": "",
-            "Q223642": "",
+            "Q21170479": "possibility",
+            "Q223642": "interpersonal relationship",
             "Q246672": "mathematical object",
             "Q2684591": "statement",
             "Q26907166": "temporal entity",
             "Q28813620": "set",
             "Q29651519": "mental object",
-            "Q2990593": "",
-            "Q2990595": "",
+            "Q2990593": "animal behavior",
+            "Q2990595": "reproductive behavior",
             "Q2990599": "dangerous_behavior",
             "Q2990601": "Risky_sexual_behavior",
-            "Q2990606": "",
-            "Q2996394": "",
+            "Q2990606": "sexual behavior",
+            "Q2996394": "biological process",
             "Q30060700": "scientific object",
             "Q31464082": "source",
             "Q3249551": "process",
-            "Q3505845": "",
+            "Q3505845": "state",
             "Q35120": "entity",
             "Q3769299": "human behavior",
-            "Q38183514": "",
+            "Q38183514": "physical contact",
             "Q4042967": "Sexuality",
             "Q41796": "sentence",
             "Q42848": "data",
@@ -5828,26 +5852,26 @@
             "Q483247": "phenomenon",
             "Q488383": "object",
             "Q5371079": "emic unit",
-            "Q5422048": "",
+            "Q5422048": "external risk",
             "Q58415929": "spatio-temporal entity",
-            "Q602884": "",
+            "Q602884": "social phenomenon",
             "Q608": "Human_sexual_activity",
             "Q61788060": "human activity",
             "Q628523": "Message",
-            "Q64732777": "",
+            "Q64732777": "biological phenomenon",
             "Q67518978": "occurrent",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
             "Q73822": "Sensation_seeking",
-            "Q813912": "",
-            "Q853725": "",
-            "Q86923152": "",
-            "Q87075524": "",
+            "Q813912": "condition",
+            "Q853725": "social relation",
+            "Q86923152": "risk source",
+            "Q87075524": "health risk",
             "Q930933": "relation",
             "Q9332": "behavior",
             "Q937228": "property",
             "Q9380010": "utterance",
-            "Q944806": "",
+            "Q944806": "operational risk",
             "Q99527517": "collective entity"
         },
         "provider": "langsci",
@@ -5863,10 +5887,10 @@
     {
         "ID": "langsci427-c223c772b7",
         "abbrkey": {
-            "DF": ""
+            "DF": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "B",
             "DF"
@@ -5903,10 +5927,10 @@
     {
         "ID": "langsci427-d1a7a612cf",
         "abbrkey": {
-            "DF": ""
+            "DF": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "B",
             "DF"
@@ -5945,12 +5969,12 @@
     {
         "ID": "langsci427-0f977c27ea",
         "abbrkey": {
-            "LK": "",
+            "LK": null,
             "PL": "plural",
-            "SPA": ""
+            "SPA": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "LK",
             "PL",
@@ -5989,10 +6013,10 @@
         "ID": "langsci427-0c5070ba94",
         "abbrkey": {
             "PL": "plural",
-            "SPA": ""
+            "SPA": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "PL",
             "SPA"
@@ -6031,10 +6055,10 @@
     {
         "ID": "langsci427-3b0547b5bc",
         "abbrkey": {
-            "CL": ""
+            "CL": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "CL"
         ],
@@ -6067,12 +6091,12 @@
         "ID": "langsci427-543d0f7be2",
         "abbrkey": {
             "2SG": "second person singular",
-            "CL": "",
+            "CL": null,
             "DET": "determiner",
-            "PREF": ""
+            "PREF": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "CL",
             "DET",
@@ -6112,7 +6136,7 @@
         "ID": "langsci427-58cd60c241",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "I"
         ],
@@ -6151,7 +6175,7 @@
         "ID": "langsci427-8517ee395c",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "I"
         ],
@@ -6191,10 +6215,10 @@
     {
         "ID": "langsci427-9a269b177a",
         "abbrkey": {
-            "PAST": ""
+            "PAST": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "PAST",
@@ -6230,10 +6254,10 @@
     {
         "ID": "langsci427-5ed3acf235",
         "abbrkey": {
-            "PAST": ""
+            "PAST": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "PAST",
@@ -6271,10 +6295,10 @@
     {
         "ID": "langsci427-27491256ae",
         "abbrkey": {
-            "SECA": ""
+            "SECA": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "B",
@@ -6313,7 +6337,7 @@
         "ID": "langsci427-ea5ebb307b",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "A",
             "B"
@@ -6350,13 +6374,13 @@
     {
         "ID": "langsci427-2bc3aa473b",
         "abbrkey": {
-            "APP": "",
+            "APP": null,
             "PFV": "perfective",
-            "PRX": "",
+            "PRX": null,
             "PST": "past"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "APP",
             "O",
@@ -6384,7 +6408,74 @@
         "language_iso6393": "und",
         "language_name": "Emai",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q103940464": "continuant",
+            "Q10675206": "ingredient",
+            "Q107122728": "plant-based food",
+            "Q107122793": "plant product",
+            "Q107126067": "vegetarian food",
+            "Q11004": "Vegetable",
+            "Q1150771": "output",
+            "Q11879003": "environmental resource",
+            "Q1194058": "disposable product",
+            "Q1310239": "component",
+            "Q1364": "Fruit",
+            "Q1454986": "physical system",
+            "Q15075845": "primary commodity",
+            "Q15401930": "artificial object",
+            "Q1554231": "resource",
+            "Q15989253": "part",
+            "Q16686022": "natural physical object",
+            "Q16686448": "artificial object",
+            "Q1681365": "consumables",
+            "Q188460": "natural resource",
+            "Q20011319": "plant structure",
+            "Q2095": "Food",
+            "Q214609": "material",
+            "Q223557": "physical object",
+            "Q23958946": "individual entity",
+            "Q24060707": "plant organ",
+            "Q2424752": "product",
+            "Q25403900": "food ingredient",
+            "Q25416091": "substance",
+            "Q27043948": "material anatomical entity",
+            "Q27043950": "anatomical entity",
+            "Q28555911": "ordinary matter",
+            "Q28728771": "matter",
+            "Q28732711": "physical substance",
+            "Q28845870": "biological component",
+            "Q28877": "goods",
+            "Q28921572": "common matter",
+            "Q28969293": "biological material",
+            "Q28969364": "plant material",
+            "Q2897903": "goods and services",
+            "Q29651224": "natural object",
+            "Q2995644": "result",
+            "Q30060700": "scientific object",
+            "Q30241068": "observable entity",
+            "Q31464082": "source",
+            "Q337060": "perceptible physical object",
+            "Q3405827": "natural material",
+            "Q35120": "entity",
+            "Q35459920": "three-dimensional object",
+            "Q35758": "matter",
+            "Q4406616": "concrete object",
+            "Q488383": "object",
+            "Q4936952": "anatomical structure",
+            "Q5339237": "squash",
+            "Q53617407": "material entity",
+            "Q53617489": "independent continuant",
+            "Q58415929": "spatio-temporal entity",
+            "Q58778": "system",
+            "Q6005984": "baryonic matter",
+            "Q66394244": "physical anatomical entity",
+            "Q6671777": "structure",
+            "Q712378": "Organ_(biology)",
+            "Q7239": "Organism",
+            "Q756": "Plant",
+            "Q8026408": "Winter_squash",
+            "Q99527517": "collective entity"
+        },
         "provider": "langsci",
         "srcwordsbare": [
             "Òjè",
@@ -6400,13 +6491,13 @@
         "ID": "langsci427-672dcdc2b9",
         "abbrkey": {
             "3PL": "third person plural",
-            "APP": "",
+            "APP": null,
             "PFV": "perfective",
-            "PRX": "",
+            "PRX": null,
             "PST": "past"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "APP",
             "O",
@@ -6449,13 +6540,13 @@
     {
         "ID": "langsci427-699c1806a5",
         "abbrkey": {
-            "APP": "",
+            "APP": null,
             "PFV": "perfective",
-            "PRX": "",
+            "PRX": null,
             "PST": "past"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "APP",
             "PFV",
@@ -6498,13 +6589,13 @@
     {
         "ID": "langsci427-4e2ef0693e",
         "abbrkey": {
-            "APP": "",
+            "APP": null,
             "PFV": "perfective",
-            "PRX": "",
+            "PRX": null,
             "PST": "past"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "APP",
             "PFV",
@@ -6549,13 +6640,13 @@
     {
         "ID": "langsci427-0a7dbf52cd",
         "abbrkey": {
-            "APP": "",
+            "APP": null,
             "PFV": "perfective",
-            "PRX": "",
+            "PRX": null,
             "PST": "past"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "APP",
             "PFV",
@@ -6598,13 +6689,13 @@
     {
         "ID": "langsci427-d543f6e360",
         "abbrkey": {
-            "APP": "",
+            "APP": null,
             "PFV": "perfective",
-            "PRX": "",
+            "PRX": null,
             "PST": "past"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "APP",
             "PFV",
@@ -6648,11 +6739,11 @@
         "ID": "langsci427-1b2426ede4",
         "abbrkey": {
             "PFV": "perfective",
-            "PRX": "",
+            "PRX": null,
             "PST": "past"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "PFV",
             "PRX",
@@ -6689,11 +6780,11 @@
         "ID": "langsci427-609b005c08",
         "abbrkey": {
             "PFV": "perfective",
-            "PRX": "",
+            "PRX": null,
             "PST": "past"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "PFV",
             "PRX",
@@ -6730,12 +6821,12 @@
     {
         "ID": "langsci427-73882e0ead",
         "abbrkey": {
-            "PRV": "",
-            "PRX": "",
+            "PRV": null,
+            "PRX": null,
             "PST": "past"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "PRV",
             "PRX",
@@ -6774,11 +6865,11 @@
         "ID": "langsci427-cd2b3cae14",
         "abbrkey": {
             "PFV": "perfective",
-            "PRX": "",
+            "PRX": null,
             "PST": "past"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "PFV",
             "PRX",
@@ -6815,11 +6906,11 @@
         "ID": "langsci427-621a6a0add",
         "abbrkey": {
             "PFV": "perfective",
-            "PRX": "",
+            "PRX": null,
             "PST": "past"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "PFV",
             "PRX",
@@ -6856,11 +6947,11 @@
         "ID": "langsci427-37c6a54af9",
         "abbrkey": {
             "PFV": "perfective",
-            "PRX": "",
+            "PRX": null,
             "PST": "past"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "O",
             "PFV",
@@ -6902,7 +6993,7 @@
         "ID": "langsci427-0af933b605",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "O"
         ],
@@ -6945,7 +7036,7 @@
         "ID": "langsci427-207d4af158",
         "abbrkey": {},
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "O"
         ],
@@ -6986,10 +7077,10 @@
         "ID": "langsci427-954255f8a4",
         "abbrkey": {
             "DEF": "definite",
-            "FE": ""
+            "FE": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "DEF",
             "FE",
@@ -7029,10 +7120,10 @@
         "ID": "langsci427-6998212a82",
         "abbrkey": {
             "DEF": "definite",
-            "FE": ""
+            "FE": null
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "DEF",
             "FE",
@@ -7074,11 +7165,11 @@
         "ID": "langsci427-d966cf8555",
         "abbrkey": {
             "PFV": "perfective",
-            "PRX": "",
+            "PRX": null,
             "PST": "past"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "O",
             "PFV",
@@ -7118,11 +7209,11 @@
         "ID": "langsci427-2a003af326",
         "abbrkey": {
             "PFV": "perfective",
-            "PRX": "",
+            "PRX": null,
             "PST": "past"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "O",
             "PFV",
@@ -7169,7 +7260,7 @@
             "FUT": "future"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "CHN",
             "FUT",
@@ -7206,7 +7297,7 @@
             "FUT": "future"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "CHN",
             "FUT",
@@ -7243,7 +7334,7 @@
             "FUT": "future"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "CHN",
             "FUT",
@@ -7280,7 +7371,7 @@
             "FUT": "future"
         },
         "book_metalanguage": "stan1293",
-        "book_title": "",
+        "book_title": null,
         "categories": [
             "CHN",
             "FUT",

@@ -212,8 +212,8 @@
         "ID": "glossa5074-6",
         "abbrkey": {
             "IMPV": "imperfective",
-            "NAKI": "",
-            "PRES": "",
+            "NAKI": null,
+            "PRES": null,
             "PROG": "progressive"
         },
         "book_metalanguage": "stan1293",
@@ -261,8 +261,8 @@
         "ID": "glossa5074-7",
         "abbrkey": {
             "IMPV": "imperfective",
-            "NAKI": "",
-            "PRES": "",
+            "NAKI": null,
+            "PRES": null,
             "PROG": "progressive"
         },
         "book_metalanguage": "stan1293",
@@ -502,7 +502,7 @@
         "abbrkey": {
             "CL": "classifier",
             "LOC": "locative",
-            "NAKI": ""
+            "NAKI": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -544,7 +544,7 @@
             "FUT": "future tense",
             "IMPV": "imperfective",
             "INF": "infinitive",
-            "NAKI": ""
+            "NAKI": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -630,42 +630,69 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q102205": "Fluid",
+            "Q104127086": "memory",
+            "Q11028": "information",
             "Q11435": "Liquid",
+            "Q1150070": "change",
             "Q1150771": "output",
+            "Q1190554": "occurrence",
             "Q1194058": "disposable product",
+            "Q1207505": "quality",
+            "Q12488383": "content",
+            "Q1347367": "aptitude",
             "Q1454986": "physical system",
             "Q15401930": "artificial object",
             "Q16686448": "artificial object",
             "Q1681365": "consumables",
-            "Q1704572": "",
+            "Q16887380": "group",
+            "Q1704572": "continuum",
+            "Q184872": "recreation",
+            "Q1914636": "activity",
+            "Q2018526": "arts",
+            "Q205961": "skill",
+            "Q20937557": "sequence",
             "Q2095": "Food",
+            "Q2111686": "Culinary_arts",
             "Q223557": "physical object",
             "Q2424752": "product",
             "Q25416091": "substance",
+            "Q26907166": "temporal entity",
             "Q28728771": "matter",
             "Q28732711": "physical substance",
+            "Q28813620": "set",
             "Q28877": "goods",
             "Q2897903": "goods and services",
             "Q2995644": "result",
             "Q30060700": "scientific object",
             "Q30241068": "observable entity",
+            "Q3249551": "process",
             "Q35120": "entity",
             "Q35459920": "three-dimensional object",
             "Q35758": "matter",
-            "Q378078": "",
+            "Q3769299": "human behavior",
+            "Q378078": "substance",
             "Q40050": "Drink",
-            "Q43460564": "",
+            "Q43460564": "chemical entity",
+            "Q4348225": "Tea_culture",
             "Q4406616": "concrete object",
-            "Q4437984": "",
+            "Q4437984": "continuum",
+            "Q451967": "intentional human activity",
             "Q488383": "object",
             "Q58415929": "spatio-temporal entity",
             "Q58778": "system",
-            "Q66591980": "",
-            "Q66591990": "",
+            "Q61788060": "human activity",
+            "Q66591980": "Foundational Model of Anatomy attribute entity",
+            "Q66591990": "physical state",
             "Q6671777": "structure",
+            "Q67518978": "occurrent",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
-            "Q79529": "",
+            "Q735": "Art",
+            "Q79529": "chemical substance",
+            "Q80083": "humanities",
+            "Q9081": "Knowledge",
+            "Q9332": "behavior",
+            "Q937228": "property",
             "Q99527517": "collective entity"
         },
         "provider": "glossa",
@@ -690,8 +717,8 @@
             "DAT": "dative",
             "IMPV": "imperfective",
             "LOC": "locative",
-            "NAKI": "",
-            "PAST": ""
+            "NAKI": null,
+            "PAST": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -838,7 +865,7 @@
     {
         "ID": "glossa5074-18",
         "abbrkey": {
-            "BA": "",
+            "BA": null,
             "FOC": "focus",
             "PERF": "perfect"
         },
@@ -880,7 +907,7 @@
     {
         "ID": "glossa5074-19",
         "abbrkey": {
-            "BA": "",
+            "BA": null,
             "FOC": "focus",
             "PERF": "perfect"
         },
@@ -924,9 +951,9 @@
         "abbrkey": {
             "COMP": "complementizer",
             "FUT": "future tense",
-            "PAST": "",
+            "PAST": null,
             "PERF": "perfect",
-            "PFC": ""
+            "PFC": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -986,9 +1013,9 @@
         "abbrkey": {
             "COMP": "complementizer",
             "FUT": "future tense",
-            "PAST": "",
+            "PAST": null,
             "PERF": "perfect",
-            "PFC": ""
+            "PFC": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -1140,7 +1167,7 @@
         "abbrkey": {
             "FUT": "future tense",
             "IMPV": "imperfective",
-            "NAKI": "",
+            "NAKI": null,
             "NEG": "negation"
         },
         "book_metalanguage": "stan1293",
@@ -1189,7 +1216,7 @@
         "abbrkey": {
             "FUT": "future tense",
             "IMPV": "imperfective",
-            "NAKI": "",
+            "NAKI": null,
             "NEG": "negation"
         },
         "book_metalanguage": "stan1293",
@@ -1239,7 +1266,7 @@
             "FUT": "future tense",
             "IMPV": "imperfective",
             "NEG": "negation",
-            "POL": ""
+            "POL": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -1288,7 +1315,7 @@
             "FUT": "future tense",
             "IMPV": "imperfective",
             "NEG": "negation",
-            "POL": ""
+            "POL": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -1336,7 +1363,7 @@
         "abbrkey": {
             "FUT": "future tense",
             "IMPV": "imperfective",
-            "NAKI": "",
+            "NAKI": null,
             "NEG": "negation"
         },
         "book_metalanguage": "stan1293",
@@ -1385,7 +1412,7 @@
         "abbrkey": {
             "FUT": "future tense",
             "IMPV": "imperfective",
-            "NAKI": "",
+            "NAKI": null,
             "NEG": "negation"
         },
         "book_metalanguage": "stan1293",
@@ -1515,8 +1542,8 @@
     {
         "ID": "glossa5074-32",
         "abbrkey": {
-            "HAB": "",
-            "NAKI": "",
+            "HAB": null,
+            "NAKI": null,
             "NEG": "negation"
         },
         "book_metalanguage": "stan1293",
@@ -1550,27 +1577,27 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q106559804": "",
-            "Q15619164": "",
+            "Q106559804": "person or organization",
+            "Q15619164": "abstract being",
             "Q178885": "Deity",
             "Q18336849": "",
-            "Q18706315": "",
-            "Q21070598": "",
-            "Q215627": "",
+            "Q18706315": "hypothetical entity",
+            "Q21070598": "character that may or may not be fictional",
+            "Q215627": "person",
             "Q23958946": "individual entity",
             "Q24229398": "agent",
             "Q24334685": "mythical_entity",
-            "Q26720107": "",
+            "Q26720107": "personal law",
             "Q28855038": "supernatural_being",
-            "Q30060629": "",
+            "Q30060629": "object of non-science",
             "Q35120": "entity",
-            "Q3778211": "",
-            "Q4271324": "",
+            "Q3778211": "legal person",
+            "Q4271324": "mythical character",
             "Q4356623": "Intelligent_designer",
             "Q488383": "object",
             "Q635155": "Creator_deity",
             "Q7048977": "abstract entity",
-            "Q795052": "",
+            "Q795052": "individual",
             "Q830077": "subject"
         },
         "polarity": "negative",
@@ -1590,8 +1617,8 @@
     {
         "ID": "glossa5074-33",
         "abbrkey": {
-            "HAB": "",
-            "NAKI": "",
+            "HAB": null,
+            "NAKI": null,
             "NEG": "negation"
         },
         "book_metalanguage": "stan1293",
@@ -1625,27 +1652,27 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q106559804": "",
-            "Q15619164": "",
+            "Q106559804": "person or organization",
+            "Q15619164": "abstract being",
             "Q178885": "Deity",
             "Q18336849": "",
-            "Q18706315": "",
-            "Q21070598": "",
-            "Q215627": "",
+            "Q18706315": "hypothetical entity",
+            "Q21070598": "character that may or may not be fictional",
+            "Q215627": "person",
             "Q23958946": "individual entity",
             "Q24229398": "agent",
             "Q24334685": "mythical_entity",
-            "Q26720107": "",
+            "Q26720107": "personal law",
             "Q28855038": "supernatural_being",
-            "Q30060629": "",
+            "Q30060629": "object of non-science",
             "Q35120": "entity",
-            "Q3778211": "",
-            "Q4271324": "",
+            "Q3778211": "legal person",
+            "Q4271324": "mythical character",
             "Q4356623": "Intelligent_designer",
             "Q488383": "object",
             "Q635155": "Creator_deity",
             "Q7048977": "abstract entity",
-            "Q795052": "",
+            "Q795052": "individual",
             "Q830077": "subject"
         },
         "polarity": "negative",
@@ -1670,8 +1697,8 @@
             "DAT": "dative",
             "IMPV": "imperfective",
             "LOC": "locative",
-            "NAKI": "",
-            "PAST": ""
+            "NAKI": null,
+            "PAST": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -1836,9 +1863,9 @@
         "ID": "glossa5074-37",
         "abbrkey": {
             "1SG": "first person singular",
-            "GE": "",
+            "GE": null,
             "NMLZ": "nominalizer",
-            "PAST": "",
+            "PAST": null,
             "REL": "relative",
             "SG": "singular.Transcription key:"
         },
@@ -1883,7 +1910,7 @@
     {
         "ID": "glossa5074-38",
         "abbrkey": {
-            "PAST": ""
+            "PAST": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -1925,10 +1952,10 @@
             "1SG": "first person singular",
             "2PL": "second person plural",
             "2SG": "second person singular",
-            "C": "",
+            "C": null,
             "OBJ": "object",
             "PST": "past tense",
-            "TELL": ""
+            "TELL": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -2066,7 +2093,7 @@
         "abbrkey": {
             "COMP": "complementizer",
             "FUT": "future tense",
-            "PAST": ""
+            "PAST": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -2177,7 +2204,7 @@
         "abbrkey": {
             "CL": "classifier",
             "GEN": "genitive",
-            "GO": ""
+            "GO": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -2803,7 +2830,7 @@
         "ID": "glossa5074-59",
         "abbrkey": {
             "GEN": "genitive",
-            "NAKI": "",
+            "NAKI": null,
             "PRESPERF": "present perfect",
             "PSTPERF": "past perfect"
         },
@@ -3089,7 +3116,7 @@
             "FOC": "focus",
             "GEN": "genitive",
             "IMPV": "imperfective",
-            "NAKI": "",
+            "NAKI": null,
             "PSTPERF": "past perfect"
         },
         "book_metalanguage": "stan1293",
@@ -3470,7 +3497,7 @@
         "abbrkey": {
             "ACC": "accusative",
             "ERG": "ergative",
-            "FEM": "",
+            "FEM": null,
             "PFV": "perfective",
             "Q": "question particle/marker"
         },
@@ -3486,7 +3513,9 @@
         ],
         "doc_ID": 5074,
         "doc_URL": "https://www.glossa-journal.org/article/id/5074",
+        "entities": {},
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parententities": {},
         "provider": "glossa"
     },
     {
@@ -3798,7 +3827,7 @@
         "abbrkey": {
             "DAT": "dative",
             "ERG": "ergative",
-            "FEM": "",
+            "FEM": null,
             "PFV": "perfective",
             "Q": "question particle/marker"
         },
@@ -3848,7 +3877,7 @@
         "abbrkey": {
             "DAT": "dative",
             "ERG": "ergative",
-            "FEM": "",
+            "FEM": null,
             "PFV": "perfective",
             "Q": "question particle/marker"
         },
@@ -3904,7 +3933,7 @@
         "abbrkey": {
             "CL": "classifier",
             "DAT": "dative",
-            "NAKI": "",
+            "NAKI": null,
             "NEG": "negation",
             "PFV": "perfective"
         },
@@ -3960,7 +3989,7 @@
         "ID": "glossa5074-83",
         "abbrkey": {
             "ERG": "ergative",
-            "FEM": "",
+            "FEM": null,
             "NEG": "negation",
             "PFV": "perfective"
         },

@@ -145,8 +145,8 @@
     {
         "ID": "langsci261-021f87fb53",
         "abbrkey": {
-            "AGENCY": "",
-            "PERSONAL": "",
+            "AGENCY": null,
+            "PERSONAL": null,
             "PRF": "perfect"
         },
         "book_metalanguage": "stan1293",
@@ -539,7 +539,7 @@
     {
         "ID": "langsci261-caaf266a3f",
         "abbrkey": {
-            "MI": "",
+            "MI": null,
             "PROG": "progressive"
         },
         "book_metalanguage": "stan1293",
@@ -605,7 +605,7 @@
         "ID": "langsci261-d181ae35ad",
         "abbrkey": {
             "PROG": "progressive",
-            "SI": ""
+            "SI": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -717,7 +717,7 @@
     {
         "ID": "langsci261-496d41e2f6",
         "abbrkey": {
-            "MI": "",
+            "MI": null,
             "PROG": "progressive"
         },
         "book_metalanguage": "stan1293",
@@ -743,29 +743,65 @@
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
+            "Q108163": "proposition",
+            "Q11024": "communication",
+            "Q11028": "information",
             "Q1150070": "change",
-            "Q1168263": "",
+            "Q1168263": "function",
             "Q1190554": "occurrence",
-            "Q160402": "",
+            "Q13878858": "natural process",
+            "Q15916540": "semantic unit",
+            "Q160402": "perception",
+            "Q16877783": "meaning",
             "Q16887380": "group",
-            "Q1724915": "",
+            "Q16889133": "class",
+            "Q1724915": "use",
+            "Q1786828": "constituent",
+            "Q17988854": "active motion",
+            "Q183046": "meaning",
+            "Q188572": "fact",
             "Q1914636": "activity",
+            "Q20817253": "linguistic unit",
             "Q20937557": "sequence",
+            "Q22269697": "multi-organism process",
+            "Q22294683": "biological process involved in intraspecies interaction between organisms",
+            "Q23009552": "gift exchange",
+            "Q23009675": "transfer",
+            "Q246672": "mathematical object",
+            "Q2684591": "statement",
             "Q26907166": "temporal entity",
             "Q28813620": "set",
-            "Q29182544": "",
+            "Q29182544": "assignment",
+            "Q29651519": "mental object",
+            "Q2990593": "animal behavior",
+            "Q2996394": "biological process",
+            "Q30060700": "scientific object",
             "Q3249551": "process",
             "Q35120": "entity",
             "Q3769299": "human behavior",
-            "Q4026292": "",
+            "Q4026292": "action",
+            "Q41796": "sentence",
+            "Q42848": "data",
             "Q451967": "intentional human activity",
+            "Q474328": "declarative sentence",
+            "Q483247": "phenomenon",
+            "Q488383": "object",
+            "Q52948": "interaction",
+            "Q5371079": "emic unit",
             "Q58415929": "spatio-temporal entity",
+            "Q6031064": "information exchange",
             "Q61788060": "human activity",
+            "Q628523": "Message",
+            "Q64732777": "biological phenomenon",
             "Q67518978": "occurrent",
-            "Q781413": "",
-            "Q855395": "",
+            "Q7048977": "abstract entity",
+            "Q7184903": "abstract entity",
+            "Q781413": "mental process",
+            "Q855395": "interpretation",
+            "Q921513": "social behavior",
             "Q9332": "behavior",
             "Q937228": "property",
+            "Q9380010": "utterance",
             "Q99527517": "collective entity"
         },
         "provider": "langsci",
@@ -780,7 +816,7 @@
         "abbrkey": {
             "ANT": "anterior",
             "DAT": "dative",
-            "MI": ""
+            "MI": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -824,7 +860,7 @@
         "ID": "langsci261-5131d90d53",
         "abbrkey": {
             "1SG": "first person singular",
-            "MI": "",
+            "MI": null,
             "PROG": "progressive"
         },
         "book_metalanguage": "stan1293",
@@ -868,7 +904,7 @@
             "3PL": "third person plural",
             "ANT": "anterior",
             "COREF": "coreference",
-            "MI": "",
+            "MI": null,
             "NAME": "proper name",
             "NMLZ": "nominalizer/nominalization"
         },
@@ -918,7 +954,7 @@
         "ID": "langsci261-17a7cd029b",
         "abbrkey": {
             "DAT": "dative",
-            "MI": ""
+            "MI": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -957,7 +993,7 @@
         "ID": "langsci261-1739d72e07",
         "abbrkey": {
             "ANT": "anterior",
-            "CHA": ""
+            "CHA": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -984,21 +1020,21 @@
             "Q108163": "proposition",
             "Q11028": "information",
             "Q1190554": "occurrence",
-            "Q12036439": "",
+            "Q12036439": "meteor",
             "Q1207505": "quality",
-            "Q1322005": "",
-            "Q1347367": "",
-            "Q151885": "",
+            "Q1322005": "natural phenomenon",
+            "Q1347367": "aptitude",
+            "Q151885": "concept",
             "Q15916540": "semantic unit",
-            "Q16332653": "",
+            "Q16332653": "meteorological phenomenon",
             "Q16877783": "meaning",
             "Q16889133": "class",
             "Q1786828": "constituent",
             "Q183046": "meaning",
             "Q188572": "fact",
-            "Q1972098": "",
+            "Q1972098": "hydrometeor",
             "Q20817253": "linguistic unit",
-            "Q2145290": "",
+            "Q2145290": "mental representation",
             "Q246672": "mathematical object",
             "Q25257": "Precipitation",
             "Q2684591": "statement",
@@ -1006,16 +1042,16 @@
             "Q29651519": "mental object",
             "Q30060700": "scientific object",
             "Q35120": "entity",
-            "Q4072190": "",
+            "Q4072190": "atmospheric phenomenon",
             "Q41796": "sentence",
             "Q42848": "data",
-            "Q4393498": "",
+            "Q4393498": "representation",
             "Q474328": "declarative sentence",
             "Q483247": "phenomenon",
             "Q488383": "object",
             "Q5371079": "emic unit",
             "Q58415929": "spatio-temporal entity",
-            "Q58928516": "",
+            "Q58928516": "meteorological concept",
             "Q628523": "Message",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
@@ -1035,7 +1071,7 @@
         "ID": "langsci261-5cff356a37",
         "abbrkey": {
             "ANT": "anterior",
-            "CHA": ""
+            "CHA": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -1062,21 +1098,21 @@
             "Q108163": "proposition",
             "Q11028": "information",
             "Q1190554": "occurrence",
-            "Q12036439": "",
+            "Q12036439": "meteor",
             "Q1207505": "quality",
-            "Q1322005": "",
-            "Q1347367": "",
-            "Q151885": "",
+            "Q1322005": "natural phenomenon",
+            "Q1347367": "aptitude",
+            "Q151885": "concept",
             "Q15916540": "semantic unit",
-            "Q16332653": "",
+            "Q16332653": "meteorological phenomenon",
             "Q16877783": "meaning",
             "Q16889133": "class",
             "Q1786828": "constituent",
             "Q183046": "meaning",
             "Q188572": "fact",
-            "Q1972098": "",
+            "Q1972098": "hydrometeor",
             "Q20817253": "linguistic unit",
-            "Q2145290": "",
+            "Q2145290": "mental representation",
             "Q246672": "mathematical object",
             "Q25257": "Precipitation",
             "Q2684591": "statement",
@@ -1084,16 +1120,16 @@
             "Q29651519": "mental object",
             "Q30060700": "scientific object",
             "Q35120": "entity",
-            "Q4072190": "",
+            "Q4072190": "atmospheric phenomenon",
             "Q41796": "sentence",
             "Q42848": "data",
-            "Q4393498": "",
+            "Q4393498": "representation",
             "Q474328": "declarative sentence",
             "Q483247": "phenomenon",
             "Q488383": "object",
             "Q5371079": "emic unit",
             "Q58415929": "spatio-temporal entity",
-            "Q58928516": "",
+            "Q58928516": "meteorological concept",
             "Q628523": "Message",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
@@ -1113,7 +1149,7 @@
         "ID": "langsci261-63fcc8e9a3",
         "abbrkey": {
             "CAUSAL": "causalis",
-            "CHA": "",
+            "CHA": null,
             "D": "distal",
             "DAT": "dative",
             "DEM": "demonstrative",
@@ -1163,7 +1199,7 @@
         "abbrkey": {
             "ACC": "accusative",
             "AUX": "auxiliary",
-            "CHA": "",
+            "CHA": null,
             "EMPH": "emphatic",
             "NAME": "proper name",
             "NMLZ": "nominalizer/nominalization",
@@ -1215,7 +1251,7 @@
         "ID": "langsci261-e4267876a4",
         "abbrkey": {
             "1SG": "first person singular",
-            "MI": "",
+            "MI": null,
             "NAME": "proper name"
         },
         "book_metalanguage": "stan1293",
@@ -1255,7 +1291,7 @@
     {
         "ID": "langsci261-214a7d8114",
         "abbrkey": {
-            "MI": ""
+            "MI": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -1325,7 +1361,7 @@
         "ID": "langsci261-96310babdd",
         "abbrkey": {
             "3SG": "third person singular",
-            "CHA": "",
+            "CHA": null,
             "GEN": "genitive"
         },
         "book_metalanguage": "stan1293",
@@ -1366,9 +1402,9 @@
         "ID": "langsci261-d08d70c2a6",
         "abbrkey": {
             "AUX": "auxiliary",
-            "CHA": "",
+            "CHA": null,
             "FUT": "future",
-            "INT": "",
+            "INT": null,
             "NEG": "negation, negative",
             "PROG": "progressive"
         },
@@ -1417,7 +1453,7 @@
         "ID": "langsci261-e1383fd8a0",
         "abbrkey": {
             "3PL": "third person plural",
-            "CHA": "",
+            "CHA": null,
             "DAT": "dative"
         },
         "book_metalanguage": "stan1293",
@@ -1464,7 +1500,7 @@
         "ID": "langsci261-a24d6e0ccc",
         "abbrkey": {
             "1SG": "first person singular",
-            "MI": "",
+            "MI": null,
             "NEG": "negation, negative"
         },
         "book_metalanguage": "stan1293",
@@ -1514,7 +1550,7 @@
         "abbrkey": {
             "3PL": "third person plural",
             "LIM": "limitative",
-            "MI": "",
+            "MI": null,
             "NEG": "negation, negative",
             "PST": "past"
         },
@@ -1556,7 +1592,7 @@
     {
         "ID": "langsci261-9cba3e7d08",
         "abbrkey": {
-            "CHA": ""
+            "CHA": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -1620,7 +1656,7 @@
     {
         "ID": "langsci261-e1229ecd73",
         "abbrkey": {
-            "CHA": ""
+            "CHA": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -1653,7 +1689,7 @@
     {
         "ID": "langsci261-28182eff5a",
         "abbrkey": {
-            "MI": ""
+            "MI": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -1717,7 +1753,7 @@
     {
         "ID": "langsci261-3255569b60",
         "abbrkey": {
-            "MI": ""
+            "MI": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -1749,9 +1785,9 @@
         "ID": "langsci261-44aedd5115",
         "abbrkey": {
             "ACC": "accusative",
-            "CHA": "",
-            "CO": "",
-            "MI": "",
+            "CHA": null,
+            "CO": null,
+            "MI": null,
             "NEG": "negation, negative",
             "PROG": "progressive"
         },
@@ -2246,7 +2282,7 @@
             "PFV": "perfective",
             "SIM": "simultaneous",
             "SW": "switch",
-            "VIS": ""
+            "VIS": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -2294,7 +2330,7 @@
             "PFV": "perfective",
             "PSN": "personal name",
             "Q": "question particle/marker",
-            "VIS": ""
+            "VIS": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -2335,7 +2371,7 @@
             "P": "patient-like argument of canonical transitive verb",
             "PFV": "perfective",
             "PSN": "personal name",
-            "VIS": ""
+            "VIS": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -2924,37 +2960,37 @@
         "parententities": {
             "Q103940464": "continuant",
             "Q1115533": "flammable_object",
-            "Q1138571": "",
-            "Q11438": "",
+            "Q1138571": "renewable resource",
+            "Q11438": "solid",
             "Q1150771": "output",
-            "Q11879003": "",
+            "Q11879003": "environmental resource",
             "Q1310239": "component",
-            "Q1408429": "",
-            "Q14515877": "",
+            "Q1408429": "solid fuel",
+            "Q14515877": "biocombustible",
             "Q1454986": "physical system",
-            "Q15075845": "",
-            "Q15303351": "",
+            "Q15075845": "primary commodity",
+            "Q15303351": "art material",
             "Q15401930": "artificial object",
-            "Q1554231": "",
+            "Q1554231": "resource",
             "Q15989253": "part",
             "Q16686022": "natural physical object",
             "Q16686448": "artificial object",
             "Q16887380": "group",
-            "Q1704572": "",
-            "Q1836700": "",
-            "Q188460": "",
-            "Q20088819": "",
-            "Q206615": "",
-            "Q21073024": "",
+            "Q1704572": "continuum",
+            "Q1836700": "manufactured good",
+            "Q188460": "natural resource",
+            "Q20088819": "group of cells",
+            "Q206615": "building material",
+            "Q21073024": "flammable solid",
             "Q214609": "material",
-            "Q21685333": "",
+            "Q21685333": "sculpture material",
             "Q223557": "physical object",
             "Q23958946": "individual entity",
             "Q2424752": "product",
             "Q25416091": "substance",
             "Q27043948": "material anatomical entity",
             "Q27043950": "anatomical entity",
-            "Q27062218": "",
+            "Q27062218": "multicellular structure",
             "Q28555911": "ordinary matter",
             "Q287": "Wood",
             "Q28728771": "matter",
@@ -2963,44 +2999,44 @@
             "Q28845870": "biological component",
             "Q28877": "goods",
             "Q28921572": "common matter",
-            "Q289472": "",
-            "Q28969293": "",
-            "Q28969364": "",
+            "Q289472": "biogenic substance",
+            "Q28969293": "biological material",
+            "Q28969364": "plant material",
             "Q2897903": "goods and services",
             "Q29651224": "natural object",
             "Q2995644": "result",
             "Q30060700": "scientific object",
             "Q30241068": "observable entity",
             "Q31464082": "source",
-            "Q3300024": "",
+            "Q3300024": "natural building material",
             "Q337060": "perceptible physical object",
-            "Q3405827": "",
+            "Q3405827": "natural material",
             "Q35120": "entity",
             "Q35459920": "three-dimensional object",
             "Q35758": "matter",
-            "Q378078": "",
-            "Q40397": "",
+            "Q378078": "substance",
+            "Q40397": "tissue",
             "Q42501": "Fuel",
-            "Q43460564": "",
+            "Q43460564": "chemical entity",
             "Q4406616": "concrete object",
-            "Q4437984": "",
+            "Q4437984": "continuum",
             "Q488383": "object",
             "Q4936952": "anatomical structure",
             "Q53617407": "material entity",
             "Q53617489": "independent continuant",
-            "Q5376832": "",
+            "Q5376832": "energetic material",
             "Q58415929": "spatio-temporal entity",
             "Q58778": "system",
             "Q6005984": "baryonic matter",
             "Q66394244": "physical anatomical entity",
-            "Q66591980": "",
-            "Q66591990": "",
+            "Q66591980": "Foundational Model of Anatomy attribute entity",
+            "Q66591990": "physical state",
             "Q6671777": "structure",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
-            "Q79529": "",
+            "Q79529": "chemical substance",
             "Q8205328": "artificial physical object",
-            "Q837718": "",
+            "Q837718": "energy storage",
             "Q99527517": "collective entity"
         },
         "provider": "langsci",
@@ -3978,7 +4014,7 @@
         "abbrkey": {
             "3SG": "third person singular",
             "HAB": "habitual",
-            "MAYBE": ""
+            "MAYBE": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -4015,7 +4051,7 @@
         "abbrkey": {
             "3SG": "third person singular",
             "HAB": "habitual",
-            "MAYBE": ""
+            "MAYBE": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -4053,7 +4089,7 @@
             "3SG": "third person singular",
             "HAB": "habitual",
             "JUS": "jussive",
-            "MAYBE": ""
+            "MAYBE": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -4166,7 +4202,7 @@
             "1DU": "first person dual",
             "3SG": "third person singular",
             "HAB": "habitual",
-            "MAYBE": "",
+            "MAYBE": null,
             "OPT": "optative"
         },
         "book_metalanguage": "stan1293",
@@ -4207,7 +4243,7 @@
     {
         "ID": "langsci261-e1c76817df",
         "abbrkey": {
-            "CNV": "",
+            "CNV": null,
             "EGO": "egophoric",
             "PRF": "perfect",
             "Q": "question particle"
@@ -4250,7 +4286,7 @@
     {
         "ID": "langsci261-bdd3aecbe0",
         "abbrkey": {
-            "CNV": "",
+            "CNV": null,
             "EGO": "egophoric",
             "PRF": "perfect"
         },
@@ -4291,7 +4327,7 @@
     {
         "ID": "langsci261-c47a196e1a",
         "abbrkey": {
-            "CNV": "",
+            "CNV": null,
             "EGO": "egophoric",
             "PRF": "perfect",
             "Q": "question particle"
@@ -4335,7 +4371,7 @@
         "ID": "langsci261-6d68bc839c",
         "abbrkey": {
             "ALTER": "alterphoric",
-            "CNV": "",
+            "CNV": null,
             "PRF": "perfect"
         },
         "book_metalanguage": "stan1293",
@@ -4376,7 +4412,7 @@
         "ID": "langsci261-dac7d32358",
         "abbrkey": {
             "ALTER": "alterphoric",
-            "CNV": "",
+            "CNV": null,
             "PRF": "perfect",
             "Q": "question particle"
         },
@@ -4419,7 +4455,7 @@
         "ID": "langsci261-8a85b33527",
         "abbrkey": {
             "ALTER": "alterphoric",
-            "CNV": "",
+            "CNV": null,
             "PRF": "perfect"
         },
         "book_metalanguage": "stan1293",
@@ -5413,7 +5449,7 @@
     {
         "ID": "langsci261-1717b3efbe",
         "abbrkey": {
-            "1/2": "",
+            "1/2": null,
             "CVB": "converb",
             "END": "sentence-final particle",
             "PST": "past",
@@ -5465,7 +5501,7 @@
     {
         "ID": "langsci261-5427cfce95",
         "abbrkey": {
-            "1/2": "",
+            "1/2": null,
             "2PL": "second person plural",
             "CVB": "converb",
             "DAT": "dative case",
@@ -5530,7 +5566,7 @@
     {
         "ID": "langsci261-986b86b008",
         "abbrkey": {
-            "1/2": "",
+            "1/2": null,
             "1SG": "first person singular",
             "DAT": "dative case",
             "DEM3": "third-person demonstrative (not near speaker or addressee)",
@@ -5735,7 +5771,7 @@
             "3SG": "third person singular",
             "CVB": "converb",
             "INDF": "indefinite",
-            "MSG": "",
+            "MSG": null,
             "NOM": "nominative",
             "OBL": "oblique",
             "PFV": "perfective",
@@ -5804,7 +5840,7 @@
             "3SG": "third person singular",
             "CVB": "converb",
             "INDF": "indefinite",
-            "MSG": "",
+            "MSG": null,
             "NOM": "nominative",
             "OBL": "oblique",
             "PFV": "perfective",
@@ -5881,7 +5917,7 @@
         "abbrkey": {
             "1SG": "first person singular",
             "DAT": "dative",
-            "MSG": "",
+            "MSG": null,
             "PFV": "perfective",
             "REM": "remote",
             "SUB": "subordinator"
@@ -5943,7 +5979,7 @@
             "F": "feminine",
             "GEN": "genitive",
             "INDF": "indefinite",
-            "MSG": "",
+            "MSG": null,
             "OBL": "oblique",
             "PFV": "perfective",
             "PRS": "present"
@@ -6000,19 +6036,19 @@
             "Q11028": "information",
             "Q1150070": "change",
             "Q1190554": "occurrence",
-            "Q12044624": "",
-            "Q1293220": "",
-            "Q13878858": "",
-            "Q15275719": "",
+            "Q12044624": "periodic process",
+            "Q1293220": "physical phenomenon",
+            "Q13878858": "natural process",
+            "Q15275719": "recurring event",
             "Q15916540": "semantic unit",
-            "Q1656682": "",
-            "Q16722960": "",
+            "Q1656682": "event",
+            "Q16722960": "phenomenon",
             "Q16877783": "meaning",
             "Q16887380": "group",
             "Q16889133": "class",
-            "Q17320256": "",
+            "Q17320256": "physical process",
             "Q1786828": "constituent",
-            "Q17988854": "",
+            "Q17988854": "active motion",
             "Q1800545": "migration",
             "Q183046": "meaning",
             "Q188572": "fact",
@@ -6025,8 +6061,8 @@
             "Q26907166": "temporal entity",
             "Q28813620": "set",
             "Q29651519": "mental object",
-            "Q2990593": "",
-            "Q2996394": "",
+            "Q2990593": "animal behavior",
+            "Q2996394": "biological process",
             "Q30060700": "scientific object",
             "Q3249551": "process",
             "Q35120": "entity",
@@ -6038,12 +6074,12 @@
             "Q5371079": "emic unit",
             "Q58415929": "spatio-temporal entity",
             "Q628523": "Message",
-            "Q64732777": "",
-            "Q67518233": "",
+            "Q64732777": "biological phenomenon",
+            "Q67518233": "process",
             "Q67518978": "occurrent",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
-            "Q79782": "",
+            "Q79782": "motion",
             "Q9332": "behavior",
             "Q9380010": "utterance",
             "Q99527517": "collective entity"
@@ -6077,7 +6113,7 @@
             "CVB": "converb",
             "INDF": "indefinite",
             "INF": "infinitive",
-            "MSG": "",
+            "MSG": null,
             "OBL": "oblique",
             "PFV": "perfective",
             "REM": "remote",
@@ -6223,7 +6259,7 @@
             "F": "feminine",
             "GEN": "genitive",
             "M": "masculine",
-            "MSG": "",
+            "MSG": null,
             "NOM": "nominative",
             "PFV": "perfective",
             "PRS": "present"
@@ -6313,7 +6349,7 @@
     {
         "ID": "langsci261-f638102ddb",
         "abbrkey": {
-            "MSG": "",
+            "MSG": null,
             "OBL": "oblique",
             "PRS": "present",
             "REFL": "reflexive"
@@ -6407,7 +6443,7 @@
             "3SG": "third person singular",
             "CVB": "converb",
             "IMP": "imperative",
-            "MPL": "",
+            "MPL": null,
             "NOM": "nominative",
             "OBL": "oblique",
             "PL": "plural",
@@ -6496,7 +6532,7 @@
             "COMP": "complementizer",
             "CONDL": "conditional (low)",
             "GEN": "genitive",
-            "MSG": "",
+            "MSG": null,
             "OBL": "oblique",
             "PFV": "perfective",
             "QUOT": "quotative"
@@ -6562,7 +6598,7 @@
             "F": "feminine",
             "GEN": "genitive",
             "INDF": "indefinite",
-            "MSG": "",
+            "MSG": null,
             "NEG": "negation, negative",
             "NOM": "nominative",
             "OBL": "oblique",
@@ -6640,8 +6676,8 @@
         "ID": "langsci261-1946a58732",
         "abbrkey": {
             "COMP": "complementizer",
-            "FSG": "",
-            "MPL": "",
+            "FSG": null,
+            "MPL": null,
             "OBL": "oblique",
             "PFV": "perfective",
             "PRS": "present",
@@ -6697,7 +6733,7 @@
         "ID": "langsci261-e1c5a4476b",
         "abbrkey": {
             "INDF": "indefinite",
-            "MSG": "",
+            "MSG": null,
             "PFV": "perfective",
             "PST": "past",
             "QUOT": "quotative"
@@ -6752,7 +6788,7 @@
             "CONJ": "conjunction",
             "HSAY": "hearsay",
             "INDF": "indefinite",
-            "MSG": "",
+            "MSG": null,
             "NEG": "negation, negative",
             "PFV": "perfective",
             "PRS": "present",
@@ -6833,10 +6869,10 @@
         "abbrkey": {
             "1PL": "first person plural",
             "F": "feminine",
-            "FPL": "",
+            "FPL": null,
             "GEN": "genitive",
             "HSAY": "hearsay",
-            "MSG": "",
+            "MSG": null,
             "OBL": "oblique",
             "PFV": "perfective",
             "PL": "plural",
@@ -6886,7 +6922,56 @@
         "language_iso6393": "phl",
         "language_name": "Palula",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q104493": "risk",
+            "Q108163": "proposition",
+            "Q11028": "information",
+            "Q1132455": "Hazard",
+            "Q1190554": "occurrence",
+            "Q1207505": "quality",
+            "Q1322005": "natural phenomenon",
+            "Q15916540": "semantic unit",
+            "Q16877783": "meaning",
+            "Q16889133": "class",
+            "Q1786828": "constituent",
+            "Q183046": "meaning",
+            "Q18603648": "contributing factor",
+            "Q188572": "fact",
+            "Q1920219": "social issue",
+            "Q1931388": "cause of death",
+            "Q20817253": "linguistic unit",
+            "Q21170479": "possibility",
+            "Q246672": "mathematical object",
+            "Q2574811": "cause",
+            "Q2684591": "statement",
+            "Q26907166": "temporal entity",
+            "Q29651519": "mental object",
+            "Q30060700": "scientific object",
+            "Q31464082": "source",
+            "Q3433179": "natural risk",
+            "Q3505845": "state",
+            "Q35120": "entity",
+            "Q3574985": "slide",
+            "Q3839081": "disaster",
+            "Q41796": "sentence",
+            "Q42848": "data",
+            "Q474328": "declarative sentence",
+            "Q483247": "phenomenon",
+            "Q488383": "object",
+            "Q5371079": "emic unit",
+            "Q5422048": "external risk",
+            "Q58415929": "spatio-temporal entity",
+            "Q621184": "problem",
+            "Q628523": "Message",
+            "Q7048977": "abstract entity",
+            "Q7184903": "abstract entity",
+            "Q8065": "Natural_disaster",
+            "Q813912": "condition",
+            "Q86923152": "risk source",
+            "Q937228": "property",
+            "Q9380010": "utterance",
+            "Q99527517": "collective entity"
+        },
         "provider": "langsci",
         "srcwordsbare": [
             "asíi",
@@ -6910,8 +6995,8 @@
             "3PL": "third person plural",
             "ASS": "assumption",
             "CVB": "converb",
-            "MPL": "",
-            "MSG": "",
+            "MPL": null,
+            "MSG": null,
             "NOM": "nominative",
             "OBL": "oblique",
             "PL": "plural",
@@ -7045,7 +7130,31 @@
         "language_iso6393": "phl",
         "language_name": "Palula",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q103940464": "continuant",
+            "Q106559804": "person or organization",
+            "Q15619164": "abstract being",
+            "Q178885": "Deity",
+            "Q18336849": "",
+            "Q18706315": "hypothetical entity",
+            "Q21070598": "character that may or may not be fictional",
+            "Q215627": "person",
+            "Q23958946": "individual entity",
+            "Q24229398": "agent",
+            "Q24334685": "mythical_entity",
+            "Q26720107": "personal law",
+            "Q28855038": "supernatural_being",
+            "Q30060629": "object of non-science",
+            "Q35120": "entity",
+            "Q3778211": "legal person",
+            "Q4271324": "mythical character",
+            "Q4356623": "Intelligent_designer",
+            "Q488383": "object",
+            "Q635155": "Creator_deity",
+            "Q7048977": "abstract entity",
+            "Q795052": "individual",
+            "Q830077": "subject"
+        },
         "provider": "langsci",
         "srcwordsbare": [
             "ée",
@@ -7222,7 +7331,7 @@
             "AG": "agentive",
             "COMP": "complementizer",
             "F": "feminine",
-            "MSG": "",
+            "MSG": null,
             "NOM": "nominative",
             "PFV": "perfective",
             "PROX": "proximal/proximate",
@@ -7391,10 +7500,10 @@
         "ID": "langsci261-f700705108",
         "abbrkey": {
             "3SG": "third person singular",
-            "FPL": "",
+            "FPL": null,
             "GEN": "genitive",
             "HSAY": "hearsay",
-            "MPL": "",
+            "MPL": null,
             "PFV": "perfective",
             "PL": "plural",
             "PST": "past",
@@ -7472,7 +7581,7 @@
             "CONDL": "conditional (low)",
             "CVB": "converb",
             "INDF": "indefinite",
-            "MSG": "",
+            "MSG": null,
             "NOM": "nominative",
             "OBL": "oblique",
             "PFV": "perfective",
@@ -7567,10 +7676,10 @@
         "abbrkey": {
             "ECHO": "echo formation",
             "F": "feminine",
-            "FPL": "",
+            "FPL": null,
             "GEN": "genitive",
             "HSAY": "hearsay",
-            "MPL": "",
+            "MPL": null,
             "PFV": "perfective",
             "PL": "plural",
             "PRS": "present"
@@ -7675,7 +7784,7 @@
     {
         "ID": "langsci261-9acf68fce6",
         "abbrkey": {
-            "MSG": "",
+            "MSG": null,
             "PFV": "perfective",
             "PRS": "present"
         },
@@ -7718,7 +7827,7 @@
         "ID": "langsci261-7c4448e470",
         "abbrkey": {
             "HSAY": "hearsay",
-            "MSG": "",
+            "MSG": null,
             "PFV": "perfective",
             "PRS": "present"
         },
@@ -7763,7 +7872,7 @@
         "ID": "langsci261-9983e57f11",
         "abbrkey": {
             "INFER": "inferential",
-            "MSG": "",
+            "MSG": null,
             "PFV": "perfective",
             "PRS": "present"
         },
@@ -7907,7 +8016,7 @@
             "DIST": "distal",
             "EMPH": "emphasis",
             "GEN": "genitive",
-            "MSG": "",
+            "MSG": null,
             "NOM": "nominative"
         },
         "book_metalanguage": "stan1293",
@@ -7953,18 +8062,18 @@
             "Q15609389": "Languages_of_South_Asia",
             "Q17376908": "Languoid",
             "Q19860": "Indo-European_languages",
-            "Q20162172": "",
-            "Q276314": "",
+            "Q20162172": "human language",
+            "Q276314": "Nostratic",
             "Q33514": "Indo-Iranian_languages",
             "Q33577": "Indo-Aryan_languages",
-            "Q34770": "",
+            "Q34770": "language",
             "Q35120": "entity",
             "Q41355020": "Northwestern_Indo-Aryan",
             "Q488383": "object",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
             "Q771861": "Eurasiatic_languages",
-            "Q98791755": ""
+            "Q98791755": "Asian languages"
         },
         "provider": "langsci",
         "srcwordsbare": [
@@ -8317,9 +8426,9 @@
     {
         "ID": "langsci261-a02756d48c",
         "abbrkey": {
-            "DIM": "",
+            "DIM": null,
             "EGO": "egophoric",
-            "NON": ""
+            "NON": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -8355,7 +8464,7 @@
         "ID": "langsci261-e6a422a208",
         "abbrkey": {
             "EGO": "egophoric",
-            "NON": ""
+            "NON": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -8391,7 +8500,7 @@
         "abbrkey": {
             "EGO": "egophoric",
             "LOC": "locative",
-            "NON": "",
+            "NON": null,
             "SG": "singular"
         },
         "book_metalanguage": "stan1293",
@@ -8430,7 +8539,7 @@
         "abbrkey": {
             "DUR": "durative",
             "EGO": "egophoric",
-            "NON": "",
+            "NON": null,
             "Q": "question",
             "SG": "singular"
         },
@@ -8474,7 +8583,7 @@
             "COP": "copula",
             "DIST": "distal",
             "EGO": "egophoric",
-            "NON": ""
+            "NON": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -8515,7 +8624,7 @@
             "COP": "copula",
             "DIST": "distal",
             "EGO": "egophoric",
-            "NON": ""
+            "NON": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -8555,7 +8664,7 @@
         "abbrkey": {
             "DUR": "durative",
             "EGO": "egophoric",
-            "NON": "",
+            "NON": null,
             "SG": "singular"
         },
         "book_metalanguage": "stan1293",
@@ -8594,7 +8703,7 @@
         "abbrkey": {
             "DUR": "durative",
             "EGO": "egophoric",
-            "NON": "",
+            "NON": null,
             "PD": "discursive particle",
             "SG": "singular"
         },
@@ -8673,7 +8782,7 @@
         "ID": "langsci261-b02c27b91e",
         "abbrkey": {
             "EGO": "egophoric",
-            "NON": "",
+            "NON": null,
             "SG": "singular"
         },
         "book_metalanguage": "stan1293",
@@ -8710,7 +8819,7 @@
         "ID": "langsci261-9f5d926b46",
         "abbrkey": {
             "COP": "copula",
-            "DIM": "",
+            "DIM": null,
             "EGO": "egophoric",
             "LOC": "locative",
             "PD": "discursive particle",
@@ -8806,7 +8915,7 @@
             "COP": "copula",
             "EGO": "egophoric",
             "IRR": "irrealis",
-            "NON": "",
+            "NON": null,
             "Q": "question",
             "SG": "singular"
         },
@@ -8920,7 +9029,7 @@
         "abbrkey": {
             "EGO": "egophoric",
             "NEG": "negation",
-            "NON": "",
+            "NON": null,
             "PL": "plural"
         },
         "book_metalanguage": "stan1293",
@@ -9027,7 +9136,7 @@
         "abbrkey": {
             "EGO": "egophoric",
             "NEG": "negation",
-            "NON": "",
+            "NON": null,
             "PL": "plural"
         },
         "book_metalanguage": "stan1293",
@@ -9063,7 +9172,7 @@
         "ID": "langsci261-b9fdd09325",
         "abbrkey": {
             "EGO": "egophoric",
-            "IMPF": ""
+            "IMPF": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -9103,7 +9212,7 @@
         "ID": "langsci261-2bf3b260c6",
         "abbrkey": {
             "EGO": "egophoric",
-            "IMPF": "",
+            "IMPF": null,
             "N": "neuter"
         },
         "book_metalanguage": "stan1293",
@@ -9145,7 +9254,7 @@
         "ID": "langsci261-b47ecefb06",
         "abbrkey": {
             "EGO": "egophoric",
-            "IMPF": "",
+            "IMPF": null,
             "N": "neuter"
         },
         "book_metalanguage": "stan1293",
@@ -9188,8 +9297,8 @@
         "abbrkey": {
             "ACC": "accusative",
             "EGO": "egophoric",
-            "IMPF": "",
-            "INT": "",
+            "IMPF": null,
+            "INT": null,
             "N": "neuter"
         },
         "book_metalanguage": "stan1293",
@@ -9228,8 +9337,8 @@
         "ID": "langsci261-355e499cf4",
         "abbrkey": {
             "EGO": "egophoric",
-            "IMPF": "",
-            "INT": ""
+            "IMPF": null,
+            "INT": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -9266,7 +9375,7 @@
         "abbrkey": {
             "ABL": "ablative",
             "EGO": "egophoric",
-            "IMPF": "",
+            "IMPF": null,
             "LOC": "locative",
             "N": "neuter"
         },
@@ -9347,7 +9456,7 @@
             "EGO": "egophoric",
             "GEN": "genitive",
             "NEG": "negation",
-            "NON": "",
+            "NON": null,
             "PD": "discursive particle"
         },
         "book_metalanguage": "stan1293",
@@ -9390,7 +9499,7 @@
             "DIR": "directive",
             "EGO": "egophoric",
             "GEN": "genitive",
-            "NON": "",
+            "NON": null,
             "SG": "singular"
         },
         "book_metalanguage": "stan1293",
@@ -9437,7 +9546,7 @@
         "abbrkey": {
             "EGO": "egophoric",
             "LOC": "locative",
-            "NON": "",
+            "NON": null,
             "PD": "discursive particle",
             "PL": "plural"
         },
@@ -9481,7 +9590,7 @@
             "DUR": "durative",
             "EGO": "egophoric",
             "GEN": "genitive",
-            "NON": "",
+            "NON": null,
             "PD": "discursive particle",
             "SG": "singular"
         },
@@ -9694,7 +9803,7 @@
         "ID": "langsci261-2a77ede224",
         "abbrkey": {
             "EGO": "egophoric",
-            "NFV": "",
+            "NFV": null,
             "PD": "discursive particle",
             "PL": "plural",
             "REC": "reciprocal"
@@ -9787,9 +9896,9 @@
             "DAT": "dative",
             "EGO": "egophoric",
             "GEN": "genitive",
-            "NFV": "",
+            "NFV": null,
             "NMZ": "nominalization",
-            "NON": "",
+            "NON": null,
             "PD": "discursive particle",
             "PROS": "prospective",
             "SG": "singular"
@@ -9879,7 +9988,7 @@
         "abbrkey": {
             "DUR": "durative",
             "EGO": "egophoric",
-            "NON": "",
+            "NON": null,
             "PD": "discursive particle",
             "SG": "singular"
         },
@@ -9922,7 +10031,7 @@
         "abbrkey": {
             "EGO": "egophoric",
             "LOC": "locative",
-            "NON": "",
+            "NON": null,
             "PD": "discursive particle",
             "PL": "plural"
         },
@@ -9968,7 +10077,7 @@
             "COP": "copula",
             "EGO": "egophoric",
             "IRR": "irrealis",
-            "NON": "",
+            "NON": null,
             "Q": "question",
             "SG": "singular"
         },
@@ -10016,7 +10125,7 @@
             "EXP": "experiencer",
             "IRR": "irrealis",
             "NEG": "negation",
-            "NON": "",
+            "NON": null,
             "PD": "discursive particle",
             "PL": "plural"
         },
@@ -10426,7 +10535,7 @@
     {
         "ID": "langsci261-a5786a69a5",
         "abbrkey": {
-            "KU": "",
+            "KU": null,
             "Q": "question"
         },
         "book_metalanguage": "stan1293",
@@ -10463,7 +10572,7 @@
     {
         "ID": "langsci261-73514e8b7c",
         "abbrkey": {
-            "KE": "",
+            "KE": null,
             "Q": "question"
         },
         "book_metalanguage": "stan1293",
@@ -10500,9 +10609,9 @@
     {
         "ID": "langsci261-5b146f487a",
         "abbrkey": {
-            "2/3": "",
+            "2/3": null,
             "PROX": "proximal/proximate",
-            "TITRU": ""
+            "TITRU": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -10540,7 +10649,7 @@
         "abbrkey": {
             "COP": "copula",
             "EGO": "egophoric",
-            "NO": "",
+            "NO": null,
             "PD": "discursive particle",
             "PROX": "proximal/proximate",
             "Q": "question"
@@ -10594,7 +10703,7 @@
         "abbrkey": {
             "COP": "copula",
             "EGO": "egophoric",
-            "NO": "",
+            "NO": null,
             "PD": "discursive particle",
             "Q": "question"
         },
@@ -10640,13 +10749,13 @@
     {
         "ID": "langsci261-be3ac39f29",
         "abbrkey": {
-            "CONTR": "",
+            "CONTR": null,
             "COP": "copula",
             "DUB": "dubitative",
             "DUR": "durative",
             "EGO": "egophoric",
             "NMZ": "nominalization",
-            "NON": "",
+            "NON": null,
             "SG": "singular"
         },
         "book_metalanguage": "stan1293",
@@ -10691,13 +10800,13 @@
     {
         "ID": "langsci261-2ea4cf01ec",
         "abbrkey": {
-            "CONTR": "",
+            "CONTR": null,
             "COP": "copula",
             "DUR": "durative",
             "EGO": "egophoric",
-            "NFV": "",
+            "NFV": null,
             "NMZ": "nominalization",
-            "NON": "",
+            "NON": null,
             "PD": "discursive particle",
             "REST": "restrictive",
             "SG": "singular"
@@ -10758,9 +10867,9 @@
             "DUR": "durative",
             "EGO": "egophoric",
             "LOC": "locative",
-            "NFV": "",
+            "NFV": null,
             "NMZ": "nominalization",
-            "NON": "",
+            "NON": null,
             "PD": "discursive particle",
             "SG": "singular"
         },
@@ -10910,7 +11019,7 @@
             "COP": "copula",
             "EGO": "egophoric",
             "EXP": "experiencer",
-            "NON": ""
+            "NON": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -10955,7 +11064,7 @@
             "EGO": "egophoric",
             "EXP": "experiencer",
             "NMZ": "nominalization",
-            "NON": ""
+            "NON": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -11000,7 +11109,7 @@
             "E": "epenthesis",
             "EGO": "egophoric",
             "EXP": "experiencer",
-            "NON": "",
+            "NON": null,
             "PD": "discursive particle"
         },
         "book_metalanguage": "stan1293",
@@ -11045,7 +11154,7 @@
             "EGO": "egophoric",
             "EXP": "experiencer",
             "GEN": "genitive",
-            "NON": ""
+            "NON": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -11088,7 +11197,7 @@
             "EXP": "experiencer",
             "GEN": "genitive",
             "NMZ": "nominalization",
-            "NON": ""
+            "NON": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -11138,8 +11247,8 @@
             "EGO": "egophoric",
             "EXP": "experiencer",
             "LOC": "locative",
-            "NFV": "",
-            "NON": "",
+            "NFV": null,
+            "NON": null,
             "PROS": "prospective",
             "REST": "restrictive",
             "SG": "singular"
@@ -11194,7 +11303,7 @@
             "DAT": "dative",
             "EGO": "egophoric",
             "EXP": "experiencer",
-            "NON": "",
+            "NON": null,
             "REST": "restrictive"
         },
         "book_metalanguage": "stan1293",
@@ -11239,7 +11348,7 @@
             "DAT": "dative",
             "EGO": "egophoric",
             "EXP": "experiencer",
-            "NON": "",
+            "NON": null,
             "REST": "restrictive"
         },
         "book_metalanguage": "stan1293",
@@ -11283,7 +11392,7 @@
             "EGO": "egophoric",
             "EXP": "experiencer",
             "NMZ": "nominalization",
-            "NON": "",
+            "NON": null,
             "PD": "discursive particle"
         },
         "book_metalanguage": "stan1293",
@@ -11329,7 +11438,7 @@
         "abbrkey": {
             "EGO": "egophoric",
             "EXP": "experiencer",
-            "NON": "",
+            "NON": null,
             "PD": "discursive particle"
         },
         "book_metalanguage": "stan1293",
@@ -11373,7 +11482,7 @@
             "COP": "copula",
             "EGO": "egophoric",
             "EXP": "experiencer",
-            "NON": ""
+            "NON": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -11413,7 +11522,7 @@
             "DAT": "dative",
             "EGO": "egophoric",
             "EXP": "experiencer",
-            "NON": "",
+            "NON": null,
             "REST": "restrictive"
         },
         "book_metalanguage": "stan1293",
@@ -11456,7 +11565,7 @@
             "EGO": "egophoric",
             "EXP": "experiencer",
             "NMZ": "nominalization",
-            "NON": ""
+            "NON": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -11495,7 +11604,7 @@
         "abbrkey": {
             "EGO": "egophoric",
             "EXP": "experiencer",
-            "NON": ""
+            "NON": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -11533,7 +11642,7 @@
             "COP": "copula",
             "EGO": "egophoric",
             "EXP": "experiencer",
-            "NON": ""
+            "NON": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -11573,7 +11682,7 @@
             "EGO": "egophoric",
             "EXP": "experiencer",
             "NMZ": "nominalization",
-            "NON": "",
+            "NON": null,
             "PD": "discursive particle"
         },
         "book_metalanguage": "stan1293",
@@ -11616,14 +11725,14 @@
     {
         "ID": "langsci261-967acb9412",
         "abbrkey": {
-            "AN": "",
+            "AN": null,
             "COP": "copula",
-            "EM1": "",
+            "EM1": null,
             "EX": "existential",
             "FUT": "future",
             "PDEM": "pronominal demonstrative",
             "PL": "plural",
-            "PNCT": "",
+            "PNCT": null,
             "PURP": "purposive",
             "SS": "same subject",
             "TOP": "topic"
@@ -11682,9 +11791,9 @@
         "ID": "langsci261-8c7d68c7c5",
         "abbrkey": {
             "BEN": "benefactive",
-            "EM2": "",
-            "ITR": "",
-            "PS": "",
+            "EM2": null,
+            "ITR": null,
+            "PS": null,
             "VPE": "end result voluntary event"
         },
         "book_metalanguage": "stan1293",
@@ -11722,9 +11831,9 @@
     {
         "ID": "langsci261-7a101b5267",
         "abbrkey": {
-            "DIS": "",
-            "EM2": "",
-            "EM22": "",
+            "DIS": null,
+            "EM2": null,
+            "EM22": null,
             "IDEM": "identificational demonstrative",
             "NLOC": "locative nominalizer"
         },
@@ -11769,11 +11878,11 @@
         "ID": "langsci261-0694972e1a",
         "abbrkey": {
             "AFR": "anaphoric focus referent",
-            "EM1": "",
-            "EM2": "",
+            "EM1": null,
+            "EM2": null,
             "ESS": "essence",
-            "PERF": "",
-            "PTP": ""
+            "PERF": null,
+            "PTP": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -11820,7 +11929,7 @@
         "abbrkey": {
             "COP": "copula",
             "DEM": "demonstrative",
-            "EM3": "",
+            "EM3": null,
             "EXP": "epistemic expressive"
         },
         "book_metalanguage": "stan1293",
@@ -11863,13 +11972,13 @@
     {
         "ID": "langsci261-ecedc0ff68",
         "abbrkey": {
-            "EM3": "",
+            "EM3": null,
             "EQS": "stative equative",
             "ERG": "ergative",
-            "MIR": "",
+            "MIR": null,
             "PFV": "perfective",
             "SEQ": "sequential",
-            "TRNS": ""
+            "TRNS": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -11911,12 +12020,12 @@
     {
         "ID": "langsci261-d30c28c8f5",
         "abbrkey": {
-            "CONT": "",
-            "EM4": "",
+            "CONT": null,
+            "EM4": null,
             "ERG": "ergative",
-            "FACS": "",
-            "REF": "",
-            "REV": ""
+            "FACS": null,
+            "REF": null,
+            "REV": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -11963,11 +12072,11 @@
         "ID": "langsci261-374fc7e0b8",
         "abbrkey": {
             "ADV": "adverb(ial)",
-            "EM5": "",
+            "EM5": null,
             "EXP": "epistemic expressive",
-            "NAME": "",
-            "PNCT": "",
-            "REF": "",
+            "NAME": null,
+            "PNCT": null,
+            "REF": null,
             "RQ": "rhetorical question"
         },
         "book_metalanguage": "stan1293",
@@ -12013,14 +12122,14 @@
     {
         "ID": "langsci261-236b015971",
         "abbrkey": {
-            "DEST": "",
-            "EM1": "",
-            "EM5": "",
-            "PER": "",
-            "PNCT": "",
+            "DEST": null,
+            "EM1": null,
+            "EM5": null,
+            "PER": null,
+            "PNCT": null,
             "RQ": "rhetorical question",
             "TOP": "topic",
-            "TRNS": ""
+            "TRNS": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -12063,7 +12172,7 @@
     {
         "ID": "langsci261-ae5349ec49",
         "abbrkey": {
-            "EM6": "",
+            "EM6": null,
             "IDEM": "identificational demonstrative",
             "PURP": "purposive",
             "TOP": "topic"
@@ -12102,7 +12211,7 @@
     {
         "ID": "langsci261-8bc8d37409",
         "abbrkey": {
-            "EM11": "",
+            "EM11": null,
             "EQS": "stative equative",
             "ERG": "ergative",
             "IMP": "imperfective",
@@ -12147,9 +12256,9 @@
     {
         "ID": "langsci261-aeaeedd718",
         "abbrkey": {
-            "CONT": "",
-            "EM6": "",
-            "HAB": "",
+            "CONT": null,
+            "EM6": null,
+            "HAB": null,
             "INST": "instrumental"
         },
         "book_metalanguage": "stan1293",
@@ -12190,12 +12299,12 @@
     {
         "ID": "langsci261-3715919d53",
         "abbrkey": {
-            "CONT": "",
-            "EM7": "",
+            "CONT": null,
+            "EM7": null,
             "ERG": "ergative",
             "PL": "plural",
-            "PNCT": "",
-            "TRNS": ""
+            "PNCT": null,
+            "TRNS": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -12240,9 +12349,9 @@
         "ID": "langsci261-689fc082ae",
         "abbrkey": {
             "COP": "copula",
-            "EM1": "",
-            "EM7": "",
-            "PNCT": ""
+            "EM1": null,
+            "EM7": null,
+            "PNCT": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -12327,7 +12436,7 @@
         "ID": "langsci261-0cccc7a226",
         "abbrkey": {
             "ADV": "adverb(ial)",
-            "EM7": "",
+            "EM7": null,
             "IMP": "imperfective",
             "TOP": "topic"
         },
@@ -12373,10 +12482,10 @@
         "ID": "langsci261-e9576d53d9",
         "abbrkey": {
             "DES": "desiderative",
-            "EM7": "",
+            "EM7": null,
             "EXP": "epistemic expressive",
             "FUT": "future",
-            "INCEP": "",
+            "INCEP": null,
             "POSS": "possessive"
         },
         "book_metalanguage": "stan1293",
@@ -12422,10 +12531,10 @@
     {
         "ID": "langsci261-d99900c704",
         "abbrkey": {
-            "EM8": "",
+            "EM8": null,
             "EQS": "stative equative",
             "ERG": "ergative",
-            "PFVS": "",
+            "PFVS": null,
             "POSS": "possessive"
         },
         "book_metalanguage": "stan1293",
@@ -12471,10 +12580,10 @@
     {
         "ID": "langsci261-c5fccb265d",
         "abbrkey": {
-            "EM8": "",
+            "EM8": null,
             "ERG": "ergative",
-            "PNCT": "",
-            "TRNS": ""
+            "PNCT": null,
+            "TRNS": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -12512,7 +12621,7 @@
     {
         "ID": "langsci261-31a450807b",
         "abbrkey": {
-            "EM9": "",
+            "EM9": null,
             "SE": "same event"
         },
         "book_metalanguage": "stan1293",
@@ -12547,10 +12656,10 @@
         "ID": "langsci261-90019430bd",
         "abbrkey": {
             "ADEM": "adnominal demonstrative",
-            "EM5": "",
-            "HAB": "",
+            "EM5": null,
+            "HAB": null,
             "INST": "instrumental",
-            "MIR": "",
+            "MIR": null,
             "POSS": "possessive",
             "RQ": "rhetorical question"
         },
@@ -12636,8 +12745,8 @@
     {
         "ID": "langsci261-305a6ae928",
         "abbrkey": {
-            "CONT": "",
-            "EM9": "",
+            "CONT": null,
+            "EM9": null,
             "EX": "existential"
         },
         "book_metalanguage": "stan1293",
@@ -12889,7 +12998,7 @@
     {
         "ID": "langsci261-89f85f9b9e",
         "abbrkey": {
-            "CONT": "",
+            "CONT": null,
             "DAT": "dative",
             "QUOT": "quotative"
         },
@@ -12928,7 +13037,7 @@
     {
         "ID": "langsci261-e31117117c",
         "abbrkey": {
-            "EM11": ""
+            "EM11": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -12963,9 +13072,9 @@
     {
         "ID": "langsci261-3534d145fe",
         "abbrkey": {
-            "EM12": "",
+            "EM12": null,
             "EX": "existential",
-            "SN": ""
+            "SN": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -13002,7 +13111,7 @@
     {
         "ID": "langsci261-9f246394bb",
         "abbrkey": {
-            "EM12": "",
+            "EM12": null,
             "ERG": "ergative",
             "EV": "evidential",
             "PL": "plural",
@@ -13051,7 +13160,7 @@
     {
         "ID": "langsci261-836aebb8b6",
         "abbrkey": {
-            "EM13": "",
+            "EM13": null,
             "QUOT": "quotative",
             "SEQ": "sequential"
         },
@@ -13091,8 +13200,8 @@
     {
         "ID": "langsci261-0745d7cb83",
         "abbrkey": {
-            "EM13": "",
-            "NAME": ""
+            "EM13": null,
+            "NAME": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -13131,7 +13240,7 @@
     {
         "ID": "langsci261-571244a5e5",
         "abbrkey": {
-            "DIS": "",
+            "DIS": null,
             "PDEM": "pronominal demonstrative"
         },
         "book_metalanguage": "stan1293",
@@ -13205,12 +13314,12 @@
         "ID": "langsci261-bbada84aa4",
         "abbrkey": {
             "ADV": "adverb(ial)",
-            "EM14": "",
+            "EM14": null,
             "EQS": "stative equative",
             "EV": "evidential",
             "EXP": "epistemic expressive",
             "IDEM": "identificational demonstrative",
-            "MIR": "",
+            "MIR": null,
             "SS": "same subject"
         },
         "book_metalanguage": "stan1293",
@@ -13339,14 +13448,14 @@
     {
         "ID": "langsci261-cfc4de7bd6",
         "abbrkey": {
-            "CONT": "",
+            "CONT": null,
             "COP": "copula",
-            "EM1": "",
-            "EM15": "",
+            "EM1": null,
+            "EM15": null,
             "EQS": "stative equative",
             "NLOC": "locative nominalizer",
             "PFV": "perfective",
-            "TRNS": "",
+            "TRNS": null,
             "USIN": "usuative  nominalizer"
         },
         "book_metalanguage": "stan1293",
@@ -13392,7 +13501,7 @@
     {
         "ID": "langsci261-257aea2e6e",
         "abbrkey": {
-            "EM15": "",
+            "EM15": null,
             "EQA": "active equative",
             "FUT": "future",
             "POSS": "possessive",
@@ -13438,10 +13547,10 @@
             "ERG": "ergative",
             "EV": "evidential",
             "FUT": "future",
-            "HYP": "",
+            "HYP": null,
             "INTR": "intransitive",
             "TOP": "topic",
-            "TRNS": ""
+            "TRNS": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -13647,9 +13756,9 @@
     {
         "ID": "langsci261-830456431e",
         "abbrkey": {
-            "CONT": "",
-            "PRSP": "",
-            "TRNS": ""
+            "CONT": null,
+            "PRSP": null,
+            "TRNS": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -13675,72 +13784,72 @@
         "language_name": "Matipuhy",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
-            "Q104493": "",
+            "Q104493": "risk",
             "Q108163": "proposition",
-            "Q11024": "",
+            "Q11024": "communication",
             "Q11028": "information",
             "Q1132455": "Hazard",
             "Q1150070": "change",
             "Q1190554": "occurrence",
             "Q1207505": "quality",
-            "Q13878858": "",
+            "Q13878858": "natural process",
             "Q15916540": "semantic unit",
             "Q16877783": "meaning",
             "Q16887380": "group",
             "Q16889133": "class",
             "Q1786828": "constituent",
-            "Q17988854": "",
+            "Q17988854": "active motion",
             "Q183046": "meaning",
-            "Q18603648": "",
+            "Q18603648": "contributing factor",
             "Q188572": "fact",
             "Q1914636": "activity",
-            "Q1920219": "",
+            "Q1920219": "social issue",
             "Q20817253": "linguistic unit",
             "Q20937557": "sequence",
-            "Q21170479": "",
-            "Q22269697": "",
-            "Q22294683": "",
-            "Q23009552": "",
-            "Q23009675": "",
+            "Q21170479": "possibility",
+            "Q22269697": "multi-organism process",
+            "Q22294683": "biological process involved in intraspecies interaction between organisms",
+            "Q23009552": "gift exchange",
+            "Q23009675": "transfer",
             "Q246672": "mathematical object",
             "Q2684591": "statement",
             "Q26907166": "temporal entity",
             "Q28813620": "set",
             "Q29651519": "mental object",
-            "Q2990593": "",
-            "Q2996394": "",
+            "Q2990593": "animal behavior",
+            "Q2996394": "biological process",
             "Q30060700": "scientific object",
             "Q31464082": "source",
             "Q3249551": "process",
-            "Q3505845": "",
+            "Q3505845": "state",
             "Q35120": "entity",
             "Q3769299": "human behavior",
-            "Q4026292": "",
+            "Q4026292": "action",
             "Q41796": "sentence",
             "Q42848": "data",
             "Q474328": "declarative sentence",
             "Q483247": "phenomenon",
             "Q488383": "object",
-            "Q52948": "",
+            "Q52948": "interaction",
             "Q5371079": "emic unit",
-            "Q5422048": "",
+            "Q5422048": "external risk",
             "Q58415929": "spatio-temporal entity",
             "Q600571": "Abuse",
-            "Q6031064": "",
-            "Q621184": "",
+            "Q6031064": "information exchange",
+            "Q621184": "problem",
             "Q628523": "Message",
-            "Q64732777": "",
+            "Q64732777": "biological phenomenon",
             "Q67518978": "occurrent",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
-            "Q813912": "",
-            "Q86923152": "",
-            "Q87075524": "",
-            "Q921513": "",
+            "Q813912": "condition",
+            "Q86923152": "risk source",
+            "Q87075524": "health risk",
+            "Q921513": "social behavior",
             "Q9332": "behavior",
             "Q937228": "property",
             "Q9380010": "utterance",
-            "Q944806": "",
+            "Q944806": "operational risk",
             "Q99527517": "collective entity"
         },
         "provider": "langsci",
@@ -13755,11 +13864,11 @@
         "ID": "langsci261-79db2b83d8",
         "abbrkey": {
             "DES": "desiderative",
-            "EM18": "",
+            "EM18": null,
             "ERG": "ergative",
-            "REF": "",
+            "REF": null,
             "SE": "same event",
-            "TRNS": ""
+            "TRNS": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -13791,102 +13900,102 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "modality": "volitive",
         "parententities": {
-            "Q104127086": "",
-            "Q104493": "",
-            "Q1047113": "",
-            "Q105948247": "",
-            "Q105952144": "",
+            "Q104127086": "memory",
+            "Q104493": "risk",
+            "Q1047113": "specialty",
+            "Q105948247": "knowledge system",
+            "Q105952144": "information hazard",
             "Q108163": "proposition",
-            "Q10862449": "",
+            "Q10862449": "difference",
             "Q11028": "information",
-            "Q110403031": "",
+            "Q110403031": "knowledge type",
             "Q1132455": "Hazard",
             "Q1150771": "output",
             "Q1190554": "occurrence",
             "Q1207505": "quality",
-            "Q12488383": "",
-            "Q12558574": "",
-            "Q13579947": "",
-            "Q1412596": "",
+            "Q12488383": "content",
+            "Q12558574": "point of view",
+            "Q13579947": "misinformation",
+            "Q1412596": "simulacrum",
             "Q1454986": "physical system",
             "Q15401930": "artificial object",
-            "Q15621286": "",
+            "Q15621286": "intellectual work",
             "Q15916540": "semantic unit",
             "Q16686448": "artificial object",
             "Q16877783": "meaning",
             "Q16887380": "group",
             "Q16889133": "class",
-            "Q1747121": "",
-            "Q17537576": "",
+            "Q1747121": "flaw",
+            "Q17537576": "creative work",
             "Q1786828": "constituent",
             "Q178934": "Occult",
             "Q183046": "meaning",
             "Q1858206": "White_magic",
-            "Q18603648": "",
+            "Q18603648": "contributing factor",
             "Q188572": "fact",
             "Q1914636": "activity",
-            "Q1920219": "",
-            "Q203066": "",
+            "Q1920219": "social issue",
+            "Q203066": "relation",
             "Q20817253": "linguistic unit",
             "Q20937557": "sequence",
-            "Q21146257": "",
-            "Q21170479": "",
-            "Q2145290": "",
-            "Q217594": "",
+            "Q21146257": "type",
+            "Q21170479": "possibility",
+            "Q2145290": "mental representation",
+            "Q217594": "class",
             "Q223557": "physical object",
             "Q246672": "mathematical object",
             "Q2684591": "statement",
             "Q26907166": "temporal entity",
             "Q28813620": "set",
-            "Q28954762": "",
-            "Q29485": "",
+            "Q28954762": "non-science",
+            "Q29485": "error",
             "Q29651519": "mental object",
-            "Q29896155": "",
+            "Q29896155": "difference",
             "Q2995644": "result",
             "Q30060700": "scientific object",
             "Q30241068": "observable entity",
             "Q31464082": "source",
             "Q34394": "Belief",
-            "Q3505845": "",
+            "Q3505845": "state",
             "Q35120": "entity",
             "Q35459920": "three-dimensional object",
-            "Q36161": "",
+            "Q36161": "set",
             "Q3769299": "human behavior",
             "Q386724": "work",
             "Q41796": "sentence",
             "Q42848": "data",
-            "Q4393498": "",
+            "Q4393498": "representation",
             "Q4406616": "concrete object",
             "Q474328": "declarative sentence",
-            "Q47461344": "",
+            "Q47461344": "written work",
             "Q483247": "phenomenon",
-            "Q483677": "",
+            "Q483677": "pseudoscience",
             "Q488383": "object",
-            "Q49447": "",
+            "Q49447": "world view",
             "Q5371079": "emic unit",
-            "Q5390013": "",
-            "Q5422048": "",
-            "Q5469988": "",
-            "Q54989186": "",
-            "Q55091441": "",
+            "Q5390013": "belief system",
+            "Q5422048": "external risk",
+            "Q5469988": "formalization",
+            "Q54989186": "mental state",
+            "Q55091441": "operation result",
             "Q58415929": "spatio-temporal entity",
             "Q58778": "system",
-            "Q595523": "",
-            "Q621184": "",
+            "Q595523": "notion",
+            "Q621184": "problem",
             "Q628523": "Message",
             "Q6671777": "structure",
             "Q690768": "Black_magic",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
-            "Q71966963": "",
-            "Q7254446": "",
-            "Q8027727": "",
-            "Q813912": "",
+            "Q71966963": "religion or world view",
+            "Q7254446": "pseudo-scholarship",
+            "Q8027727": "Wissenschaft",
+            "Q813912": "condition",
             "Q81741": "Magic_(supernatural)",
             "Q8205328": "artificial physical object",
-            "Q849149": "",
-            "Q864377": "",
-            "Q86923152": "",
+            "Q849149": "deviation",
+            "Q864377": "multiset",
+            "Q86923152": "risk source",
             "Q9081": "Knowledge",
             "Q9198102": "sorcery",
             "Q930933": "relation",
@@ -13910,7 +14019,7 @@
             "AFR": "anaphoric focus referent",
             "DEO": "deontic",
             "DS": "different subject",
-            "EM17": "",
+            "EM17": null,
             "M": "masculine",
             "PE": "perpetual event"
         },
@@ -13953,12 +14062,12 @@
     {
         "ID": "langsci261-ff403a9619",
         "abbrkey": {
-            "EM18": "",
+            "EM18": null,
             "EQA": "active equative",
             "ERG": "ergative",
             "FUT": "future",
             "PL": "plural",
-            "PNCT": "",
+            "PNCT": null,
             "SS": "same subject"
         },
         "book_metalanguage": "stan1293",
@@ -14004,7 +14113,7 @@
     {
         "ID": "langsci261-19070bd931",
         "abbrkey": {
-            "CONT": "",
+            "CONT": null,
             "DS": "different subject",
             "INTR": "intransitive",
             "PL": "plural",
@@ -14048,7 +14157,7 @@
         "ID": "langsci261-707f62abe9",
         "abbrkey": {
             "ADEM": "adnominal demonstrative",
-            "EM19": "",
+            "EM19": null,
             "IMP": "imperfective",
             "Q": "question particle/marker"
         },
@@ -14090,7 +14199,7 @@
         "ID": "langsci261-03a75cd94b",
         "abbrkey": {
             "ADEM": "adnominal demonstrative",
-            "CONT": "",
+            "CONT": null,
             "Q": "question particle/marker",
             "QUOT": "quotative"
         },
@@ -14174,10 +14283,10 @@
         "ID": "langsci261-ba38559a80",
         "abbrkey": {
             "DAT": "dative",
-            "EM19": "",
+            "EM19": null,
             "INTR": "intransitive",
             "PL": "plural",
-            "PNCT": "",
+            "PNCT": null,
             "RQ": "rhetorical question"
         },
         "book_metalanguage": "stan1293",
@@ -14218,7 +14327,7 @@
     {
         "ID": "langsci261-500e28e163",
         "abbrkey": {
-            "CONT": "",
+            "CONT": null,
             "EX": "existential",
             "SE": "same event",
             "SEQ": "sequential",
@@ -14264,7 +14373,7 @@
             "IMP": "imperfective",
             "NEG": "negation, negative",
             "PL": "plural",
-            "PNCT": "",
+            "PNCT": null,
             "QN": "quatifier negator",
             "QUOT": "quotative"
         },
@@ -14391,10 +14500,10 @@
     {
         "ID": "langsci261-7427a5c6ca",
         "abbrkey": {
-            "EM20": "",
+            "EM20": null,
             "ERG": "ergative",
-            "HYP": "",
-            "PNCT": "",
+            "HYP": null,
+            "PNCT": null,
             "TOP": "topic"
         },
         "book_metalanguage": "stan1293",
@@ -14426,7 +14535,20 @@
         "language_iso6393": "mzo",
         "language_name": "Matipuhy",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q103940464": "continuant",
+            "Q1360": "Arthropoda",
+            "Q1390": "Insect",
+            "Q23958946": "individual entity",
+            "Q27043950": "anatomical entity",
+            "Q29651224": "natural object",
+            "Q35120": "entity",
+            "Q43806": "invertebrate",
+            "Q488383": "object",
+            "Q53617489": "independent continuant",
+            "Q7239": "Organism",
+            "Q729": "Animal"
+        },
         "provider": "langsci",
         "srcwordsbare": [
             "u-ifi-fo-lu=nafa",
@@ -14440,11 +14562,11 @@
     {
         "ID": "langsci261-c75b4aeb8e",
         "abbrkey": {
-            "EM20": "",
+            "EM20": null,
             "ERG": "ergative",
-            "PNCT": "",
-            "REF": "",
-            "TRNS": ""
+            "PNCT": null,
+            "REF": null,
+            "TRNS": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -14522,7 +14644,7 @@
     {
         "ID": "langsci261-7436a8603c",
         "abbrkey": {
-            "EM13": "",
+            "EM13": null,
             "SS": "same subject"
         },
         "book_metalanguage": "stan1293",
@@ -14721,7 +14843,7 @@
         "ID": "langsci261-b8abd12086",
         "abbrkey": {
             "COP": "copula",
-            "EM4": "",
+            "EM4": null,
             "RQ": "rhetorical question"
         },
         "book_metalanguage": "stan1293",
@@ -14792,7 +14914,7 @@
         "abbrkey": {
             "ADEM": "adnominal demonstrative",
             "AUG": "augmentative",
-            "EM20": "",
+            "EM20": null,
             "ESS": "essence",
             "POSS": "possessive"
         },
@@ -14825,15 +14947,15 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q15619164": "",
+            "Q15619164": "abstract being",
             "Q18336849": "",
-            "Q18706315": "",
-            "Q21070598": "",
-            "Q2239243": "",
+            "Q18706315": "hypothetical entity",
+            "Q21070598": "character that may or may not be fictional",
+            "Q2239243": "mythical creature",
             "Q23958946": "individual entity",
             "Q24334685": "mythical_entity",
             "Q35120": "entity",
-            "Q4271324": "",
+            "Q4271324": "mythical character",
             "Q7048977": "abstract entity",
             "Q830077": "subject"
         },
@@ -14852,9 +14974,9 @@
         "ID": "langsci261-687b1fabbf",
         "abbrkey": {
             "ADEM": "adnominal demonstrative",
-            "EM2": "",
+            "EM2": null,
             "ESS": "essence",
-            "NAME": "",
+            "NAME": null,
             "POSS": "possessive"
         },
         "book_metalanguage": "stan1293",
@@ -14978,7 +15100,7 @@
     {
         "ID": "langsci261-c25952c365",
         "abbrkey": {
-            "EM21": "",
+            "EM21": null,
             "IDEM": "identificational demonstrative"
         },
         "book_metalanguage": "stan1293",
@@ -15015,7 +15137,7 @@
     {
         "ID": "langsci261-aac6fc0159",
         "abbrkey": {
-            "EM11": ""
+            "EM11": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -15048,10 +15170,10 @@
     {
         "ID": "langsci261-f55d357264",
         "abbrkey": {
-            "CONT": "",
-            "EM25": "",
+            "CONT": null,
+            "EM25": null,
             "INTR": "intransitive",
-            "PNCT": ""
+            "PNCT": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -15089,10 +15211,10 @@
     {
         "ID": "langsci261-90d22e0f22",
         "abbrkey": {
-            "EM21": "",
+            "EM21": null,
             "EX": "existential",
             "IDEM": "identificational demonstrative",
-            "PNCT": "",
+            "PNCT": null,
             "SD": "deontic subject",
             "SEQ": "sequential"
         },
@@ -15173,10 +15295,10 @@
     {
         "ID": "langsci261-9166db0355",
         "abbrkey": {
-            "CONT": "",
-            "EM22": "",
+            "CONT": null,
+            "EM22": null,
             "IDEM": "identificational demonstrative",
-            "IM": ""
+            "IM": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -15214,8 +15336,8 @@
     {
         "ID": "langsci261-93046700cf",
         "abbrkey": {
-            "EM22": "",
-            "NAME": "",
+            "EM22": null,
+            "NAME": null,
             "Q": "question particle/marker"
         },
         "book_metalanguage": "stan1293",
@@ -15392,7 +15514,7 @@
             "ADEM": "adnominal demonstrative",
             "AFR": "anaphoric focus referent",
             "COP": "copula",
-            "EM22": "",
+            "EM22": null,
             "PL": "plural",
             "TOP": "topic"
         },
@@ -15440,9 +15562,9 @@
         "abbrkey": {
             "COP": "copula",
             "DE": "de-ergative",
-            "EM1": "",
-            "EM7": "",
-            "PNCT": ""
+            "EM1": null,
+            "EM7": null,
+            "PNCT": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -15531,7 +15653,7 @@
         "abbrkey": {
             "ADEM": "adnominal demonstrative",
             "COP": "copula",
-            "EM23": "",
+            "EM23": null,
             "POSS": "possessive",
             "VPE": "end result voluntary event"
         },
@@ -15579,7 +15701,7 @@
         "ID": "langsci261-1fe92fb097",
         "abbrkey": {
             "ADEM": "adnominal demonstrative",
-            "CONT": "",
+            "CONT": null,
             "EV": "evidential",
             "EX": "existential",
             "EXP": "epistemic expressive",
@@ -15633,8 +15755,8 @@
         "ID": "langsci261-9ae53eeaa8",
         "abbrkey": {
             "EXP": "epistemic expressive",
-            "NAME": "",
-            "PNCT": "",
+            "NAME": null,
+            "PNCT": null,
             "QUOT": "quotative"
         },
         "book_metalanguage": "stan1293",
@@ -15679,8 +15801,8 @@
     {
         "ID": "langsci261-a4f34ddee8",
         "abbrkey": {
-            "CONT": "",
-            "EM21": "",
+            "CONT": null,
+            "EM21": null,
             "IDEM": "identificational demonstrative",
             "RQ": "rhetorical question"
         },
@@ -15720,9 +15842,9 @@
     {
         "ID": "langsci261-a942ceb0c0",
         "abbrkey": {
-            "EM23": "",
+            "EM23": null,
             "INTR": "intransitive",
-            "PNCT": ""
+            "PNCT": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -15760,7 +15882,7 @@
     {
         "ID": "langsci261-6228723536",
         "abbrkey": {
-            "EM24": "",
+            "EM24": null,
             "SE": "same event"
         },
         "book_metalanguage": "stan1293",
@@ -15797,8 +15919,8 @@
     {
         "ID": "langsci261-e0a9fe440f",
         "abbrkey": {
-            "CONT": "",
-            "EM24": "",
+            "CONT": null,
+            "EM24": null,
             "ERG": "ergative",
             "EV": "evidential",
             "PL": "plural",
@@ -15845,9 +15967,9 @@
     {
         "ID": "langsci261-da0fe80857",
         "abbrkey": {
-            "EM24": "",
+            "EM24": null,
             "IMP": "imperfective",
-            "NAME": "",
+            "NAME": null,
             "PURP": "purposive"
         },
         "book_metalanguage": "stan1293",
@@ -15880,23 +16002,23 @@
         "modality": "volitive",
         "parententities": {
             "Q10273457": "equipment",
-            "Q106839123": "",
+            "Q106839123": "means of transport",
             "Q11019": "Machine",
             "Q1150771": "output",
-            "Q1183543": "",
-            "Q1195684": "",
-            "Q1229765": "",
-            "Q1408229": "",
+            "Q1183543": "appliance",
+            "Q1195684": "rowing boat",
+            "Q1229765": "watercraft",
+            "Q1408229": "finished good",
             "Q1454986": "physical system",
-            "Q1485500": "",
-            "Q1507442": "",
+            "Q1485500": "tangible good",
+            "Q1507442": "human-powered vehicle",
             "Q15401930": "artificial object",
             "Q16686448": "artificial object",
             "Q16889133": "class",
-            "Q18458812": "",
-            "Q19279121": "",
-            "Q2120578": "",
-            "Q2184715": "",
+            "Q18458812": "consumer goods",
+            "Q19279121": "free-emissions vehicle",
+            "Q2120578": "zero-emissions vehicle",
+            "Q2184715": "durable good",
             "Q223557": "physical object",
             "Q2424752": "product",
             "Q28877": "goods",
@@ -15911,18 +16033,18 @@
             "Q35872": "Boat",
             "Q386724": "work",
             "Q39546": "Tool",
-            "Q41321608": "",
+            "Q41321608": "vehicle without engine",
             "Q42889": "Vehicle",
-            "Q43399738": "",
+            "Q43399738": "rowing equipment",
             "Q4406616": "concrete object",
             "Q488383": "object",
             "Q50380212": "floating_object",
             "Q58415929": "spatio-temporal entity",
             "Q58778": "system",
             "Q6671777": "structure",
-            "Q768186": "",
+            "Q768186": "sports equipment",
             "Q8205328": "artificial physical object",
-            "Q9158768": "",
+            "Q9158768": "storage",
             "Q987767": "Container",
             "Q99527517": "collective entity"
         },
@@ -15940,7 +16062,7 @@
     {
         "ID": "langsci261-1d8dda6250",
         "abbrkey": {
-            "CONT": "",
+            "CONT": null,
             "FUT": "future"
         },
         "book_metalanguage": "stan1293",
@@ -16014,9 +16136,9 @@
     {
         "ID": "langsci261-4b5156891f",
         "abbrkey": {
-            "DEST": "",
-            "EM24": "",
-            "NAME": ""
+            "DEST": null,
+            "EM24": null,
+            "NAME": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -16093,9 +16215,9 @@
         "ID": "langsci261-44c83f28c3",
         "abbrkey": {
             "ADEM": "adnominal demonstrative",
-            "EM12": "",
+            "EM12": null,
             "ERG": "ergative",
-            "PNCT": "",
+            "PNCT": null,
             "QUOT": "quotative",
             "TOP": "topic"
         },
@@ -16146,8 +16268,8 @@
     {
         "ID": "langsci261-9ce9054393",
         "abbrkey": {
-            "EM11": "",
-            "EM21": "",
+            "EM11": null,
+            "EM21": null,
             "INT": "intensive",
             "PDEM": "pronominal demonstrative",
             "PEJ": "pejorative",
@@ -16199,12 +16321,12 @@
     {
         "ID": "langsci261-3f391c379e",
         "abbrkey": {
-            "EM12": "",
-            "EM25": "",
+            "EM12": null,
+            "EM25": null,
             "FUT": "future",
             "PL": "plural",
             "PURP": "purposive",
-            "REF": "",
+            "REF": null,
             "TOP": "topic"
         },
         "book_metalanguage": "stan1293",
@@ -16375,18 +16497,18 @@
             "Q11177771": "artistic_technique",
             "Q1150070": "change",
             "Q1190554": "occurrence",
-            "Q12894677": "",
+            "Q12894677": "means",
             "Q16887380": "group",
             "Q1914636": "activity",
             "Q20937557": "sequence",
-            "Q2574811": "",
+            "Q2574811": "cause",
             "Q26907166": "temporal entity",
-            "Q2695280": "",
+            "Q2695280": "technique",
             "Q28813620": "set",
             "Q31464082": "source",
             "Q3249551": "process",
             "Q35120": "entity",
-            "Q4026292": "",
+            "Q4026292": "action",
             "Q488383": "object",
             "Q560311": "literary_technique",
             "Q58415929": "spatio-temporal entity",
@@ -16408,12 +16530,12 @@
     {
         "ID": "langsci261-582aeeeca8",
         "abbrkey": {
-            "CONT": "",
-            "EM27": "",
+            "CONT": null,
+            "EM27": null,
             "ERG": "ergative",
             "FUT": "future",
             "IMM": "immediate",
-            "PNCT": ""
+            "PNCT": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -16456,9 +16578,9 @@
     {
         "ID": "langsci261-7acc46b5fc",
         "abbrkey": {
-            "CONT": "",
+            "CONT": null,
             "COP": "copula",
-            "EM27": "",
+            "EM27": null,
             "EV": "evidential",
             "FUT": "future",
             "NLOC": "locative nominalizer",
@@ -16541,17 +16663,17 @@
     {
         "ID": "langsci261-b615062eb9",
         "abbrkey": {
-            "CONT": "",
+            "CONT": null,
             "DAT": "dative",
-            "EM27": "",
+            "EM27": null,
             "EX": "existential",
             "EXP": "epistemic expressive",
             "INTR": "intransitive",
             "NEG": "negation, negative",
             "PL": "plural",
             "POSS": "possessive",
-            "REF": "",
-            "SN": ""
+            "REF": null,
+            "SN": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -16648,9 +16770,9 @@
     {
         "ID": "langsci261-f3f3986560",
         "abbrkey": {
-            "EM28": "",
+            "EM28": null,
             "ERG": "ergative",
-            "MAL": "",
+            "MAL": null,
             "PURP": "purposive",
             "RQ": "rhetorical question"
         },
@@ -16694,11 +16816,11 @@
         "ID": "langsci261-2cf7f7d511",
         "abbrkey": {
             "ADV": "adverb(ial)",
-            "CONT": "",
+            "CONT": null,
             "DES": "desiderative",
-            "EM12": "",
+            "EM12": null,
             "QN": "quatifier negator",
-            "TRNS": ""
+            "TRNS": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -16873,7 +16995,7 @@
     {
         "ID": "langsci261-3c8d59c90b",
         "abbrkey": {
-            "EM28": "",
+            "EM28": null,
             "RQ": "rhetorical question"
         },
         "book_metalanguage": "stan1293",
@@ -17213,7 +17335,7 @@
             "3SG": "third person singular",
             "ART": "Article",
             "IPFV": "Imperfect",
-            "NP": "",
+            "NP": null,
             "PTCP": "Participle",
             "SG": "Singular"
         },
@@ -17473,7 +17595,7 @@
             "3SG": "third person singular",
             "ACC": "Accusative",
             "DUR": "Durative",
-            "EV": "",
+            "EV": null,
             "IMP": "Imperative"
         },
         "book_metalanguage": "stan1293",
@@ -17527,7 +17649,7 @@
         "ID": "langsci261-75e7607c46",
         "abbrkey": {
             "1SG": "first person singular",
-            "COR": "",
+            "COR": null,
             "EVD": "Evidential"
         },
         "book_metalanguage": "stan1293",
@@ -19189,7 +19311,7 @@
             "3SG": "third person singular",
             "INFER": "inferential",
             "PERF": "perfect",
-            "VIS": ""
+            "VIS": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Evidentiality, egophoricity and engagement",
@@ -19226,7 +19348,7 @@
             "Q15401930": "artificial object",
             "Q16686448": "artificial object",
             "Q1681365": "consumables",
-            "Q1704572": "",
+            "Q1704572": "continuum",
             "Q2095": "Food",
             "Q223557": "physical object",
             "Q2424752": "product",
@@ -19241,20 +19363,20 @@
             "Q35120": "entity",
             "Q35459920": "three-dimensional object",
             "Q35758": "matter",
-            "Q378078": "",
+            "Q378078": "substance",
             "Q40050": "Drink",
-            "Q43460564": "",
+            "Q43460564": "chemical entity",
             "Q4406616": "concrete object",
-            "Q4437984": "",
+            "Q4437984": "continuum",
             "Q488383": "object",
             "Q58415929": "spatio-temporal entity",
             "Q58778": "system",
-            "Q66591980": "",
-            "Q66591990": "",
+            "Q66591980": "Foundational Model of Anatomy attribute entity",
+            "Q66591990": "physical state",
             "Q6671777": "structure",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
-            "Q79529": "",
+            "Q79529": "chemical substance",
             "Q99527517": "collective entity"
         },
         "provider": "langsci",
@@ -19271,7 +19393,7 @@
         "abbrkey": {
             "3SG": "third person singular",
             "INFER": "inferential",
-            "NONVIS": "",
+            "NONVIS": null,
             "PERF": "perfect"
         },
         "book_metalanguage": "stan1293",

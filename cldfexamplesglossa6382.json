@@ -3,7 +3,7 @@
         "ID": "glossa6382-1",
         "abbrkey": {
             "AUX": "auxiliary",
-            "NPL": ""
+            "NPL": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -97,7 +97,7 @@
         "ID": "glossa6382-3",
         "abbrkey": {
             "AUX": "auxiliary",
-            "NPL": ""
+            "NPL": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -145,7 +145,7 @@
         "ID": "glossa6382-4",
         "abbrkey": {
             "AUX": "auxiliary",
-            "NPL": ""
+            "NPL": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -237,7 +237,7 @@
         "ID": "glossa6382-6",
         "abbrkey": {
             "AUX": "auxiliary",
-            "NPL": ""
+            "NPL": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -324,14 +324,14 @@
             "Q1454986": "physical system",
             "Q1514280": "stabbing_weapon",
             "Q15401930": "artificial object",
-            "Q15407649": "",
+            "Q15407649": "edged and bladed weapon",
             "Q1617400": "slashing_weapon",
             "Q16686448": "artificial object",
-            "Q18643213": "",
+            "Q18643213": "military equipment",
             "Q222405": "Cold_weapon",
             "Q223557": "physical object",
             "Q2424752": "product",
-            "Q28692583": "",
+            "Q28692583": "bladed object",
             "Q28877": "goods",
             "Q2897903": "goods and services",
             "Q2995644": "result",
@@ -373,8 +373,8 @@
         "ID": "glossa6382-8",
         "abbrkey": {
             "AUX": "auxiliary",
-            "FPL": "",
-            "NPL": "",
+            "FPL": null,
+            "NPL": null,
             "PL": "plural"
         },
         "book_metalanguage": "stan1293",
@@ -428,8 +428,8 @@
         "ID": "glossa6382-9",
         "abbrkey": {
             "AUX": "auxiliary",
-            "FPL": "",
-            "NPL": "",
+            "FPL": null,
+            "NPL": null,
             "PL": "plural"
         },
         "book_metalanguage": "stan1293",
@@ -484,8 +484,8 @@
     {
         "ID": "glossa6382-10",
         "abbrkey": {
-            "FPL": "",
-            "NPL": ""
+            "FPL": null,
+            "NPL": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -579,8 +579,8 @@
         "ID": "glossa6382-12",
         "abbrkey": {
             "AUX": "auxiliary",
-            "FPL": "",
-            "NPL": "",
+            "FPL": null,
+            "NPL": null,
             "PL": "plural",
             "REFL": "reflexive"
         },
@@ -625,14 +625,14 @@
             "Q1454986": "physical system",
             "Q1514280": "stabbing_weapon",
             "Q15401930": "artificial object",
-            "Q15407649": "",
+            "Q15407649": "edged and bladed weapon",
             "Q1617400": "slashing_weapon",
             "Q16686448": "artificial object",
-            "Q18643213": "",
+            "Q18643213": "military equipment",
             "Q222405": "Cold_weapon",
             "Q223557": "physical object",
             "Q2424752": "product",
-            "Q28692583": "",
+            "Q28692583": "bladed object",
             "Q28877": "goods",
             "Q2897903": "goods and services",
             "Q2995644": "result",
@@ -672,8 +672,8 @@
         "ID": "glossa6382-13",
         "abbrkey": {
             "AUX": "auxiliary",
-            "FPL": "",
-            "NPL": "",
+            "FPL": null,
+            "NPL": null,
             "PL": "plural",
             "REFL": "reflexive"
         },
@@ -719,14 +719,14 @@
             "Q1454986": "physical system",
             "Q1514280": "stabbing_weapon",
             "Q15401930": "artificial object",
-            "Q15407649": "",
+            "Q15407649": "edged and bladed weapon",
             "Q1617400": "slashing_weapon",
             "Q16686448": "artificial object",
-            "Q18643213": "",
+            "Q18643213": "military equipment",
             "Q222405": "Cold_weapon",
             "Q223557": "physical object",
             "Q2424752": "product",
-            "Q28692583": "",
+            "Q28692583": "bladed object",
             "Q28877": "goods",
             "Q2897903": "goods and services",
             "Q2995644": "result",
@@ -767,9 +767,9 @@
         "ID": "glossa6382-14",
         "abbrkey": {
             "3PL": "third person plural",
-            "FPL": "",
-            "NPL": "",
-            "PRES": "",
+            "FPL": null,
+            "NPL": null,
+            "PRES": null,
             "REFL": "reflexive"
         },
         "book_metalanguage": "stan1293",
@@ -806,7 +806,41 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q10273457": "equipment",
+            "Q1150771": "output",
+            "Q12791": "Sword",
+            "Q1454986": "physical system",
+            "Q1514280": "stabbing_weapon",
+            "Q15401930": "artificial object",
+            "Q15407649": "edged and bladed weapon",
+            "Q1617400": "slashing_weapon",
+            "Q16686448": "artificial object",
+            "Q18643213": "military equipment",
+            "Q222405": "Cold_weapon",
+            "Q223557": "physical object",
+            "Q2424752": "product",
+            "Q28692583": "bladed object",
+            "Q28877": "goods",
+            "Q2897903": "goods and services",
+            "Q2995644": "result",
+            "Q30060700": "scientific object",
+            "Q30241068": "observable entity",
+            "Q35120": "entity",
+            "Q35459920": "three-dimensional object",
+            "Q35825432": "converter",
+            "Q39546": "Tool",
+            "Q4406616": "concrete object",
+            "Q488383": "object",
+            "Q5581528": "Melee_weapon",
+            "Q58415929": "spatio-temporal entity",
+            "Q58778": "system",
+            "Q6671777": "structure",
+            "Q728": "Weapon",
+            "Q8205328": "artificial physical object",
+            "Q9180322": "piercing-cutting_weapon",
+            "Q99527517": "collective entity"
+        },
         "provider": "glossa",
         "srcwordsbare": [
             "Danas",
@@ -858,7 +892,41 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q10273457": "equipment",
+            "Q1150771": "output",
+            "Q12791": "Sword",
+            "Q1454986": "physical system",
+            "Q1514280": "stabbing_weapon",
+            "Q15401930": "artificial object",
+            "Q15407649": "edged and bladed weapon",
+            "Q1617400": "slashing_weapon",
+            "Q16686448": "artificial object",
+            "Q18643213": "military equipment",
+            "Q222405": "Cold_weapon",
+            "Q223557": "physical object",
+            "Q2424752": "product",
+            "Q28692583": "bladed object",
+            "Q28877": "goods",
+            "Q2897903": "goods and services",
+            "Q2995644": "result",
+            "Q30060700": "scientific object",
+            "Q30241068": "observable entity",
+            "Q35120": "entity",
+            "Q35459920": "three-dimensional object",
+            "Q35825432": "converter",
+            "Q39546": "Tool",
+            "Q4406616": "concrete object",
+            "Q488383": "object",
+            "Q5581528": "Melee_weapon",
+            "Q58415929": "spatio-temporal entity",
+            "Q58778": "system",
+            "Q6671777": "structure",
+            "Q728": "Weapon",
+            "Q8205328": "artificial physical object",
+            "Q9180322": "piercing-cutting_weapon",
+            "Q99527517": "collective entity"
+        },
         "provider": "glossa",
         "srcwordsbare": [
             "Sablje₁",
@@ -1025,7 +1093,7 @@
         "ID": "glossa6382-19",
         "abbrkey": {
             "AUX": "auxiliary",
-            "NPL": "",
+            "NPL": null,
             "PL": "plural",
             "REFL": "reflexive"
         },
@@ -1077,8 +1145,8 @@
         "ID": "glossa6382-20",
         "abbrkey": {
             "AUX": "auxiliary",
-            "FPL": "",
-            "NPL": "",
+            "FPL": null,
+            "NPL": null,
             "PL": "plural",
             "REFL": "reflexive"
         },
@@ -1133,7 +1201,7 @@
         "ID": "glossa6382-21",
         "abbrkey": {
             "AUX": "auxiliary",
-            "FPL": "",
+            "FPL": null,
             "PL": "plural",
             "REFL": "reflexive"
         },
@@ -1326,14 +1394,14 @@
             "Q1454986": "physical system",
             "Q1514280": "stabbing_weapon",
             "Q15401930": "artificial object",
-            "Q15407649": "",
+            "Q15407649": "edged and bladed weapon",
             "Q1617400": "slashing_weapon",
             "Q16686448": "artificial object",
-            "Q18643213": "",
+            "Q18643213": "military equipment",
             "Q222405": "Cold_weapon",
             "Q223557": "physical object",
             "Q2424752": "product",
-            "Q28692583": "",
+            "Q28692583": "bladed object",
             "Q28877": "goods",
             "Q2897903": "goods and services",
             "Q2995644": "result",
@@ -1462,7 +1530,7 @@
         "ID": "glossa6382-27",
         "abbrkey": {
             "AUX": "auxiliary",
-            "NPL": "",
+            "NPL": null,
             "REFL": "reflexive"
         },
         "book_metalanguage": "stan1293",
@@ -1505,14 +1573,14 @@
             "Q1454986": "physical system",
             "Q1514280": "stabbing_weapon",
             "Q15401930": "artificial object",
-            "Q15407649": "",
+            "Q15407649": "edged and bladed weapon",
             "Q1617400": "slashing_weapon",
             "Q16686448": "artificial object",
-            "Q18643213": "",
+            "Q18643213": "military equipment",
             "Q222405": "Cold_weapon",
             "Q223557": "physical object",
             "Q2424752": "product",
-            "Q28692583": "",
+            "Q28692583": "bladed object",
             "Q28877": "goods",
             "Q2897903": "goods and services",
             "Q2995644": "result",
@@ -1553,8 +1621,8 @@
         "ID": "glossa6382-28",
         "abbrkey": {
             "AUX": "auxiliary",
-            "NPL": "",
-            "PASSIVE": ""
+            "NPL": null,
+            "PASSIVE": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -1596,14 +1664,14 @@
             "Q1454986": "physical system",
             "Q1514280": "stabbing_weapon",
             "Q15401930": "artificial object",
-            "Q15407649": "",
+            "Q15407649": "edged and bladed weapon",
             "Q1617400": "slashing_weapon",
             "Q16686448": "artificial object",
-            "Q18643213": "",
+            "Q18643213": "military equipment",
             "Q222405": "Cold_weapon",
             "Q223557": "physical object",
             "Q2424752": "product",
-            "Q28692583": "",
+            "Q28692583": "bladed object",
             "Q28877": "goods",
             "Q2897903": "goods and services",
             "Q2995644": "result",
@@ -1644,7 +1712,7 @@
         "ID": "glossa6382-29",
         "abbrkey": {
             "AUX": "auxiliary",
-            "PASSIVE": ""
+            "PASSIVE": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -1685,14 +1753,14 @@
             "Q1454986": "physical system",
             "Q1514280": "stabbing_weapon",
             "Q15401930": "artificial object",
-            "Q15407649": "",
+            "Q15407649": "edged and bladed weapon",
             "Q1617400": "slashing_weapon",
             "Q16686448": "artificial object",
-            "Q18643213": "",
+            "Q18643213": "military equipment",
             "Q222405": "Cold_weapon",
             "Q223557": "physical object",
             "Q2424752": "product",
-            "Q28692583": "",
+            "Q28692583": "bladed object",
             "Q28877": "goods",
             "Q2897903": "goods and services",
             "Q2995644": "result",
@@ -1733,7 +1801,7 @@
         "ID": "glossa6382-30",
         "abbrkey": {
             "AUX": "auxiliary",
-            "NPL": "",
+            "NPL": null,
             "REFL": "reflexive"
         },
         "book_metalanguage": "stan1293",
@@ -1785,7 +1853,7 @@
         "ID": "glossa6382-31",
         "abbrkey": {
             "AUX": "auxiliary",
-            "FPL": "",
+            "FPL": null,
             "REFL": "reflexive"
         },
         "book_metalanguage": "stan1293",
@@ -1837,7 +1905,7 @@
         "ID": "glossa6382-32",
         "abbrkey": {
             "AUX": "auxiliary",
-            "FPL": "",
+            "FPL": null,
             "REFL": "reflexive"
         },
         "book_metalanguage": "stan1293",
@@ -1879,14 +1947,14 @@
             "Q1454986": "physical system",
             "Q1514280": "stabbing_weapon",
             "Q15401930": "artificial object",
-            "Q15407649": "",
+            "Q15407649": "edged and bladed weapon",
             "Q1617400": "slashing_weapon",
             "Q16686448": "artificial object",
-            "Q18643213": "",
+            "Q18643213": "military equipment",
             "Q222405": "Cold_weapon",
             "Q223557": "physical object",
             "Q2424752": "product",
-            "Q28692583": "",
+            "Q28692583": "bladed object",
             "Q28877": "goods",
             "Q2897903": "goods and services",
             "Q2995644": "result",
@@ -1927,7 +1995,7 @@
         "ID": "glossa6382-33",
         "abbrkey": {
             "AUX": "auxiliary",
-            "NPL": "",
+            "NPL": null,
             "REFL": "reflexive"
         },
         "book_metalanguage": "stan1293",
@@ -1979,8 +2047,8 @@
         "ID": "glossa6382-34",
         "abbrkey": {
             "AUX": "auxiliary",
-            "FPL": "",
-            "NPL": "",
+            "FPL": null,
+            "NPL": null,
             "REFL": "reflexive"
         },
         "book_metalanguage": "stan1293",
@@ -2033,7 +2101,7 @@
         "ID": "glossa6382-35",
         "abbrkey": {
             "AUX": "auxiliary",
-            "FPL": "",
+            "FPL": null,
             "REFL": "reflexive"
         },
         "book_metalanguage": "stan1293",
@@ -2088,7 +2156,7 @@
         "ID": "glossa6382-36",
         "abbrkey": {
             "AUX": "auxiliary",
-            "FPL": "",
+            "FPL": null,
             "REFL": "reflexive"
         },
         "book_metalanguage": "stan1293",
@@ -2136,7 +2204,7 @@
         "ID": "glossa6382-37",
         "abbrkey": {
             "AUX": "auxiliary",
-            "FPL": "",
+            "FPL": null,
             "REFL": "reflexive"
         },
         "book_metalanguage": "stan1293",
@@ -2185,7 +2253,7 @@
         "ID": "glossa6382-38",
         "abbrkey": {
             "AUX": "auxiliary",
-            "FPL": "",
+            "FPL": null,
             "REFL": "reflexive"
         },
         "book_metalanguage": "stan1293",
@@ -2226,14 +2294,14 @@
             "Q1454986": "physical system",
             "Q1514280": "stabbing_weapon",
             "Q15401930": "artificial object",
-            "Q15407649": "",
+            "Q15407649": "edged and bladed weapon",
             "Q1617400": "slashing_weapon",
             "Q16686448": "artificial object",
-            "Q18643213": "",
+            "Q18643213": "military equipment",
             "Q222405": "Cold_weapon",
             "Q223557": "physical object",
             "Q2424752": "product",
-            "Q28692583": "",
+            "Q28692583": "bladed object",
             "Q28877": "goods",
             "Q2897903": "goods and services",
             "Q2995644": "result",
@@ -2272,7 +2340,7 @@
         "ID": "glossa6382-39",
         "abbrkey": {
             "AUX": "auxiliary",
-            "FPL": "",
+            "FPL": null,
             "REFL": "reflexive"
         },
         "book_metalanguage": "stan1293",
@@ -2326,8 +2394,8 @@
         "ID": "glossa6382-40",
         "abbrkey": {
             "AUX": "auxiliary",
-            "FPL": "",
-            "NPL": "",
+            "FPL": null,
+            "NPL": null,
             "REFL": "reflexive"
         },
         "book_metalanguage": "stan1293",
@@ -2382,8 +2450,8 @@
         "ID": "glossa6382-41",
         "abbrkey": {
             "AUX": "auxiliary",
-            "FPL": "",
-            "NPL": "",
+            "FPL": null,
+            "NPL": null,
             "REFL": "reflexive"
         },
         "book_metalanguage": "stan1293",
@@ -2426,14 +2494,14 @@
             "Q1454986": "physical system",
             "Q1514280": "stabbing_weapon",
             "Q15401930": "artificial object",
-            "Q15407649": "",
+            "Q15407649": "edged and bladed weapon",
             "Q1617400": "slashing_weapon",
             "Q16686448": "artificial object",
-            "Q18643213": "",
+            "Q18643213": "military equipment",
             "Q222405": "Cold_weapon",
             "Q223557": "physical object",
             "Q2424752": "product",
-            "Q28692583": "",
+            "Q28692583": "bladed object",
             "Q28877": "goods",
             "Q2897903": "goods and services",
             "Q2995644": "result",

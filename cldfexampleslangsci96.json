@@ -72,10 +72,10 @@
         "ID": "langsci96-0d01b8a587",
         "abbrkey": {
             "1SG": "first person singular",
-            "NOMLZR": "",
-            "PFPR": "",
+            "NOMLZR": null,
+            "PFPR": null,
             "POSS": "possessive",
-            "SC": ""
+            "SC": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -110,14 +110,14 @@
             "Q1454986": "physical system",
             "Q15401930": "artificial object",
             "Q16686448": "artificial object",
-            "Q17334923": "",
-            "Q19603939": "",
+            "Q17334923": "physical location",
+            "Q19603939": "building component",
             "Q214609": "material",
-            "Q2221906": "",
+            "Q2221906": "geographic location",
             "Q223557": "physical object",
             "Q2424752": "product",
             "Q25416091": "substance",
-            "Q27096213": "",
+            "Q27096213": "geographic entity",
             "Q28555911": "ordinary matter",
             "Q28728771": "matter",
             "Q28732711": "physical substance",
@@ -130,15 +130,15 @@
             "Q35120": "entity",
             "Q35459920": "three-dimensional object",
             "Q35758": "matter",
-            "Q391414": "",
-            "Q3955017": "",
+            "Q391414": "architectural element",
+            "Q3955017": "intermediate good",
             "Q4406616": "concrete object",
             "Q488383": "object",
             "Q58415929": "spatio-temporal entity",
-            "Q58416391": "",
+            "Q58416391": "spatial object",
             "Q58778": "system",
             "Q6005984": "baryonic matter",
-            "Q618123": "",
+            "Q618123": "geographical feature",
             "Q6671777": "structure",
             "Q8205328": "artificial physical object",
             "Q99527517": "collective entity"
@@ -312,7 +312,7 @@
     {
         "ID": "langsci96-83d85c0972",
         "abbrkey": {
-            "PTCPL": ""
+            "PTCPL": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -345,10 +345,10 @@
     {
         "ID": "langsci96-ed51cf5bad",
         "abbrkey": {
-            "CL": "",
-            "GL": "",
-            "LNK": "",
-            "NONPL": ""
+            "CL": null,
+            "GL": null,
+            "LNK": null,
+            "NONPL": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -386,8 +386,8 @@
     {
         "ID": "langsci96-7f291d7d2d",
         "abbrkey": {
-            "GL": "",
-            "SRC": ""
+            "GL": null,
+            "SRC": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -422,7 +422,7 @@
         "ID": "langsci96-50783d1a36",
         "abbrkey": {
             "3SG": "third person singular",
-            "PERF": "",
+            "PERF": null,
             "REL": "relative"
         },
         "book_metalanguage": "stan1293",
@@ -562,67 +562,67 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q10675206": "",
-            "Q107122728": "",
-            "Q107122793": "",
-            "Q107126067": "",
+            "Q10675206": "ingredient",
+            "Q107122728": "plant-based food",
+            "Q107122793": "plant product",
+            "Q107126067": "vegetarian food",
             "Q11004": "Vegetable",
             "Q1150771": "output",
-            "Q11879003": "",
+            "Q11879003": "environmental resource",
             "Q1194058": "disposable product",
             "Q1310239": "component",
             "Q13184": "Berry_(botany)",
             "Q1364": "Fruit",
             "Q1454986": "physical system",
-            "Q1485500": "",
-            "Q15075845": "",
-            "Q15197056": "",
+            "Q1485500": "tangible good",
+            "Q15075845": "primary commodity",
+            "Q15197056": "fleshy fruit",
             "Q15401930": "artificial object",
-            "Q1554231": "",
+            "Q1554231": "resource",
             "Q15989253": "part",
             "Q16686022": "natural physical object",
             "Q16686448": "artificial object",
             "Q1681365": "consumables",
-            "Q188460": "",
-            "Q20011319": "",
+            "Q188460": "natural resource",
+            "Q20011319": "plant structure",
             "Q2095": "Food",
             "Q214609": "material",
             "Q223557": "physical object",
             "Q23958946": "individual entity",
-            "Q24060707": "",
+            "Q24060707": "plant organ",
             "Q2424752": "product",
-            "Q25403900": "",
+            "Q25403900": "food ingredient",
             "Q25416091": "substance",
-            "Q26902770": "",
-            "Q26902962": "",
+            "Q26902770": "food products by OKPD2 (10)",
+            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
             "Q26988402": "",
-            "Q26988406": "",
-            "Q27043864": "",
+            "Q26988406": "Agricultural, hunting and forestry products",
+            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
             "Q27043948": "material anatomical entity",
             "Q27043950": "anatomical entity",
             "Q27478161": "",
-            "Q27480917": "",
+            "Q27480917": "Perennial crops (CPA 2008)",
             "Q27481006": "",
-            "Q27481647": "",
+            "Q27481647": "tropical and subtropical fruit",
             "Q28555911": "ordinary matter",
             "Q28728771": "matter",
             "Q28732711": "physical substance",
-            "Q28791169": "",
+            "Q28791169": "simple fruit",
             "Q28845870": "biological component",
             "Q28877": "goods",
             "Q28921572": "common matter",
-            "Q28969293": "",
-            "Q28969364": "",
+            "Q28969293": "biological material",
+            "Q28969364": "plant material",
             "Q2897903": "goods and services",
-            "Q29043258": "",
+            "Q29043258": "Other fruit and nuts",
             "Q29651224": "natural object",
             "Q2995644": "result",
             "Q30060700": "scientific object",
             "Q30241068": "observable entity",
             "Q31464082": "source",
-            "Q3314483": "",
+            "Q3314483": "fruit",
             "Q337060": "perceptible physical object",
-            "Q3405827": "",
+            "Q3405827": "natural material",
             "Q35120": "entity",
             "Q35459920": "three-dimensional object",
             "Q35758": "matter",
@@ -1141,7 +1141,7 @@
         "abbrkey": {
             "1SG": "first person singular",
             "DEF": "definite",
-            "OPT": ""
+            "OPT": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -1182,7 +1182,7 @@
     {
         "ID": "langsci96-d7a23dfd53",
         "abbrkey": {
-            "PAST": ""
+            "PAST": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -1227,7 +1227,7 @@
     {
         "ID": "langsci96-331fe7cdc9",
         "abbrkey": {
-            "PAST": ""
+            "PAST": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -1271,11 +1271,11 @@
         "ID": "langsci96-48eb0b3fa7",
         "abbrkey": {
             "APPL": "applicative",
-            "AUG": "",
+            "AUG": null,
             "FUT": "future",
-            "FV": "",
+            "FV": null,
             "NEG": "negation, negative",
-            "RECIP": ""
+            "RECIP": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -1312,7 +1312,7 @@
     {
         "ID": "langsci96-e90ebc1645",
         "abbrkey": {
-            "PAST": ""
+            "PAST": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -1360,8 +1360,8 @@
         "ID": "langsci96-3048ac66e5",
         "abbrkey": {
             "1SG": "first person singular",
-            "ANIMATE": "",
-            "B": ""
+            "ANIMATE": null,
+            "B": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -1405,8 +1405,8 @@
         "ID": "langsci96-fccd1efb22",
         "abbrkey": {
             "1SG": "first person singular",
-            "B": "",
-            "VEHICLE": ""
+            "B": null,
+            "VEHICLE": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -1450,8 +1450,8 @@
         "ID": "langsci96-68b60c2aa0",
         "abbrkey": {
             "1SG": "first person singular",
-            "ANIMATE": "",
-            "B": ""
+            "ANIMATE": null,
+            "B": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -1493,11 +1493,11 @@
         "ID": "langsci96-0eb3b800b2",
         "abbrkey": {
             "1SG": "first person singular",
-            "B": "",
+            "B": null,
             "DEM": "demonstrative",
-            "HUMAN": "",
+            "HUMAN": null,
             "IRR": "irrealis",
-            "NON": ""
+            "NON": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -1542,8 +1542,8 @@
         "ID": "langsci96-ed6691a843",
         "abbrkey": {
             "1SG": "first person singular",
-            "B": "",
-            "HUMA": "",
+            "B": null,
+            "HUMA": null,
             "IRR": "irrealis"
         },
         "book_metalanguage": "stan1293",
@@ -1588,7 +1588,7 @@
         "ID": "langsci96-c15ba90cd5",
         "abbrkey": {
             "1SG": "first person singular",
-            "HUMA": "",
+            "HUMA": null,
             "P": "patient-like argument of canonical transitive verb"
         },
         "book_metalanguage": "stan1293",
@@ -1635,8 +1635,8 @@
         "abbrkey": {
             "1SG": "first person singular",
             "DEM": "demonstrative",
-            "HUMAN": "",
-            "NON": "",
+            "HUMAN": null,
+            "NON": null,
             "P": "patient-like argument of canonical transitive verb"
         },
         "book_metalanguage": "stan1293",
@@ -1683,7 +1683,7 @@
         "abbrkey": {
             "1SG": "first person singular",
             "DEM": "demonstrative",
-            "INANIMATE": "",
+            "INANIMATE": null,
             "P": "patient-like argument of canonical transitive verb"
         },
         "book_metalanguage": "stan1293",
@@ -1728,11 +1728,11 @@
         "ID": "langsci96-4adf110ab3",
         "abbrkey": {
             "1SG": "first person singular",
-            "B": "",
+            "B": null,
             "DEM": "demonstrative",
-            "HUMAN": "",
+            "HUMAN": null,
             "IRR": "irrealis",
-            "NON": ""
+            "NON": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -1778,8 +1778,8 @@
     {
         "ID": "langsci96-ca9d02474b",
         "abbrkey": {
-            "OBJECT": "",
-            "SMALL": ""
+            "OBJECT": null,
+            "SMALL": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -1818,7 +1818,7 @@
         "ID": "langsci96-57185ad559",
         "abbrkey": {
             "DEM": "demonstrative",
-            "INANIMATE": ""
+            "INANIMATE": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -1854,7 +1854,7 @@
     {
         "ID": "langsci96-638f9e3f1d",
         "abbrkey": {
-            "LUMP": ""
+            "LUMP": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -1894,7 +1894,7 @@
         "ID": "langsci96-42c6f03f0b",
         "abbrkey": {
             "DEM": "demonstrative",
-            "LUMP": ""
+            "LUMP": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -2000,7 +2000,7 @@
         "abbrkey": {
             "3SG": "third person singular",
             "ABS": "absolutive",
-            "D": ""
+            "D": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -2039,7 +2039,7 @@
         "abbrkey": {
             "3SG": "third person singular",
             "ABS": "absolutive",
-            "D": ""
+            "D": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -2078,10 +2078,10 @@
         "abbrkey": {
             "3SG": "third person singular",
             "ABS": "absolutive",
-            "D": "",
+            "D": null,
             "NOM": "nominative",
-            "PAST": "",
-            "PN": ""
+            "PAST": null,
+            "PN": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -2125,10 +2125,10 @@
         "abbrkey": {
             "3SG": "third person singular",
             "ABS": "absolutive",
-            "D": "",
+            "D": null,
             "FUT": "future",
             "NOM": "nominative",
-            "PN": ""
+            "PN": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -2170,10 +2170,10 @@
     {
         "ID": "langsci96-9b10402628",
         "abbrkey": {
-            "D": "",
+            "D": null,
             "NOM": "nominative",
-            "PAST": "",
-            "PN": ""
+            "PAST": null,
+            "PN": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -2213,10 +2213,10 @@
     {
         "ID": "langsci96-060e1829c7",
         "abbrkey": {
-            "D": "",
+            "D": null,
             "FUT": "future",
             "NOM": "nominative",
-            "PN": ""
+            "PN": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -2256,9 +2256,9 @@
     {
         "ID": "langsci96-69e30527eb",
         "abbrkey": {
-            "AV": "",
-            "D": "",
-            "PERF": ""
+            "AV": null,
+            "D": null,
+            "PERF": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -2295,7 +2295,7 @@
     {
         "ID": "langsci96-a3ed7d922a",
         "abbrkey": {
-            "D": ""
+            "D": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -2330,9 +2330,9 @@
     {
         "ID": "langsci96-f3f77a2412",
         "abbrkey": {
-            "AV": "",
-            "D": "",
-            "PERF": ""
+            "AV": null,
+            "D": null,
+            "PERF": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
@@ -2370,7 +2370,7 @@
         "ID": "langsci96-b1bceb51e6",
         "abbrkey": {
             "ADJ": "adjective",
-            "IDPH": "",
+            "IDPH": null,
             "Q": "question particle/marker"
         },
         "book_metalanguage": "stan1293",

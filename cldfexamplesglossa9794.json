@@ -92,8 +92,8 @@
     {
         "ID": "glossa9794-3",
         "abbrkey": {
-            "DEM1": "",
-            "DEM2": ""
+            "DEM1": null,
+            "DEM2": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -127,8 +127,8 @@
     {
         "ID": "glossa9794-4",
         "abbrkey": {
-            "DEM1": "",
-            "DEM2": ""
+            "DEM1": null,
+            "DEM2": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -164,8 +164,8 @@
     {
         "ID": "glossa9794-5",
         "abbrkey": {
-            "DEM1": "",
-            "DEM2": "",
+            "DEM1": null,
+            "DEM2": null,
             "REL": "relative"
         },
         "book_metalanguage": "stan1293",
@@ -519,8 +519,8 @@
     {
         "ID": "glossa9794-13",
         "abbrkey": {
-            "DEM1": "",
-            "DEM2": ""
+            "DEM1": null,
+            "DEM2": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -554,8 +554,8 @@
     {
         "ID": "glossa9794-14",
         "abbrkey": {
-            "DEM1": "",
-            "DEM2": ""
+            "DEM1": null,
+            "DEM2": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -1500,7 +1500,7 @@
     {
         "ID": "glossa9794-34",
         "abbrkey": {
-            "DEM1": "",
+            "DEM1": null,
             "PL": "plural"
         },
         "book_metalanguage": "stan1293",
@@ -1535,7 +1535,7 @@
     },
     {
         "abbrkey": {
-            "DEM1": "",
+            "DEM1": null,
             "SG": "singular"
         },
         "book_metalanguage": "stan1293",
@@ -1547,13 +1547,15 @@
         ],
         "doc_ID": 9794,
         "doc_URL": "https://www.glossa-journal.org/article/id/9794",
+        "entities": {},
         "license": "https://creativecommons.org/licenses/by/4.0",
+        "parententities": {},
         "provider": "glossa"
     },
     {
         "ID": "glossa9794-36",
         "abbrkey": {
-            "DEM1": ""
+            "DEM1": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -2429,7 +2431,7 @@
         "ID": "glossa9794-60",
         "abbrkey": {
             "AUX": "auxiliary",
-            "PERF": ""
+            "PERF": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -2543,7 +2545,7 @@
             "DEM": "demonstrative",
             "DET": "determiner",
             "NEG": "negation, negative",
-            "PRT": ""
+            "PRT": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -2598,7 +2600,7 @@
             "DEM": "demonstrative",
             "FUT": "future",
             "INCL": "inclusive",
-            "PRT": ""
+            "PRT": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -2642,8 +2644,8 @@
     {
         "ID": "glossa9794-65",
         "abbrkey": {
-            "DEM1": "",
-            "DEM2": ""
+            "DEM1": null,
+            "DEM2": null
         },
         "book_metalanguage": "stan1293",
         "categories": [
@@ -2673,7 +2675,24 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q103940464": "continuant",
+            "Q110551885": "mammal",
+            "Q110551902": "vertebrate",
+            "Q16390140": "Wild_animal",
+            "Q23958946": "individual entity",
+            "Q27043950": "anatomical entity",
+            "Q29651224": "natural object",
+            "Q35120": "entity",
+            "Q488383": "object",
+            "Q53617489": "independent continuant",
+            "Q57812559": "captive animal",
+            "Q57812611": "captive mammal",
+            "Q57814795": "domesticated mammal",
+            "Q622852": "domesticated animal",
+            "Q7239": "Organism",
+            "Q729": "Animal"
+        },
         "provider": "glossa",
         "srcwordsbare": [
             "Avy",

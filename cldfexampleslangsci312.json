@@ -40,9 +40,9 @@
         "ID": "langsci312-29247d46e3",
         "abbrkey": {
             "ACC": "accusative",
-            "E": "",
+            "E": null,
             "NOM": "nominative",
-            "O": "",
+            "O": null,
             "P": "patient-like argument of canonical transitive verb"
         },
         "book_metalanguage": "stan1293",
@@ -124,16 +124,16 @@
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
-            "Q110910055": "",
-            "Q17334923": "",
+            "Q110910055": "region of space",
+            "Q17334923": "physical location",
             "Q188869": "Field_(agriculture)",
-            "Q2221906": "",
-            "Q27096213": "",
+            "Q2221906": "geographic location",
+            "Q27096213": "geographic entity",
             "Q35120": "entity",
             "Q58415929": "spatio-temporal entity",
-            "Q58416391": "",
-            "Q618123": "",
-            "Q82794": ""
+            "Q58416391": "spatial object",
+            "Q618123": "geographical feature",
+            "Q82794": "geographic region"
         },
         "provider": "langsci",
         "srcwordsbare": [
@@ -191,15 +191,15 @@
             "Q1454986": "physical system",
             "Q1514280": "stabbing_weapon",
             "Q15401930": "artificial object",
-            "Q15407649": "",
+            "Q15407649": "edged and bladed weapon",
             "Q1617400": "slashing_weapon",
             "Q16686448": "artificial object",
-            "Q18643213": "",
+            "Q18643213": "military equipment",
             "Q222405": "Cold_weapon",
             "Q223557": "physical object",
             "Q231204": "Sabre",
             "Q2424752": "product",
-            "Q28692583": "",
+            "Q28692583": "bladed object",
             "Q28877": "goods",
             "Q2897903": "goods and services",
             "Q2995644": "result",
@@ -277,15 +277,15 @@
             "Q1454986": "physical system",
             "Q1514280": "stabbing_weapon",
             "Q15401930": "artificial object",
-            "Q15407649": "",
+            "Q15407649": "edged and bladed weapon",
             "Q1617400": "slashing_weapon",
             "Q16686448": "artificial object",
-            "Q18643213": "",
+            "Q18643213": "military equipment",
             "Q222405": "Cold_weapon",
             "Q223557": "physical object",
             "Q231204": "Sabre",
             "Q2424752": "product",
-            "Q28692583": "",
+            "Q28692583": "bladed object",
             "Q28877": "goods",
             "Q2897903": "goods and services",
             "Q2995644": "result",
@@ -931,7 +931,7 @@
             "1PL": "first person plural",
             "3PL": "third person plural",
             "OBJ": "object",
-            "SUBJ": ""
+            "SUBJ": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -968,13 +968,13 @@
             "3SG": "third person singular",
             "AUG": "augmentative (Hakha Lai)",
             "CONN": "connective (Hakha Lai)",
-            "DEIC": "",
+            "DEIC": null,
             "DEM": "demonstrative",
             "ERG": "ergative",
             "INTERJ": "interjection",
             "MAL": "malefactive",
             "OBJ": "object",
-            "SUBJ": ""
+            "SUBJ": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -1066,9 +1066,9 @@
             "DIM": "diminutive",
             "EMPH": "emphatic",
             "HRSY": "hearsay evidential (Meskwaki)",
-            "OBJ2": "",
+            "OBJ2": null,
             "SG": "singular",
-            "W": ""
+            "W": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -1152,7 +1152,7 @@
         "ID": "langsci312-720f7dec4e",
         "abbrkey": {
             "APPL": "applicative",
-            "FOCUS": "",
+            "FOCUS": null,
             "FV": "final vowel (Kichaga)",
             "PST": "past"
         },
@@ -1352,57 +1352,57 @@
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
-            "Q102186648": "",
-            "Q104493": "",
+            "Q102186648": "sensation perception",
+            "Q104493": "risk",
             "Q108163": "proposition",
             "Q11028": "information",
             "Q1132455": "Hazard",
             "Q1150070": "change",
-            "Q1168263": "",
+            "Q1168263": "function",
             "Q1190554": "occurrence",
             "Q12040808": "neurological_symptom",
             "Q1207505": "quality",
-            "Q12894677": "",
-            "Q1441305": "",
+            "Q12894677": "means",
+            "Q1441305": "clinical sign",
             "Q1454986": "physical system",
             "Q15916540": "semantic unit",
-            "Q160402": "",
+            "Q160402": "perception",
             "Q16686448": "artificial object",
             "Q16877783": "meaning",
             "Q16887380": "group",
             "Q16889133": "class",
-            "Q169872": "",
-            "Q1724915": "",
+            "Q169872": "symptom",
+            "Q1724915": "use",
             "Q1786828": "constituent",
             "Q183046": "meaning",
-            "Q18603648": "",
+            "Q18603648": "contributing factor",
             "Q188572": "fact",
             "Q1914636": "activity",
-            "Q193181": "",
-            "Q2057971": "",
+            "Q193181": "observation",
+            "Q2057971": "health problem",
             "Q20817253": "linguistic unit",
             "Q20937557": "sequence",
-            "Q21170479": "",
+            "Q21170479": "possibility",
             "Q223557": "physical object",
             "Q246672": "mathematical object",
-            "Q2574811": "",
+            "Q2574811": "cause",
             "Q2684591": "statement",
             "Q26907166": "temporal entity",
-            "Q286583": "",
-            "Q28807560": "",
+            "Q286583": "manifestation",
+            "Q28807560": "clinical finding",
             "Q28813620": "set",
-            "Q29182544": "",
+            "Q29182544": "assignment",
             "Q29651519": "mental object",
             "Q30060700": "scientific object",
             "Q31464082": "source",
             "Q3249551": "process",
-            "Q340169": "",
-            "Q3505845": "",
+            "Q340169": "media",
+            "Q3505845": "state",
             "Q35120": "entity",
             "Q35459920": "three-dimensional object",
             "Q3769299": "human behavior",
             "Q3955369": "sensation",
-            "Q4026292": "",
+            "Q4026292": "action",
             "Q41796": "sentence",
             "Q42848": "data",
             "Q4406616": "concrete object",
@@ -1412,31 +1412,31 @@
             "Q483247": "phenomenon",
             "Q488383": "object",
             "Q5371079": "emic unit",
-            "Q5422048": "",
-            "Q5720030": "",
+            "Q5422048": "external risk",
+            "Q5720030": "detection",
             "Q58415929": "spatio-temporal entity",
             "Q58778": "system",
-            "Q593289": "",
+            "Q593289": "information access",
             "Q61788060": "human activity",
-            "Q621184": "",
+            "Q621184": "problem",
             "Q628523": "Message",
-            "Q639907": "",
+            "Q639907": "medical finding",
             "Q6671777": "structure",
             "Q67518978": "occurrent",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
-            "Q7189713": "",
-            "Q733553": "",
-            "Q781413": "",
-            "Q813912": "",
+            "Q7189713": "physiological condition",
+            "Q733553": "channel",
+            "Q781413": "mental process",
+            "Q813912": "condition",
             "Q8205328": "artificial physical object",
-            "Q855395": "",
-            "Q86923152": "",
-            "Q87075524": "",
+            "Q855395": "interpretation",
+            "Q86923152": "risk source",
+            "Q87075524": "health risk",
             "Q9332": "behavior",
             "Q937228": "property",
             "Q9380010": "utterance",
-            "Q944806": "",
+            "Q944806": "operational risk",
             "Q99527517": "collective entity"
         },
         "polarity": "negative",
@@ -1585,57 +1585,57 @@
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
-            "Q102186648": "",
-            "Q104493": "",
+            "Q102186648": "sensation perception",
+            "Q104493": "risk",
             "Q108163": "proposition",
             "Q11028": "information",
             "Q1132455": "Hazard",
             "Q1150070": "change",
-            "Q1168263": "",
+            "Q1168263": "function",
             "Q1190554": "occurrence",
             "Q12040808": "neurological_symptom",
             "Q1207505": "quality",
-            "Q12894677": "",
-            "Q1441305": "",
+            "Q12894677": "means",
+            "Q1441305": "clinical sign",
             "Q1454986": "physical system",
             "Q15916540": "semantic unit",
-            "Q160402": "",
+            "Q160402": "perception",
             "Q16686448": "artificial object",
             "Q16877783": "meaning",
             "Q16887380": "group",
             "Q16889133": "class",
-            "Q169872": "",
-            "Q1724915": "",
+            "Q169872": "symptom",
+            "Q1724915": "use",
             "Q1786828": "constituent",
             "Q183046": "meaning",
-            "Q18603648": "",
+            "Q18603648": "contributing factor",
             "Q188572": "fact",
             "Q1914636": "activity",
-            "Q193181": "",
-            "Q2057971": "",
+            "Q193181": "observation",
+            "Q2057971": "health problem",
             "Q20817253": "linguistic unit",
             "Q20937557": "sequence",
-            "Q21170479": "",
+            "Q21170479": "possibility",
             "Q223557": "physical object",
             "Q246672": "mathematical object",
-            "Q2574811": "",
+            "Q2574811": "cause",
             "Q2684591": "statement",
             "Q26907166": "temporal entity",
-            "Q286583": "",
-            "Q28807560": "",
+            "Q286583": "manifestation",
+            "Q28807560": "clinical finding",
             "Q28813620": "set",
-            "Q29182544": "",
+            "Q29182544": "assignment",
             "Q29651519": "mental object",
             "Q30060700": "scientific object",
             "Q31464082": "source",
             "Q3249551": "process",
-            "Q340169": "",
-            "Q3505845": "",
+            "Q340169": "media",
+            "Q3505845": "state",
             "Q35120": "entity",
             "Q35459920": "three-dimensional object",
             "Q3769299": "human behavior",
             "Q3955369": "sensation",
-            "Q4026292": "",
+            "Q4026292": "action",
             "Q41796": "sentence",
             "Q42848": "data",
             "Q4406616": "concrete object",
@@ -1645,31 +1645,31 @@
             "Q483247": "phenomenon",
             "Q488383": "object",
             "Q5371079": "emic unit",
-            "Q5422048": "",
-            "Q5720030": "",
+            "Q5422048": "external risk",
+            "Q5720030": "detection",
             "Q58415929": "spatio-temporal entity",
             "Q58778": "system",
-            "Q593289": "",
+            "Q593289": "information access",
             "Q61788060": "human activity",
-            "Q621184": "",
+            "Q621184": "problem",
             "Q628523": "Message",
-            "Q639907": "",
+            "Q639907": "medical finding",
             "Q6671777": "structure",
             "Q67518978": "occurrent",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
-            "Q7189713": "",
-            "Q733553": "",
-            "Q781413": "",
-            "Q813912": "",
+            "Q7189713": "physiological condition",
+            "Q733553": "channel",
+            "Q781413": "mental process",
+            "Q813912": "condition",
             "Q8205328": "artificial physical object",
-            "Q855395": "",
-            "Q86923152": "",
-            "Q87075524": "",
+            "Q855395": "interpretation",
+            "Q86923152": "risk source",
+            "Q87075524": "health risk",
             "Q9332": "behavior",
             "Q937228": "property",
             "Q9380010": "utterance",
-            "Q944806": "",
+            "Q944806": "operational risk",
             "Q99527517": "collective entity"
         },
         "polarity": "negative",
@@ -1815,7 +1815,7 @@
             "INF": "infinitive",
             "INS": "instrumental",
             "PASS": "passive",
-            "R": ""
+            "R": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -1863,7 +1863,7 @@
         "abbrkey": {
             "ERG": "ergative",
             "M": "masculine",
-            "NPL": "",
+            "NPL": null,
             "PCVB": "participle-converb (Ashti)",
             "PFV": "perfective",
             "PRET": "preterite"
@@ -1915,7 +1915,7 @@
             "M": "masculine",
             "PFV": "perfective",
             "PRF": "perfect",
-            "R": ""
+            "R": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -1964,7 +1964,7 @@
             "M": "masculine",
             "PFV": "perfective",
             "PRF": "perfect",
-            "R": ""
+            "R": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -2182,8 +2182,8 @@
             "EL": "elative",
             "IPFV": "imperfective",
             "NOM": "nominative",
-            "NPST": "",
-            "O": "",
+            "NPST": null,
+            "O": null,
             "S": "single argument of canonical intransitive verb",
             "SG": "singular",
             "TMPR": "temporal (Moksha Mordvin)"
@@ -2254,7 +2254,7 @@
             "GEN": "genitive",
             "NEG": "negation, negative",
             "NOM": "nominative",
-            "NPST": ""
+            "NPST": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -2472,7 +2472,7 @@
     {
         "ID": "langsci312-bd67b8f0b4",
         "abbrkey": {
-            "TOPIC": ""
+            "TOPIC": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -2512,8 +2512,8 @@
             "COMP": "complementizer",
             "LAT": "lative",
             "NOM": "nominative",
-            "NPST": "",
-            "O": "",
+            "NPST": null,
+            "O": null,
             "PST": "past",
             "S": "single argument of canonical intransitive verb"
         },
@@ -2620,7 +2620,7 @@
         "ID": "langsci312-b13c29105b",
         "abbrkey": {
             "CL": "clitic",
-            "J": ""
+            "J": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -3002,9 +3002,9 @@
             "1SG": "first person singular",
             "CVB": "converb",
             "DAT": "dative",
-            "II": "",
+            "II": null,
             "IPFV": "imperfective",
-            "PRES": "",
+            "PRES": null,
             "SG": "singular"
         },
         "book_metalanguage": "stan1293",
@@ -3049,13 +3049,13 @@
         "abbrkey": {
             "3PL": "third person plural",
             "ACC": "accusative",
-            "C": "",
-            "IMPF": "",
-            "L": "",
+            "C": null,
+            "IMPF": null,
+            "L": null,
             "M": "masculine",
             "NOM": "nominative",
             "PL": "plural",
-            "SUBJ": ""
+            "SUBJ": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -3194,7 +3194,7 @@
         "ID": "langsci312-02d47d801d",
         "abbrkey": {
             "3PL": "third person plural",
-            "FEM": "",
+            "FEM": null,
             "P": "patient-like argument of canonical transitive verb",
             "PL": "plural"
         },
@@ -4312,7 +4312,25 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q1150070": "change",
+            "Q1190554": "occurrence",
+            "Q16887380": "group",
+            "Q17988854": "active motion",
+            "Q1914636": "activity",
+            "Q20937557": "sequence",
+            "Q26907166": "temporal entity",
+            "Q28813620": "set",
+            "Q3074541": "energy flow",
+            "Q35120": "entity",
+            "Q3769299": "human behavior",
+            "Q4284762": "material flow",
+            "Q451967": "intentional human activity",
+            "Q58415929": "spatio-temporal entity",
+            "Q61788060": "human activity",
+            "Q9332": "behavior",
+            "Q99527517": "collective entity"
+        },
         "provider": "langsci",
         "srcwordsbare": [
             "karera",
@@ -4333,7 +4351,7 @@
         "abbrkey": {
             "ACC": "accusative",
             "GEN": "genitive",
-            "GOAL": "",
+            "GOAL": null,
             "TOP": "topic"
         },
         "book_metalanguage": "stan1293",
@@ -5095,11 +5113,11 @@
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
-            "Q111352": "",
-            "Q12767945": "",
+            "Q111352": "lexeme",
+            "Q12767945": "language device",
             "Q16889133": "class",
             "Q20817253": "linguistic unit",
-            "Q2944660": "",
+            "Q2944660": "lexical item",
             "Q29651519": "mental object",
             "Q35120": "entity",
             "Q488383": "object",
@@ -5966,7 +5984,7 @@
         "ID": "langsci312-c31985b106",
         "abbrkey": {
             "1SG": "first person singular",
-            "FRUSTR": ""
+            "FRUSTR": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -6006,10 +6024,10 @@
         "ID": "langsci312-d65b419351",
         "abbrkey": {
             "3SG": "third person singular",
-            "FACT": "",
+            "FACT": null,
             "M": "masculine",
             "PST": "past",
-            "V": ""
+            "V": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -6098,7 +6116,7 @@
         "ID": "langsci312-011ca42d31",
         "abbrkey": {
             "3SG": "third person singular",
-            "FACT": ""
+            "FACT": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -6142,7 +6160,7 @@
         "abbrkey": {
             "3SG": "third person singular",
             "DEF": "definite",
-            "FACT": "",
+            "FACT": null,
             "PST": "past"
         },
         "book_metalanguage": "stan1293",
@@ -6276,9 +6294,9 @@
     {
         "ID": "langsci312-5734aeba11",
         "abbrkey": {
-            "ACTUAL": "",
+            "ACTUAL": null,
             "NEG": "negation, negative",
-            "OBV": ""
+            "OBV": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -6322,7 +6340,7 @@
         "ID": "langsci312-e64208ea99",
         "abbrkey": {
             "ACC": "accusative",
-            "GE": ""
+            "GE": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -6365,7 +6383,7 @@
         "abbrkey": {
             "INS": "instrumental",
             "NEG": "negation, negative",
-            "NO": ""
+            "NO": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -6538,7 +6556,7 @@
             "ABS": "absolutive",
             "DU": "dual",
             "ERG": "ergative",
-            "NPAST": "",
+            "NPAST": null,
             "PRS": "present"
         },
         "book_metalanguage": "stan1293",
@@ -6588,7 +6606,7 @@
             "DAT": "dative",
             "GEN": "genitive",
             "NOM": "nominative",
-            "OV": "",
+            "OV": null,
             "PRF": "perfect"
         },
         "book_metalanguage": "stan1293",
@@ -6717,7 +6735,7 @@
         "ID": "langsci312-69fde070bd",
         "abbrkey": {
             "1SG": "first person singular",
-            "DV": "",
+            "DV": null,
             "GEN": "genitive",
             "NOM": "nominative",
             "PRF": "perfect"
@@ -6760,7 +6778,7 @@
         "ID": "langsci312-658b61efc1",
         "abbrkey": {
             "1SG": "first person singular",
-            "DV": "",
+            "DV": null,
             "GEN": "genitive",
             "NOM": "nominative",
             "PRF": "perfect"
@@ -6829,44 +6847,44 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q106559804": "",
+            "Q106559804": "person or organization",
             "Q110551885": "mammal",
             "Q110551902": "vertebrate",
-            "Q1516282": "",
-            "Q154954": "",
-            "Q159344": "",
-            "Q15978631": "",
-            "Q16334295": "",
-            "Q16334298": "",
-            "Q164509": "",
+            "Q1516282": "juvenile",
+            "Q154954": "natural person",
+            "Q159344": "heterotroph",
+            "Q15978631": "Homo sapiens",
+            "Q16334295": "group of humans",
+            "Q16334298": "group of living things",
+            "Q164509": "omnivore",
             "Q18336849": "",
-            "Q215627": "",
-            "Q2198779": "",
+            "Q215627": "person",
+            "Q2198779": "unit",
             "Q23958946": "individual entity",
             "Q24229398": "agent",
-            "Q26720107": "",
+            "Q26720107": "personal law",
             "Q27043950": "anatomical entity",
             "Q29651224": "natural object",
             "Q35120": "entity",
-            "Q3778211": "",
-            "Q4330518": "",
+            "Q3778211": "legal person",
+            "Q4330518": "object of study",
             "Q488383": "object",
-            "Q5": "",
+            "Q5": "human",
             "Q53617489": "independent continuant",
             "Q58778": "system",
-            "Q61961344": "",
+            "Q61961344": "group of physical objects",
             "Q6671777": "structure",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
             "Q7239": "Organism",
-            "Q72638": "",
+            "Q72638": "consumer",
             "Q729": "Animal",
-            "Q7887142": "",
-            "Q795052": "",
+            "Q7887142": "unit of analysis",
+            "Q795052": "individual",
             "Q830077": "subject",
-            "Q851990": "",
-            "Q874405": "",
-            "Q98119401": "",
+            "Q851990": "population group",
+            "Q874405": "human social group",
+            "Q98119401": "group or class of physical objects",
             "Q99527517": "collective entity"
         },
         "provider": "langsci",
@@ -7007,8 +7025,8 @@
             "1SG": "first person singular",
             "ALL": "allative",
             "IPFV": "imperfective",
-            "NFACTC": "",
-            "NPST": "",
+            "NFACTC": null,
+            "NPST": null,
             "PRS": "present"
         },
         "book_metalanguage": "stan1293",
@@ -7052,8 +7070,8 @@
             "1SG": "first person singular",
             "ALL": "allative",
             "IPFV": "imperfective",
-            "NFACTC": "",
-            "NPST": "",
+            "NFACTC": null,
+            "NPST": null,
             "PRS": "present"
         },
         "book_metalanguage": "stan1293",
@@ -7247,41 +7265,41 @@
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
-            "Q104127086": "",
+            "Q104127086": "memory",
             "Q11028": "information",
-            "Q1132631": "",
+            "Q1132631": "mechanical wave",
             "Q11461": "Sound",
             "Q1150070": "change",
             "Q1190554": "occurrence",
-            "Q12488383": "",
+            "Q12488383": "content",
             "Q16887380": "group",
-            "Q170475": "",
-            "Q173799": "",
-            "Q184872": "",
+            "Q170475": "oscillation",
+            "Q173799": "entertainment",
+            "Q184872": "recreation",
             "Q1914636": "activity",
-            "Q2018526": "",
+            "Q2018526": "arts",
             "Q20937557": "sequence",
-            "Q25498967": "",
+            "Q25498967": "elastic wave",
             "Q26907166": "temporal entity",
             "Q28813620": "set",
             "Q28877": "goods",
             "Q2897903": "goods and services",
             "Q3249551": "process",
             "Q35120": "entity",
-            "Q37172": "",
+            "Q37172": "wave",
             "Q3769299": "human behavior",
-            "Q3882459": "",
+            "Q3882459": "acoustic wave",
             "Q451967": "intentional human activity",
             "Q488383": "object",
             "Q58415929": "spatio-temporal entity",
             "Q61788060": "human activity",
-            "Q626707": "",
+            "Q626707": "longitudinal wave",
             "Q638": "Music",
             "Q67518978": "occurrent",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
             "Q735": "Art",
-            "Q80083": "",
+            "Q80083": "humanities",
             "Q9081": "Knowledge",
             "Q9332": "behavior",
             "Q99527517": "collective entity"
@@ -7495,7 +7513,7 @@
     {
         "ID": "langsci312-0f55a9cfde",
         "abbrkey": {
-            "DCL": "",
+            "DCL": null,
             "NOM": "nominative",
             "PRS": "present",
             "TOP": "topic"
@@ -8035,13 +8053,13 @@
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
-            "Q104127086": "",
-            "Q105948247": "",
+            "Q104127086": "memory",
+            "Q105948247": "knowledge system",
             "Q11028": "information",
-            "Q12488383": "",
-            "Q1999851": "",
+            "Q12488383": "content",
+            "Q1999851": "normative science",
             "Q28813620": "set",
-            "Q336": "",
+            "Q336": "science",
             "Q34749": "Social_science",
             "Q35120": "entity",
             "Q488383": "object",
@@ -8049,7 +8067,7 @@
             "Q6671777": "structure",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
-            "Q80083": "",
+            "Q80083": "humanities",
             "Q9081": "Knowledge",
             "Q99527517": "collective entity"
         },
@@ -8737,7 +8755,7 @@
         "abbrkey": {
             "FUT": "future",
             "IPFV": "imperfective",
-            "MPL": "",
+            "MPL": null,
             "NEG": "negation, negative",
             "NOM": "nominative",
             "SBJV": "subjunctive"
@@ -8784,7 +8802,7 @@
         "abbrkey": {
             "IPFV": "imperfective",
             "JUSS": "jussive",
-            "MPL": "",
+            "MPL": null,
             "NEG": "negation, negative",
             "NOM": "nominative",
             "PST": "past"
@@ -9404,7 +9422,7 @@
         "ID": "langsci312-6ab0cd16f8",
         "abbrkey": {
             "NEG": "negation, negative",
-            "NEVER": "",
+            "NEVER": null,
             "POSTNEG": "post verbal negator"
         },
         "book_metalanguage": "stan1293",
@@ -10378,12 +10396,12 @@
             "Q1346342": "Anglic_languages",
             "Q17376908": "Languoid",
             "Q19860": "Indo-European_languages",
-            "Q20162172": "",
+            "Q20162172": "human language",
             "Q21200": "Germanic_languages",
             "Q26721": "West_Germanic_languages",
-            "Q276314": "",
+            "Q276314": "Nostratic",
             "Q30134": "North_Sea_Germanic",
-            "Q34770": "",
+            "Q34770": "language",
             "Q35120": "entity",
             "Q488383": "object",
             "Q5329170": "Anglo-Frisian_languages",
@@ -10450,7 +10468,7 @@
             "3SG": "third person singular",
             "ACC": "accusative",
             "ERG": "ergative",
-            "NFUT": ""
+            "NFUT": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -10492,7 +10510,7 @@
         "abbrkey": {
             "ALL": "allative",
             "DAT": "dative",
-            "POT": "",
+            "POT": null,
             "S": "single argument of canonical intransitive verb",
             "TOP": "topic"
         },
@@ -10540,7 +10558,7 @@
             "DAT": "dative",
             "ERG": "ergative",
             "OBJ": "object",
-            "ONLY": "",
+            "ONLY": null,
             "PST": "past",
             "TOP": "topic"
         },
@@ -10629,9 +10647,9 @@
         "abbrkey": {
             "ALL": "allative",
             "DAT": "dative",
-            "DUB": "",
-            "POT": "",
-            "SEQ": "",
+            "DUB": null,
+            "POT": null,
+            "SEQ": null,
             "TOP": "topic"
         },
         "book_metalanguage": "stan1293",
@@ -10683,9 +10701,9 @@
         "abbrkey": {
             "ALL": "allative",
             "DAT": "dative",
-            "DUB": "",
-            "POT": "",
-            "SEQ": "",
+            "DUB": null,
+            "POT": null,
+            "SEQ": null,
             "TOP": "topic"
         },
         "book_metalanguage": "stan1293",
@@ -10987,7 +11005,7 @@
     {
         "ID": "langsci312-6b524bc5f1",
         "abbrkey": {
-            "AN": "",
+            "AN": null,
             "GEN": "genitive",
             "NOM": "nominative",
             "PL": "plural",
@@ -11212,7 +11230,7 @@
         "ID": "langsci312-01bfe5d4a6",
         "abbrkey": {
             "PFV": "perfective",
-            "PST2": ""
+            "PST2": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -11351,7 +11369,7 @@
     {
         "ID": "langsci312-8ca0779df9",
         "abbrkey": {
-            "EMPH": ""
+            "EMPH": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -11384,7 +11402,7 @@
     {
         "ID": "langsci312-e479b2b8ce",
         "abbrkey": {
-            "EMPH": ""
+            "EMPH": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -11418,7 +11436,7 @@
         "ID": "langsci312-2ddaa2cefa",
         "abbrkey": {
             "NEG": "negation, negative",
-            "PST4": ""
+            "PST4": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -11466,7 +11484,7 @@
         "abbrkey": {
             "NEG": "negation, negative",
             "PFV": "perfective",
-            "PST4": ""
+            "PST4": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -11513,7 +11531,7 @@
     {
         "ID": "langsci312-c5a6734acf",
         "abbrkey": {
-            "EMPH": ""
+            "EMPH": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -11548,7 +11566,7 @@
     {
         "ID": "langsci312-e8669d5561",
         "abbrkey": {
-            "EMPH": ""
+            "EMPH": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -11616,7 +11634,7 @@
     {
         "ID": "langsci312-49ac5665b9",
         "abbrkey": {
-            "EMPH": ""
+            "EMPH": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -11690,7 +11708,7 @@
             "3SG": "third person singular",
             "IND": "indicative",
             "NOM": "nominative",
-            "PRES": ""
+            "PRES": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -11742,7 +11760,7 @@
         "abbrkey": {
             "3SG": "third person singular",
             "IND": "indicative",
-            "PRES": ""
+            "PRES": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -11789,8 +11807,8 @@
         "abbrkey": {
             "1SG": "first person singular",
             "NOM": "nominative",
-            "PART": "",
-            "PAST": ""
+            "PART": null,
+            "PAST": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -11830,7 +11848,7 @@
         "ID": "langsci312-1ce1249192",
         "abbrkey": {
             "1SG": "first person singular",
-            "PX": ""
+            "PX": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -11868,9 +11886,9 @@
     {
         "ID": "langsci312-0d1e1b66ec",
         "abbrkey": {
-            "FV": "",
-            "OM": "",
-            "TNS": ""
+            "FV": null,
+            "OM": null,
+            "TNS": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -12003,10 +12021,10 @@
     {
         "ID": "langsci312-717218fd6e",
         "abbrkey": {
-            "INDIC": "",
-            "OM": "",
-            "PAST": "",
-            "SM": ""
+            "INDIC": null,
+            "OM": null,
+            "PAST": null,
+            "SM": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -12035,13 +12053,13 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q1360": "",
+            "Q1360": "Arthropoda",
             "Q1390": "Insect",
             "Q23958946": "individual entity",
             "Q27043950": "anatomical entity",
             "Q29651224": "natural object",
             "Q35120": "entity",
-            "Q43806": "",
+            "Q43806": "invertebrate",
             "Q488383": "object",
             "Q53617489": "independent continuant",
             "Q7239": "Organism",
@@ -12059,9 +12077,9 @@
     {
         "ID": "langsci312-5a49c2dfbd",
         "abbrkey": {
-            "INDIC": "",
-            "PAST": "",
-            "SM": ""
+            "INDIC": null,
+            "PAST": null,
+            "SM": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -12089,13 +12107,13 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q1360": "",
+            "Q1360": "Arthropoda",
             "Q1390": "Insect",
             "Q23958946": "individual entity",
             "Q27043950": "anatomical entity",
             "Q29651224": "natural object",
             "Q35120": "entity",
-            "Q43806": "",
+            "Q43806": "invertebrate",
             "Q488383": "object",
             "Q53617489": "independent continuant",
             "Q7239": "Organism",
@@ -12113,9 +12131,9 @@
     {
         "ID": "langsci312-ffaf04f619",
         "abbrkey": {
-            "INDIC": "",
-            "PAST": "",
-            "SM": ""
+            "INDIC": null,
+            "PAST": null,
+            "SM": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -12150,9 +12168,9 @@
     {
         "ID": "langsci312-4282e0eba2",
         "abbrkey": {
-            "FV": "",
-            "OM": "",
-            "TNS": ""
+            "FV": null,
+            "OM": null,
+            "TNS": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -12188,9 +12206,9 @@
     {
         "ID": "langsci312-6717c8b507",
         "abbrkey": {
-            "FV": "",
-            "OM": "",
-            "TNS": ""
+            "FV": null,
+            "OM": null,
+            "TNS": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -12223,9 +12241,9 @@
     {
         "ID": "langsci312-231b05d5fb",
         "abbrkey": {
-            "FV": "",
-            "OM": "",
-            "TNS": ""
+            "FV": null,
+            "OM": null,
+            "TNS": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -12260,9 +12278,9 @@
     {
         "ID": "langsci312-26f25b7e5e",
         "abbrkey": {
-            "FV": "",
-            "OM": "",
-            "TNS": ""
+            "FV": null,
+            "OM": null,
+            "TNS": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -12297,8 +12315,8 @@
     {
         "ID": "langsci312-b5e1a20d4c",
         "abbrkey": {
-            "FV": "",
-            "TNS": ""
+            "FV": null,
+            "TNS": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -12332,7 +12350,7 @@
     {
         "ID": "langsci312-4d9929c9a9",
         "abbrkey": {
-            "FEM": "",
+            "FEM": null,
             "SG": "singular"
         },
         "book_metalanguage": "stan1293",
@@ -12367,8 +12385,8 @@
     {
         "ID": "langsci312-0dc10b4cf8",
         "abbrkey": {
-            "FEM": "",
-            "HUM": "",
+            "FEM": null,
+            "HUM": null,
             "PL": "plural"
         },
         "book_metalanguage": "stan1293",
@@ -12402,8 +12420,8 @@
     {
         "ID": "langsci312-c1a8dfbbb2",
         "abbrkey": {
-            "FEM": "",
-            "HUM": "",
+            "FEM": null,
+            "HUM": null,
             "PL": "plural"
         },
         "book_metalanguage": "stan1293",
@@ -12439,7 +12457,7 @@
     {
         "ID": "langsci312-5afe88ab96",
         "abbrkey": {
-            "FEM": "",
+            "FEM": null,
             "SG": "singular"
         },
         "book_metalanguage": "stan1293",
@@ -12781,7 +12799,7 @@
     {
         "ID": "langsci312-bec18ce463",
         "abbrkey": {
-            "PART": ""
+            "PART": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -12896,13 +12914,13 @@
             "3PL": "third person plural",
             "3SG": "third person singular",
             "DIST": "distal",
-            "EMPH": "",
+            "EMPH": null,
             "NEG": "negation, negative",
             "OBJ": "object",
             "PL": "plural",
-            "POT": "",
+            "POT": null,
             "SBJ": "subject",
-            "TH": ""
+            "TH": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -12955,9 +12973,9 @@
             "3SG": "third person singular",
             "INCL": "inclusive",
             "OBJ": "object",
-            "REALIS": "",
-            "SUBJ": "",
-            "TH": ""
+            "REALIS": null,
+            "SUBJ": null,
+            "TH": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -12998,7 +13016,7 @@
     {
         "ID": "langsci312-d89079000b",
         "abbrkey": {
-            "PART": ""
+            "PART": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -14133,7 +14151,7 @@
             "M": "masculine",
             "NOM": "nominative",
             "PST": "past",
-            "W": ""
+            "W": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -14525,7 +14543,7 @@
             "3SG": "third person singular",
             "IND": "indicative",
             "IPFV": "imperfective",
-            "J": ""
+            "J": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -14710,7 +14728,7 @@
             "DAT": "dative",
             "DECL": "declarative",
             "NOM": "nominative",
-            "UK": ""
+            "UK": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -14763,7 +14781,7 @@
             "DAT": "dative",
             "DECL": "declarative",
             "NOM": "nominative",
-            "UK": ""
+            "UK": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -14816,7 +14834,7 @@
             "DECL": "declarative",
             "NOM": "nominative",
             "PST": "past",
-            "UK": ""
+            "UK": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -14875,7 +14893,7 @@
             "NEG": "negation, negative",
             "NOM": "nominative",
             "PST": "past",
-            "UK": ""
+            "UK": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -15434,7 +15452,7 @@
         "ID": "langsci312-ffbc473277",
         "abbrkey": {
             "APPL": "applicative",
-            "FV": "",
+            "FV": null,
             "PST": "past"
         },
         "book_metalanguage": "stan1293",
@@ -15882,7 +15900,7 @@
         "abbrkey": {
             "APPL": "applicative",
             "FOC": "focus",
-            "FV": "",
+            "FV": null,
             "PRS": "present"
         },
         "book_metalanguage": "stan1293",
@@ -16005,7 +16023,7 @@
         "ID": "langsci312-51564c13ba",
         "abbrkey": {
             "APPL": "applicative",
-            "ASP": "",
+            "ASP": null,
             "PST": "past",
             "S": "single argument of canonical intransitive verb"
         },
@@ -16050,7 +16068,7 @@
         "ID": "langsci312-0edcdd1de6",
         "abbrkey": {
             "CAUS": "causative",
-            "FV": "",
+            "FV": null,
             "PST": "past"
         },
         "book_metalanguage": "stan1293",
@@ -16095,7 +16113,7 @@
         "ID": "langsci312-b1fe65efe9",
         "abbrkey": {
             "CAUS": "causative",
-            "FV": "",
+            "FV": null,
             "PRS": "present"
         },
         "book_metalanguage": "stan1293",
@@ -16150,7 +16168,7 @@
             "M": "masculine",
             "NOM": "nominative",
             "OBL": "oblique",
-            "PERF": "",
+            "PERF": null,
             "SG": "singular"
         },
         "book_metalanguage": "stan1293",
@@ -16582,7 +16600,7 @@
         "ID": "langsci312-255e7eeede",
         "abbrkey": {
             "NOM": "nominative",
-            "PRES": ""
+            "PRES": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -16609,16 +16627,16 @@
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
-            "Q111352": "",
-            "Q12767945": "",
+            "Q111352": "lexeme",
+            "Q12767945": "language device",
             "Q16889133": "class",
             "Q20817253": "linguistic unit",
-            "Q2944660": "",
+            "Q2944660": "lexical item",
             "Q29651519": "mental object",
             "Q35120": "entity",
             "Q488383": "object",
             "Q5371079": "emic unit",
-            "Q8171": "",
+            "Q8171": "word",
             "Q99527517": "collective entity"
         },
         "provider": "langsci",
@@ -16657,12 +16675,12 @@
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
-            "Q111352": "",
-            "Q12767945": "",
+            "Q111352": "lexeme",
+            "Q12767945": "language device",
             "Q16889133": "class",
             "Q1944382": "moneme",
             "Q20817253": "linguistic unit",
-            "Q2944660": "",
+            "Q2944660": "lexical item",
             "Q29651519": "mental object",
             "Q35120": "entity",
             "Q43249": "Morpheme",
@@ -16715,12 +16733,12 @@
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
-            "Q111352": "",
-            "Q12767945": "",
+            "Q111352": "lexeme",
+            "Q12767945": "language device",
             "Q16889133": "class",
             "Q1944382": "moneme",
             "Q20817253": "linguistic unit",
-            "Q2944660": "",
+            "Q2944660": "lexical item",
             "Q29651519": "mental object",
             "Q35120": "entity",
             "Q43249": "Morpheme",
@@ -16742,7 +16760,7 @@
         "abbrkey": {
             "1SG": "first person singular",
             "ACC": "accusative",
-            "ACT": "",
+            "ACT": null,
             "DEF": "definite",
             "M": "masculine",
             "PFV": "perfective",
@@ -16790,7 +16808,7 @@
     {
         "ID": "langsci312-416b3c68a6",
         "abbrkey": {
-            "ACT": "",
+            "ACT": null,
             "F": "feminine",
             "IPFV": "imperfective",
             "PTCP": "participle",
@@ -16835,7 +16853,7 @@
         "ID": "langsci312-8c853261fc",
         "abbrkey": {
             "F": "feminine",
-            "IMPFV": "",
+            "IMPFV": null,
             "PROG": "progressive",
             "SG": "singular"
         },
@@ -16873,8 +16891,8 @@
     {
         "ID": "langsci312-ec14ed6aa4",
         "abbrkey": {
-            "PAST": "",
-            "THITHER": ""
+            "PAST": null,
+            "THITHER": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -16915,8 +16933,8 @@
     {
         "ID": "langsci312-591efbc76e",
         "abbrkey": {
-            "HITHER": "",
-            "PAST": ""
+            "HITHER": null,
+            "PAST": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -17167,7 +17185,7 @@
     {
         "ID": "langsci312-4f4bdaf6f7",
         "abbrkey": {
-            "B": "",
+            "B": null,
             "DEF": "definite",
             "P": "patient-like argument of canonical transitive verb"
         },
@@ -17208,8 +17226,8 @@
     {
         "ID": "langsci312-ba4c712eff",
         "abbrkey": {
-            "INDEF": "",
-            "STR": ""
+            "INDEF": null,
+            "STR": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -17246,7 +17264,7 @@
         "ID": "langsci312-8f13e41511",
         "abbrkey": {
             "DEF": "definite",
-            "WK": ""
+            "WK": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -17465,7 +17483,7 @@
     {
         "ID": "langsci312-0629399511",
         "abbrkey": {
-            "ASP": ""
+            "ASP": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -18578,7 +18596,7 @@
     {
         "ID": "langsci312-96a3e75f99",
         "abbrkey": {
-            "II": "",
+            "II": null,
             "IND": "indicative",
             "PROG": "progressive",
             "SBJ": "subject"
@@ -18629,7 +18647,7 @@
             "APPL": "applicative",
             "IND": "indicative",
             "PST": "past",
-            "REC": ""
+            "REC": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -18673,10 +18691,10 @@
     {
         "ID": "langsci312-83e31a9ddf",
         "abbrkey": {
-            "II": "",
+            "II": null,
             "IND": "indicative",
             "PST": "past",
-            "REC": "",
+            "REC": null,
             "SBJ": "subject"
         },
         "book_metalanguage": "stan1293",
@@ -18725,10 +18743,10 @@
     {
         "ID": "langsci312-9c6623e361",
         "abbrkey": {
-            "II": "",
+            "II": null,
             "IND": "indicative",
             "PST": "past",
-            "REC": "",
+            "REC": null,
             "SBJ": "subject"
         },
         "book_metalanguage": "stan1293",
@@ -18819,9 +18837,9 @@
         "ID": "langsci312-b71c5f369b",
         "abbrkey": {
             "IND": "indicative",
-            "K": "",
+            "K": null,
             "PST": "past",
-            "REC": ""
+            "REC": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -18865,47 +18883,74 @@
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
-            "Q104127086": "",
+            "Q104127086": "memory",
             "Q11028": "information",
             "Q1150070": "change",
             "Q1150771": "output",
             "Q1190554": "occurrence",
-            "Q12488383": "",
-            "Q1293220": "",
+            "Q12488383": "content",
+            "Q1293220": "physical phenomenon",
+            "Q1454986": "physical system",
             "Q15401930": "artificial object",
-            "Q15621286": "",
+            "Q15621286": "intellectual work",
             "Q16686448": "artificial object",
-            "Q16722960": "",
+            "Q16722960": "phenomenon",
             "Q16887380": "group",
-            "Q17320256": "",
-            "Q17537576": "",
-            "Q17988854": "",
+            "Q17320256": "physical process",
+            "Q17334923": "physical location",
+            "Q17537576": "creative work",
+            "Q17988854": "active motion",
             "Q184485": "Performing_arts",
-            "Q184872": "",
+            "Q184872": "recreation",
             "Q1914636": "activity",
-            "Q193514": "",
-            "Q2018526": "",
+            "Q193514": "deformation",
+            "Q19603939": "building component",
+            "Q2018526": "arts",
             "Q20937557": "sequence",
+            "Q214609": "material",
+            "Q2221906": "geographic location",
+            "Q223557": "physical object",
+            "Q2424752": "product",
+            "Q25416091": "substance",
             "Q26907166": "temporal entity",
+            "Q27096213": "geographic entity",
+            "Q28555911": "ordinary matter",
+            "Q28728771": "matter",
+            "Q28732711": "physical substance",
             "Q28813620": "set",
+            "Q28877": "goods",
+            "Q28921572": "common matter",
+            "Q2897903": "goods and services",
             "Q2995644": "result",
+            "Q30060700": "scientific object",
             "Q30241068": "observable entity",
             "Q3249551": "process",
             "Q35120": "entity",
+            "Q35459920": "three-dimensional object",
+            "Q35758": "matter",
             "Q3769299": "human behavior",
             "Q386724": "work",
+            "Q391414": "architectural element",
+            "Q3955017": "intermediate good",
+            "Q4406616": "concrete object",
             "Q451967": "intentional human activity",
             "Q488383": "object",
             "Q58415929": "spatio-temporal entity",
+            "Q58416391": "spatial object",
+            "Q58778": "system",
+            "Q6005984": "baryonic matter",
             "Q61788060": "human activity",
+            "Q618123": "geographical feature",
             "Q6666023": "motion",
+            "Q6671777": "structure",
             "Q67518978": "occurrent",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
             "Q735": "Art",
-            "Q747883": "",
-            "Q79782": "",
-            "Q80083": "",
+            "Q747883": "physical activity",
+            "Q79782": "motion",
+            "Q80083": "humanities",
+            "Q8205328": "artificial physical object",
             "Q9081": "Knowledge",
             "Q9332": "behavior",
             "Q99527517": "collective entity"
@@ -19622,7 +19667,7 @@
             "DEF": "definite",
             "F": "feminine",
             "OBL": "oblique",
-            "OM2": "",
+            "OM2": null,
             "PASS": "passive",
             "PRF": "perfect",
             "SG": "singular",
@@ -20234,7 +20279,7 @@
         "abbrkey": {
             "IND": "indicative",
             "PST": "past",
-            "REC": ""
+            "REC": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -20274,7 +20319,7 @@
         "abbrkey": {
             "IND": "indicative",
             "PST": "past",
-            "REC": ""
+            "REC": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -20796,10 +20841,10 @@
         "abbrkey": {
             "3DU": "third person dual",
             "F": "feminine",
-            "GO": "",
+            "GO": null,
             "OBJ": "object",
             "SBJ": "subject",
-            "SHOVE": ""
+            "SHOVE": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -20828,9 +20873,22 @@
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
+            "Q103940464": "continuant",
+            "Q106559804": "person or organization",
             "Q12050496": "Feature_(linguistics)",
             "Q1207505": "quality",
+            "Q12758374": "kin",
+            "Q18336849": "",
+            "Q215627": "person",
+            "Q23958946": "individual entity",
+            "Q24229398": "agent",
+            "Q25098571": "First-degree_relative",
+            "Q26720107": "personal law",
             "Q35120": "entity",
+            "Q3778211": "legal person",
+            "Q488383": "object",
+            "Q795052": "individual",
+            "Q830077": "subject",
             "Q937228": "property",
             "Q980357": "Grammatical_category"
         },
@@ -20917,9 +20975,9 @@
             "Q1454986": "physical system",
             "Q15401930": "artificial object",
             "Q16686448": "artificial object",
-            "Q18458812": "",
-            "Q18643213": "",
-            "Q2184715": "",
+            "Q18458812": "consumer goods",
+            "Q18643213": "military equipment",
+            "Q2184715": "durable good",
             "Q222405": "Cold_weapon",
             "Q223557": "physical object",
             "Q2424752": "product",
@@ -20939,7 +20997,7 @@
             "Q649107": "Pole_weapon",
             "Q6671777": "structure",
             "Q728": "Weapon",
-            "Q768186": "",
+            "Q768186": "sports equipment",
             "Q8205328": "artificial physical object",
             "Q99527517": "collective entity"
         },
@@ -21166,9 +21224,9 @@
         "ID": "langsci312-62cfee3a6e",
         "abbrkey": {
             "ABS": "absolutive",
-            "GOING": "",
+            "GOING": null,
             "IMP": "imperative",
-            "TRY": ""
+            "TRY": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -21199,29 +21257,29 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q10675206": "",
-            "Q107122728": "",
-            "Q107122793": "",
-            "Q107126067": "",
+            "Q10675206": "ingredient",
+            "Q107122728": "plant-based food",
+            "Q107122793": "plant product",
+            "Q107126067": "vegetarian food",
             "Q11004": "Vegetable",
             "Q1150771": "output",
-            "Q11879003": "",
+            "Q11879003": "environmental resource",
             "Q1194058": "disposable product",
             "Q1454986": "physical system",
-            "Q15075845": "",
+            "Q15075845": "primary commodity",
             "Q15401930": "artificial object",
-            "Q1554231": "",
+            "Q1554231": "resource",
             "Q15989253": "part",
             "Q16686022": "natural physical object",
             "Q16686448": "artificial object",
             "Q1681365": "consumables",
-            "Q188460": "",
+            "Q188460": "natural resource",
             "Q2095": "Food",
             "Q214609": "material",
             "Q223557": "physical object",
             "Q23958946": "individual entity",
             "Q2424752": "product",
-            "Q25403900": "",
+            "Q25403900": "food ingredient",
             "Q25416091": "substance",
             "Q27043950": "anatomical entity",
             "Q28555911": "ordinary matter",
@@ -21229,15 +21287,15 @@
             "Q28732711": "physical substance",
             "Q28877": "goods",
             "Q28921572": "common matter",
-            "Q28969293": "",
-            "Q28969364": "",
+            "Q28969293": "biological material",
+            "Q28969364": "plant material",
             "Q2897903": "goods and services",
             "Q29651224": "natural object",
             "Q2995644": "result",
             "Q30060700": "scientific object",
             "Q30241068": "observable entity",
             "Q31464082": "source",
-            "Q3405827": "",
+            "Q3405827": "natural material",
             "Q35120": "entity",
             "Q35459920": "three-dimensional object",
             "Q35758": "matter",
@@ -21353,7 +21411,7 @@
             "ERG": "ergative",
             "IPFV": "imperfective",
             "PST": "past",
-            "STUFF": ""
+            "STUFF": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -21492,7 +21550,7 @@
         "ID": "langsci312-ece5a2d658",
         "abbrkey": {
             "3SG": "third person singular",
-            "HIT": "",
+            "HIT": null,
             "PRS": "present"
         },
         "book_metalanguage": "stan1293",
@@ -21575,7 +21633,7 @@
         "abbrkey": {
             "1SG": "first person singular",
             "CLF": "classifier",
-            "HANDS": "",
+            "HANDS": null,
             "SBJ": "subject"
         },
         "book_metalanguage": "stan1293",
@@ -21615,7 +21673,7 @@
         "ID": "langsci312-b98c3fcf5c",
         "abbrkey": {
             "1SG": "first person singular",
-            "FEET": "",
+            "FEET": null,
             "SBJ": "subject"
         },
         "book_metalanguage": "stan1293",
@@ -21732,7 +21790,7 @@
         "abbrkey": {
             "3PL": "third person plural",
             "FUT": "future",
-            "RE": ""
+            "RE": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -22211,7 +22269,20 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q1150070": "change",
+            "Q1190554": "occurrence",
+            "Q16887380": "group",
+            "Q1914636": "activity",
+            "Q20937557": "sequence",
+            "Q26907166": "temporal entity",
+            "Q28813620": "set",
+            "Q3249551": "process",
+            "Q35120": "entity",
+            "Q58415929": "spatio-temporal entity",
+            "Q67518978": "occurrent",
+            "Q99527517": "collective entity"
+        },
         "provider": "langsci",
         "srcwordsbare": [
             "Mae",
@@ -23053,7 +23124,7 @@
         "abbrkey": {
             "DEF": "definite",
             "PST": "past",
-            "RELL": ""
+            "RELL": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -23145,7 +23216,7 @@
         "abbrkey": {
             "DEF": "definite",
             "PRS": "present",
-            "RELN": ""
+            "RELN": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -24816,8 +24887,8 @@
     {
         "ID": "langsci312-6c50aadaf9",
         "abbrkey": {
-            "AC": "",
-            "DA": ""
+            "AC": null,
+            "DA": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -24865,7 +24936,7 @@
     {
         "ID": "langsci312-5dbd8acbd8",
         "abbrkey": {
-            "SUPERLATIVE": ""
+            "SUPERLATIVE": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -24893,7 +24964,31 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q107425": "Landscape",
+            "Q11081619": "Land",
+            "Q110910055": "region of space",
+            "Q1454986": "physical system",
+            "Q1496967": "territory",
+            "Q17334923": "physical location",
+            "Q205895": "landmass",
+            "Q20719696": "physico-geographical object",
+            "Q2221906": "geographic location",
+            "Q223557": "physical object",
+            "Q27096213": "geographic entity",
+            "Q30060700": "scientific object",
+            "Q35120": "entity",
+            "Q35459920": "three-dimensional object",
+            "Q4406616": "concrete object",
+            "Q488383": "object",
+            "Q58415929": "spatio-temporal entity",
+            "Q58416391": "spatial object",
+            "Q58778": "system",
+            "Q618123": "geographical feature",
+            "Q6671777": "structure",
+            "Q82794": "geographic region",
+            "Q99527517": "collective entity"
+        },
         "provider": "langsci",
         "srcwordsbare": [
             "de",
@@ -25507,7 +25602,7 @@
     {
         "ID": "langsci312-ab811e7df1",
         "abbrkey": {
-            "DA": "",
+            "DA": null,
             "INF": "infinitive"
         },
         "book_metalanguage": "stan1293",
@@ -25537,35 +25632,35 @@
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
-            "Q109588548": "",
+            "Q109588548": "allegorical story",
             "Q1150771": "output",
             "Q1318295": "Narrative",
             "Q15401930": "artificial object",
-            "Q15621286": "",
+            "Q15621286": "intellectual work",
             "Q16686448": "artificial object",
-            "Q16722960": "",
-            "Q17537576": "",
+            "Q16722960": "phenomenon",
+            "Q17537576": "creative work",
             "Q17991521": "tale",
-            "Q18593264": "",
-            "Q21071527": "",
+            "Q18593264": "item of collection or exhibition",
+            "Q21071527": "supernaturalism",
             "Q28877": "goods",
             "Q2897903": "goods and services",
             "Q2995644": "result",
-            "Q30060629": "",
+            "Q30060629": "object of non-science",
             "Q30241068": "observable entity",
-            "Q3306693": "",
+            "Q3306693": "mirabilia",
             "Q332102": "Paranormal",
-            "Q3328821": "",
+            "Q3328821": "narration",
             "Q35120": "entity",
             "Q38072107": "Fiction_writing",
             "Q386724": "work",
-            "Q47461344": "",
+            "Q47461344": "written work",
             "Q488383": "object",
             "Q58415929": "spatio-temporal entity",
-            "Q7725634": "",
+            "Q7725634": "literary work",
             "Q80837": "Supernatural",
             "Q8253": "Fiction",
-            "Q838948": ""
+            "Q838948": "work of art"
         },
         "provider": "langsci",
         "srcwordsbare": [
@@ -25788,7 +25883,7 @@
             "ACC": "accusative",
             "COMP": "complementizer",
             "DEM": "demonstrative",
-            "NO": ""
+            "NO": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -26066,9 +26161,9 @@
     {
         "ID": "langsci312-d8e4558e50",
         "abbrkey": {
-            "AC": "",
-            "DA": "",
-            "NO": ""
+            "AC": null,
+            "DA": null,
+            "NO": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -26368,7 +26463,7 @@
         "ID": "langsci312-7e3f77e775",
         "abbrkey": {
             "ACC": "accusative",
-            "EXP": ""
+            "EXP": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -26406,8 +26501,8 @@
     {
         "ID": "langsci312-7cfe7c3aca",
         "abbrkey": {
-            "AC": "",
-            "DA": "",
+            "AC": null,
+            "DA": null,
             "EXPL": "expletive",
             "NOM": "nominative"
         },
@@ -26459,8 +26554,8 @@
     {
         "ID": "langsci312-9d1f8d1d52",
         "abbrkey": {
-            "AC": "",
-            "DA": "",
+            "AC": null,
+            "DA": null,
             "EXPL": "expletive",
             "NOM": "nominative"
         },
@@ -26700,7 +26795,7 @@
     {
         "ID": "langsci312-298dc71efd",
         "abbrkey": {
-            "AC": "",
+            "AC": null,
             "M": "masculine",
             "SG": "singular"
         },
@@ -27559,7 +27654,68 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q106865223": "technical system",
+            "Q11028": "information",
+            "Q110910055": "region of space",
+            "Q1150771": "output",
+            "Q11908691": "artificial physical structure",
+            "Q121359": "infrastructure",
+            "Q1228250": "line",
+            "Q1454986": "physical system",
+            "Q15401930": "artificial object",
+            "Q15710813": "physical structure",
+            "Q16686448": "artificial object",
+            "Q16889133": "class",
+            "Q17334923": "physical location",
+            "Q1826691": "linear construction site",
+            "Q207961": "Shape",
+            "Q211548": "locus",
+            "Q217594": "class",
+            "Q2221906": "geographic location",
+            "Q223557": "physical object",
+            "Q246672": "mathematical object",
+            "Q269949": "highway",
+            "Q27096213": "geographic entity",
+            "Q27096235": "artificial geographic entity",
+            "Q2874718": "axis of communication",
+            "Q28813620": "set",
+            "Q28877": "goods",
+            "Q2897903": "goods and services",
+            "Q294440": "public space",
+            "Q2995644": "result",
+            "Q30060700": "scientific object",
+            "Q30241068": "observable entity",
+            "Q34442": "Road",
+            "Q35120": "entity",
+            "Q35145743": "artificial geographic object",
+            "Q35459920": "three-dimensional object",
+            "Q36161": "set",
+            "Q376799": "transport infrastructure",
+            "Q386724": "work",
+            "Q4393498": "representation",
+            "Q4406616": "concrete object",
+            "Q488383": "object",
+            "Q5469988": "formalization",
+            "Q58415929": "spatio-temporal entity",
+            "Q58416391": "spatial object",
+            "Q58778": "system",
+            "Q618123": "geographical feature",
+            "Q6671777": "structure",
+            "Q7048977": "abstract entity",
+            "Q7184903": "abstract entity",
+            "Q7551384": "social space",
+            "Q811430": "fixed construction",
+            "Q811979": "architectural structure",
+            "Q815741": "geometric shape",
+            "Q8205328": "artificial physical object",
+            "Q82794": "geographic region",
+            "Q83620": "thoroughfare",
+            "Q864377": "multiset",
+            "Q930933": "relation",
+            "Q937228": "property",
+            "Q99527517": "collective entity"
+        },
         "provider": "langsci",
         "srcwordsbare": [
             "Autot",
@@ -27803,7 +27959,7 @@
     {
         "ID": "langsci312-1d5f0b74a0",
         "abbrkey": {
-            "PLOBJ": "",
+            "PLOBJ": null,
             "PST": "past"
         },
         "book_metalanguage": "stan1293",
@@ -27845,7 +28001,7 @@
         "ID": "langsci312-07ca224499",
         "abbrkey": {
             "ACC": "accusative",
-            "PLOBJ": "",
+            "PLOBJ": null,
             "PRS": "present"
         },
         "book_metalanguage": "stan1293",
@@ -28493,7 +28649,7 @@
     {
         "ID": "langsci312-cd2f4773a7",
         "abbrkey": {
-            "AFF": ""
+            "AFF": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -29017,7 +29173,7 @@
         "abbrkey": {
             "3SG": "third person singular",
             "ACC": "accusative",
-            "IMPERS": "",
+            "IMPERS": null,
             "M": "masculine"
         },
         "book_metalanguage": "stan1293",
@@ -29098,7 +29254,7 @@
         "ID": "langsci312-f204071e9d",
         "abbrkey": {
             "3SG": "third person singular",
-            "IMPERS": "",
+            "IMPERS": null,
             "REFL": "reflexive"
         },
         "book_metalanguage": "stan1293",
@@ -29237,7 +29393,7 @@
             "3SG": "third person singular",
             "ACC": "accusative",
             "F": "feminine",
-            "IL": ""
+            "IL": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -29400,7 +29556,7 @@
         "ID": "langsci312-fee41d0437",
         "abbrkey": {
             "3PL": "third person plural",
-            "EN": "",
+            "EN": null,
             "FUT": "future",
             "REFL": "reflexive"
         },
@@ -30545,7 +30701,7 @@
     {
         "ID": "langsci312-1c4300e5b4",
         "abbrkey": {
-            "CI": ""
+            "CI": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -30593,7 +30749,7 @@
             "ACC": "accusative",
             "F": "feminine",
             "INF": "infinitive",
-            "PAST": ""
+            "PAST": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -30788,7 +30944,7 @@
     {
         "ID": "langsci312-6414064c9d",
         "abbrkey": {
-            "EXPL": "",
+            "EXPL": null,
             "POSS": "possessive",
             "REFL": "reflexive"
         },
@@ -31279,12 +31435,12 @@
         "abbrkey": {
             "1SG": "first person singular",
             "DEF": "definite",
-            "FRM": "",
+            "FRM": null,
             "IPFV": "imperfective",
             "PFV": "perfective",
             "PROG": "progressive",
             "SG": "singular",
-            "VWL": ""
+            "VWL": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -31327,7 +31483,7 @@
     {
         "ID": "langsci312-9594b660c8",
         "abbrkey": {
-            "BI": "",
+            "BI": null,
             "DEF": "definite",
             "IPFV": "imperfective",
             "PFV": "perfective",
@@ -31416,10 +31572,10 @@
             "1SG": "first person singular",
             "ACC": "accusative",
             "DEF": "definite",
-            "FRM": "",
+            "FRM": null,
             "IPFV": "imperfective",
             "SG": "singular",
-            "VWL": ""
+            "VWL": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -31474,12 +31630,12 @@
         "abbrkey": {
             "1SG": "first person singular",
             "ACC": "accusative",
-            "FRM": "",
+            "FRM": null,
             "IPFV": "imperfective",
             "PFV": "perfective",
             "PROG": "progressive",
             "SG": "singular",
-            "VWL": ""
+            "VWL": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -31686,12 +31842,12 @@
         "ID": "langsci312-37cd6fb35b",
         "abbrkey": {
             "DEF": "definite",
-            "FRM": "",
+            "FRM": null,
             "IPFV": "imperfective",
             "PASS": "passive",
             "PFV": "perfective",
             "PL": "plural",
-            "VWL": ""
+            "VWL": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -31732,15 +31888,15 @@
     {
         "ID": "langsci312-d0f28eab6b",
         "abbrkey": {
-            "ACT": "",
+            "ACT": null,
             "DEF": "definite",
-            "FRM": "",
+            "FRM": null,
             "IPFV": "imperfective",
             "M": "masculine",
             "PL": "plural",
             "PTCP": "participle",
             "SG": "singular",
-            "VWL": ""
+            "VWL": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -31834,12 +31990,12 @@
         "abbrkey": {
             "ACC": "accusative",
             "F": "feminine",
-            "FRM": "",
+            "FRM": null,
             "IPFV": "imperfective",
             "PFV": "perfective",
             "PL": "plural",
             "SG": "singular",
-            "VWL": ""
+            "VWL": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -31887,11 +32043,11 @@
     {
         "ID": "langsci312-46b7c5f309",
         "abbrkey": {
-            "ACT": "",
+            "ACT": null,
             "F": "feminine",
             "M": "masculine",
             "PASS": "passive",
-            "PCTP": "",
+            "PCTP": null,
             "PFV": "perfective",
             "PTCP": "participle",
             "SG": "singular"
@@ -31941,7 +32097,7 @@
         "ID": "langsci312-b3e5839f71",
         "abbrkey": {
             "3PL": "third person plural",
-            "ACT": "",
+            "ACT": null,
             "PL": "plural",
             "PTCP": "participle"
         },
@@ -31983,7 +32139,7 @@
         "ID": "langsci312-b96b5e92c7",
         "abbrkey": {
             "3PL": "third person plural",
-            "BI": "",
+            "BI": null,
             "DEF": "definite",
             "IPFV": "imperfective",
             "PASS": "passive",
@@ -32115,7 +32271,7 @@
         "ID": "langsci312-2794dbb6ac",
         "abbrkey": {
             "DEF": "definite",
-            "FI": "",
+            "FI": null,
             "IPFV": "imperfective",
             "SG": "singular"
         },
@@ -32249,7 +32405,7 @@
         "ID": "langsci312-4663d017be",
         "abbrkey": {
             "DEF": "definite",
-            "PRON": "",
+            "PRON": null,
             "SG": "singular"
         },
         "book_metalanguage": "stan1293",
@@ -32291,7 +32447,7 @@
         "abbrkey": {
             "DEF": "definite",
             "F": "feminine",
-            "PRON": "",
+            "PRON": null,
             "SG": "singular"
         },
         "book_metalanguage": "stan1293",
@@ -32383,7 +32539,7 @@
         "abbrkey": {
             "DEF": "definite",
             "M": "masculine",
-            "PRON": "",
+            "PRON": null,
             "SG": "singular"
         },
         "book_metalanguage": "stan1293",
@@ -32412,7 +32568,55 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q108163": "proposition",
+            "Q11028": "information",
+            "Q1150070": "change",
+            "Q1190554": "occurrence",
+            "Q12894677": "means",
+            "Q13878858": "natural process",
+            "Q15916540": "semantic unit",
+            "Q1663054": "Ingestion",
+            "Q16877783": "meaning",
+            "Q16887380": "group",
+            "Q16889133": "class",
+            "Q1786828": "constituent",
+            "Q183046": "meaning",
+            "Q188572": "fact",
+            "Q1914636": "activity",
+            "Q20817253": "linguistic unit",
+            "Q20937557": "sequence",
+            "Q246672": "mathematical object",
+            "Q2574811": "cause",
+            "Q2684591": "statement",
+            "Q26907166": "temporal entity",
+            "Q2695280": "technique",
+            "Q28813620": "set",
+            "Q29651519": "mental object",
+            "Q2990593": "animal behavior",
+            "Q2996394": "biological process",
+            "Q30060700": "scientific object",
+            "Q31464082": "source",
+            "Q3249551": "process",
+            "Q35120": "entity",
+            "Q4026292": "action",
+            "Q41796": "sentence",
+            "Q42848": "data",
+            "Q474328": "declarative sentence",
+            "Q483247": "phenomenon",
+            "Q488383": "object",
+            "Q5371079": "emic unit",
+            "Q58415929": "spatio-temporal entity",
+            "Q621636": "Route_of_administration",
+            "Q628523": "Message",
+            "Q64732777": "biological phenomenon",
+            "Q67518978": "occurrent",
+            "Q7048977": "abstract entity",
+            "Q7184903": "abstract entity",
+            "Q9332": "behavior",
+            "Q9380010": "utterance",
+            "Q99527517": "collective entity"
+        },
         "provider": "langsci",
         "srcwordsbare": [
             "ha-dinozaur",
@@ -32941,13 +33145,13 @@
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
-            "Q104127086": "",
-            "Q105948247": "",
+            "Q104127086": "memory",
+            "Q105948247": "knowledge system",
             "Q11028": "information",
-            "Q12488383": "",
-            "Q1999851": "",
+            "Q12488383": "content",
+            "Q1999851": "normative science",
             "Q28813620": "set",
-            "Q336": "",
+            "Q336": "science",
             "Q34749": "Social_science",
             "Q35120": "entity",
             "Q488383": "object",
@@ -32955,7 +33159,7 @@
             "Q6671777": "structure",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
-            "Q80083": "",
+            "Q80083": "humanities",
             "Q9081": "Knowledge",
             "Q99527517": "collective entity"
         },
@@ -33125,7 +33329,7 @@
     {
         "ID": "langsci312-9993a8f103",
         "abbrkey": {
-            "AC": "",
+            "AC": null,
             "CONSTR": "construct form",
             "DEF": "definite",
             "DET": "determiner"
@@ -33168,7 +33372,7 @@
     {
         "ID": "langsci312-fafdcef328",
         "abbrkey": {
-            "AC": "",
+            "AC": null,
             "DEF": "definite",
             "DET": "determiner"
         },
@@ -33896,7 +34100,7 @@
             "GEN": "genitive",
             "NEG": "negation, negative",
             "PL": "plural",
-            "PLM": ""
+            "PLM": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -34080,7 +34284,7 @@
         "ID": "langsci312-0259cbcaac",
         "abbrkey": {
             "3PL": "third person plural",
-            "ACT": "",
+            "ACT": null,
             "NEG": "negation, negative",
             "PL": "plural",
             "PTCP": "participle",
@@ -34127,7 +34331,7 @@
     {
         "ID": "langsci312-ea5ce614d1",
         "abbrkey": {
-            "NE": "",
+            "NE": null,
             "PFV": "perfective",
             "SG": "singular"
         },
@@ -34169,7 +34373,7 @@
     {
         "ID": "langsci312-05031d3f99",
         "abbrkey": {
-            "NE": "",
+            "NE": null,
             "PFV": "perfective",
             "SG": "singular"
         },
@@ -34215,7 +34419,7 @@
             "NEG": "negation, negative",
             "PFV": "perfective",
             "SG": "singular",
-            "X": ""
+            "X": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -34298,7 +34502,7 @@
             "NEG": "negation, negative",
             "PFV": "perfective",
             "SG": "singular",
-            "X": ""
+            "X": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -34681,7 +34885,7 @@
         "abbrkey": {
             "CLF": "classifier",
             "EXP": "experiential",
-            "NUM": "",
+            "NUM": null,
             "ZAI": "marker meaning `now' or `at the moment'"
         },
         "book_metalanguage": "stan1293",
@@ -34735,7 +34939,7 @@
         "ID": "langsci312-9d0f5dffad",
         "abbrkey": {
             "3PL": "third person plural",
-            "DOU": ""
+            "DOU": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -34772,7 +34976,7 @@
     {
         "ID": "langsci312-ba37cfe01b",
         "abbrkey": {
-            "DOU": ""
+            "DOU": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -34811,7 +35015,7 @@
         "abbrkey": {
             "1SG": "first person singular",
             "3SG": "third person singular",
-            "DOU": ""
+            "DOU": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -34849,7 +35053,7 @@
         "abbrkey": {
             "1SG": "first person singular",
             "3SG": "third person singular",
-            "DOU": ""
+            "DOU": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -34885,7 +35089,7 @@
     {
         "ID": "langsci312-e249f2ee08",
         "abbrkey": {
-            "DE": ""
+            "DE": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -34994,7 +35198,7 @@
     {
         "ID": "langsci312-dfb4cd9abe",
         "abbrkey": {
-            "CL": "",
+            "CL": null,
             "PFV": "perfective"
         },
         "book_metalanguage": "stan1293",
@@ -35032,7 +35236,7 @@
         "ID": "langsci312-75caa22af1",
         "abbrkey": {
             "1SG": "first person singular",
-            "CL": "",
+            "CL": null,
             "PFV": "perfective"
         },
         "book_metalanguage": "stan1293",
@@ -35153,7 +35357,7 @@
         "ID": "langsci312-8fc7037dd8",
         "abbrkey": {
             "3SG": "third person singular",
-            "B": "",
+            "B": null,
             "PFV": "perfective"
         },
         "book_metalanguage": "stan1293",
@@ -35386,13 +35590,13 @@
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
-            "Q104127086": "",
-            "Q105948247": "",
+            "Q104127086": "memory",
+            "Q105948247": "knowledge system",
             "Q11028": "information",
-            "Q12488383": "",
-            "Q1999851": "",
+            "Q12488383": "content",
+            "Q1999851": "normative science",
             "Q28813620": "set",
-            "Q336": "",
+            "Q336": "science",
             "Q34749": "Social_science",
             "Q35120": "entity",
             "Q488383": "object",
@@ -35400,7 +35604,7 @@
             "Q6671777": "structure",
             "Q7048977": "abstract entity",
             "Q7184903": "abstract entity",
-            "Q80083": "",
+            "Q80083": "humanities",
             "Q9081": "Knowledge",
             "Q99527517": "collective entity"
         },
@@ -35473,7 +35677,7 @@
             "Q58778": "system",
             "Q6671777": "structure",
             "Q8205328": "artificial physical object",
-            "Q9158768": "",
+            "Q9158768": "storage",
             "Q987767": "Container",
             "Q99527517": "collective entity"
         },
@@ -35874,7 +36078,7 @@
     {
         "ID": "langsci312-e10739579a",
         "abbrkey": {
-            "BEI": ""
+            "BEI": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -35915,8 +36119,8 @@
         "ID": "langsci312-44c7cd6e84",
         "abbrkey": {
             "3SG": "third person singular",
-            "BEI": "",
-            "DE": ""
+            "BEI": null,
+            "DE": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -35961,7 +36165,7 @@
     {
         "ID": "langsci312-fa79baf55e",
         "abbrkey": {
-            "BEI": "",
+            "BEI": null,
             "POSS": "possessive"
         },
         "book_metalanguage": "stan1293",
@@ -36004,7 +36208,7 @@
     {
         "ID": "langsci312-c48d1911ad",
         "abbrkey": {
-            "BEI": "",
+            "BEI": null,
             "PRF": "perfect"
         },
         "book_metalanguage": "stan1293",
@@ -36047,7 +36251,7 @@
         "abbrkey": {
             "1SG": "first person singular",
             "3SG": "third person singular",
-            "BEI": "",
+            "BEI": null,
             "PFV": "perfective"
         },
         "book_metalanguage": "stan1293",
@@ -36093,7 +36297,7 @@
         "ID": "langsci312-7177f45867",
         "abbrkey": {
             "3SG": "third person singular",
-            "BEI": ""
+            "BEI": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -36142,8 +36346,8 @@
         "ID": "langsci312-23d0764bb6",
         "abbrkey": {
             "2SG": "second person singular",
-            "BEI": "",
-            "SUO": ""
+            "BEI": null,
+            "SUO": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -36187,8 +36391,8 @@
         "ID": "langsci312-3b993d97ca",
         "abbrkey": {
             "2SG": "second person singular",
-            "BEI": "",
-            "SUO": ""
+            "BEI": null,
+            "SUO": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -36275,7 +36479,7 @@
     {
         "ID": "langsci312-d5919e7cb4",
         "abbrkey": {
-            "BEI": "",
+            "BEI": null,
             "CLF": "classifier",
             "PFV": "perfective"
         },
@@ -36328,7 +36532,7 @@
     {
         "ID": "langsci312-00b6bd93c4",
         "abbrkey": {
-            "BEI": "",
+            "BEI": null,
             "CLF": "classifier",
             "PFV": "perfective"
         },
@@ -36374,7 +36578,7 @@
     {
         "ID": "langsci312-521e06e2a6",
         "abbrkey": {
-            "BEI": "",
+            "BEI": null,
             "PFV": "perfective"
         },
         "book_metalanguage": "stan1293",
@@ -36417,7 +36621,7 @@
         "ID": "langsci312-dbdb4dc789",
         "abbrkey": {
             "3SG": "third person singular",
-            "BA": "",
+            "BA": null,
             "PFV": "perfective"
         },
         "book_metalanguage": "stan1293",
@@ -36459,7 +36663,7 @@
     {
         "ID": "langsci312-97eb8fabea",
         "abbrkey": {
-            "BEI": "",
+            "BEI": null,
             "PFV": "perfective"
         },
         "book_metalanguage": "stan1293",
@@ -36551,7 +36755,7 @@
     {
         "ID": "langsci312-db8d45cde5",
         "abbrkey": {
-            "CL": "",
+            "CL": null,
             "PASS": "passive",
             "PFV": "perfective"
         },
@@ -36603,7 +36807,7 @@
         "ID": "langsci312-9914797d7a",
         "abbrkey": {
             "CLF": "classifier",
-            "GEI": ""
+            "GEI": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -36647,9 +36851,9 @@
     {
         "ID": "langsci312-d44edea66d",
         "abbrkey": {
-            "BE": "",
+            "BE": null,
             "CLF": "classifier",
-            "GEI": "",
+            "GEI": null,
             "PFV": "perfective"
         },
         "book_metalanguage": "stan1293",
@@ -36698,7 +36902,7 @@
     {
         "ID": "langsci312-691e03990d",
         "abbrkey": {
-            "DE": "",
+            "DE": null,
             "NEG": "negation, negative"
         },
         "book_metalanguage": "stan1293",
@@ -37435,7 +37639,7 @@
         "ID": "langsci312-69e2705c57",
         "abbrkey": {
             "CLF": "classifier",
-            "DE": ""
+            "DE": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -37584,7 +37788,33 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q10880526": "Prosody_(linguistics)",
+            "Q111352": "lexeme",
+            "Q1190554": "occurrence",
+            "Q12767945": "language device",
+            "Q16887380": "group",
+            "Q16889133": "class",
+            "Q1914636": "activity",
+            "Q1944382": "moneme",
+            "Q2006180": "Pro-form",
+            "Q20817253": "linguistic unit",
+            "Q20937557": "sequence",
+            "Q2120608": "Function_word",
+            "Q26907166": "temporal entity",
+            "Q28813620": "set",
+            "Q2944660": "lexical item",
+            "Q29651519": "mental object",
+            "Q35120": "entity",
+            "Q36224": "Pronoun",
+            "Q43249": "Morpheme",
+            "Q488383": "object",
+            "Q5371079": "emic unit",
+            "Q58415929": "spatio-temporal entity",
+            "Q8171": "word",
+            "Q9332": "behavior",
+            "Q99527517": "collective entity"
+        },
         "provider": "langsci",
         "srcwordsbare": [
             "Ivan",
@@ -37972,16 +38202,16 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": {
             "Q103940464": "continuant",
-            "Q106559804": "",
+            "Q106559804": "person or organization",
             "Q18336849": "",
-            "Q215627": "",
+            "Q215627": "person",
             "Q23958946": "individual entity",
             "Q24229398": "agent",
-            "Q26720107": "",
+            "Q26720107": "personal law",
             "Q35120": "entity",
-            "Q3778211": "",
+            "Q3778211": "legal person",
             "Q488383": "object",
-            "Q795052": "",
+            "Q795052": "individual",
             "Q830077": "subject"
         },
         "provider": "langsci",
@@ -38195,7 +38425,7 @@
         "ID": "langsci312-28c3751060",
         "abbrkey": {
             "3SG": "third person singular",
-            "CLITIC": "",
+            "CLITIC": null,
             "OBJ": "object",
             "PST": "past"
         },
@@ -38634,7 +38864,7 @@
             "DAT": "dative",
             "INF": "infinitive",
             "N": "neuter",
-            "SUPERL": ""
+            "SUPERL": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -38843,7 +39073,7 @@
         "abbrkey": {
             "ABS": "absolutive",
             "ERG": "ergative",
-            "EVID": "",
+            "EVID": null,
             "PST": "past"
         },
         "book_metalanguage": "stan1293",
@@ -38886,7 +39116,7 @@
         "abbrkey": {
             "ABS": "absolutive",
             "ERG": "ergative",
-            "EVID": "",
+            "EVID": null,
             "PST": "past"
         },
         "book_metalanguage": "stan1293",
@@ -38927,7 +39157,7 @@
     {
         "ID": "langsci312-811e505319",
         "abbrkey": {
-            "GE": "",
+            "GE": null,
             "NOM": "nominative"
         },
         "book_metalanguage": "stan1293",
@@ -39307,7 +39537,7 @@
     {
         "ID": "langsci312-3a3e617d1c",
         "abbrkey": {
-            "LNK": ""
+            "LNK": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -39349,7 +39579,7 @@
     {
         "ID": "langsci312-e64403e283",
         "abbrkey": {
-            "LNK": ""
+            "LNK": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -39393,8 +39623,8 @@
     {
         "ID": "langsci312-a53e9001e1",
         "abbrkey": {
-            "CL": "",
-            "LNK": ""
+            "CL": null,
+            "LNK": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -39446,8 +39676,8 @@
     {
         "ID": "langsci312-9b5ffca919",
         "abbrkey": {
-            "CL": "",
-            "LNK": ""
+            "CL": null,
+            "LNK": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -39499,7 +39729,7 @@
     {
         "ID": "langsci312-c365ca07b1",
         "abbrkey": {
-            "LNK": ""
+            "LNK": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -39544,11 +39774,11 @@
             "1SG": "first person singular",
             "CVB": "converb",
             "DAT": "dative",
-            "EL": "",
-            "II": "",
-            "IN": "",
+            "EL": null,
+            "II": null,
+            "IN": null,
             "IPFV": "imperfective",
-            "IV": "",
+            "IV": null,
             "OBL": "oblique",
             "PRS": "present",
             "REFL": "reflexive",
@@ -39604,7 +39834,7 @@
         "abbrkey": {
             "CL": "clitic",
             "DAT": "dative",
-            "FSG": "",
+            "FSG": null,
             "PTCP": "participle"
         },
         "book_metalanguage": "stan1293",
@@ -39806,7 +40036,7 @@
             "ABS": "absolutive",
             "ERG": "ergative",
             "PTCP": "participle",
-            "VBLZ": ""
+            "VBLZ": null
         },
         "book_metalanguage": "stan1293",
         "book_title": "Forthcoming: The Handbook of Lexical Functional Grammar",
@@ -40417,7 +40647,7 @@
             "3SG": "third person singular",
             "ACC": "accusative",
             "INF": "infinitive",
-            "MPL": "",
+            "MPL": null,
             "PST": "past"
         },
         "book_metalanguage": "stan1293",
@@ -40490,7 +40720,17 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": {
+            "Q103940464": "continuant",
+            "Q23958946": "individual entity",
+            "Q27043950": "anatomical entity",
+            "Q29651224": "natural object",
+            "Q35120": "entity",
+            "Q488383": "object",
+            "Q53617489": "independent continuant",
+            "Q7239": "Organism",
+            "Q756": "Plant"
+        },
         "provider": "langsci",
         "srcwordsbare": [
             "purpureamque",
