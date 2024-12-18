@@ -20,9 +20,12 @@
         "coordination": "and",
         "doc_ID": 4986,
         "doc_URL": "https://www.glossa-journal.org/article/id/4986",
-        "entities": {
-            "Q995592": "Yoav"
-        },
+        "entities": [
+            {
+                "label": "Yoav",
+                "wdid": "Q995592"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dani,</div>\n\t\t<div class=\"glossblock\">Danny,</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yoav</div>\n\t\t<div class=\"glossblock\">Yoav</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ve‑ro’i</div>\n\t\t<div class=\"glossblock\">and‑Roy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">covtim</div>\n\t\t<div class=\"glossblock\">pinch‑PRES.SG.MASC.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ze‑et‑ze.</div>\n\t\t<div class=\"glossblock\">this.ACC‑this</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Danny,",
@@ -35,7 +38,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Dani,",

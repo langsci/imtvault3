@@ -24,7 +24,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Juan",
@@ -49,7 +49,7 @@
         "clength": 63,
         "doc_ID": 5147,
         "doc_URL": "https://www.glossa-journal.org/article/id/5147",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">María</div>\n\t\t<div class=\"glossblock\">Mary</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">him</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">golpeó</div>\n\t\t<div class=\"glossblock\">kicked</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cabeza</div>\n\t\t<div class=\"glossblock\">head</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Juan.</div>\n\t\t<div class=\"glossblock\">John</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(The head can only be John’s)</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mary",
@@ -65,7 +65,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "María",
@@ -104,7 +104,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Juan",
@@ -137,7 +137,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "palabra clave",
@@ -174,7 +174,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Los",
@@ -210,7 +210,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "La",
@@ -230,10 +230,16 @@
         "clength": 12,
         "doc_ID": 5147,
         "doc_URL": "https://www.glossa-journal.org/article/id/5147",
-        "entities": {
-            "Q2736": "footballer",
-            "Q63457008": "left-footed"
-        },
+        "entities": [
+            {
+                "label": "footballer",
+                "wdid": "Q2736"
+            },
+            {
+                "label": "left-footed",
+                "wdid": "Q63457008"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zurdo</div>\n\t\t<div class=\"glossblock\">left</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pie</div>\n\t\t<div class=\"glossblock\">foot</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "left",
@@ -244,45 +250,64 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q1081491": "Football",
-            "Q11047409": "athletics",
-            "Q11410": "Game",
-            "Q1150070": "change",
-            "Q1150958": "Play_(activity)",
-            "Q1190554": "occurrence",
-            "Q1293220": "physical phenomenon",
-            "Q16722960": "phenomenon",
-            "Q16887380": "group",
-            "Q17320256": "physical process",
-            "Q173799": "entertainment",
-            "Q17988854": "active motion",
-            "Q184872": "recreation",
-            "Q1914636": "activity",
-            "Q193514": "deformation",
-            "Q20937557": "sequence",
-            "Q216048": "Team_sport",
-            "Q26907166": "temporal entity",
-            "Q28813620": "set",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q3249551": "process",
-            "Q349": "Sport",
-            "Q35120": "entity",
-            "Q3769299": "human behavior",
-            "Q4438147": "game-based_sport",
-            "Q451967": "intentional human activity",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q61788060": "human activity",
-            "Q6666023": "motion",
-            "Q67518978": "occurrent",
-            "Q747883": "physical activity",
-            "Q79782": "motion",
-            "Q877517": "Ball_game",
-            "Q9332": "behavior",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Football",
+                "wdid": "Q1081491"
+            },
+            {
+                "label": "athletics",
+                "wdid": "Q11047409"
+            },
+            {
+                "label": "Game",
+                "wdid": "Q11410"
+            },
+            {
+                "label": "Play_(activity)",
+                "wdid": "Q1150958"
+            },
+            {
+                "label": "phenomenon",
+                "wdid": "Q16722960"
+            },
+            {
+                "label": "entertainment",
+                "wdid": "Q173799"
+            },
+            {
+                "label": "active motion",
+                "wdid": "Q17988854"
+            },
+            {
+                "label": "recreation",
+                "wdid": "Q184872"
+            },
+            {
+                "label": "Team_sport",
+                "wdid": "Q216048"
+            },
+            {
+                "label": "Sport",
+                "wdid": "Q349"
+            },
+            {
+                "label": "game-based_sport",
+                "wdid": "Q4438147"
+            },
+            {
+                "label": "motion",
+                "wdid": "Q6666023"
+            },
+            {
+                "label": "physical activity",
+                "wdid": "Q747883"
+            },
+            {
+                "label": "Ball_game",
+                "wdid": "Q877517"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "zurdo",
@@ -315,7 +340,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "El",
@@ -352,7 +377,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Juan",
@@ -374,7 +399,7 @@
         "clength": 33,
         "doc_ID": 5147,
         "doc_URL": "https://www.glossa-journal.org/article/id/5147",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Juan</div>\n\t\t<div class=\"glossblock\">John</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*era/estaba</div>\n\t\t<div class=\"glossblock\">was.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cerrado</div>\n\t\t<div class=\"glossblock\">closed</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">al</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">amor.</div>\n\t\t<div class=\"glossblock\">love</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "John",
@@ -387,7 +412,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -424,7 +449,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Juan",
@@ -457,7 +482,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "sanguinemixto",
@@ -490,7 +515,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "la",
@@ -524,7 +549,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "la",
@@ -552,7 +577,7 @@
         "clength": 40,
         "doc_ID": 5147,
         "doc_URL": "https://www.glossa-journal.org/article/id/5147",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Chelswu-ka</div>\n\t\t<div class=\"glossblock\">Chelswu.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sunhee-lul</div>\n\t\t<div class=\"glossblock\">Sunhee.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">son-ul</div>\n\t\t<div class=\"glossblock\">hand.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cap-ass-ta.</div>\n\t\t<div class=\"glossblock\">grab.PAST.DECL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Chelswu.NOM",
@@ -564,7 +589,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Chelswu-ka",
@@ -591,7 +616,7 @@
         "clength": 42,
         "doc_ID": 5147,
         "doc_URL": "https://www.glossa-journal.org/article/id/5147",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Chelswu-ka</div>\n\t\t<div class=\"glossblock\">Chelswu.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sunhee-lul</div>\n\t\t<div class=\"glossblock\">Sunhee.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cha-lul</div>\n\t\t<div class=\"glossblock\">car.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cha-ass-ta.</div>\n\t\t<div class=\"glossblock\">kick.PAST.DECL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Chelswu.NOM",
@@ -603,7 +628,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Chelswu-ka",
@@ -638,7 +663,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Le",

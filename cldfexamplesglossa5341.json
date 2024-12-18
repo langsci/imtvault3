@@ -19,9 +19,12 @@
         "clength": 36,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q169": "mango"
-        },
+        "entities": [
+            {
+                "label": "mango",
+                "wdid": "Q169"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑmbɑ</div>\n\t\t<div class=\"glossblock\">mango.M.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰɑ-w-ɑ-s-ɑ</div>\n\t\t<div class=\"glossblock\">eat-SBJV-M.SG-such-M.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-t̪-o.</div>\n\t\t<div class=\"glossblock\">feel-IPFV-3M.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -33,71 +36,52 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q1454986": "physical system",
-            "Q14712": "drupe",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "drupe",
+                "wdid": "Q14712"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = lɑ",
@@ -129,10 +113,16 @@
         "clength": 37,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q169": "raw mango",
-            "Q48144": "Mira"
-        },
+        "entities": [
+            {
+                "label": "raw mango",
+                "wdid": "Q169"
+            },
+            {
+                "label": "Mira",
+                "wdid": "Q48144"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəiri</div>\n\t\t<div class=\"glossblock\">raw.mango.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰɑ-w-i-∫-i</div>\n\t\t<div class=\"glossblock\">eat-SBJV-F.SG-such-F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-t̪-e.</div>\n\t\t<div class=\"glossblock\">feel-IPFV-3F.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -144,71 +134,52 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q1454986": "physical system",
-            "Q14712": "drupe",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "drupe",
+                "wdid": "Q14712"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = lɑ",
@@ -239,7 +210,7 @@
         "clength": 38,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑmbe</div>\n\t\t<div class=\"glossblock\">mango.M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰɑ-w-e-s-e</div>\n\t\t<div class=\"glossblock\">eat-SBJV-M.PL-such-M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-t̪-ɑt̪.</div>\n\t\t<div class=\"glossblock\">feel-IPFV-3M.PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -251,7 +222,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = lɑ",
@@ -295,7 +266,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ",
@@ -338,7 +309,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = ne",
@@ -381,7 +352,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = lɑ",
@@ -413,7 +384,7 @@
         "clength": 33,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = ne</div>\n\t\t<div class=\"glossblock\">Mira.F.SG = ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kɑl</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kɑkɑ = lɑ</div>\n\t\t<div class=\"glossblock\">uncle.M.SG = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pɑhi-l-ə.</div>\n\t\t<div class=\"glossblock\">see-PFV-3N.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira.F.SG = ERG",
@@ -425,7 +396,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = ne",
@@ -456,7 +427,7 @@
         "clength": 26,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = ne</div>\n\t\t<div class=\"glossblock\">Mira.F.SG = ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pepər</div>\n\t\t<div class=\"glossblock\">paper.M.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-ɑw-ɑ.</div>\n\t\t<div class=\"glossblock\">read-SBJV-3M.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira.F.SG = ERG",
@@ -467,7 +438,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = ne",
@@ -499,9 +470,12 @@
         "clength": 24,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q1538": "Pune"
-        },
+        "entities": [
+            {
+                "label": "Pune",
+                "wdid": "Q1538"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ</div>\n\t\t<div class=\"glossblock\">Mira.F.SG.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">puɳjɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Pune = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dzɑ-w-i.</div>\n\t\t<div class=\"glossblock\">go-SBJV-3F.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira.F.SG.NOM",
@@ -512,7 +486,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ",
@@ -544,9 +518,12 @@
         "clength": 29,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q1538": "Pune"
-        },
+        "entities": [
+            {
+                "label": "Pune",
+                "wdid": "Q1538"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = ne</div>\n\t\t<div class=\"glossblock\">Mira.F.SG = ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">puɳjɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Pune = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dzɑ-w-ə.</div>\n\t\t<div class=\"glossblock\">go-SBJV-3N.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira.F.SG = ERG",
@@ -557,7 +534,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = ne",
@@ -591,7 +568,7 @@
         "clength": 30,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t̪u</div>\n\t\t<div class=\"glossblock\">you.M.SG.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəwit̪ɑ</div>\n\t\t<div class=\"glossblock\">poem.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t∫ʰɑn</div>\n\t\t<div class=\"glossblock\">nicely</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-t̪-o-s.</div>\n\t\t<div class=\"glossblock\">read-IPFV-M.SG-2SG.SBJ</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "you.M.SG.NOM",
@@ -603,7 +580,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "t̪u",
@@ -638,7 +615,7 @@
         "clength": 29,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t̪u</div>\n\t\t<div class=\"glossblock\">you.M.SG.ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəwit̪ɑ</div>\n\t\t<div class=\"glossblock\">poem.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t∫ʰɑn</div>\n\t\t<div class=\"glossblock\">nicely</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-l-i-s.</div>\n\t\t<div class=\"glossblock\">read-PFV-F.SG-2SG.SBJ</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "you.M.SG.ERG",
@@ -650,7 +627,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "t̪u",
@@ -684,9 +661,12 @@
         "clength": 40,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q3470753": "Sameer"
-        },
+        "entities": [
+            {
+                "label": "Sameer",
+                "wdid": "Q3470753"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">səmir / mi</div>\n\t\t<div class=\"glossblock\">Samir / I.M</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəwit̪ɑ</div>\n\t\t<div class=\"glossblock\">poem.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t∫ʰɑn</div>\n\t\t<div class=\"glossblock\">nicely</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-t̪-o-(*s).</div>\n\t\t<div class=\"glossblock\">read-IPFV-M.SG-(*2SG.SBJ)</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Samir / I.M",
@@ -698,7 +678,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "səmir / mi",
@@ -732,9 +712,12 @@
         "clength": 44,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q3470753": "Sameer"
-        },
+        "entities": [
+            {
+                "label": "Sameer",
+                "wdid": "Q3470753"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">səmir = ne / mi</div>\n\t\t<div class=\"glossblock\">Samir = ERG / I.ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəwit̪ɑ</div>\n\t\t<div class=\"glossblock\">poem.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t∫ʰɑn</div>\n\t\t<div class=\"glossblock\">nicely</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-l-i-(*s).</div>\n\t\t<div class=\"glossblock\">read-PFV-F.SG-(*2SG.SBJ)</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Samir = ERG / I.ERG",
@@ -746,7 +729,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "səmir = ne / mi",
@@ -781,7 +764,7 @@
         "clength": 33,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t̪umʰi</div>\n\t\t<div class=\"glossblock\">you.PL.ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəwit̪ɑ</div>\n\t\t<div class=\"glossblock\">poem.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t∫ʰɑn</div>\n\t\t<div class=\"glossblock\">nicely</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-l-i-t̪.</div>\n\t\t<div class=\"glossblock\">read-PFV-F.SG-2PL.SBJ</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "you.PL.ERG",
@@ -793,7 +776,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "t̪umʰi",
@@ -825,7 +808,7 @@
         "clength": 46,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑmʰi/</div>\n\t\t<div class=\"glossblock\">we.ERG/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t̪jɑn = ni</div>\n\t\t<div class=\"glossblock\">they = ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəwit̪ɑ</div>\n\t\t<div class=\"glossblock\">poem.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t∫ʰɑn</div>\n\t\t<div class=\"glossblock\">nicely</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-l-i-(*t̪).</div>\n\t\t<div class=\"glossblock\">read-PFV-F.SG-(*2PL.SBJ)</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "we.ERG/",
@@ -838,7 +821,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ɑmʰi/",
@@ -874,7 +857,7 @@
         "clength": 24,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t̪u</div>\n\t\t<div class=\"glossblock\">you.M.SG.ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəwit̪ɑ</div>\n\t\t<div class=\"glossblock\">poem.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-ɑw-i-s.</div>\n\t\t<div class=\"glossblock\">read-SBJV-3F.SG-2SG.SBJ</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "you.M.SG.ERG",
@@ -885,7 +868,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "t̪u",
@@ -933,7 +916,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "t̪u",
@@ -969,7 +952,7 @@
         "clength": 69,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mi/</div>\n\t\t<div class=\"glossblock\">I.ERG/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = ne/</div>\n\t\t<div class=\"glossblock\">Mira = ERG/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t̪umʰi/</div>\n\t\t<div class=\"glossblock\">you.PL.ERG/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑmʰi/</div>\n\t\t<div class=\"glossblock\">we.ERG/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t̪jɑn = ni</div>\n\t\t<div class=\"glossblock\">they = ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəwit̪ɑ</div>\n\t\t<div class=\"glossblock\">poem.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-ɑw-i-(*s)/(*t̪).</div>\n\t\t<div class=\"glossblock\">read-SBJV-3F.SG-(*2SG.SBJ)/(*3PL.OBJ)</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I.ERG/",
@@ -984,7 +967,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mi/",
@@ -1023,10 +1006,16 @@
         "clength": 67,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q48144": "Mira",
-            "Q7207537": "read poems"
-        },
+        "entities": [
+            {
+                "label": "Mira",
+                "wdid": "Q48144"
+            },
+            {
+                "label": "read poems",
+                "wdid": "Q7207537"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mi/</div>\n\t\t<div class=\"glossblock\">I.ERG/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = ne/</div>\n\t\t<div class=\"glossblock\">Mira = ERG/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t̪umʰi/</div>\n\t\t<div class=\"glossblock\">you.PL.ERG/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑmʰi/</div>\n\t\t<div class=\"glossblock\">we.ERG/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t̪jɑn = ni</div>\n\t\t<div class=\"glossblock\">they = ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəwit̪ɑ</div>\n\t\t<div class=\"glossblock\">poem.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-ɑw-jɑ-t̪/(*s).</div>\n\t\t<div class=\"glossblock\">read-SBJV-3F.PL-3PL.OBJ/(*2SG.SBJ)</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I.ERG/",
@@ -1041,7 +1030,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mi/",
@@ -1079,7 +1068,7 @@
         "clength": 41,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t̪u</div>\n\t\t<div class=\"glossblock\">you.SG.ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəwit̪ɑ</div>\n\t\t<div class=\"glossblock\">poem.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t∫ʰɑn</div>\n\t\t<div class=\"glossblock\">nicely</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-l-i-(*s)</div>\n\t\t<div class=\"glossblock\">read-PFV-F.SG-(*2SG.SBJ)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hot̪-i-s.</div>\n\t\t<div class=\"glossblock\">be.PST-F.SG-2SG.SBJ</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "you.SG.ERG",
@@ -1092,7 +1081,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "t̪u",
@@ -1128,7 +1117,7 @@
         "clength": 26,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t̪u</div>\n\t\t<div class=\"glossblock\">you.SG.ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəwit̪ɑ</div>\n\t\t<div class=\"glossblock\">poem.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-u</div>\n\t\t<div class=\"glossblock\">read-NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nəje-s.</div>\n\t\t<div class=\"glossblock\">PROH-2SG.SBJ</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "you.SG.ERG",
@@ -1140,7 +1129,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -1175,10 +1164,16 @@
         "clength": 62,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q48144": "Mira",
-            "Q7207537": "read poems"
-        },
+        "entities": [
+            {
+                "label": "Mira",
+                "wdid": "Q48144"
+            },
+            {
+                "label": "read poems",
+                "wdid": "Q7207537"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mi/</div>\n\t\t<div class=\"glossblock\">I.ERG/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = ne/</div>\n\t\t<div class=\"glossblock\">Mira = ERG/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t̪umʰi/</div>\n\t\t<div class=\"glossblock\">you.PL.ERG/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑmʰi/</div>\n\t\t<div class=\"glossblock\">we.ERG/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t̪jɑn = ni</div>\n\t\t<div class=\"glossblock\">they = ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəwit̪ɑ</div>\n\t\t<div class=\"glossblock\">poem.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-ɑw-jɑ-t̪.</div>\n\t\t<div class=\"glossblock\">read-SBJV-F.PL-3PL.OBJ</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I.ERG/",
@@ -1193,7 +1188,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mi/",
@@ -1232,10 +1227,16 @@
         "clength": 63,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q48144": "Mira",
-            "Q7207537": "read poems"
-        },
+        "entities": [
+            {
+                "label": "Mira",
+                "wdid": "Q48144"
+            },
+            {
+                "label": "read poems",
+                "wdid": "Q7207537"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mi/</div>\n\t\t<div class=\"glossblock\">I.ERG/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = ne/</div>\n\t\t<div class=\"glossblock\">Mira = ERG/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t̪umʰi/</div>\n\t\t<div class=\"glossblock\">you.PL.ERG/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑmʰi/</div>\n\t\t<div class=\"glossblock\">we.ERG/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t̪jɑn = ni</div>\n\t\t<div class=\"glossblock\">they = ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəwit̪ɑ</div>\n\t\t<div class=\"glossblock\">poem.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-u</div>\n\t\t<div class=\"glossblock\">read-NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nəje-t̪.</div>\n\t\t<div class=\"glossblock\">PROH-3PL.OBJ</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I.ERG/",
@@ -1251,7 +1252,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -1288,9 +1289,12 @@
         "clength": 36,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q169": "mango"
-        },
+        "entities": [
+            {
+                "label": "mango",
+                "wdid": "Q169"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑmbɑ</div>\n\t\t<div class=\"glossblock\">mango.M.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰɑ-w-ɑ</div>\n\t\t<div class=\"glossblock\">eat-SBJV-M.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əsə</div>\n\t\t<div class=\"glossblock\">such</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-t̪-ə.</div>\n\t\t<div class=\"glossblock\">feel-IPFV-3N.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -1303,71 +1307,52 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q1454986": "physical system",
-            "Q14712": "drupe",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "drupe",
+                "wdid": "Q14712"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = lɑ",
@@ -1401,10 +1386,16 @@
         "clength": 38,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q169": "raw mango",
-            "Q48144": "Mira"
-        },
+        "entities": [
+            {
+                "label": "raw mango",
+                "wdid": "Q169"
+            },
+            {
+                "label": "Mira",
+                "wdid": "Q48144"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəiri</div>\n\t\t<div class=\"glossblock\">raw.mango.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰɑ-w-i-∫-i</div>\n\t\t<div class=\"glossblock\">eat-SBJV-F.SG-such-F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-t̪-ə.</div>\n\t\t<div class=\"glossblock\">feel-IPFV-3N.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -1416,71 +1407,52 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q1454986": "physical system",
-            "Q14712": "drupe",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "drupe",
+                "wdid": "Q14712"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "*mirɑ = lɑ",
@@ -1513,10 +1485,16 @@
         "clength": 38,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q169": "raw mango",
-            "Q48144": "Mira"
-        },
+        "entities": [
+            {
+                "label": "raw mango",
+                "wdid": "Q169"
+            },
+            {
+                "label": "Mira",
+                "wdid": "Q48144"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəiri</div>\n\t\t<div class=\"glossblock\">raw.mango.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰɑ-w-i-s-ə</div>\n\t\t<div class=\"glossblock\">eat-SBJV-F.SG-such-3N.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-t̪-e.</div>\n\t\t<div class=\"glossblock\">feel-IPFV-F.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -1528,71 +1506,52 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q1454986": "physical system",
-            "Q14712": "drupe",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "drupe",
+                "wdid": "Q14712"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "*mirɑ = lɑ",
@@ -1625,10 +1584,16 @@
         "clength": 38,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q169": "raw mango",
-            "Q48144": "Mira"
-        },
+        "entities": [
+            {
+                "label": "raw mango",
+                "wdid": "Q169"
+            },
+            {
+                "label": "Mira",
+                "wdid": "Q48144"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəiri</div>\n\t\t<div class=\"glossblock\">raw.mango.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰɑ-w-i-s-ə</div>\n\t\t<div class=\"glossblock\">eat-SBJV-F.SG-such-3N.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-t̪-ə.</div>\n\t\t<div class=\"glossblock\">feel-IPFV-3N.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -1640,71 +1605,52 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q1454986": "physical system",
-            "Q14712": "drupe",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "drupe",
+                "wdid": "Q14712"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "*mirɑ = lɑ",
@@ -1736,10 +1682,16 @@
         "clength": 39,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q169": "raw mango",
-            "Q48144": "Mira"
-        },
+        "entities": [
+            {
+                "label": "raw mango",
+                "wdid": "Q169"
+            },
+            {
+                "label": "Mira",
+                "wdid": "Q48144"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəiri</div>\n\t\t<div class=\"glossblock\">raw.mango.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰɑ-w-i</div>\n\t\t<div class=\"glossblock\">eat-SBJV-F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ə∫-i</div>\n\t\t<div class=\"glossblock\">such-F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-t̪-e.</div>\n\t\t<div class=\"glossblock\">feel-IPFV-F.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -1752,71 +1704,52 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q1454986": "physical system",
-            "Q14712": "drupe",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "drupe",
+                "wdid": "Q14712"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "*mirɑ = lɑ",
@@ -1845,10 +1778,16 @@
         "clength": 55,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q169": "mangoes",
-            "Q7445860": "Seema"
-        },
+        "entities": [
+            {
+                "label": "mangoes",
+                "wdid": "Q169"
+            },
+            {
+                "label": "Seema",
+                "wdid": "Q7445860"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">simɑ = ne/</div>\n\t\t<div class=\"glossblock\">Seema = ERG/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑpəɳ</div>\n\t\t<div class=\"glossblock\">self.ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑmbe</div>\n\t\t<div class=\"glossblock\">mango.M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰɑ-w-e-s-e</div>\n\t\t<div class=\"glossblock\">eat-SBJV-M.PL-such-M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-t̪-ɑt̪.</div>\n\t\t<div class=\"glossblock\">feel-IPFV.3PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -1862,71 +1801,52 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q1454986": "physical system",
-            "Q14712": "drupe",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "drupe",
+                "wdid": "Q14712"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "*mirɑ = lɑ",
@@ -1968,10 +1888,16 @@
         "clength": 55,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q169": "mangoes",
-            "Q7445860": "Seema"
-        },
+        "entities": [
+            {
+                "label": "mangoes",
+                "wdid": "Q169"
+            },
+            {
+                "label": "Seema",
+                "wdid": "Q7445860"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">simɑ = ne/</div>\n\t\t<div class=\"glossblock\">Seema = ERG/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑpəɳ</div>\n\t\t<div class=\"glossblock\">self.ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑmbe</div>\n\t\t<div class=\"glossblock\">mango.M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰɑ-w-e-t̪</div>\n\t\t<div class=\"glossblock\">eat-SBJV-M.PL-3PL.OBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əsə</div>\n\t\t<div class=\"glossblock\">such</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-t̪-ə.</div>\n\t\t<div class=\"glossblock\">feel-IPFV-3N.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -1986,71 +1912,52 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q1454986": "physical system",
-            "Q14712": "drupe",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "drupe",
+                "wdid": "Q14712"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = lɑ",
@@ -2085,7 +1992,7 @@
         "clength": 44,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rɑm = ne</div>\n\t\t<div class=\"glossblock\">Ram = ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[prət̪ɑp = kiː</div>\n\t\t<div class=\"glossblock\">Pratap = GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰub</div>\n\t\t<div class=\"glossblock\">lot</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mərəmmət̪]</div>\n\t\t<div class=\"glossblock\">repair.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kiː.</div>\n\t\t<div class=\"glossblock\">do.PFV.F.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Ram = ERG",
@@ -2098,7 +2005,7 @@
         "language_iso6393": "hin",
         "language_name": "Hindi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "rɑm = ne",
@@ -2127,7 +2034,7 @@
         "clength": 49,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#[prət̪ɑp = kiː</div>\n\t\t<div class=\"glossblock\">Pratap = GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰub</div>\n\t\t<div class=\"glossblock\">lot</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mərəmmət̪]₁</div>\n\t\t<div class=\"glossblock\">repair.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rɑm = ne</div>\n\t\t<div class=\"glossblock\">Ram = ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t₁</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kiː.</div>\n\t\t<div class=\"glossblock\">do.PFV.F.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Pratap = GEN",
@@ -2141,7 +2048,7 @@
         "language_iso6393": "hin",
         "language_name": "Hindi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "#[prət̪ɑp = kiː",
@@ -2177,7 +2084,7 @@
         "clength": 63,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rɑm = ne</div>\n\t\t<div class=\"glossblock\">Ram = ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[prət̪ɑp = kiː</div>\n\t\t<div class=\"glossblock\">Pratap = GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰub</div>\n\t\t<div class=\"glossblock\">lot</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mərəmmət̪]</div>\n\t\t<div class=\"glossblock\">repair.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kər-niː/-nɑ</div>\n\t\t<div class=\"glossblock\">do-INF.F.SG/-INF.M.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t∫ɑh-i:/-ɑ.</div>\n\t\t<div class=\"glossblock\">want-F.SG/-M.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Ram = ERG",
@@ -2192,7 +2099,7 @@
         "language_name": "Hindi",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "modality": "volitive",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "rɑm = ne",
@@ -2229,10 +2136,16 @@
         "clength": 23,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q113904": "Radha",
-            "Q388162": "fleas"
-        },
+        "entities": [
+            {
+                "label": "Radha",
+                "wdid": "Q113904"
+            },
+            {
+                "label": "fleas",
+                "wdid": "Q388162"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rɑd̪ʰɑ</div>\n\t\t<div class=\"glossblock\">Radha.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɑ∫ɑ</div>\n\t\t<div class=\"glossblock\">flea.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɑr-t̪-e-j.</div>\n\t\t<div class=\"glossblock\">kill-IPFV-F.SG-PRS</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Radha.NOM",
@@ -2243,7 +2156,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "rɑd̪ʰɑ",
@@ -2283,7 +2196,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mɑ∫ɑ",
@@ -2319,10 +2232,16 @@
         "clength": 48,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q105905807": "time today",
-            "Q113904": "Radha"
-        },
+        "entities": [
+            {
+                "label": "time today",
+                "wdid": "Q105905807"
+            },
+            {
+                "label": "Radha",
+                "wdid": "Q113904"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rɑd̪ʰɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Radha = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑdz</div>\n\t\t<div class=\"glossblock\">today</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɑ∫ɑ</div>\n\t\t<div class=\"glossblock\">flea.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɑr-ɑw-jɑ-∫-ɑ</div>\n\t\t<div class=\"glossblock\">kill-SBJV-F.PL-such-F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-t̪-ɑ-et̪.</div>\n\t\t<div class=\"glossblock\">feel-IPFV-PL-PRS.3PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Radha = DAT",
@@ -2335,7 +2254,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "rɑd̪ʰɑ = lɑ",
@@ -2365,11 +2284,20 @@
         "clength": 56,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q113904": "Radha",
-            "Q48144": "Mira",
-            "Q7207537": "read poems"
-        },
+        "entities": [
+            {
+                "label": "Radha",
+                "wdid": "Q113904"
+            },
+            {
+                "label": "Mira",
+                "wdid": "Q48144"
+            },
+            {
+                "label": "read poems",
+                "wdid": "Q7207537"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rɑd̪ʰɑ = ne</div>\n\t\t<div class=\"glossblock\">Radha = ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[kəwit̪ɑ</div>\n\t\t<div class=\"glossblock\">poem.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-ɑj-lɑ]</div>\n\t\t<div class=\"glossblock\">read-INF.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sɑɳgit̪-l-jɑ.</div>\n\t\t<div class=\"glossblock\">tell-PFV-F.PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Radha = ERG",
@@ -2382,7 +2310,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "rɑd̪ʰɑ = ne",
@@ -2431,7 +2359,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "səmir",
@@ -2457,7 +2385,7 @@
         "clength": 17,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t∫ʰoʈ-i-∫-i</div>\n\t\t<div class=\"glossblock\">small-F.SG-such-F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mulgi</div>\n\t\t<div class=\"glossblock\">girl</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "small-F.SG-such-F.SG",
@@ -2467,7 +2395,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "t∫ʰoʈ-i-∫-i",
@@ -2491,7 +2419,7 @@
         "clength": 17,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t∫ʰoʈ-ɑ-s-ɑ</div>\n\t\t<div class=\"glossblock\">small-M.SG-such-M.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mulgɑ</div>\n\t\t<div class=\"glossblock\">boy</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "small-M.SG-such-M.SG",
@@ -2501,7 +2429,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "t∫ʰoʈ-ɑ-s-ɑ",
@@ -2533,10 +2461,16 @@
         "clength": 36,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q1538": "Pune",
-            "Q3470753": "Sameer"
-        },
+        "entities": [
+            {
+                "label": "Pune",
+                "wdid": "Q1538"
+            },
+            {
+                "label": "Sameer",
+                "wdid": "Q3470753"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">səmir</div>\n\t\t<div class=\"glossblock\">Sameer.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">puɳjɑ = hun</div>\n\t\t<div class=\"glossblock\">Pune = from</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɑhi-s-ɑ</div>\n\t\t<div class=\"glossblock\">NEG-such-M.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dzʰɑ-l-ɑ.</div>\n\t\t<div class=\"glossblock\">become-PFV-3M.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Sameer.NOM",
@@ -2548,7 +2482,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -2579,9 +2513,12 @@
         "clength": 40,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q3470753": "Sameer"
-        },
+        "entities": [
+            {
+                "label": "Sameer",
+                "wdid": "Q3470753"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">səmir = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jɑ</div>\n\t\t<div class=\"glossblock\">these.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wəst̪u</div>\n\t\t<div class=\"glossblock\">thing.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nəko-∫-ɑ</div>\n\t\t<div class=\"glossblock\">unwant-such-F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dzʰɑ-l-jɑ.</div>\n\t\t<div class=\"glossblock\">become-PFV-3F.PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -2594,7 +2531,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "səmir = lɑ",
@@ -2631,7 +2568,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "nəko-∫-ɑ",
@@ -2666,7 +2603,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = lɑ",
@@ -2691,9 +2628,12 @@
         "clength": 31,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q169": "mangoes"
-        },
+        "entities": [
+            {
+                "label": "mangoes",
+                "wdid": "Q169"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑmbe</div>\n\t\t<div class=\"glossblock\">mango.M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəse</div>\n\t\t<div class=\"glossblock\">how</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-t̪-ɑt̪?</div>\n\t\t<div class=\"glossblock\">feel-IPFV.3PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -2705,71 +2645,52 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q1454986": "physical system",
-            "Q14712": "drupe",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "drupe",
+                "wdid": "Q14712"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = lɑ",
@@ -2796,10 +2717,16 @@
         "clength": 79,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q169": "mangoes",
-            "Q654236": "edible"
-        },
+        "entities": [
+            {
+                "label": "mangoes",
+                "wdid": "Q169"
+            },
+            {
+                "label": "edible",
+                "wdid": "Q654236"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑmbe</div>\n\t\t<div class=\"glossblock\">mango.M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tsɑŋgle/</div>\n\t\t<div class=\"glossblock\">good.M.PL/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">goɖ/</div>\n\t\t<div class=\"glossblock\">sweet.M.PL/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">məhɑgɖe/</div>\n\t\t<div class=\"glossblock\">costly.M.PL/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰɑ-ɳjɑ = dzoge/</div>\n\t\t<div class=\"glossblock\">eat-INF=able/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*kʰɑ-w-e-s-e</div>\n\t\t<div class=\"glossblock\">*eat-SBJV-M.PL-such-M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-t̪-ɑt̪.</div>\n\t\t<div class=\"glossblock\">feel-IPFV.3PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -2815,78 +2742,76 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1132089": "Sporocarp_(fungi)",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q1454986": "physical system",
-            "Q14712": "drupe",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q16887380": "group",
-            "Q20011319": "plant structure",
-            "Q20088819": "group of cells",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27062218": "multicellular structure",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28813620": "set",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q8195619": "human_food",
-            "Q83093": "mushroom",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "drupe",
+                "wdid": "Q14712"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Sporocarp_(fungi)",
+                "wdid": "Q1132089"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "human_food",
+                "wdid": "Q8195619"
+            },
+            {
+                "label": "mushroom",
+                "wdid": "Q83093"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = lɑ",
@@ -2921,7 +2846,7 @@
         "clength": 27,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t∫ʰɑn</div>\n\t\t<div class=\"glossblock\">nice</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gɑ-u</div>\n\t\t<div class=\"glossblock\">sing-NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">∫ək-el</div>\n\t\t<div class=\"glossblock\">can-FUT.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əsɑ</div>\n\t\t<div class=\"glossblock\">such.M.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mulgɑ</div>\n\t\t<div class=\"glossblock\">boy</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "nice",
@@ -2934,7 +2859,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "t∫ʰɑn",
@@ -2960,7 +2885,7 @@
         "clength": 28,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*t∫ʰɑn</div>\n\t\t<div class=\"glossblock\">nice</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gɑ-u</div>\n\t\t<div class=\"glossblock\">sing-NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">∫ək-el-s-ɑ</div>\n\t\t<div class=\"glossblock\">can-FUT.3SG-such.M.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mulgɑ</div>\n\t\t<div class=\"glossblock\">boy</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "nice",
@@ -2972,7 +2897,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*t∫ʰɑn",
@@ -3004,9 +2929,12 @@
         "clength": 32,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q381350": "semolina"
-        },
+        "entities": [
+            {
+                "label": "semolina",
+                "wdid": "Q381350"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mə = lɑ</div>\n\t\t<div class=\"glossblock\">I = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sɑndzɑ</div>\n\t\t<div class=\"glossblock\">semolina.M.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰɑ-w-ɑ</div>\n\t\t<div class=\"glossblock\">eat-SBJV-M.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-t̪-o.</div>\n\t\t<div class=\"glossblock\">feel-IPFV-M.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I = DAT",
@@ -3018,7 +2946,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mə = lɑ",
@@ -3052,9 +2980,12 @@
         "clength": 66,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q113904": "Radha"
-        },
+        "entities": [
+            {
+                "label": "Radha",
+                "wdid": "Q113904"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mud̪d̪ɑm</div>\n\t\t<div class=\"glossblock\">deliberately</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rɑd̪ʰɑ = t∫jɑ</div>\n\t\t<div class=\"glossblock\">Radha = GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰoɖjɑ</div>\n\t\t<div class=\"glossblock\">prank.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kɑɖʰ-ɑw-jɑ-∫-ɑ</div>\n\t\t<div class=\"glossblock\">pull-SBJV-F.PL-such-F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-t̪-ɑt̪.</div>\n\t\t<div class=\"glossblock\">feel-IPFV-3F.PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -3068,7 +2999,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = lɑ",
@@ -3097,9 +3028,12 @@
         "clength": 56,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q169": "mangoes"
-        },
+        "entities": [
+            {
+                "label": "mangoes",
+                "wdid": "Q169"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mənəsokt̪əpəɳe</div>\n\t\t<div class=\"glossblock\">heartfully</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəirjɑ</div>\n\t\t<div class=\"glossblock\">raw.mango.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰɑ-w-jɑ-∫-ɑ</div>\n\t\t<div class=\"glossblock\">eat-SBJV-F.PL-such.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-t̪-ɑt̪.</div>\n\t\t<div class=\"glossblock\">feel-IPFV-3F.PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -3112,71 +3046,52 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q1454986": "physical system",
-            "Q14712": "drupe",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "drupe",
+                "wdid": "Q14712"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = lɑ",
@@ -3207,7 +3122,7 @@
         "clength": 34,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">səmir = lɑ</div>\n\t\t<div class=\"glossblock\">Sameer = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tsɑŋgli</div>\n\t\t<div class=\"glossblock\">good.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nokri</div>\n\t\t<div class=\"glossblock\">job.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">miɭɑ-l-i.</div>\n\t\t<div class=\"glossblock\">get-PFV-3F.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Sameer = DAT",
@@ -3219,7 +3134,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "səmir = lɑ",
@@ -3251,7 +3166,7 @@
         "clength": 49,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*səmir = lɑ</div>\n\t\t<div class=\"glossblock\">Sameer = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[tsɑŋgli</div>\n\t\t<div class=\"glossblock\">good.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nokri</div>\n\t\t<div class=\"glossblock\">job.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">miɭ-ɑw-i-∫-i]</div>\n\t\t<div class=\"glossblock\">get-SBJV-F.SG-such-F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-l-i.</div>\n\t\t<div class=\"glossblock\">feel-PFV-3F.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Sameer = DAT",
@@ -3264,7 +3179,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*səmir = lɑ",
@@ -3298,7 +3213,7 @@
         "clength": 59,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">səmir₁=lɑ</div>\n\t\t<div class=\"glossblock\">Sameer = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[(ɑpljɑ₁=lɑ)</div>\n\t\t<div class=\"glossblock\">(self = DAT)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tsɑŋgli</div>\n\t\t<div class=\"glossblock\">good.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nokri</div>\n\t\t<div class=\"glossblock\">job.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">miɭ-ɑw-i</div>\n\t\t<div class=\"glossblock\">get-SBJV-F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əsə]</div>\n\t\t<div class=\"glossblock\">such</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-l-ə.</div>\n\t\t<div class=\"glossblock\">feel-PFV-3N.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Sameer = DAT",
@@ -3313,7 +3228,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "səmir₁=lɑ",
@@ -3344,7 +3259,7 @@
         "coordination": "and",
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑmbe</div>\n\t\t<div class=\"glossblock\">mango.M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰɑ-w-e-s-e</div>\n\t\t<div class=\"glossblock\">eat-SBJV-M.PL-such.M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-t̪-ɑt̪</div>\n\t\t<div class=\"glossblock\">feel-IPFV.3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑɳi</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rɑd̪ʰɑ = lɑ = sud̪d̪ʰɑ.</div>\n\t\t<div class=\"glossblock\">Radha = DAT=too</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -3358,7 +3273,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = lɑ",
@@ -3390,7 +3305,7 @@
         "coordination": "and",
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑmbe</div>\n\t\t<div class=\"glossblock\">mango.M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰɑ-w-e-t̪</div>\n\t\t<div class=\"glossblock\">eat-SBJV-M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əsə</div>\n\t\t<div class=\"glossblock\">such</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-t̪-ə</div>\n\t\t<div class=\"glossblock\">feel-IPFV-3N.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑɳi</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rɑd̪ʰɑ = lɑ = sud̪d̪ʰɑ.</div>\n\t\t<div class=\"glossblock\">Radha = DAT=too</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -3405,7 +3320,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = lɑ",
@@ -3437,7 +3352,7 @@
         "clength": 39,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mulɑn = ni</div>\n\t\t<div class=\"glossblock\">children = ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">∫ɑɭe = t̪</div>\n\t\t<div class=\"glossblock\">school = LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">weɭe = wər</div>\n\t\t<div class=\"glossblock\">time = on</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jɑ-w-ə.</div>\n\t\t<div class=\"glossblock\">come-SBJV-3N.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "children = ERG",
@@ -3449,7 +3364,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mulɑn = ni",
@@ -3478,7 +3393,7 @@
         "clength": 40,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(sərwɑn = ni)</div>\n\t\t<div class=\"glossblock\">(all = ERG)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">it̪ʰe</div>\n\t\t<div class=\"glossblock\">here</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">∫ɑnt̪ət̪ɑ</div>\n\t\t<div class=\"glossblock\">silence.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rɑkʰ-ɑw-i.</div>\n\t\t<div class=\"glossblock\">maintain-SBJV-F.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "(all = ERG)",
@@ -3490,7 +3405,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "(sərwɑn = ni)",
@@ -3520,7 +3435,7 @@
         "clength": 31,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mə = lɑ</div>\n\t\t<div class=\"glossblock\">I = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tsɑŋgli</div>\n\t\t<div class=\"glossblock\">good.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nokri</div>\n\t\t<div class=\"glossblock\">job</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">miɭ-ɑw-i.</div>\n\t\t<div class=\"glossblock\">get-SBJV-F.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I = DAT",
@@ -3532,7 +3447,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mə = lɑ",
@@ -3562,7 +3477,7 @@
         "clength": 46,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = ne</div>\n\t\t<div class=\"glossblock\">Mira = ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑt̪t̪ɑ/ud̪jɑ/*kal</div>\n\t\t<div class=\"glossblock\">now/tomorrow/*yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəwit̪ɑ</div>\n\t\t<div class=\"glossblock\">poem.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-ɑw-i.</div>\n\t\t<div class=\"glossblock\">read-SBJV-F.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = ERG",
@@ -3574,7 +3489,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = ne",
@@ -3607,9 +3522,12 @@
         "clength": 49,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q113904": "Radha"
-        },
+        "entities": [
+            {
+                "label": "Radha",
+                "wdid": "Q113904"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = ne</div>\n\t\t<div class=\"glossblock\">Mira = ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəwit̪ɑ</div>\n\t\t<div class=\"glossblock\">poem.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-ɑw-i</div>\n\t\t<div class=\"glossblock\">read-SBJV-F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əsə</div>\n\t\t<div class=\"glossblock\">such</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rɑd̪ʰɑ</div>\n\t\t<div class=\"glossblock\">Radha</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mʰəɳɑ-l-i.</div>\n\t\t<div class=\"glossblock\">say-PFV-3F.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = ERG",
@@ -3623,7 +3541,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = ne",
@@ -3659,9 +3577,12 @@
         "clength": 55,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q113904": "Radha"
-        },
+        "entities": [
+            {
+                "label": "Radha",
+                "wdid": "Q113904"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = ne</div>\n\t\t<div class=\"glossblock\">Mira = ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəwit̪ɑ</div>\n\t\t<div class=\"glossblock\">poem.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-ɑw-i</div>\n\t\t<div class=\"glossblock\">read-SBJV-F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əsə</div>\n\t\t<div class=\"glossblock\">such</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rɑd̪ʰɑ = ne</div>\n\t\t<div class=\"glossblock\">Radha = ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʈʰərəw-l-ə.</div>\n\t\t<div class=\"glossblock\">decide-PFV-3N.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = ERG",
@@ -3675,7 +3596,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = ne",
@@ -3712,9 +3633,12 @@
         "clength": 53,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q202698": "Yesterday"
-        },
+        "entities": [
+            {
+                "label": "Yesterday",
+                "wdid": "Q202698"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kɑl</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ud̪jɑ</div>\n\t\t<div class=\"glossblock\">tomorrow</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gɑɖi</div>\n\t\t<div class=\"glossblock\">car.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gʰjɑ-w-i</div>\n\t\t<div class=\"glossblock\">take-SBJV-F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əsə</div>\n\t\t<div class=\"glossblock\">such</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-ət̪</div>\n\t\t<div class=\"glossblock\">feel-IPFV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hot̪-ə.</div>\n\t\t<div class=\"glossblock\">be.PST-3N.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday",
@@ -3730,7 +3654,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "kɑl",
@@ -3768,9 +3692,12 @@
         "clength": 54,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q202698": "Yesterday"
-        },
+        "entities": [
+            {
+                "label": "Yesterday",
+                "wdid": "Q202698"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*kɑl</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ud̪jɑ</div>\n\t\t<div class=\"glossblock\">tomorrow</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gɑɖi</div>\n\t\t<div class=\"glossblock\">car.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gʰjɑ-w-i-∫-i</div>\n\t\t<div class=\"glossblock\">take-SBJV-F.SG-such-F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-ət̪</div>\n\t\t<div class=\"glossblock\">feel-IPFV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hot̪-i.</div>\n\t\t<div class=\"glossblock\">be.PST-3F.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday",
@@ -3785,7 +3712,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*kɑl",
@@ -3824,7 +3751,7 @@
         "clength": 37,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ</div>\n\t\t<div class=\"glossblock\">Mira.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑt̪t̪ɑ</div>\n\t\t<div class=\"glossblock\">right.now</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pust̪ək</div>\n\t\t<div class=\"glossblock\">book.N.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-ət̪</div>\n\t\t<div class=\"glossblock\">read-IPFV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɑhi-je.</div>\n\t\t<div class=\"glossblock\">NEG-be.PRS.1SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira.NOM",
@@ -3837,7 +3764,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -3869,7 +3796,7 @@
         "clength": 30,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rɑd̪ʰɑ = ne</div>\n\t\t<div class=\"glossblock\">Radha = ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəwit̪ɑ</div>\n\t\t<div class=\"glossblock\">poem.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-ɑw-i.</div>\n\t\t<div class=\"glossblock\">read-SBJV-F.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Radha = ERG",
@@ -3880,7 +3807,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "rɑd̪ʰɑ = ne",
@@ -3911,7 +3838,7 @@
         "clength": 32,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rɑd̪ʰɑ = ne</div>\n\t\t<div class=\"glossblock\">Radha = ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəwit̪ɑ</div>\n\t\t<div class=\"glossblock\">poem.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-u</div>\n\t\t<div class=\"glossblock\">read-NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nəje.</div>\n\t\t<div class=\"glossblock\">PROH</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Radha = ERG",
@@ -3923,7 +3850,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -3963,7 +3890,7 @@
         "clength": 46,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəwit̪ɑ</div>\n\t\t<div class=\"glossblock\">poem.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-u</div>\n\t\t<div class=\"glossblock\">read-NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nəje-t̪</div>\n\t\t<div class=\"glossblock\">PROH-3PL.OBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əsə</div>\n\t\t<div class=\"glossblock\">such</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-t̪-ə.</div>\n\t\t<div class=\"glossblock\">feel-IPFV-3N.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -3977,7 +3904,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -4022,7 +3949,7 @@
         "clength": 50,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəwit̪ɑ</div>\n\t\t<div class=\"glossblock\">poem.F.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-u</div>\n\t\t<div class=\"glossblock\">read-NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nəje-t̪</div>\n\t\t<div class=\"glossblock\">PROH-3PL.OBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əsə</div>\n\t\t<div class=\"glossblock\">such</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-ət̪</div>\n\t\t<div class=\"glossblock\">feel-IPFV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɑhi.</div>\n\t\t<div class=\"glossblock\">NEG.PRS</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -4037,7 +3964,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -4075,7 +4002,7 @@
         "clength": 46,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəwit̪ɑ</div>\n\t\t<div class=\"glossblock\">poem.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-u</div>\n\t\t<div class=\"glossblock\">read-NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nəje-∫-ɑ</div>\n\t\t<div class=\"glossblock\">PROH-such-F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-t̪-ɑt̪.</div>\n\t\t<div class=\"glossblock\">feel-IPFV-F.PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -4088,7 +4015,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -4129,7 +4056,7 @@
         "clength": 49,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəwit̪ɑ</div>\n\t\t<div class=\"glossblock\">poem.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-ɑw-jɑ-∫-ɑ</div>\n\t\t<div class=\"glossblock\">read-SBJV-F.PL-such-F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-ət̪</div>\n\t\t<div class=\"glossblock\">feel-IPFV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɑhi-t̪.</div>\n\t\t<div class=\"glossblock\">NEG.PRS-3PL.OBJ</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -4142,7 +4069,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -4179,7 +4106,7 @@
         "clength": 40,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑmbe</div>\n\t\t<div class=\"glossblock\">mango.M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɑhi</div>\n\t\t<div class=\"glossblock\">NEG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰɑ-w-e-s-e</div>\n\t\t<div class=\"glossblock\">eat-SBJV-M.PL-such-M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-l-e.</div>\n\t\t<div class=\"glossblock\">feel-PFV-M.PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -4192,7 +4119,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -4235,7 +4162,7 @@
         "clength": 44,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑmbe</div>\n\t\t<div class=\"glossblock\">mango.M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɑhi</div>\n\t\t<div class=\"glossblock\">NEG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰɑ-w-e-t̪</div>\n\t\t<div class=\"glossblock\">eat-SBJV-M.PL-3PL.OBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əsə</div>\n\t\t<div class=\"glossblock\">such</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-l-ə.</div>\n\t\t<div class=\"glossblock\">feel-PFV-3N.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -4249,7 +4176,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -4281,7 +4208,7 @@
         "clength": 45,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koɳɑ = lɑ = hi</div>\n\t\t<div class=\"glossblock\">anyone = DAT.EMPH</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑmbe</div>\n\t\t<div class=\"glossblock\">mango.M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɑhi</div>\n\t\t<div class=\"glossblock\">NEG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰɑ-w-e-s-e</div>\n\t\t<div class=\"glossblock\">eat-SBJV-M.PL-such-M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-l-e.</div>\n\t\t<div class=\"glossblock\">feel-PFV-M.PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "anyone = DAT.EMPH",
@@ -4294,7 +4221,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "koɳɑ = lɑ = hi",
@@ -4326,7 +4253,7 @@
         "clength": 47,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*koɳɑ = lɑ = hi</div>\n\t\t<div class=\"glossblock\">anyone = DAT.EMPH</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑmbe</div>\n\t\t<div class=\"glossblock\">mango.M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰɑ-u</div>\n\t\t<div class=\"glossblock\">eat-NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nəje-t̪</div>\n\t\t<div class=\"glossblock\">PROH-3PL.OBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əsə</div>\n\t\t<div class=\"glossblock\">such</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-l-ə.</div>\n\t\t<div class=\"glossblock\">feel-PFV-3N.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "anyone = DAT.EMPH",
@@ -4340,7 +4267,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*koɳɑ = lɑ = hi",
@@ -4384,7 +4311,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = lɑ",
@@ -4431,7 +4358,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = lɑ",
@@ -4461,7 +4388,7 @@
         "clength": 51,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t̪jɑ</div>\n\t\t<div class=\"glossblock\">those.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəwit̪ɑ</div>\n\t\t<div class=\"glossblock\">poem.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">⟨</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-ɑw-jɑ-∫-ɑ]</div>\n\t\t<div class=\"glossblock\">read-SBJV-F.PL-such-F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-l-jɑ.</div>\n\t\t<div class=\"glossblock\">feel-PFV-F.PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "those.F",
@@ -4475,7 +4402,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "t̪jɑ",
@@ -4507,7 +4434,7 @@
         "clength": 54,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*t̪jɑ</div>\n\t\t<div class=\"glossblock\">those.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəwit̪ɑ</div>\n\t\t<div class=\"glossblock\">poem.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">⟨</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑts-ɑw-jɑ-t̪</div>\n\t\t<div class=\"glossblock\">read-SBJV-F.PL-3PL.OBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əsə]</div>\n\t\t<div class=\"glossblock\">such</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-l-ə.</div>\n\t\t<div class=\"glossblock\">feel-PFV-3N.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "those.F",
@@ -4522,7 +4449,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*t̪jɑ",
@@ -4554,7 +4481,7 @@
         "clength": 44,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[pro</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑmbe</div>\n\t\t<div class=\"glossblock\">mango.M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰɑ-w-e-t̪</div>\n\t\t<div class=\"glossblock\">eat-SBJV-M.PL-3PL.OBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əsə]</div>\n\t\t<div class=\"glossblock\">such</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-l-ə.</div>\n\t\t<div class=\"glossblock\">feel-PFV-3N.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -4568,7 +4495,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = lɑ",
@@ -4609,9 +4536,12 @@
         "clength": 43,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q169": "mangoes"
-        },
+        "entities": [
+            {
+                "label": "mangoes",
+                "wdid": "Q169"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[t̪u</div>\n\t\t<div class=\"glossblock\">you.SG.ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑmbe</div>\n\t\t<div class=\"glossblock\">mango.M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰɑ-w-e-s</div>\n\t\t<div class=\"glossblock\">eat-SBJV-M.PL-2SG.SBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əsə]</div>\n\t\t<div class=\"glossblock\">such</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-l-ə.</div>\n\t\t<div class=\"glossblock\">feel-PFV-3N.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -4625,71 +4555,52 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q1454986": "physical system",
-            "Q14712": "drupe",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "drupe",
+                "wdid": "Q14712"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = lɑ",
@@ -4724,7 +4635,7 @@
         "clength": 41,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mirɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Mira = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɑmbe</div>\n\t\t<div class=\"glossblock\">mango.M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kʰɑ-w-e-(*t̪)-s-e</div>\n\t\t<div class=\"glossblock\">eat-SBJV-M.PL-(*3PL.OBJ)-such-M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-l-e.</div>\n\t\t<div class=\"glossblock\">feel-PFV-3M.PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mira = DAT",
@@ -4736,7 +4647,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = lɑ",
@@ -4783,7 +4694,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ",
@@ -4826,7 +4737,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mirɑ = ne",
@@ -4859,7 +4770,7 @@
         "clength": 34,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t̪i</div>\n\t\t<div class=\"glossblock\">she</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kəd̪ʰi</div>\n\t\t<div class=\"glossblock\">when</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je-t̪-e-s-ə</div>\n\t\t<div class=\"glossblock\">come-IPFV-F.SG-such-3N.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dzʰɑ-l-ə-j.</div>\n\t\t<div class=\"glossblock\">happen-PFV-3N.SG-PRS</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "she",
@@ -4871,7 +4782,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "t̪i",
@@ -4907,10 +4818,16 @@
         "clength": 55,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q113904": "Radha",
-            "Q1538": "Pune"
-        },
+        "entities": [
+            {
+                "label": "Radha",
+                "wdid": "Q113904"
+            },
+            {
+                "label": "Pune",
+                "wdid": "Q1538"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mə = lɑ</div>\n\t\t<div class=\"glossblock\">I = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rɑd̪ʰɑ = ne</div>\n\t\t<div class=\"glossblock\">Radha = ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">puɳjɑ = lɑ</div>\n\t\t<div class=\"glossblock\">Pune = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dzɑ-u</div>\n\t\t<div class=\"glossblock\">go-NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nəje-s-ə</div>\n\t\t<div class=\"glossblock\">PROH-such-3N.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wɑʈ-t̪-ə.</div>\n\t\t<div class=\"glossblock\">feel-IPFV-3N.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I = DAT",
@@ -4924,7 +4841,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -4959,9 +4876,12 @@
         "clength": 38,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q244404": "electric shock"
-        },
+        "entities": [
+            {
+                "label": "electric shock",
+                "wdid": "Q244404"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t̪jɑ = lɑ</div>\n\t\t<div class=\"glossblock\">he = DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">widze = tsɑ</div>\n\t\t<div class=\"glossblock\">electricity = GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">d̪ʰəkkɑ</div>\n\t\t<div class=\"glossblock\">shock.M.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bəs-l-ɑ.</div>\n\t\t<div class=\"glossblock\">SIT-PFV-3M.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "he = DAT",
@@ -4973,7 +4893,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "t̪jɑ = lɑ",
@@ -5001,9 +4921,12 @@
         "clength": 44,
         "doc_ID": 5341,
         "doc_URL": "https://www.glossa-journal.org/article/id/5341",
-        "entities": {
-            "Q244404": "electric shock"
-        },
+        "entities": [
+            {
+                "label": "electric shock",
+                "wdid": "Q244404"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t̪o</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[PRO</div>\n\t\t<div class=\"glossblock\">PRO</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">widze = tsɑ</div>\n\t\t<div class=\"glossblock\">electricity = GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">d̪ʰəkkɑ</div>\n\t\t<div class=\"glossblock\">shock</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bəs-un]</div>\n\t\t<div class=\"glossblock\">SIT.CNPRT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">me-l-ɑ.</div>\n\t\t<div class=\"glossblock\">die-PFV-3M.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "he",
@@ -5017,7 +4940,7 @@
         "language_iso6393": "mar",
         "language_name": "Marathi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "t̪o",

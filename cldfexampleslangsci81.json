@@ -13,9 +13,12 @@
         "clength": 35,
         "doc_ID": 81,
         "doc_URL": "https://langsci-press.org/catalog/book/81",
-        "entities": {
-            "Q15318": "begins to melt"
-        },
+        "entities": [
+            {
+                "label": "begins to melt",
+                "wdid": "Q15318"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[dann]</div>\n\t\t<div class=\"glossblock\">[then]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fängt</div>\n\t\t<div class=\"glossblock\">begins</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">das</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Eis</div>\n\t\t<div class=\"glossblock\">ice</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">AFA</div>\n\t\t<div class=\"glossblock\">BEGIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">schmelzen.</div>\n\t\t<div class=\"glossblock\">melt.</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "[then]",
@@ -29,40 +32,80 @@
         "language_iso6393": "gsw",
         "language_name": "Swiss German",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q107715": "physical quantity",
-            "Q11466": "Temperature",
-            "Q1207505": "quality",
-            "Q1289248": "scalar",
-            "Q1325769": "antisymmetric tensor",
-            "Q1347367": "aptitude",
-            "Q151885": "concept",
-            "Q181175": "scalar quantity",
-            "Q188524": "tensor",
-            "Q1948412": "morphism",
-            "Q1952404": "multilinear map",
-            "Q2091629": "magnitude",
-            "Q2145290": "mental representation",
-            "Q21550639": "geometric concept",
-            "Q2204117": "symmetric tensor",
-            "Q24034552": "mathematical concept",
-            "Q246672": "mathematical object",
-            "Q30060700": "scientific object",
-            "Q309314": "quantity",
-            "Q3387041": "intensive_quantity",
-            "Q35120": "entity",
-            "Q370502": "mapping",
-            "Q379825": "element",
-            "Q4373292": "physical property",
-            "Q4393498": "representation",
-            "Q488383": "object",
-            "Q5358816": "element",
-            "Q7048977": "abstract entity",
-            "Q71550118": "individual quantity",
-            "Q7184903": "abstract entity",
-            "Q930933": "relation",
-            "Q937228": "property"
-        },
+        "parententities": [
+            {
+                "label": "physical quantity",
+                "wdid": "Q107715"
+            },
+            {
+                "label": "Temperature",
+                "wdid": "Q11466"
+            },
+            {
+                "label": "scalar",
+                "wdid": "Q1289248"
+            },
+            {
+                "label": "antisymmetric tensor",
+                "wdid": "Q1325769"
+            },
+            {
+                "label": "aptitude",
+                "wdid": "Q1347367"
+            },
+            {
+                "label": "scalar quantity",
+                "wdid": "Q181175"
+            },
+            {
+                "label": "tensor",
+                "wdid": "Q188524"
+            },
+            {
+                "label": "morphism",
+                "wdid": "Q1948412"
+            },
+            {
+                "label": "multilinear map",
+                "wdid": "Q1952404"
+            },
+            {
+                "label": "magnitude",
+                "wdid": "Q2091629"
+            },
+            {
+                "label": "geometric concept",
+                "wdid": "Q21550639"
+            },
+            {
+                "label": "symmetric tensor",
+                "wdid": "Q2204117"
+            },
+            {
+                "label": "mathematical concept",
+                "wdid": "Q24034552"
+            },
+            {
+                "label": "quantity",
+                "wdid": "Q309314"
+            },
+            {
+                "label": "intensive_quantity",
+                "wdid": "Q3387041"
+            },
+            {
+                "label": "mapping",
+                "wdid": "Q370502"
+            },
+            {
+                "label": "physical property",
+                "wdid": "Q4373292"
+            },
+            {
+                "label": "individual quantity",
+                "wdid": "Q71550118"
+            }
+        ],
         "provider": "langsci",
         "srcwordsbare": [
             "[dann]",
@@ -103,7 +146,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "Ustedes",
@@ -130,7 +173,7 @@
         "clength": 25,
         "doc_ID": 81,
         "doc_URL": "https://langsci-press.org/catalog/book/81",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ustedes</div>\n\t\t<div class=\"glossblock\">You-NOM.2PL.HON</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">refl.3pl.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">casáis</div>\n\t\t<div class=\"glossblock\">marry-2PL.PRES.IND</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mañana.</div>\n\t\t<div class=\"glossblock\">tomorrow</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "You-NOM.2PL.HON",
@@ -142,7 +185,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "Ustedes",
@@ -184,7 +227,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "A",
@@ -212,7 +255,7 @@
         "clength": 35,
         "doc_ID": 81,
         "doc_URL": "https://langsci-press.org/catalog/book/81",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ustedes</div>\n\t\t<div class=\"glossblock\">you-NOM.2PL.HON</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sois</div>\n\t\t<div class=\"glossblock\">be-2PL.PRES.IND</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">parientes</div>\n\t\t<div class=\"glossblock\">relatives</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">del</div>\n\t\t<div class=\"glossblock\">of.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">alcalde.</div>\n\t\t<div class=\"glossblock\">mayor</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "you-NOM.2PL.HON",
@@ -225,7 +268,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "Ustedes",
@@ -254,7 +297,7 @@
         "clength": 25,
         "doc_ID": 81,
         "doc_URL": "https://langsci-press.org/catalog/book/81",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ustedes</div>\n\t\t<div class=\"glossblock\">you-NOM.2PL.HON</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL.3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vais</div>\n\t\t<div class=\"glossblock\">go-2PL.PRES.IND</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">on</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">viaje.</div>\n\t\t<div class=\"glossblock\">trip</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "you-NOM.2PL.HON",
@@ -267,7 +310,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "Ustedes",
@@ -309,7 +352,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "A",
@@ -352,7 +395,7 @@
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "modality": "volitive",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "Haced",
@@ -383,7 +426,7 @@
         "clength": 65,
         "doc_ID": 81,
         "doc_URL": "https://langsci-press.org/catalog/book/81",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">l</div>\n\t\t<div class=\"glossblock\">NEG.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">No</div>\n\t\t<div class=\"glossblock\">DAT.2PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">os_/_les</div>\n\t\t<div class=\"glossblock\">/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">podemos</div>\n\t\t<div class=\"glossblock\">3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">otorgar</div>\n\t\t<div class=\"glossblock\">can-PRES.IND.1PL.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[a</div>\n\t\t<div class=\"glossblock\">grant</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ustedes</div>\n\t\t<div class=\"glossblock\">[OBL.2PL.HON.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">/</div>\n\t\t<div class=\"glossblock\">/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vosotros]</div>\n\t\t<div class=\"glossblock\">NOM.2PL.]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">el</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">préstamo.</div>\n\t\t<div class=\"glossblock\">loan</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "NEG.",
@@ -402,7 +445,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "l",
@@ -436,9 +479,12 @@
         "clength": 40,
         "doc_ID": 81,
         "doc_URL": "https://langsci-press.org/catalog/book/81",
-        "entities": {
-            "Q875301": "Miyajima"
-        },
+        "entities": [
+            {
+                "label": "Miyajima",
+                "wdid": "Q875301"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Miyajima-no/de</div>\n\t\t<div class=\"glossblock\">Miyajima-GEN/LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">omiyage-o</div>\n\t\t<div class=\"glossblock\">souvenirs-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">takusan</div>\n\t\t<div class=\"glossblock\">a_lot</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">moratta</div>\n\t\t<div class=\"glossblock\">receive-PST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Miyajima-GEN/LOC",
@@ -450,7 +496,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "Miyajima-no/de",

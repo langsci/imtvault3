@@ -19,10 +19,16 @@
         "clength": 81,
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": {
-            "Q1860": "English",
-            "Q37784323": "Chinese dictionary"
-        },
+        "entities": [
+            {
+                "label": "English",
+                "wdid": "Q1860"
+            },
+            {
+                "label": "Chinese dictionary",
+                "wdid": "Q37784323"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Wǒ</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">liǎng</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tiān</div>\n\t\t<div class=\"glossblock\">day</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qián</div>\n\t\t<div class=\"glossblock\">ago</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dìnggòu</div>\n\t\t<div class=\"glossblock\">order</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">PFV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yī-bù</div>\n\t\t<div class=\"glossblock\">one-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yīng-hàn</div>\n\t\t<div class=\"glossblock\">English-Chinese</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cídiǎn.</div>\n\t\t<div class=\"glossblock\">dictionary</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Zhè-bù</div>\n\t\t<div class=\"glossblock\">this-CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cídiǎn</div>\n\t\t<div class=\"glossblock\">dictionary</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yǐ</div>\n\t\t<div class=\"glossblock\">already</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shōudào</div>\n\t\t<div class=\"glossblock\">arrive</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le.</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -44,23 +50,44 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q1346342": "Anglic_languages",
-            "Q17376908": "Languoid",
-            "Q19860": "Indo-European_languages",
-            "Q20162172": "human language",
-            "Q21200": "Germanic_languages",
-            "Q26721": "West_Germanic_languages",
-            "Q276314": "Nostratic",
-            "Q30134": "North_Sea_Germanic",
-            "Q34770": "language",
-            "Q35120": "entity",
-            "Q488383": "object",
-            "Q5329170": "Anglo-Frisian_languages",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q771861": "Eurasiatic_languages"
-        },
+        "parententities": [
+            {
+                "label": "Anglic_languages",
+                "wdid": "Q1346342"
+            },
+            {
+                "label": "Languoid",
+                "wdid": "Q17376908"
+            },
+            {
+                "label": "Indo-European_languages",
+                "wdid": "Q19860"
+            },
+            {
+                "label": "human language",
+                "wdid": "Q20162172"
+            },
+            {
+                "label": "Germanic_languages",
+                "wdid": "Q21200"
+            },
+            {
+                "label": "West_Germanic_languages",
+                "wdid": "Q26721"
+            },
+            {
+                "label": "North_Sea_Germanic",
+                "wdid": "Q30134"
+            },
+            {
+                "label": "Anglo-Frisian_languages",
+                "wdid": "Q5329170"
+            },
+            {
+                "label": "Eurasiatic_languages",
+                "wdid": "Q771861"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Wǒ",
@@ -102,7 +129,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Gǒu",
@@ -138,7 +165,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Wǒ",
@@ -172,7 +199,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Gǒu",
@@ -192,7 +219,7 @@
         "clength": 17,
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Wǒ</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xiǎng</div>\n\t\t<div class=\"glossblock\">want</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mǎi</div>\n\t\t<div class=\"glossblock\">buy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gǒu.</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -205,7 +232,7 @@
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "modality": "volitive",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Wǒ",
@@ -231,9 +258,12 @@
         "clength": 83,
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": {
-            "Q10469820": "language impairment"
-        },
+        "entities": [
+            {
+                "label": "language impairment",
+                "wdid": "Q10469820"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Wǒ</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gāngcái</div>\n\t\t<div class=\"glossblock\">just</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yùdào</div>\n\t\t<div class=\"glossblock\">meet</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yī-wèi</div>\n\t\t<div class=\"glossblock\">one-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jiàoshòu,</div>\n\t\t<div class=\"glossblock\">professor</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tā</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shì</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yǔyán</div>\n\t\t<div class=\"glossblock\">language</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zhàngài</div>\n\t\t<div class=\"glossblock\">impairment</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lǐngyù</div>\n\t\t<div class=\"glossblock\">field</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">DE</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dǐngjiān</div>\n\t\t<div class=\"glossblock\">top</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zhuānjiā.</div>\n\t\t<div class=\"glossblock\">expert</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -254,7 +284,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Wǒ",
@@ -283,7 +313,7 @@
         "clength": 32,
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Nǐ</div>\n\t\t<div class=\"glossblock\">you</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kàn,</div>\n\t\t<div class=\"glossblock\">see,</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tā</div>\n\t\t<div class=\"glossblock\">she</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zài</div>\n\t\t<div class=\"glossblock\">at</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nà-lǐ</div>\n\t\t<div class=\"glossblock\">there</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zuò</div>\n\t\t<div class=\"glossblock\">do</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shénme?</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "you",
@@ -298,7 +328,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Nǐ",
@@ -327,7 +357,7 @@
         "clength": 19,
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Tā</div>\n\t\t<div class=\"glossblock\">she</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bǎ</div>\n\t\t<div class=\"glossblock\">BA</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shū</div>\n\t\t<div class=\"glossblock\">book</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ná-zǒu</div>\n\t\t<div class=\"glossblock\">take-away</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "she",
@@ -340,7 +370,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Tā",
@@ -370,9 +400,12 @@
         "clength": 55,
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": {
-            "Q869381": "flowerpot"
-        },
+        "entities": [
+            {
+                "label": "flowerpot",
+                "wdid": "Q869381"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Xiǎo</div>\n\t\t<div class=\"glossblock\">little</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nánhái</div>\n\t\t<div class=\"glossblock\">boy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shǒu-lǐ</div>\n\t\t<div class=\"glossblock\">hand-in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bào-zhē</div>\n\t\t<div class=\"glossblock\">hold-DUR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yí-gè</div>\n\t\t<div class=\"glossblock\">one-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">huāpén,</div>\n\t\t<div class=\"glossblock\">flowerpot</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kàndào-le</div>\n\t\t<div class=\"glossblock\">see-SFP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma?</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "little",
@@ -388,7 +421,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Xiǎo",
@@ -415,9 +448,12 @@
         "clength": 26,
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": {
-            "Q869381": "flowerpot"
-        },
+        "entities": [
+            {
+                "label": "flowerpot",
+                "wdid": "Q869381"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Xiànzaì,</div>\n\t\t<div class=\"glossblock\">now</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">huāpén</div>\n\t\t<div class=\"glossblock\">flowerpot</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dǎo-le</div>\n\t\t<div class=\"glossblock\">fall-down-SFP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma?</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "now",
@@ -429,7 +465,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Xiànzaì,",
@@ -449,9 +485,12 @@
         "clength": 26,
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": {
-            "Q869381": "flowerpot"
-        },
+        "entities": [
+            {
+                "label": "flowerpot",
+                "wdid": "Q869381"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Xiànzaì,</div>\n\t\t<div class=\"glossblock\">now</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">huāpén</div>\n\t\t<div class=\"glossblock\">flowerpot</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zài</div>\n\t\t<div class=\"glossblock\">at</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nǎ-er?</div>\n\t\t<div class=\"glossblock\">where?</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "now",
@@ -463,7 +502,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Xiànzaì,",
@@ -488,7 +527,7 @@
         "clength": 48,
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Yǒu</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yī-gè</div>\n\t\t<div class=\"glossblock\">one-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nánhái</div>\n\t\t<div class=\"glossblock\">boy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zài</div>\n\t\t<div class=\"glossblock\">PROG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dàng-qīuqiān,</div>\n\t\t<div class=\"glossblock\">play-on-the-swing</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kàndào</div>\n\t\t<div class=\"glossblock\">see</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma?</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "have",
@@ -504,7 +543,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Yǒu",
@@ -532,9 +571,12 @@
         "clength": 37,
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": {
-            "Q1046951": "Target"
-        },
+        "entities": [
+            {
+                "label": "Target",
+                "wdid": "Q1046951"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hòulái,</div>\n\t\t<div class=\"glossblock\">later</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zhè-ge</div>\n\t\t<div class=\"glossblock\">this-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nánhái</div>\n\t\t<div class=\"glossblock\">boy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qù</div>\n\t\t<div class=\"glossblock\">go</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tīqíu</div>\n\t\t<div class=\"glossblock\">play-football</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma?</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "later",
@@ -549,7 +591,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Hòulái,",
@@ -576,7 +618,7 @@
         "clength": 53,
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Yǒu</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yī-zhī</div>\n\t\t<div class=\"glossblock\">one-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xiǎoniǎo</div>\n\t\t<div class=\"glossblock\">little-bird</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zhàn</div>\n\t\t<div class=\"glossblock\">stand</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zài</div>\n\t\t<div class=\"glossblock\">at</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shù-shàng,</div>\n\t\t<div class=\"glossblock\">tree-on</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kàndào</div>\n\t\t<div class=\"glossblock\">see</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma?</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "have",
@@ -593,7 +635,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Yǒu",
@@ -620,9 +662,12 @@
         "clength": 36,
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": {
-            "Q1046951": "Target"
-        },
+        "entities": [
+            {
+                "label": "Target",
+                "wdid": "Q1046951"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Xiànzài,</div>\n\t\t<div class=\"glossblock\">now</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zhè-zhī</div>\n\t\t<div class=\"glossblock\">this-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xiǎoniǎo</div>\n\t\t<div class=\"glossblock\">little-bird</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zài</div>\n\t\t<div class=\"glossblock\">at</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nǎ-er?</div>\n\t\t<div class=\"glossblock\">where</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "now",
@@ -635,7 +680,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Xiànzài,",
@@ -665,9 +710,12 @@
         "clength": 55,
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": {
-            "Q503": "bananas"
-        },
+        "entities": [
+            {
+                "label": "bananas",
+                "wdid": "Q503"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Yǒu</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yī-zhī</div>\n\t\t<div class=\"glossblock\">one-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xiǎo-hóuzi</div>\n\t\t<div class=\"glossblock\">little-monkey</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zài</div>\n\t\t<div class=\"glossblock\">PROG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zhāi</div>\n\t\t<div class=\"glossblock\">pick</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xiāngjiāo,</div>\n\t\t<div class=\"glossblock\">banana</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kàndào</div>\n\t\t<div class=\"glossblock\">see</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma?</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "have",
@@ -684,88 +732,80 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q107122728": "plant-based food",
-            "Q107122793": "plant product",
-            "Q107126067": "vegetarian food",
-            "Q11004": "Vegetable",
-            "Q1150771": "output",
-            "Q11879003": "environmental resource",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q13184": "Berry_(botany)",
-            "Q1364": "Fruit",
-            "Q1454986": "physical system",
-            "Q1485500": "tangible good",
-            "Q15075845": "primary commodity",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q1554231": "resource",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q188460": "natural resource",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27480917": "Perennial crops (CPA 2008)",
-            "Q27481006": "",
-            "Q27481647": "tropical and subtropical fruit",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q28969293": "biological material",
-            "Q28969364": "plant material",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q31464082": "source",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q3405827": "natural material",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q7239": "Organism",
-            "Q756": "Plant",
-            "Q844144": "tropical_fruit",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "plant product",
+                "wdid": "Q107122793"
+            },
+            {
+                "label": "vegetarian food",
+                "wdid": "Q107126067"
+            },
+            {
+                "label": "Vegetable",
+                "wdid": "Q11004"
+            },
+            {
+                "label": "environmental resource",
+                "wdid": "Q11879003"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Berry_(botany)",
+                "wdid": "Q13184"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "biological material",
+                "wdid": "Q28969293"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Plant",
+                "wdid": "Q756"
+            },
+            {
+                "label": "tropical_fruit",
+                "wdid": "Q844144"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Yǒu",
@@ -794,7 +834,7 @@
         "coordination": "or",
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hòulái,</div>\n\t\t<div class=\"glossblock\">later</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yǒu</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yī-zhī</div>\n\t\t<div class=\"glossblock\">one-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xiǎogǒu</div>\n\t\t<div class=\"glossblock\">little-dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zǒu</div>\n\t\t<div class=\"glossblock\">walk</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">guòlái</div>\n\t\t<div class=\"glossblock\">come-over</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le,</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">duì-bú-duì?</div>\n\t\t<div class=\"glossblock\">yes-or-no</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "later",
@@ -810,7 +850,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Hòulái,",
@@ -839,9 +879,12 @@
         "clength": 43,
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": {
-            "Q1046951": "Target"
-        },
+        "entities": [
+            {
+                "label": "Target",
+                "wdid": "Q1046951"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Xiànzài,</div>\n\t\t<div class=\"glossblock\">now</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zhè-zhī</div>\n\t\t<div class=\"glossblock\">this-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xiǎo-hóuzi</div>\n\t\t<div class=\"glossblock\">little-monkey</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zài</div>\n\t\t<div class=\"glossblock\">PROG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gàn</div>\n\t\t<div class=\"glossblock\">do</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shénme?</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "now",
@@ -855,7 +898,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Xiànzài,",
@@ -884,9 +927,12 @@
         "clength": 45,
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": {
-            "Q11442": "bicycle"
-        },
+        "entities": [
+            {
+                "label": "bicycle",
+                "wdid": "Q11442"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Shù-xià</div>\n\t\t<div class=\"glossblock\">tree-under</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yǒu</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yī-liàng</div>\n\t\t<div class=\"glossblock\">one-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zìxíngchē,</div>\n\t\t<div class=\"glossblock\">bicycle</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kàndào</div>\n\t\t<div class=\"glossblock\">see</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma?</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "tree-under",
@@ -901,55 +947,44 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q106839123": "means of transport",
-            "Q11019": "Machine",
-            "Q1150771": "output",
-            "Q11723891": "Single-track_vehicle",
-            "Q1183543": "appliance",
-            "Q1301433": "Land_vehicle",
-            "Q1408229": "finished good",
-            "Q1454986": "physical system",
-            "Q1485500": "tangible good",
-            "Q1507442": "human-powered vehicle",
-            "Q15401930": "artificial object",
-            "Q15618781": "wheeled vehicle",
-            "Q16686448": "artificial object",
-            "Q16889133": "class",
-            "Q18458812": "consumer goods",
-            "Q19279121": "free-emissions vehicle",
-            "Q2120578": "zero-emissions vehicle",
-            "Q2184715": "durable good",
-            "Q223557": "physical object",
-            "Q233040": "two-wheeler",
-            "Q2424752": "product",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q386724": "work",
-            "Q39546": "Tool",
-            "Q41321608": "vehicle without engine",
-            "Q42889": "Vehicle",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q5936788": "human-powered land vehicle",
-            "Q595658": "Velocipede",
-            "Q6671777": "structure",
-            "Q768186": "sports equipment",
-            "Q8205328": "artificial physical object",
-            "Q9158768": "storage",
-            "Q987767": "Container",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Machine",
+                "wdid": "Q11019"
+            },
+            {
+                "label": "Single-track_vehicle",
+                "wdid": "Q11723891"
+            },
+            {
+                "label": "Land_vehicle",
+                "wdid": "Q1301433"
+            },
+            {
+                "label": "two-wheeler",
+                "wdid": "Q233040"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            },
+            {
+                "label": "vehicle without engine",
+                "wdid": "Q41321608"
+            },
+            {
+                "label": "Vehicle",
+                "wdid": "Q42889"
+            },
+            {
+                "label": "Velocipede",
+                "wdid": "Q595658"
+            },
+            {
+                "label": "sports equipment",
+                "wdid": "Q768186"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Shù-xià",
@@ -979,10 +1014,16 @@
         "clength": 49,
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": {
-            "Q1046951": "Target",
-            "Q11442": "bicycle"
-        },
+        "entities": [
+            {
+                "label": "Target",
+                "wdid": "Q1046951"
+            },
+            {
+                "label": "bicycle",
+                "wdid": "Q11442"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hòulái,</div>\n\t\t<div class=\"glossblock\">later</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xiǎo-nánhái</div>\n\t\t<div class=\"glossblock\">little-boy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qí</div>\n\t\t<div class=\"glossblock\">ride</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zhè-liǎng</div>\n\t\t<div class=\"glossblock\">this-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zìxíngchē</div>\n\t\t<div class=\"glossblock\">bicycle</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma?</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "later",
@@ -997,55 +1038,44 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q106839123": "means of transport",
-            "Q11019": "Machine",
-            "Q1150771": "output",
-            "Q11723891": "Single-track_vehicle",
-            "Q1183543": "appliance",
-            "Q1301433": "Land_vehicle",
-            "Q1408229": "finished good",
-            "Q1454986": "physical system",
-            "Q1485500": "tangible good",
-            "Q1507442": "human-powered vehicle",
-            "Q15401930": "artificial object",
-            "Q15618781": "wheeled vehicle",
-            "Q16686448": "artificial object",
-            "Q16889133": "class",
-            "Q18458812": "consumer goods",
-            "Q19279121": "free-emissions vehicle",
-            "Q2120578": "zero-emissions vehicle",
-            "Q2184715": "durable good",
-            "Q223557": "physical object",
-            "Q233040": "two-wheeler",
-            "Q2424752": "product",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q386724": "work",
-            "Q39546": "Tool",
-            "Q41321608": "vehicle without engine",
-            "Q42889": "Vehicle",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q5936788": "human-powered land vehicle",
-            "Q595658": "Velocipede",
-            "Q6671777": "structure",
-            "Q768186": "sports equipment",
-            "Q8205328": "artificial physical object",
-            "Q9158768": "storage",
-            "Q987767": "Container",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Machine",
+                "wdid": "Q11019"
+            },
+            {
+                "label": "Single-track_vehicle",
+                "wdid": "Q11723891"
+            },
+            {
+                "label": "Land_vehicle",
+                "wdid": "Q1301433"
+            },
+            {
+                "label": "two-wheeler",
+                "wdid": "Q233040"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            },
+            {
+                "label": "vehicle without engine",
+                "wdid": "Q41321608"
+            },
+            {
+                "label": "Vehicle",
+                "wdid": "Q42889"
+            },
+            {
+                "label": "Velocipede",
+                "wdid": "Q595658"
+            },
+            {
+                "label": "sports equipment",
+                "wdid": "Q768186"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Hòulái,",
@@ -1072,7 +1102,7 @@
         "clength": 49,
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hòulái,</div>\n\t\t<div class=\"glossblock\">later</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zhè-ge</div>\n\t\t<div class=\"glossblock\">this-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xiǎo-nánhái</div>\n\t\t<div class=\"glossblock\">little-boy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qù</div>\n\t\t<div class=\"glossblock\">go</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dàng-qīuqīan</div>\n\t\t<div class=\"glossblock\">play-on-the-swing</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma?</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "later",
@@ -1087,7 +1117,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Hòulái,",
@@ -1123,7 +1153,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Qù-le."
@@ -1144,7 +1174,7 @@
         "clength": 42,
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hòulái,</div>\n\t\t<div class=\"glossblock\">later</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zhè-ge</div>\n\t\t<div class=\"glossblock\">this-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xiǎo-nánhái</div>\n\t\t<div class=\"glossblock\">little-boy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qù</div>\n\t\t<div class=\"glossblock\">go</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tīqíu</div>\n\t\t<div class=\"glossblock\">play-football</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma?</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "later",
@@ -1159,7 +1189,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Hòulái,",
@@ -1197,7 +1227,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Tā",

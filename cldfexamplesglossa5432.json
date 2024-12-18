@@ -24,7 +24,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Il",
@@ -48,10 +48,16 @@
         "clength": 68,
         "doc_ID": 5432,
         "doc_URL": "https://www.glossa-journal.org/article/id/5432",
-        "entities": {
-            "Q211521": "drizzling",
-            "Q7925": "rained"
-        },
+        "entities": [
+            {
+                "label": "drizzling",
+                "wdid": "Q211521"
+            },
+            {
+                "label": "rained",
+                "wdid": "Q7925"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Il</div>\n\t\t<div class=\"glossblock\">EXPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a plu</div>\n\t\t<div class=\"glossblock\">rained.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">toute</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">journée</div>\n\t\t<div class=\"glossblock\">day</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">petite</div>\n\t\t<div class=\"glossblock\">little</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pluie</div>\n\t\t<div class=\"glossblock\">rain</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fine.  (Ruwet 1987: 323)1</div>\n\t\t<div class=\"glossblock\">fine</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "EXPL",
@@ -68,50 +74,40 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q108163": "proposition",
-            "Q11028": "information",
-            "Q1190554": "occurrence",
-            "Q12036439": "meteor",
-            "Q1207505": "quality",
-            "Q1322005": "natural phenomenon",
-            "Q1347367": "aptitude",
-            "Q151885": "concept",
-            "Q15916540": "semantic unit",
-            "Q16332653": "meteorological phenomenon",
-            "Q16877783": "meaning",
-            "Q16889133": "class",
-            "Q1786828": "constituent",
-            "Q183046": "meaning",
-            "Q188572": "fact",
-            "Q1972098": "hydrometeor",
-            "Q20817253": "linguistic unit",
-            "Q2145290": "mental representation",
-            "Q246672": "mathematical object",
-            "Q25257": "Precipitation",
-            "Q2684591": "statement",
-            "Q26907166": "temporal entity",
-            "Q29651519": "mental object",
-            "Q30060700": "scientific object",
-            "Q35120": "entity",
-            "Q4072190": "atmospheric phenomenon",
-            "Q41796": "sentence",
-            "Q42848": "data",
-            "Q4393498": "representation",
-            "Q474328": "declarative sentence",
-            "Q483247": "phenomenon",
-            "Q488383": "object",
-            "Q5371079": "emic unit",
-            "Q58415929": "spatio-temporal entity",
-            "Q58928516": "meteorological concept",
-            "Q628523": "Message",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q930933": "relation",
-            "Q937228": "property",
-            "Q9380010": "utterance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "meteor",
+                "wdid": "Q12036439"
+            },
+            {
+                "label": "natural phenomenon",
+                "wdid": "Q1322005"
+            },
+            {
+                "label": "aptitude",
+                "wdid": "Q1347367"
+            },
+            {
+                "label": "meteorological phenomenon",
+                "wdid": "Q16332653"
+            },
+            {
+                "label": "hydrometeor",
+                "wdid": "Q1972098"
+            },
+            {
+                "label": "Precipitation",
+                "wdid": "Q25257"
+            },
+            {
+                "label": "atmospheric phenomenon",
+                "wdid": "Q4072190"
+            },
+            {
+                "label": "meteorological concept",
+                "wdid": "Q58928516"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Il",
@@ -149,7 +145,7 @@
         "language_iso6393": "spa",
         "language_name": "Spanish",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Llovió."
@@ -172,7 +168,7 @@
         "clength": 27,
         "doc_ID": 5432,
         "doc_URL": "https://www.glossa-journal.org/article/id/5432",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Llovía</div>\n\t\t<div class=\"glossblock\">rain.IPFV.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">una</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lluvia</div>\n\t\t<div class=\"glossblock\">rain</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">muy</div>\n\t\t<div class=\"glossblock\">very</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fina.</div>\n\t\t<div class=\"glossblock\">fine</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "rain.IPFV.3SG",
@@ -185,7 +181,7 @@
         "language_iso6393": "spa",
         "language_name": "Spanish",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Llovía",
@@ -225,7 +221,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Il",
@@ -252,9 +248,12 @@
         "clength": 43,
         "doc_ID": 5432,
         "doc_URL": "https://www.glossa-journal.org/article/id/5432",
-        "entities": {
-            "Q7925": "rained"
-        },
+        "entities": [
+            {
+                "label": "rained",
+                "wdid": "Q7925"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Il</div>\n\t\t<div class=\"glossblock\">EXPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a plu</div>\n\t\t<div class=\"glossblock\">rained.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pluie</div>\n\t\t<div class=\"glossblock\">rain</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">froide</div>\n\t\t<div class=\"glossblock\">cold</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">toute</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">journée.</div>\n\t\t<div class=\"glossblock\">day</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "EXPL",
@@ -270,50 +269,40 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q108163": "proposition",
-            "Q11028": "information",
-            "Q1190554": "occurrence",
-            "Q12036439": "meteor",
-            "Q1207505": "quality",
-            "Q1322005": "natural phenomenon",
-            "Q1347367": "aptitude",
-            "Q151885": "concept",
-            "Q15916540": "semantic unit",
-            "Q16332653": "meteorological phenomenon",
-            "Q16877783": "meaning",
-            "Q16889133": "class",
-            "Q1786828": "constituent",
-            "Q183046": "meaning",
-            "Q188572": "fact",
-            "Q1972098": "hydrometeor",
-            "Q20817253": "linguistic unit",
-            "Q2145290": "mental representation",
-            "Q246672": "mathematical object",
-            "Q25257": "Precipitation",
-            "Q2684591": "statement",
-            "Q26907166": "temporal entity",
-            "Q29651519": "mental object",
-            "Q30060700": "scientific object",
-            "Q35120": "entity",
-            "Q4072190": "atmospheric phenomenon",
-            "Q41796": "sentence",
-            "Q42848": "data",
-            "Q4393498": "representation",
-            "Q474328": "declarative sentence",
-            "Q483247": "phenomenon",
-            "Q488383": "object",
-            "Q5371079": "emic unit",
-            "Q58415929": "spatio-temporal entity",
-            "Q58928516": "meteorological concept",
-            "Q628523": "Message",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q930933": "relation",
-            "Q937228": "property",
-            "Q9380010": "utterance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "meteor",
+                "wdid": "Q12036439"
+            },
+            {
+                "label": "natural phenomenon",
+                "wdid": "Q1322005"
+            },
+            {
+                "label": "aptitude",
+                "wdid": "Q1347367"
+            },
+            {
+                "label": "meteorological phenomenon",
+                "wdid": "Q16332653"
+            },
+            {
+                "label": "hydrometeor",
+                "wdid": "Q1972098"
+            },
+            {
+                "label": "Precipitation",
+                "wdid": "Q25257"
+            },
+            {
+                "label": "atmospheric phenomenon",
+                "wdid": "Q4072190"
+            },
+            {
+                "label": "meteorological concept",
+                "wdid": "Q58928516"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Il",
@@ -356,7 +345,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*?Une",
@@ -391,7 +380,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "La",
@@ -430,7 +419,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Il",
@@ -470,7 +459,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Il",
@@ -496,9 +485,12 @@
         "clength": 60,
         "doc_ID": 5432,
         "doc_URL": "https://www.glossa-journal.org/article/id/5432",
-        "entities": {
-            "Q7925": "rained"
-        },
+        "entities": [
+            {
+                "label": "rained",
+                "wdid": "Q7925"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">En</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">el</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">parlamento,</div>\n\t\t<div class=\"glossblock\">parliament</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">llovieron /</div>\n\t\t<div class=\"glossblock\">rained.3PL /</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*llovió</div>\n\t\t<div class=\"glossblock\">rained.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">los</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">insultos/aplausos.</div>\n\t\t<div class=\"glossblock\">insults/ applauses</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "in",
@@ -513,50 +505,40 @@
         "language_iso6393": "spa",
         "language_name": "Spanish",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q108163": "proposition",
-            "Q11028": "information",
-            "Q1190554": "occurrence",
-            "Q12036439": "meteor",
-            "Q1207505": "quality",
-            "Q1322005": "natural phenomenon",
-            "Q1347367": "aptitude",
-            "Q151885": "concept",
-            "Q15916540": "semantic unit",
-            "Q16332653": "meteorological phenomenon",
-            "Q16877783": "meaning",
-            "Q16889133": "class",
-            "Q1786828": "constituent",
-            "Q183046": "meaning",
-            "Q188572": "fact",
-            "Q1972098": "hydrometeor",
-            "Q20817253": "linguistic unit",
-            "Q2145290": "mental representation",
-            "Q246672": "mathematical object",
-            "Q25257": "Precipitation",
-            "Q2684591": "statement",
-            "Q26907166": "temporal entity",
-            "Q29651519": "mental object",
-            "Q30060700": "scientific object",
-            "Q35120": "entity",
-            "Q4072190": "atmospheric phenomenon",
-            "Q41796": "sentence",
-            "Q42848": "data",
-            "Q4393498": "representation",
-            "Q474328": "declarative sentence",
-            "Q483247": "phenomenon",
-            "Q488383": "object",
-            "Q5371079": "emic unit",
-            "Q58415929": "spatio-temporal entity",
-            "Q58928516": "meteorological concept",
-            "Q628523": "Message",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q930933": "relation",
-            "Q937228": "property",
-            "Q9380010": "utterance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "meteor",
+                "wdid": "Q12036439"
+            },
+            {
+                "label": "natural phenomenon",
+                "wdid": "Q1322005"
+            },
+            {
+                "label": "aptitude",
+                "wdid": "Q1347367"
+            },
+            {
+                "label": "meteorological phenomenon",
+                "wdid": "Q16332653"
+            },
+            {
+                "label": "hydrometeor",
+                "wdid": "Q1972098"
+            },
+            {
+                "label": "Precipitation",
+                "wdid": "Q25257"
+            },
+            {
+                "label": "atmospheric phenomenon",
+                "wdid": "Q4072190"
+            },
+            {
+                "label": "meteorological concept",
+                "wdid": "Q58928516"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "En",
@@ -584,10 +566,16 @@
         "clength": 66,
         "doc_ID": 5432,
         "doc_URL": "https://www.glossa-journal.org/article/id/5432",
-        "entities": {
-            "Q11573": "millimeters",
-            "Q7925": "rains"
-        },
+        "entities": [
+            {
+                "label": "millimeters",
+                "wdid": "Q11573"
+            },
+            {
+                "label": "rains",
+                "wdid": "Q7925"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Llovió /</div>\n\t\t<div class=\"glossblock\">rained.3SG/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Llovieron</div>\n\t\t<div class=\"glossblock\">rained.3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">unas</div>\n\t\t<div class=\"glossblock\">some</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pocas</div>\n\t\t<div class=\"glossblock\">few</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lluvias/</div>\n\t\t<div class=\"glossblock\">rains/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">200</div>\n\t\t<div class=\"glossblock\">200</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">milímetros</div>\n\t\t<div class=\"glossblock\">millimetres</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">en</div>\n\t\t<div class=\"glossblock\">within</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">24 horas.</div>\n\t\t<div class=\"glossblock\">24 hours</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "rained.3SG/",
@@ -604,50 +592,40 @@
         "language_iso6393": "spa",
         "language_name": "Spanish",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q108163": "proposition",
-            "Q11028": "information",
-            "Q1190554": "occurrence",
-            "Q12036439": "meteor",
-            "Q1207505": "quality",
-            "Q1322005": "natural phenomenon",
-            "Q1347367": "aptitude",
-            "Q151885": "concept",
-            "Q15916540": "semantic unit",
-            "Q16332653": "meteorological phenomenon",
-            "Q16877783": "meaning",
-            "Q16889133": "class",
-            "Q1786828": "constituent",
-            "Q183046": "meaning",
-            "Q188572": "fact",
-            "Q1972098": "hydrometeor",
-            "Q20817253": "linguistic unit",
-            "Q2145290": "mental representation",
-            "Q246672": "mathematical object",
-            "Q25257": "Precipitation",
-            "Q2684591": "statement",
-            "Q26907166": "temporal entity",
-            "Q29651519": "mental object",
-            "Q30060700": "scientific object",
-            "Q35120": "entity",
-            "Q4072190": "atmospheric phenomenon",
-            "Q41796": "sentence",
-            "Q42848": "data",
-            "Q4393498": "representation",
-            "Q474328": "declarative sentence",
-            "Q483247": "phenomenon",
-            "Q488383": "object",
-            "Q5371079": "emic unit",
-            "Q58415929": "spatio-temporal entity",
-            "Q58928516": "meteorological concept",
-            "Q628523": "Message",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q930933": "relation",
-            "Q937228": "property",
-            "Q9380010": "utterance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "meteor",
+                "wdid": "Q12036439"
+            },
+            {
+                "label": "natural phenomenon",
+                "wdid": "Q1322005"
+            },
+            {
+                "label": "aptitude",
+                "wdid": "Q1347367"
+            },
+            {
+                "label": "meteorological phenomenon",
+                "wdid": "Q16332653"
+            },
+            {
+                "label": "hydrometeor",
+                "wdid": "Q1972098"
+            },
+            {
+                "label": "Precipitation",
+                "wdid": "Q25257"
+            },
+            {
+                "label": "atmospheric phenomenon",
+                "wdid": "Q4072190"
+            },
+            {
+                "label": "meteorological concept",
+                "wdid": "Q58928516"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Llovió /",
@@ -687,7 +665,7 @@
         "language_iso6393": "spa",
         "language_name": "Spanish",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Llovió/",
@@ -710,7 +688,7 @@
         "clength": 44,
         "doc_ID": 5432,
         "doc_URL": "https://www.glossa-journal.org/article/id/5432",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Llovía</div>\n\t\t<div class=\"glossblock\">rain.IPFV.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">una</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lluvia</div>\n\t\t<div class=\"glossblock\">rain</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fina.</div>\n\t\t<div class=\"glossblock\">fine</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=></div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Llovía</div>\n\t\t<div class=\"glossblock\">rained.IPFV.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">finamente.</div>\n\t\t<div class=\"glossblock\">lightly</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "rain.IPFV.3SG",
@@ -725,7 +703,7 @@
         "language_iso6393": "spa",
         "language_name": "Spanish",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Llovía",
@@ -752,9 +730,12 @@
         "clength": 36,
         "doc_ID": 5432,
         "doc_URL": "https://www.glossa-journal.org/article/id/5432",
-        "entities": {
-            "Q7925": "rained"
-        },
+        "entities": [
+            {
+                "label": "rained",
+                "wdid": "Q7925"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ese</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">día,</div>\n\t\t<div class=\"glossblock\">day</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">llovieron</div>\n\t\t<div class=\"glossblock\">rained.3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bombas</div>\n\t\t<div class=\"glossblock\">bombs</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">del</div>\n\t\t<div class=\"glossblock\">of+the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cielo.</div>\n\t\t<div class=\"glossblock\">sky</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "that",
@@ -768,50 +749,40 @@
         "language_iso6393": "spa",
         "language_name": "Spanish",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q108163": "proposition",
-            "Q11028": "information",
-            "Q1190554": "occurrence",
-            "Q12036439": "meteor",
-            "Q1207505": "quality",
-            "Q1322005": "natural phenomenon",
-            "Q1347367": "aptitude",
-            "Q151885": "concept",
-            "Q15916540": "semantic unit",
-            "Q16332653": "meteorological phenomenon",
-            "Q16877783": "meaning",
-            "Q16889133": "class",
-            "Q1786828": "constituent",
-            "Q183046": "meaning",
-            "Q188572": "fact",
-            "Q1972098": "hydrometeor",
-            "Q20817253": "linguistic unit",
-            "Q2145290": "mental representation",
-            "Q246672": "mathematical object",
-            "Q25257": "Precipitation",
-            "Q2684591": "statement",
-            "Q26907166": "temporal entity",
-            "Q29651519": "mental object",
-            "Q30060700": "scientific object",
-            "Q35120": "entity",
-            "Q4072190": "atmospheric phenomenon",
-            "Q41796": "sentence",
-            "Q42848": "data",
-            "Q4393498": "representation",
-            "Q474328": "declarative sentence",
-            "Q483247": "phenomenon",
-            "Q488383": "object",
-            "Q5371079": "emic unit",
-            "Q58415929": "spatio-temporal entity",
-            "Q58928516": "meteorological concept",
-            "Q628523": "Message",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q930933": "relation",
-            "Q937228": "property",
-            "Q9380010": "utterance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "meteor",
+                "wdid": "Q12036439"
+            },
+            {
+                "label": "natural phenomenon",
+                "wdid": "Q1322005"
+            },
+            {
+                "label": "aptitude",
+                "wdid": "Q1347367"
+            },
+            {
+                "label": "meteorological phenomenon",
+                "wdid": "Q16332653"
+            },
+            {
+                "label": "hydrometeor",
+                "wdid": "Q1972098"
+            },
+            {
+                "label": "Precipitation",
+                "wdid": "Q25257"
+            },
+            {
+                "label": "atmospheric phenomenon",
+                "wdid": "Q4072190"
+            },
+            {
+                "label": "meteorological concept",
+                "wdid": "Q58928516"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Ese",
@@ -839,9 +810,12 @@
         "clength": 29,
         "doc_ID": 5432,
         "doc_URL": "https://www.glossa-journal.org/article/id/5432",
-        "entities": {
-            "Q42967": "monsoon"
-        },
+        "entities": [
+            {
+                "label": "monsoon",
+                "wdid": "Q42967"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Llovía</div>\n\t\t<div class=\"glossblock\">rain.IPFV.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">una</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lluvia</div>\n\t\t<div class=\"glossblock\">rain</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">monzónica.8</div>\n\t\t<div class=\"glossblock\">monsoon</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "rain.IPFV.3SG",
@@ -853,7 +827,7 @@
         "language_iso6393": "spa",
         "language_name": "Spanish",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Llovía",
@@ -879,7 +853,7 @@
         "clength": 42,
         "doc_ID": 5432,
         "doc_URL": "https://www.glossa-journal.org/article/id/5432",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Llovía</div>\n\t\t<div class=\"glossblock\">rained.IPFV.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">una</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lluvia</div>\n\t\t<div class=\"glossblock\">rain</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mansa</div>\n\t\t<div class=\"glossblock\">gentle</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pero</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">persistente.9</div>\n\t\t<div class=\"glossblock\">persistent.</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "rained.IPFV.3SG",
@@ -893,7 +867,7 @@
         "language_iso6393": "spa",
         "language_name": "Spanish",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Llovía",
@@ -935,7 +909,7 @@
         "language_iso6393": "spa",
         "language_name": "Spanish",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "??Una",
@@ -966,7 +940,7 @@
         "clength": 33,
         "doc_ID": 5432,
         "doc_URL": "https://www.glossa-journal.org/article/id/5432",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Les</div>\n\t\t<div class=\"glossblock\">CL.3PL.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">llovimos</div>\n\t\t<div class=\"glossblock\">rained.1PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">portería</div>\n\t\t<div class=\"glossblock\">football goal</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a goles.</div>\n\t\t<div class=\"glossblock\">to goals</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "CL.3PL.DAT",
@@ -979,7 +953,7 @@
         "language_iso6393": "spa",
         "language_name": "Spanish",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Les",
@@ -1006,7 +980,7 @@
         "clength": 32,
         "doc_ID": 5432,
         "doc_URL": "https://www.glossa-journal.org/article/id/5432",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Il</div>\n\t\t<div class=\"glossblock\">EXPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">essaie</div>\n\t\t<div class=\"glossblock\">tries</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pleuvoir</div>\n\t\t<div class=\"glossblock\">rain.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aussi (…).</div>\n\t\t<div class=\"glossblock\">too</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "EXPL",
@@ -1019,7 +993,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Il",
@@ -1049,7 +1023,7 @@
         "clength": 54,
         "doc_ID": 5432,
         "doc_URL": "https://www.glossa-journal.org/article/id/5432",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Il</div>\n\t\t<div class=\"glossblock\">EXPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">has</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">donc</div>\n\t\t<div class=\"glossblock\">then</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">décidé</div>\n\t\t<div class=\"glossblock\">decided.PTCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pleuvoir</div>\n\t\t<div class=\"glossblock\">rain.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aujourd’hui</div>\n\t\t<div class=\"glossblock\">today</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mercredi (…).</div>\n\t\t<div class=\"glossblock\">Wednesday</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "EXPL",
@@ -1065,7 +1039,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Il",
@@ -1096,9 +1070,12 @@
         "clength": 73,
         "doc_ID": 5432,
         "doc_URL": "https://www.glossa-journal.org/article/id/5432",
-        "entities": {
-            "Q7003": "Dijon"
-        },
+        "entities": [
+            {
+                "label": "Dijon",
+                "wdid": "Q7003"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">À</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dijon,</div>\n\t\t<div class=\"glossblock\">Dijon</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">y’a</div>\n\t\t<div class=\"glossblock\">there-is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">très</div>\n\t\t<div class=\"glossblock\">very</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">souvent</div>\n\t\t<div class=\"glossblock\">often</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">du</div>\n\t\t<div class=\"glossblock\">of+ART.M.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">soleil (…)</div>\n\t\t<div class=\"glossblock\">sun</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sauf</div>\n\t\t<div class=\"glossblock\">except</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">quand</div>\n\t\t<div class=\"glossblock\">when</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">il</div>\n\t\t<div class=\"glossblock\">EXPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">décide</div>\n\t\t<div class=\"glossblock\">decides</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pleuvoir!</div>\n\t\t<div class=\"glossblock\">rain.INF</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "in",
@@ -1119,7 +1096,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "À",
@@ -1158,7 +1135,7 @@
         "clength": 42,
         "doc_ID": 5432,
         "doc_URL": "https://www.glossa-journal.org/article/id/5432",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Y</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">decidió</div>\n\t\t<div class=\"glossblock\">decided.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">llover</div>\n\t\t<div class=\"glossblock\">rain.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">at</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hora</div>\n\t\t<div class=\"glossblock\">hour</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ir</div>\n\t\t<div class=\"glossblock\">go.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">al</div>\n\t\t<div class=\"glossblock\">to+ART.M.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gym.25</div>\n\t\t<div class=\"glossblock\">gym</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "and",
@@ -1176,7 +1153,7 @@
         "language_iso6393": "spa",
         "language_name": "Spanish",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Y",
@@ -1202,7 +1179,7 @@
         "clength": 21,
         "doc_ID": 5432,
         "doc_URL": "https://www.glossa-journal.org/article/id/5432",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hu</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nafal</div>\n\t\t<div class=\"glossblock\">fell</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nefila</div>\n\t\t<div class=\"glossblock\">falling</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaša.</div>\n\t\t<div class=\"glossblock\">hard</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "he",
@@ -1214,7 +1191,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Hu",
@@ -1236,9 +1213,12 @@
         "clength": 28,
         "doc_ID": 5432,
         "doc_URL": "https://www.glossa-journal.org/article/id/5432",
-        "entities": {
-            "Q848346": "fading"
-        },
+        "entities": [
+            {
+                "label": "fading",
+                "wdid": "Q848346"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">çiçak</div>\n\t\t<div class=\"glossblock\">flower</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ubs-ma</div>\n\t\t<div class=\"glossblock\">fading-a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">boş</div>\n\t\t<div class=\"glossblock\">very</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kotti</div>\n\t\t<div class=\"glossblock\">bad</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ubes.</div>\n\t\t<div class=\"glossblock\">faded.3M</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "flower",
@@ -1251,7 +1231,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "çiçak",
@@ -1276,9 +1256,12 @@
         "clength": 31,
         "doc_ID": 5432,
         "doc_URL": "https://www.glossa-journal.org/article/id/5432",
-        "entities": {
-            "Q7295963": "rattle"
-        },
+        "entities": [
+            {
+                "label": "rattle",
+                "wdid": "Q7295963"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hak</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yòypu-t</div>\n\t\t<div class=\"glossblock\">cracked.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aayya-t</div>\n\t\t<div class=\"glossblock\">rattle.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aay-an-numa</div>\n\t\t<div class=\"glossblock\">rattle.CAUS.CIRCG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "who",
@@ -1290,7 +1273,7 @@
         "language_iso6393": "hop",
         "language_name": "Hopi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Hak",
@@ -1330,7 +1313,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Il",
@@ -1370,7 +1353,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Llovía",
@@ -1394,10 +1377,16 @@
         "clength": 28,
         "doc_ID": 5432,
         "doc_URL": "https://www.glossa-journal.org/article/id/5432",
-        "entities": {
-            "Q7925": "rained",
-            "Q852799": "sleet"
-        },
+        "entities": [
+            {
+                "label": "rained",
+                "wdid": "Q7925"
+            },
+            {
+                "label": "sleet",
+                "wdid": "Q852799"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Esa</div>\n\t\t<div class=\"glossblock\">this</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tarde,</div>\n\t\t<div class=\"glossblock\">afternoon</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">llovió</div>\n\t\t<div class=\"glossblock\">rained.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aguanieve.</div>\n\t\t<div class=\"glossblock\">sleet</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "this",
@@ -1409,50 +1398,40 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q108163": "proposition",
-            "Q11028": "information",
-            "Q1190554": "occurrence",
-            "Q12036439": "meteor",
-            "Q1207505": "quality",
-            "Q1322005": "natural phenomenon",
-            "Q1347367": "aptitude",
-            "Q151885": "concept",
-            "Q15916540": "semantic unit",
-            "Q16332653": "meteorological phenomenon",
-            "Q16877783": "meaning",
-            "Q16889133": "class",
-            "Q1786828": "constituent",
-            "Q183046": "meaning",
-            "Q188572": "fact",
-            "Q1972098": "hydrometeor",
-            "Q20817253": "linguistic unit",
-            "Q2145290": "mental representation",
-            "Q246672": "mathematical object",
-            "Q25257": "Precipitation",
-            "Q2684591": "statement",
-            "Q26907166": "temporal entity",
-            "Q29651519": "mental object",
-            "Q30060700": "scientific object",
-            "Q35120": "entity",
-            "Q4072190": "atmospheric phenomenon",
-            "Q41796": "sentence",
-            "Q42848": "data",
-            "Q4393498": "representation",
-            "Q474328": "declarative sentence",
-            "Q483247": "phenomenon",
-            "Q488383": "object",
-            "Q5371079": "emic unit",
-            "Q58415929": "spatio-temporal entity",
-            "Q58928516": "meteorological concept",
-            "Q628523": "Message",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q930933": "relation",
-            "Q937228": "property",
-            "Q9380010": "utterance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "meteor",
+                "wdid": "Q12036439"
+            },
+            {
+                "label": "natural phenomenon",
+                "wdid": "Q1322005"
+            },
+            {
+                "label": "aptitude",
+                "wdid": "Q1347367"
+            },
+            {
+                "label": "meteorological phenomenon",
+                "wdid": "Q16332653"
+            },
+            {
+                "label": "hydrometeor",
+                "wdid": "Q1972098"
+            },
+            {
+                "label": "Precipitation",
+                "wdid": "Q25257"
+            },
+            {
+                "label": "atmospheric phenomenon",
+                "wdid": "Q4072190"
+            },
+            {
+                "label": "meteorological concept",
+                "wdid": "Q58928516"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Esa",
@@ -1486,7 +1465,7 @@
         "language_iso6393": "tur",
         "language_name": "Turkish",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Yağmur",
@@ -1517,7 +1496,7 @@
         "language_iso6393": "mlv",
         "language_name": "Mwotlap",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Na-smal",
@@ -1541,7 +1520,7 @@
         "clength": 14,
         "doc_ID": 5432,
         "doc_URL": "https://www.glossa-journal.org/article/id/5432",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ren</div>\n\t\t<div class=\"glossblock\">rain</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bae</div>\n\t\t<div class=\"glossblock\">FUT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">PRED</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ren.</div>\n\t\t<div class=\"glossblock\">rain</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "rain",
@@ -1553,7 +1532,7 @@
         "language_iso6393": "bis",
         "language_name": "Bislama",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ren",
@@ -1593,7 +1572,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "?Une",
@@ -1628,9 +1607,12 @@
         "clength": 42,
         "doc_ID": 5432,
         "doc_URL": "https://www.glossa-journal.org/article/id/5432",
-        "entities": {
-            "Q185789": "raindrops"
-        },
+        "entities": [
+            {
+                "label": "raindrops",
+                "wdid": "Q185789"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">De</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">grosses</div>\n\t\t<div class=\"glossblock\">big</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gouttes</div>\n\t\t<div class=\"glossblock\">drops</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nous</div>\n\t\t<div class=\"glossblock\">us.CL.1PL.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pleuvaient</div>\n\t\t<div class=\"glossblock\">rain.IPFV.3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dessus.</div>\n\t\t<div class=\"glossblock\">upon</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "of",
@@ -1644,7 +1626,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "De",
@@ -1675,9 +1657,12 @@
         "clength": 54,
         "doc_ID": 5432,
         "doc_URL": "https://www.glossa-journal.org/article/id/5432",
-        "entities": {
-            "Q7925": "rained"
-        },
+        "entities": [
+            {
+                "label": "rained",
+                "wdid": "Q7925"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?Unas</div>\n\t\t<div class=\"glossblock\">some</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gotas</div>\n\t\t<div class=\"glossblock\">drops</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">grandes</div>\n\t\t<div class=\"glossblock\">big</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(#de</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lluvia)</div>\n\t\t<div class=\"glossblock\">rain</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nos</div>\n\t\t<div class=\"glossblock\">us.CL.1PL.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">llovieron</div>\n\t\t<div class=\"glossblock\">rained.3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">encima.</div>\n\t\t<div class=\"glossblock\">upon</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "some",
@@ -1693,50 +1678,40 @@
         "language_iso6393": "spa",
         "language_name": "Spanish",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q108163": "proposition",
-            "Q11028": "information",
-            "Q1190554": "occurrence",
-            "Q12036439": "meteor",
-            "Q1207505": "quality",
-            "Q1322005": "natural phenomenon",
-            "Q1347367": "aptitude",
-            "Q151885": "concept",
-            "Q15916540": "semantic unit",
-            "Q16332653": "meteorological phenomenon",
-            "Q16877783": "meaning",
-            "Q16889133": "class",
-            "Q1786828": "constituent",
-            "Q183046": "meaning",
-            "Q188572": "fact",
-            "Q1972098": "hydrometeor",
-            "Q20817253": "linguistic unit",
-            "Q2145290": "mental representation",
-            "Q246672": "mathematical object",
-            "Q25257": "Precipitation",
-            "Q2684591": "statement",
-            "Q26907166": "temporal entity",
-            "Q29651519": "mental object",
-            "Q30060700": "scientific object",
-            "Q35120": "entity",
-            "Q4072190": "atmospheric phenomenon",
-            "Q41796": "sentence",
-            "Q42848": "data",
-            "Q4393498": "representation",
-            "Q474328": "declarative sentence",
-            "Q483247": "phenomenon",
-            "Q488383": "object",
-            "Q5371079": "emic unit",
-            "Q58415929": "spatio-temporal entity",
-            "Q58928516": "meteorological concept",
-            "Q628523": "Message",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q930933": "relation",
-            "Q937228": "property",
-            "Q9380010": "utterance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "meteor",
+                "wdid": "Q12036439"
+            },
+            {
+                "label": "natural phenomenon",
+                "wdid": "Q1322005"
+            },
+            {
+                "label": "aptitude",
+                "wdid": "Q1347367"
+            },
+            {
+                "label": "meteorological phenomenon",
+                "wdid": "Q16332653"
+            },
+            {
+                "label": "hydrometeor",
+                "wdid": "Q1972098"
+            },
+            {
+                "label": "Precipitation",
+                "wdid": "Q25257"
+            },
+            {
+                "label": "atmospheric phenomenon",
+                "wdid": "Q4072190"
+            },
+            {
+                "label": "meteorological concept",
+                "wdid": "Q58928516"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "?Unas",
@@ -1779,7 +1754,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Llovía",

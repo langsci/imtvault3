@@ -25,10 +25,16 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {
-            "Q227997": "Taro",
-            "Q37828": "refrigerator"
-        },
+        "entities": [
+            {
+                "label": "Taro",
+                "wdid": "Q227997"
+            },
+            {
+                "label": "refrigerator",
+                "wdid": "Q37828"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Taro-wa [[</div>\n\t\t<div class=\"glossblock\">Taro-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Yoko-ga</div>\n\t\t<div class=\"glossblock\">Yoko-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">asa</div>\n\t\t<div class=\"glossblock\">morning</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">reezooko-ni</div>\n\t\t<div class=\"glossblock\">refrigerator-LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kukkii-o</div>\n\t\t<div class=\"glossblock\">cookie-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hotondo</div>\n\t\t<div class=\"glossblock\">most</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">irete-oita]-no]-o</div>\n\t\t<div class=\"glossblock\">put-AUX-no-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">paatii-ni</div>\n\t\t<div class=\"glossblock\">party-to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yuugata</div>\n\t\t<div class=\"glossblock\">evening</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">motteit-ta.</div>\n\t\t<div class=\"glossblock\">bring-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Taro-TOP",
@@ -46,36 +52,28 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q1150771": "output",
-            "Q1183543": "appliance",
-            "Q12269769": "major appliance",
-            "Q1454986": "physical system",
-            "Q15401930": "artificial object",
-            "Q16686448": "artificial object",
-            "Q1836700": "manufactured good",
-            "Q20076681": "electric household appliance",
-            "Q212920": "home appliance",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q39546": "Tool",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q8205328": "artificial physical object",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "major appliance",
+                "wdid": "Q12269769"
+            },
+            {
+                "label": "manufactured good",
+                "wdid": "Q1836700"
+            },
+            {
+                "label": "electric household appliance",
+                "wdid": "Q20076681"
+            },
+            {
+                "label": "home appliance",
+                "wdid": "Q212920"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Taro-wa [[",
@@ -110,10 +108,16 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {
-            "Q227997": "Taro",
-            "Q46383": "sushi"
-        },
+        "entities": [
+            {
+                "label": "Taro",
+                "wdid": "Q227997"
+            },
+            {
+                "label": "sushi",
+                "wdid": "Q46383"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#[Taro-ga</div>\n\t\t<div class=\"glossblock\">Taro-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\">daughter-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\">one-CL-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sushi-o</div>\n\t\t<div class=\"glossblock\">sushi-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kyaku-ni</div>\n\t\t<div class=\"glossblock\">guest-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dasi-ta-no]-o</div>\n\t\t<div class=\"glossblock\">serve-PAST-no-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kyaku-ga</div>\n\t\t<div class=\"glossblock\">guest-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">suguni</div>\n\t\t<div class=\"glossblock\">immediately</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">home-ta.</div>\n\t\t<div class=\"glossblock\">praise-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Taro-NOM",
@@ -131,7 +135,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "#[Taro-ga",
@@ -175,7 +179,7 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?*Ken-wa</div>\n\t\t<div class=\"glossblock\">Ken-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[[Naomi-ga</div>\n\t\t<div class=\"glossblock\">Naomi-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ofisu-ni</div>\n\t\t<div class=\"glossblock\">office-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Lucky-o</div>\n\t\t<div class=\"glossblock\">Lucky-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tureteki-ta]-no]-no</div>\n\t\t<div class=\"glossblock\">bring-PAST-no-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ke]-o</div>\n\t\t<div class=\"glossblock\">hair-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kat-ta.</div>\n\t\t<div class=\"glossblock\">cut-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Ken-TOP",
@@ -190,7 +194,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "?*Ken-wa",
@@ -230,7 +234,7 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?*Ken-wa</div>\n\t\t<div class=\"glossblock\">Ken-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[[Naomi-ga</div>\n\t\t<div class=\"glossblock\">Naomi-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ofisu-ni</div>\n\t\t<div class=\"glossblock\">office-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">haiiro-no</div>\n\t\t<div class=\"glossblock\">grey-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">neko-o</div>\n\t\t<div class=\"glossblock\">cat-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tureteki-ta]-no]-no</div>\n\t\t<div class=\"glossblock\">bring-PAST-no-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ke]-o</div>\n\t\t<div class=\"glossblock\">hair-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kat-ta.</div>\n\t\t<div class=\"glossblock\">cut-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Ken-TOP",
@@ -247,7 +251,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "?*Ken-wa",
@@ -289,7 +293,7 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ken-wa</div>\n\t\t<div class=\"glossblock\">Ken-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[[Naomi-ga</div>\n\t\t<div class=\"glossblock\">Naomi-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ofisu-ni</div>\n\t\t<div class=\"glossblock\">office-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">haiiro-no</div>\n\t\t<div class=\"glossblock\">gray-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">neko-o</div>\n\t\t<div class=\"glossblock\">cat-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tureteki-ta]-no]-no</div>\n\t\t<div class=\"glossblock\">bring-PAST-no-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ke]-o</div>\n\t\t<div class=\"glossblock\">hair-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kat-ta.</div>\n\t\t<div class=\"glossblock\">cut-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Ken-TOP",
@@ -305,7 +309,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ken-wa",
@@ -336,9 +340,12 @@
         "clength": 66,
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {
-            "Q85771140": "Junya"
-        },
+        "entities": [
+            {
+                "label": "Junya",
+                "wdid": "Q85771140"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[dare-ga</div>\n\t\t<div class=\"glossblock\">who-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no.</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">← restrictive EHRC</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -353,7 +360,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Junya-wa",
@@ -383,10 +390,16 @@
         "clength": 70,
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {
-            "Q85771140": "Junya",
-            "Q89": "apples"
-        },
+        "entities": [
+            {
+                "label": "Junya",
+                "wdid": "Q85771140"
+            },
+            {
+                "label": "apples",
+                "wdid": "Q89"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[dare-ga</div>\n\t\t<div class=\"glossblock\">who-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ano</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no.</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">← appositive EHRC</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -402,72 +415,56 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q145150": "fruit of Maloideae",
-            "Q1454986": "physical system",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q41274": "Pome",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "*Junya-wa",
@@ -499,10 +496,16 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {
-            "Q85771140": "Junya",
-            "Q89": "apples"
-        },
+        "entities": [
+            {
+                "label": "Junya",
+                "wdid": "Q85771140"
+            },
+            {
+                "label": "apples",
+                "wdid": "Q89"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[dare-ga</div>\n\t\t<div class=\"glossblock\">who-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no]-o</div>\n\t\t<div class=\"glossblock\">no-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no.</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">← IHRC</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -518,72 +521,56 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q145150": "fruit of Maloideae",
-            "Q1454986": "physical system",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q41274": "Pome",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Junya-wa",
@@ -617,10 +604,16 @@
         "clength": 80,
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {
-            "Q239348": "Ayaka",
-            "Q85771140": "Junya"
-        },
+        "entities": [
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            },
+            {
+                "label": "Junya",
+                "wdid": "Q85771140"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wake-de-wa</div>\n\t\t<div class=\"glossblock\">reason-COP-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na-i.</div>\n\t\t<div class=\"glossblock\">NEG-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">← restrictive EHRC</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -636,7 +629,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -671,11 +664,20 @@
         "clength": 83,
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {
-            "Q190558": "negation",
-            "Q239348": "Ayaka",
-            "Q85771140": "Junya"
-        },
+        "entities": [
+            {
+                "label": "negation",
+                "wdid": "Q190558"
+            },
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            },
+            {
+                "label": "Junya",
+                "wdid": "Q85771140"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ano</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wake-de-wa</div>\n\t\t<div class=\"glossblock\">reason-COP-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na-i.</div>\n\t\t<div class=\"glossblock\">NEG-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">← appositive EHRC</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -692,7 +694,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -729,11 +731,20 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {
-            "Q239348": "Ayaka",
-            "Q85771140": "Junya",
-            "Q89": "apples"
-        },
+        "entities": [
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            },
+            {
+                "label": "Junya",
+                "wdid": "Q85771140"
+            },
+            {
+                "label": "apples",
+                "wdid": "Q89"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no]-o</div>\n\t\t<div class=\"glossblock\">no-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wake-de-wa</div>\n\t\t<div class=\"glossblock\">reason-COP-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na-i.</div>\n\t\t<div class=\"glossblock\">NEG-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">← IHRC</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -750,72 +761,56 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q145150": "fruit of Maloideae",
-            "Q1454986": "physical system",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q41274": "Pome",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -856,11 +851,20 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {
-            "Q129308": "John",
-            "Q27920165": "boasted",
-            "Q41719": "hypothesis"
-        },
+        "entities": [
+            {
+                "label": "John",
+                "wdid": "Q129308"
+            },
+            {
+                "label": "boasted",
+                "wdid": "Q27920165"
+            },
+            {
+                "label": "hypothesis",
+                "wdid": "Q41719"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mary-ga</div>\n\t\t<div class=\"glossblock\">Mary-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[John-ga</div>\n\t\t<div class=\"glossblock\">John-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[zibun-no</div>\n\t\t<div class=\"glossblock\">self-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gakusei-ga</div>\n\t\t<div class=\"glossblock\">student-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">juuyoona</div>\n\t\t<div class=\"glossblock\">important</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kasetsu-o</div>\n\t\t<div class=\"glossblock\">hypothesis-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">teian-shi-ta</div>\n\t\t<div class=\"glossblock\">propose-do-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">to]</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jimanshite-ita-no]-no</div>\n\t\t<div class=\"glossblock\">boasted-had-no-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kekkan-o</div>\n\t\t<div class=\"glossblock\">defect-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shiteki-shi-ta.</div>\n\t\t<div class=\"glossblock\">point.out-do-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mary-NOM",
@@ -879,30 +883,12 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q108163": "proposition",
-            "Q11028": "information",
-            "Q15916540": "semantic unit",
-            "Q16877783": "meaning",
-            "Q16889133": "class",
-            "Q1786828": "constituent",
-            "Q183046": "meaning",
-            "Q20817253": "linguistic unit",
-            "Q246672": "mathematical object",
-            "Q29651519": "mental object",
-            "Q30060700": "scientific object",
-            "Q321703": "premise",
-            "Q35120": "entity",
-            "Q41796": "sentence",
-            "Q474328": "declarative sentence",
-            "Q488383": "object",
-            "Q5371079": "emic unit",
-            "Q628523": "Message",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q9380010": "utterance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "premise",
+                "wdid": "Q321703"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Mary-ga",
@@ -945,7 +931,7 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Mary-ga</div>\n\t\t<div class=\"glossblock\">Mary-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">itsu</div>\n\t\t<div class=\"glossblock\">when</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ronbun-o</div>\n\t\t<div class=\"glossblock\">paper-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shiageru-ka]</div>\n\t\t<div class=\"glossblock\">finish-Q</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">John-ga</div>\n\t\t<div class=\"glossblock\">John-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Tom-ni</div>\n\t\t<div class=\"glossblock\">Tom-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tazunete-ita]-no-no</div>\n\t\t<div class=\"glossblock\">asked-had-no-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shuppan-ga</div>\n\t\t<div class=\"glossblock\">publication-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">okureta.</div>\n\t\t<div class=\"glossblock\">was delayed</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mary-NOM",
@@ -962,7 +948,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "[[Mary-ga",
@@ -1000,7 +986,7 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Mary-ga</div>\n\t\t<div class=\"glossblock\">Mary-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[[John-ga</div>\n\t\t<div class=\"glossblock\">John-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[atarasii kasetu-o</div>\n\t\t<div class=\"glossblock\">new\r\n                                                hypothesis-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">teiansi-ta]</div>\n\t\t<div class=\"glossblock\">propose-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gakusei]-o</div>\n\t\t<div class=\"glossblock\">student-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">homete-ita]-no]-no</div>\n\t\t<div class=\"glossblock\">praise-had-no-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kekkan]-o</div>\n\t\t<div class=\"glossblock\">defect-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">siteki-si-ta.</div>\n\t\t<div class=\"glossblock\">point.out-do-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mary-NOM",
@@ -1016,7 +1002,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Mary-ga",
@@ -1049,10 +1035,16 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {
-            "Q41719": "hypothesis",
-            "Q4607639": "promptly"
-        },
+        "entities": [
+            {
+                "label": "hypothesis",
+                "wdid": "Q41719"
+            },
+            {
+                "label": "promptly",
+                "wdid": "Q4607639"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?*Mary-wa</div>\n\t\t<div class=\"glossblock\">Mary-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[[John-ga</div>\n\t\t<div class=\"glossblock\">John-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[kare-no</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gakusei-ga</div>\n\t\t<div class=\"glossblock\">student-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">atarasii kasetu-o</div>\n\t\t<div class=\"glossblock\">new hypothesis-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">teiansi-ta]-node</div>\n\t\t<div class=\"glossblock\">propose-PAST because</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kanki-no</div>\n\t\t<div class=\"glossblock\">joy-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koe-o age-ta]-no]-no</div>\n\t\t<div class=\"glossblock\">voice-ACC\r\n                                            raise-PAST-no-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">akirakana kekkan]-o</div>\n\t\t<div class=\"glossblock\">obvious defect-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">suguni siteki-si-ta.</div>\n\t\t<div class=\"glossblock\">promptly point.out-do-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mary-TOP",
@@ -1070,30 +1062,12 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q108163": "proposition",
-            "Q11028": "information",
-            "Q15916540": "semantic unit",
-            "Q16877783": "meaning",
-            "Q16889133": "class",
-            "Q1786828": "constituent",
-            "Q183046": "meaning",
-            "Q20817253": "linguistic unit",
-            "Q246672": "mathematical object",
-            "Q29651519": "mental object",
-            "Q30060700": "scientific object",
-            "Q321703": "premise",
-            "Q35120": "entity",
-            "Q41796": "sentence",
-            "Q474328": "declarative sentence",
-            "Q488383": "object",
-            "Q5371079": "emic unit",
-            "Q628523": "Message",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q9380010": "utterance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "premise",
+                "wdid": "Q321703"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "?*Mary-wa",
@@ -1129,7 +1103,7 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Boku-wa [ [</div>\n\t\t<div class=\"glossblock\">I-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">toppina kaiketuhoo-o</div>\n\t\t<div class=\"glossblock\">preposterous solution-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">teiansi-ta</div>\n\t\t<div class=\"glossblock\">propose-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[seibisi]-ga</div>\n\t\t<div class=\"glossblock\">engineer-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">imadewa</div>\n\t\t<div class=\"glossblock\">now</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">moo</div>\n\t\t<div class=\"glossblock\">already</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Amerika</div>\n\t\t<div class=\"glossblock\">U.S.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no</div>\n\t\t<div class=\"glossblock\">no</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaisya-de</div>\n\t\t<div class=\"glossblock\">company-in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">erakunattei-ru]</div>\n\t\t<div class=\"glossblock\">big.shot.be-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no</div>\n\t\t<div class=\"glossblock\">no</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[pro]]</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no</div>\n\t\t<div class=\"glossblock\">no</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">habahiroi</div>\n\t\t<div class=\"glossblock\">wide.range</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zituyoosei-ni</div>\n\t\t<div class=\"glossblock\">applicability-at</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">imasaranagara</div>\n\t\t<div class=\"glossblock\">again</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kantansi-ta.</div>\n\t\t<div class=\"glossblock\">marvel.at-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I-TOP",
@@ -1155,7 +1129,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Boku-wa [ [",
@@ -1198,7 +1172,7 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Otoko-wa</div>\n\t\t<div class=\"glossblock\">man-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[[Yuuzi-ga</div>\n\t\t<div class=\"glossblock\">Yuuji-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nige-yoo-to su-ru]</div>\n\t\t<div class=\"glossblock\">escape.try.attempt-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no [pro]]</div>\n\t\t<div class=\"glossblock\">no</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no</div>\n\t\t<div class=\"glossblock\">no</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kata]-o,</div>\n\t\t<div class=\"glossblock\">shoulder-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tukan-de hikimodosi-ta.</div>\n\t\t<div class=\"glossblock\">grab-and pull.back-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "man-TOP",
@@ -1213,7 +1187,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Otoko-wa",
@@ -1249,11 +1223,20 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {
-            "Q16966699": "peeled apples",
-            "Q239348": "Ayaka",
-            "Q89": "apples"
-        },
+        "entities": [
+            {
+                "label": "peeled apples",
+                "wdid": "Q16966699"
+            },
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            },
+            {
+                "label": "apples",
+                "wdid": "Q89"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta.</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -1268,72 +1251,56 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q145150": "fruit of Maloideae",
-            "Q1454986": "physical system",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q41274": "Pome",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Junya-wa",
@@ -1370,10 +1337,16 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {
-            "Q85771140": "Junya",
-            "Q89": "apples"
-        },
+        "entities": [
+            {
+                "label": "Junya",
+                "wdid": "Q85771140"
+            },
+            {
+                "label": "apples",
+                "wdid": "Q89"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[dare-ga</div>\n\t\t<div class=\"glossblock\">who-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no.</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -1389,72 +1362,56 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q145150": "fruit of Maloideae",
-            "Q1454986": "physical system",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q41274": "Pome",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Junya-wa",
@@ -1497,11 +1454,20 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {
-            "Q239348": "Ayaka",
-            "Q85771140": "Junya",
-            "Q89": "apples"
-        },
+        "entities": [
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            },
+            {
+                "label": "Junya",
+                "wdid": "Q85771140"
+            },
+            {
+                "label": "apples",
+                "wdid": "Q89"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wake-de-wa</div>\n\t\t<div class=\"glossblock\">reason-COP-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na-i.</div>\n\t\t<div class=\"glossblock\">NEG-PRES</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -1518,72 +1484,56 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q145150": "fruit of Maloideae",
-            "Q1454986": "physical system",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q41274": "Pome",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -1622,12 +1572,24 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {
-            "Q2117265": "red apples",
-            "Q239348": "Ayaka",
-            "Q85771140": "Junya",
-            "Q89": "red apple"
-        },
+        "entities": [
+            {
+                "label": "red apples",
+                "wdid": "Q2117265"
+            },
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            },
+            {
+                "label": "Junya",
+                "wdid": "Q85771140"
+            },
+            {
+                "label": "red apple",
+                "wdid": "Q89"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">akai</div>\n\t\t<div class=\"glossblock\">red</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">akai</div>\n\t\t<div class=\"glossblock\">red</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta.</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -1644,72 +1606,56 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q145150": "fruit of Maloideae",
-            "Q1454986": "physical system",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q41274": "Pome",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Junya-wa",
@@ -1747,12 +1693,24 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {
-            "Q2117265": "red apples",
-            "Q239348": "Ayaka",
-            "Q85771140": "Junya",
-            "Q89": "red apple"
-        },
+        "entities": [
+            {
+                "label": "red apples",
+                "wdid": "Q2117265"
+            },
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            },
+            {
+                "label": "Junya",
+                "wdid": "Q85771140"
+            },
+            {
+                "label": "red apple",
+                "wdid": "Q89"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">akai</div>\n\t\t<div class=\"glossblock\">red</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta.</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -1768,72 +1726,56 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q145150": "fruit of Maloideae",
-            "Q1454986": "physical system",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q41274": "Pome",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Junya-wa",
@@ -1870,11 +1812,20 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {
-            "Q239348": "Ayaka",
-            "Q85771140": "Junya",
-            "Q89": "red apple"
-        },
+        "entities": [
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            },
+            {
+                "label": "Junya",
+                "wdid": "Q85771140"
+            },
+            {
+                "label": "red apple",
+                "wdid": "Q89"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">??Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">akai</div>\n\t\t<div class=\"glossblock\">red</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta.</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -1890,72 +1841,56 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q145150": "fruit of Maloideae",
-            "Q1454986": "physical system",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q41274": "Pome",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "??Junya-wa",
@@ -1993,7 +1928,7 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Masao-ga</div>\n\t\t<div class=\"glossblock\">Masao-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ayaka-o</div>\n\t\t<div class=\"glossblock\">Ayaka-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kirattei-ru]</div>\n\t\t<div class=\"glossblock\">hate-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kanozyo]-o</div>\n\t\t<div class=\"glossblock\">she-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aisitei-ru.</div>\n\t\t<div class=\"glossblock\">love-PRES</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -2008,7 +1943,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Junya-wa",
@@ -2045,7 +1980,7 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">??Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Masao-ga</div>\n\t\t<div class=\"glossblock\">Masao-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kanozyo-o</div>\n\t\t<div class=\"glossblock\">she-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kirattei-ru]</div>\n\t\t<div class=\"glossblock\">hate-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ayaka]-o</div>\n\t\t<div class=\"glossblock\">Ayaka-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aisitei-ru.</div>\n\t\t<div class=\"glossblock\">love-PRES</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -2060,7 +1995,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "??Junya-wa",
@@ -2102,10 +2037,16 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {
-            "Q239348": "Ayaka",
-            "Q85771140": "Junya"
-        },
+        "entities": [
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            },
+            {
+                "label": "Junya",
+                "wdid": "Q85771140"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Masao-ga</div>\n\t\t<div class=\"glossblock\">Masao-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[Ayaka to Yoko]-o</div>\n\t\t<div class=\"glossblock\">Ayaka and Yoko-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kirattei-ru]</div>\n\t\t<div class=\"glossblock\">hate-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">huta-ri-no</div>\n\t\t<div class=\"glossblock\">two-CL-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zyosei]-o</div>\n\t\t<div class=\"glossblock\">woman-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aisitei-ru</div>\n\t\t<div class=\"glossblock\">love-PRES</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -2121,7 +2062,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Junya-wa",
@@ -2156,10 +2097,16 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {
-            "Q239348": "Ayaka",
-            "Q85771140": "Junya"
-        },
+        "entities": [
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            },
+            {
+                "label": "Junya",
+                "wdid": "Q85771140"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Yoko-o</div>\n\t\t<div class=\"glossblock\">Yoko-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aisitei-ru]</div>\n\t\t<div class=\"glossblock\">love-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hutari-no</div>\n\t\t<div class=\"glossblock\">two-CL-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zyosei]-o</div>\n\t\t<div class=\"glossblock\">woman-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kirattei-ru</div>\n\t\t<div class=\"glossblock\">hate-PRES</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -2175,7 +2122,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Junya-wa",
@@ -2223,7 +2170,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Junya-wa",
@@ -2256,7 +2203,7 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mary-wa</div>\n\t\t<div class=\"glossblock\">Mary-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[[John-ga</div>\n\t\t<div class=\"glossblock\">John-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[ [e]</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">atarasii kasetu-o</div>\n\t\t<div class=\"glossblock\">new hypothesis-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">teiansi-ta]</div>\n\t\t<div class=\"glossblock\">propose-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gakusei]-o</div>\n\t\t<div class=\"glossblock\">student-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">homete-ita]</div>\n\t\t<div class=\"glossblock\">praise-had</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">atarasii kasetu]-no</div>\n\t\t<div class=\"glossblock\">hypothesis-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kekkan]-o</div>\n\t\t<div class=\"glossblock\">defect-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">siteki-si-ta.</div>\n\t\t<div class=\"glossblock\">point.out-do-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mary-TOP",
@@ -2275,7 +2222,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Mary-wa",
@@ -2317,7 +2264,7 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mary-wa</div>\n\t\t<div class=\"glossblock\">Mary-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[[John-ga</div>\n\t\t<div class=\"glossblock\">John-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[kare-no</div>\n\t\t<div class=\"glossblock\">he-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gakusei-ga</div>\n\t\t<div class=\"glossblock\">student-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">atarasii kasetu-o</div>\n\t\t<div class=\"glossblock\">new hypothesis-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">teiansi-ta]-node</div>\n\t\t<div class=\"glossblock\">propose-PAST-because</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kanki-no</div>\n\t\t<div class=\"glossblock\">joy-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koe-o</div>\n\t\t<div class=\"glossblock\">voice-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">age-ta]</div>\n\t\t<div class=\"glossblock\">raise-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono atarasii kasetu]-no</div>\n\t\t<div class=\"glossblock\">that new hypothesis-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">akirakana</div>\n\t\t<div class=\"glossblock\">obvious</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kekkan]-o</div>\n\t\t<div class=\"glossblock\">defect-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">suguni</div>\n\t\t<div class=\"glossblock\">promptly</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">siteki-si-ta.</div>\n\t\t<div class=\"glossblock\">point.out-do-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mary-TOP",
@@ -2339,7 +2286,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Mary-wa",
@@ -2377,7 +2324,7 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?*[[daidokoro-no</div>\n\t\t<div class=\"glossblock\">kitchen-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mado-kara</div>\n\t\t<div class=\"glossblock\">window-from</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">siroi</div>\n\t\t<div class=\"glossblock\">white</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">neko-ga</div>\n\t\t<div class=\"glossblock\">cat-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kinoo</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">deteit-ta]-no]-ga</div>\n\t\t<div class=\"glossblock\">go-out-PAST-no-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sakana-o</div>\n\t\t<div class=\"glossblock\">fish-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabete-i-ru.</div>\n\t\t<div class=\"glossblock\">eat-PROG-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">← if construed as IHRC8</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "kitchen-GEN",
@@ -2394,7 +2341,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "?*[[daidokoro-no",
@@ -2427,7 +2374,7 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[daidokoro-no</div>\n\t\t<div class=\"glossblock\">kitchen-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mado-kara</div>\n\t\t<div class=\"glossblock\">window-from</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">siroi</div>\n\t\t<div class=\"glossblock\">white</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">neko-ga</div>\n\t\t<div class=\"glossblock\">cat-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kinoo</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">deteit-ta]</div>\n\t\t<div class=\"glossblock\">go-out-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">siroi</div>\n\t\t<div class=\"glossblock\">white</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">neko]-ga</div>\n\t\t<div class=\"glossblock\">cat-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sakana-o</div>\n\t\t<div class=\"glossblock\">fish-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabete-i-ru.</div>\n\t\t<div class=\"glossblock\">eat-PROG-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">← DHRC</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "kitchen-GEN",
@@ -2447,7 +2394,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "[[daidokoro-no",
@@ -2489,7 +2436,7 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Masao-ga</div>\n\t\t<div class=\"glossblock\">Masao-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ayaka-o</div>\n\t\t<div class=\"glossblock\">Ayaka-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kirattei-ru]</div>\n\t\t<div class=\"glossblock\">hate-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ayaka]-o</div>\n\t\t<div class=\"glossblock\">Ayaka-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aisitei-ru9</div>\n\t\t<div class=\"glossblock\">love-PRES</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -2504,7 +2451,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Junya-wa",
@@ -2536,7 +2483,7 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Otoko-wa</div>\n\t\t<div class=\"glossblock\">man-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Yuuzi-ga nige-yoo-to\r\n                                                  su-ru][ sono Yuuzi]]-no</div>\n\t\t<div class=\"glossblock\">Yuuzi-NOM escape.try.attempt-PRES that\r\n                                                Yuuzi-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kata-o</div>\n\t\t<div class=\"glossblock\">shoulder-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wasizukami-ni si-te,</div>\n\t\t<div class=\"glossblock\">eagle.hold-by do-ing</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hikimodosi-ta.</div>\n\t\t<div class=\"glossblock\">pull.back-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "man-TOP",
@@ -2549,7 +2496,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Otoko-wa",
@@ -2585,10 +2532,16 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {
-            "Q239348": "Ayaka",
-            "Q85771140": "Junya"
-        },
+        "entities": [
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            },
+            {
+                "label": "Junya",
+                "wdid": "Q85771140"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[dare-ga</div>\n\t\t<div class=\"glossblock\">who-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ayaka-o</div>\n\t\t<div class=\"glossblock\">Ayaka-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kirattei-ru]</div>\n\t\t<div class=\"glossblock\">hate-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ayaka]-o</div>\n\t\t<div class=\"glossblock\">Ayaka-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aisitei-ru</div>\n\t\t<div class=\"glossblock\">love-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no.</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -2604,7 +2557,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Junya-wa",
@@ -2646,11 +2599,20 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {
-            "Q239348": "Ayaka",
-            "Q7686704": "Taroo",
-            "Q85771140": "Junya"
-        },
+        "entities": [
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            },
+            {
+                "label": "Taroo",
+                "wdid": "Q7686704"
+            },
+            {
+                "label": "Junya",
+                "wdid": "Q85771140"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Masao-ga</div>\n\t\t<div class=\"glossblock\">Masao-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ayaka-o</div>\n\t\t<div class=\"glossblock\">Ayaka-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kirattei-ru]</div>\n\t\t<div class=\"glossblock\">hate-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ayaka]-o</div>\n\t\t<div class=\"glossblock\">Ayaka-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aisitei-ru</div>\n\t\t<div class=\"glossblock\">love-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wake-de-wa</div>\n\t\t<div class=\"glossblock\">reason-COP-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na-i.</div>\n\t\t<div class=\"glossblock\">NEG-PRES</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -2667,7 +2629,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -2704,7 +2666,7 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Boku-wa [ [</div>\n\t\t<div class=\"glossblock\">I-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[sono/kono/ano</div>\n\t\t<div class=\"glossblock\">that(medial)/this/that(distal)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">toppina kaiketuhoo</div>\n\t\t<div class=\"glossblock\">preposterous solution-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">teiansi-ta</div>\n\t\t<div class=\"glossblock\">propose-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[seibisi]-ga</div>\n\t\t<div class=\"glossblock\">engineer-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">imadewa</div>\n\t\t<div class=\"glossblock\">now</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">moo</div>\n\t\t<div class=\"glossblock\">already</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Amerika</div>\n\t\t<div class=\"glossblock\">U.S.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no</div>\n\t\t<div class=\"glossblock\">no</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaisya-de</div>\n\t\t<div class=\"glossblock\">company-in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">erakunattei-ru]</div>\n\t\t<div class=\"glossblock\">big.shot.be-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono/kono/ano</div>\n\t\t<div class=\"glossblock\">that(medial)/this/that (distal)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">toppina kaiketuhoo]]-no</div>\n\t\t<div class=\"glossblock\">preposterous solution-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">habahiroi</div>\n\t\t<div class=\"glossblock\">wide.range</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zituyoosei-ni</div>\n\t\t<div class=\"glossblock\">applicability-at</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">imasaranagara</div>\n\t\t<div class=\"glossblock\">again</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kantansi-ta.</div>\n\t\t<div class=\"glossblock\">marvel.at-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I-TOP",
@@ -2730,7 +2692,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Boku-wa [ [",
@@ -2774,10 +2736,16 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {
-            "Q227997": "Taro",
-            "Q46383": "sushi"
-        },
+        "entities": [
+            {
+                "label": "Taro",
+                "wdid": "Q227997"
+            },
+            {
+                "label": "sushi",
+                "wdid": "Q46383"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Taro-ga</div>\n\t\t<div class=\"glossblock\">Taro-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\">his daughter-GEN\r\n                                                one-CL-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sushi-o</div>\n\t\t<div class=\"glossblock\">sushi-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kyaku-ni</div>\n\t\t<div class=\"glossblock\">guest-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dasi-ta]</div>\n\t\t<div class=\"glossblock\">serve-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">musume]-o</div>\n\t\t<div class=\"glossblock\">daughter-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kyaku-ga</div>\n\t\t<div class=\"glossblock\">guest-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">suguni</div>\n\t\t<div class=\"glossblock\">immediately</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">home-ta.</div>\n\t\t<div class=\"glossblock\">praise-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Taro-NOM",
@@ -2795,7 +2763,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "[[Taro-ga",
@@ -2834,10 +2802,16 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {
-            "Q239348": "Ayaka",
-            "Q85771140": "Junya"
-        },
+        "entities": [
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            },
+            {
+                "label": "Junya",
+                "wdid": "Q85771140"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sore]-o</div>\n\t\t<div class=\"glossblock\">that-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta.</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -2851,7 +2825,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Junya-wa",
@@ -2886,10 +2860,16 @@
         "coordination": "and",
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": {
-            "Q239348": "Ayaka",
-            "Q85771140": "Junya"
-        },
+        "entities": [
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            },
+            {
+                "label": "Junya",
+                "wdid": "Q85771140"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kanozyo-o</div>\n\t\t<div class=\"glossblock\">she-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kirattei-ru]</div>\n\t\t<div class=\"glossblock\">hate-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kanozyo]-o</div>\n\t\t<div class=\"glossblock\">she-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aisitei-ru.</div>\n\t\t<div class=\"glossblock\">love-PRES</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -2904,7 +2884,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Junya-wa",

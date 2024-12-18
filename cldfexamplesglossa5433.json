@@ -32,7 +32,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "#Freddy",
@@ -78,7 +78,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "#En",
@@ -112,9 +112,12 @@
         "clength": 28,
         "doc_ID": 5433,
         "doc_URL": "https://www.glossa-journal.org/article/id/5433",
-        "entities": {
-            "Q1321": "Spanish"
-        },
+        "entities": [
+            {
+                "label": "Spanish",
+                "wdid": "Q1321"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Freddy</div>\n\t\t<div class=\"glossblock\">Freddy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mató</div>\n\t\t<div class=\"glossblock\">kill.PFV.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">DOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Bill</div>\n\t\t<div class=\"glossblock\">Bill</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">otra</div>\n\t\t<div class=\"glossblock\">another</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vez.</div>\n\t\t<div class=\"glossblock\">time</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Freddy",
@@ -128,27 +131,60 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q112608": "Italo-Western_languages",
-            "Q131848": "Italic_languages",
-            "Q1377152": "West_Iberian_languages",
-            "Q17376908": "Languoid",
-            "Q19814": "Romance_languages",
-            "Q19860": "Indo-European_languages",
-            "Q20162172": "human language",
-            "Q2714388": "Western_Romance_languages",
-            "Q276314": "Nostratic",
-            "Q34770": "language",
-            "Q35120": "entity",
-            "Q488383": "object",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q71924": "Castilian_languages",
-            "Q749533": "Iberian_Romance_languages",
-            "Q771861": "Eurasiatic_languages",
-            "Q85380120": "Southern_European_languages",
-            "Q954321": "Gallo-Iberian"
-        },
+        "parententities": [
+            {
+                "label": "Italo-Western_languages",
+                "wdid": "Q112608"
+            },
+            {
+                "label": "Italic_languages",
+                "wdid": "Q131848"
+            },
+            {
+                "label": "West_Iberian_languages",
+                "wdid": "Q1377152"
+            },
+            {
+                "label": "Languoid",
+                "wdid": "Q17376908"
+            },
+            {
+                "label": "Romance_languages",
+                "wdid": "Q19814"
+            },
+            {
+                "label": "Indo-European_languages",
+                "wdid": "Q19860"
+            },
+            {
+                "label": "human language",
+                "wdid": "Q20162172"
+            },
+            {
+                "label": "Western_Romance_languages",
+                "wdid": "Q2714388"
+            },
+            {
+                "label": "Castilian_languages",
+                "wdid": "Q71924"
+            },
+            {
+                "label": "Iberian_Romance_languages",
+                "wdid": "Q749533"
+            },
+            {
+                "label": "Eurasiatic_languages",
+                "wdid": "Q771861"
+            },
+            {
+                "label": "Southern_European_languages",
+                "wdid": "Q85380120"
+            },
+            {
+                "label": "Gallo-Iberian",
+                "wdid": "Q954321"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Freddy",
@@ -178,9 +214,12 @@
         "clength": 36,
         "doc_ID": 5433,
         "doc_URL": "https://www.glossa-journal.org/article/id/5433",
-        "entities": {
-            "Q7026": "Catalan"
-        },
+        "entities": [
+            {
+                "label": "Catalan",
+                "wdid": "Q7026"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">En</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Freddy</div>\n\t\t<div class=\"glossblock\">Freddy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">matà</div>\n\t\t<div class=\"glossblock\">kill.PFV.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">en</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Bill</div>\n\t\t<div class=\"glossblock\">Bill</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">un</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">altre</div>\n\t\t<div class=\"glossblock\">another</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cop.</div>\n\t\t<div class=\"glossblock\">time</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -196,7 +235,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "En",

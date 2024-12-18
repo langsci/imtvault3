@@ -13,7 +13,7 @@
         "clength": 33,
         "doc_ID": 5210,
         "doc_URL": "https://www.glossa-journal.org/article/id/5210",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daodɯí</div>\n\t\t<div class=\"glossblock\">egg</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">baì-nai-á</div>\n\t\t<div class=\"glossblock\">buy-Verb-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zɯbɯ́d</div>\n\t\t<div class=\"glossblock\">very</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɯzàŋ</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "egg",
@@ -25,7 +25,7 @@
         "language_iso6393": "xxb",
         "language_name": "Boro",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "daodɯí",
@@ -50,7 +50,7 @@
         "clength": 33,
         "doc_ID": 5210,
         "doc_URL": "https://www.glossa-journal.org/article/id/5210",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bedòr</div>\n\t\t<div class=\"glossblock\">meat</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">baì-nai-á</div>\n\t\t<div class=\"glossblock\">buy-Verb-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zɯbɯ́d</div>\n\t\t<div class=\"glossblock\">very</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɯzàŋ.</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "meat",
@@ -62,7 +62,7 @@
         "language_iso6393": "xxb",
         "language_name": "Boro",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "bedòr",
@@ -97,7 +97,7 @@
         "language_iso6393": "xxb",
         "language_name": "Boro",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "bí-ɯ",
@@ -119,9 +119,12 @@
         "clength": 23,
         "doc_ID": 5210,
         "doc_URL": "https://www.glossa-journal.org/article/id/5210",
-        "entities": {
-            "Q15326": "drunkard"
-        },
+        "entities": [
+            {
+                "label": "drunkard",
+                "wdid": "Q15326"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bí-ɯ</div>\n\t\t<div class=\"glossblock\">he-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lɯ̀ŋ-kʰor</div>\n\t\t<div class=\"glossblock\">drunkard</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zàbai.</div>\n\t\t<div class=\"glossblock\">be-PRF</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "he-NOM",
@@ -132,125 +135,136 @@
         "language_iso6393": "xxb",
         "language_name": "Boro",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q104493": "risk",
-            "Q10687207": "organic_or_symptomatic_mental_disorder",
-            "Q108163": "proposition",
-            "Q10862449": "difference",
-            "Q110207349": "drug_use",
-            "Q11028": "information",
-            "Q11290178": "Alcohol_and_health",
-            "Q1132455": "Hazard",
-            "Q1150070": "change",
-            "Q1168263": "function",
-            "Q1190554": "occurrence",
-            "Q12029": "Addiction",
-            "Q1207505": "quality",
-            "Q12135": "Mental_disorder",
-            "Q12136": "Disease",
-            "Q12894677": "means",
-            "Q1299714": "Habit",
-            "Q13878858": "natural process",
-            "Q15916540": "semantic unit",
-            "Q160402": "perception",
-            "Q1663054": "Ingestion",
-            "Q16697828": "dependence_syndrome",
-            "Q16877783": "meaning",
-            "Q16887380": "group",
-            "Q16889133": "class",
-            "Q169872": "symptom",
-            "Q1724915": "use",
-            "Q1786828": "constituent",
-            "Q179630": "Syndrome",
-            "Q183046": "meaning",
-            "Q18603648": "contributing factor",
-            "Q188572": "fact",
-            "Q1914636": "activity",
-            "Q1920219": "social issue",
-            "Q193181": "observation",
-            "Q203066": "relation",
-            "Q2057971": "health problem",
-            "Q20817253": "linguistic unit",
-            "Q2083958": "pattern",
-            "Q20937557": "sequence",
-            "Q21167512": "Chemical_hazard",
-            "Q21170479": "possibility",
-            "Q21174271": "ethanol_exposure",
-            "Q217594": "class",
-            "Q246672": "mathematical object",
-            "Q2515887": "pattern of behavior",
-            "Q25383952": "exogenous disease",
-            "Q2574811": "cause",
-            "Q2647488": "alcohol_consumption",
-            "Q2684591": "statement",
-            "Q26907166": "temporal entity",
-            "Q2695280": "technique",
-            "Q28807560": "clinical finding",
-            "Q28813620": "set",
-            "Q29182544": "assignment",
-            "Q29651519": "mental object",
-            "Q29896155": "difference",
-            "Q2990593": "animal behavior",
-            "Q2995644": "result",
-            "Q2996394": "biological process",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q31464082": "source",
-            "Q3184856": "Substance_abuse",
-            "Q3249551": "process",
-            "Q3505845": "state",
-            "Q35120": "entity",
-            "Q36161": "set",
-            "Q36529775": "habit",
-            "Q3751709": "Environmental_disease",
-            "Q3769299": "human behavior",
-            "Q4026292": "action",
-            "Q4134457": "Substance-related_disorder",
-            "Q41796": "sentence",
-            "Q4184950": "regularity",
-            "Q42848": "data",
-            "Q4393498": "representation",
-            "Q451967": "intentional human activity",
-            "Q474328": "declarative sentence",
-            "Q483247": "phenomenon",
-            "Q488383": "object",
-            "Q5371079": "emic unit",
-            "Q5422048": "external risk",
-            "Q5469988": "formalization",
-            "Q54930906": "chemically_induced_disorder",
-            "Q55091441": "operation result",
-            "Q55919789": "tendency",
-            "Q56014553": "alcohol-related_disorders",
-            "Q567555": "anomaly",
-            "Q58415929": "spatio-temporal entity",
-            "Q61788060": "human activity",
-            "Q621184": "problem",
-            "Q621636": "Route_of_administration",
-            "Q628523": "Message",
-            "Q639907": "medical finding",
-            "Q64732777": "biological phenomenon",
-            "Q67518978": "occurrent",
-            "Q68182219": "hazardous_chemical_exposure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q7189713": "physiological condition",
-            "Q7331102": "Alcohol_abuse",
-            "Q7632070": "Substance_use_disorder",
-            "Q781413": "mental process",
-            "Q813912": "condition",
-            "Q849149": "deviation",
-            "Q855395": "interpretation",
-            "Q864377": "multiset",
-            "Q86923152": "risk source",
-            "Q87075524": "health risk",
-            "Q876776": "Drinking",
-            "Q930933": "relation",
-            "Q9332": "behavior",
-            "Q937228": "property",
-            "Q9380010": "utterance",
-            "Q944806": "operational risk",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "organic_or_symptomatic_mental_disorder",
+                "wdid": "Q10687207"
+            },
+            {
+                "label": "drug_use",
+                "wdid": "Q110207349"
+            },
+            {
+                "label": "Alcohol_and_health",
+                "wdid": "Q11290178"
+            },
+            {
+                "label": "Addiction",
+                "wdid": "Q12029"
+            },
+            {
+                "label": "Mental_disorder",
+                "wdid": "Q12135"
+            },
+            {
+                "label": "Disease",
+                "wdid": "Q12136"
+            },
+            {
+                "label": "Habit",
+                "wdid": "Q1299714"
+            },
+            {
+                "label": "natural process",
+                "wdid": "Q13878858"
+            },
+            {
+                "label": "Ingestion",
+                "wdid": "Q1663054"
+            },
+            {
+                "label": "dependence_syndrome",
+                "wdid": "Q16697828"
+            },
+            {
+                "label": "Syndrome",
+                "wdid": "Q179630"
+            },
+            {
+                "label": "health problem",
+                "wdid": "Q2057971"
+            },
+            {
+                "label": "pattern",
+                "wdid": "Q2083958"
+            },
+            {
+                "label": "Chemical_hazard",
+                "wdid": "Q21167512"
+            },
+            {
+                "label": "ethanol_exposure",
+                "wdid": "Q21174271"
+            },
+            {
+                "label": "pattern of behavior",
+                "wdid": "Q2515887"
+            },
+            {
+                "label": "exogenous disease",
+                "wdid": "Q25383952"
+            },
+            {
+                "label": "alcohol_consumption",
+                "wdid": "Q2647488"
+            },
+            {
+                "label": "technique",
+                "wdid": "Q2695280"
+            },
+            {
+                "label": "animal behavior",
+                "wdid": "Q2990593"
+            },
+            {
+                "label": "Substance_abuse",
+                "wdid": "Q3184856"
+            },
+            {
+                "label": "habit",
+                "wdid": "Q36529775"
+            },
+            {
+                "label": "Environmental_disease",
+                "wdid": "Q3751709"
+            },
+            {
+                "label": "Substance-related_disorder",
+                "wdid": "Q4134457"
+            },
+            {
+                "label": "regularity",
+                "wdid": "Q4184950"
+            },
+            {
+                "label": "chemically_induced_disorder",
+                "wdid": "Q54930906"
+            },
+            {
+                "label": "tendency",
+                "wdid": "Q55919789"
+            },
+            {
+                "label": "alcohol-related_disorders",
+                "wdid": "Q56014553"
+            },
+            {
+                "label": "hazardous_chemical_exposure",
+                "wdid": "Q68182219"
+            },
+            {
+                "label": "Alcohol_abuse",
+                "wdid": "Q7331102"
+            },
+            {
+                "label": "Substance_use_disorder",
+                "wdid": "Q7632070"
+            },
+            {
+                "label": "Drinking",
+                "wdid": "Q876776"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "bí-ɯ",
@@ -286,7 +300,7 @@
         "language_iso6393": "xxb",
         "language_name": "Boro",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "bí-ɯ",
@@ -320,7 +334,7 @@
         "language_iso6393": "xxb",
         "language_name": "Boro",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "bí-ɯ",
@@ -353,7 +367,7 @@
         "language_iso6393": "xxb",
         "language_name": "Boro",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "bikʰunzɯ́-á",
@@ -387,7 +401,7 @@
         "language_iso6393": "xxb",
         "language_name": "Boro",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "bikʰunzɯ́-á",
@@ -412,7 +426,7 @@
         "coordination": "or",
         "doc_ID": 5210,
         "doc_URL": "https://www.glossa-journal.org/article/id/5210",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɯ́ŋ</div>\n\t\t<div class=\"glossblock\">You</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">má</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">baì-ɡɯn,</div>\n\t\t<div class=\"glossblock\">buy-FUT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bedòr</div>\n\t\t<div class=\"glossblock\">meat</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na</div>\n\t\t<div class=\"glossblock\">or</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daodɯí?</div>\n\t\t<div class=\"glossblock\">egg?</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "You",
@@ -426,7 +440,7 @@
         "language_iso6393": "xxb",
         "language_name": "Boro",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "nɯ́ŋ",
@@ -454,7 +468,7 @@
         "coordination": "or",
         "doc_ID": 5210,
         "doc_URL": "https://www.glossa-journal.org/article/id/5210",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɯ́ŋ</div>\n\t\t<div class=\"glossblock\">You</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">má</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">baì-ɡɯn,</div>\n\t\t<div class=\"glossblock\">buy-FUT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daodɯi</div>\n\t\t<div class=\"glossblock\">egg</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na</div>\n\t\t<div class=\"glossblock\">or</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bedòr?</div>\n\t\t<div class=\"glossblock\">meat?</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "You",
@@ -468,7 +482,7 @@
         "language_iso6393": "xxb",
         "language_name": "Boro",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "nɯ́ŋ",
@@ -508,7 +522,7 @@
         "language_iso6393": "xxb",
         "language_name": "Boro",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ɡizi",
@@ -534,7 +548,7 @@
         "clength": 32,
         "doc_ID": 5210,
         "doc_URL": "https://www.glossa-journal.org/article/id/5210",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bí-ɯ</div>\n\t\t<div class=\"glossblock\">he-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dinɯì</div>\n\t\t<div class=\"glossblock\">today</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɡizì</div>\n\t\t<div class=\"glossblock\">torn</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zí</div>\n\t\t<div class=\"glossblock\">cloth</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɡàn-dɯŋ.</div>\n\t\t<div class=\"glossblock\">wear-PRF</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "he-NOM",
@@ -547,7 +561,7 @@
         "language_iso6393": "xxb",
         "language_name": "Boro",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "bí-ɯ",
@@ -587,7 +601,7 @@
         "language_iso6393": "xxb",
         "language_name": "Boro",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "bí-ɯ",
@@ -616,7 +630,7 @@
         "clength": 33,
         "doc_ID": 5210,
         "doc_URL": "https://www.glossa-journal.org/article/id/5210",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daodɯí-kʰoú</div>\n\t\t<div class=\"glossblock\">egg-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bí-ɯ</div>\n\t\t<div class=\"glossblock\">he-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">baì-dɯŋ-mɯn.</div>\n\t\t<div class=\"glossblock\">buy-PST-PRF</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "egg-ACC",
@@ -627,7 +641,7 @@
         "language_iso6393": "xxb",
         "language_name": "Boro",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "daodɯí-kʰoú",
@@ -655,9 +669,12 @@
         "clength": 35,
         "doc_ID": 5210,
         "doc_URL": "https://www.glossa-journal.org/article/id/5210",
-        "entities": {
-            "Q169": "mango"
-        },
+        "entities": [
+            {
+                "label": "mango",
+                "wdid": "Q169"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bí-ɯ</div>\n\t\t<div class=\"glossblock\">he-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bibarí-nɯ</div>\n\t\t<div class=\"glossblock\">Bibari-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tʰaizoú</div>\n\t\t<div class=\"glossblock\">mango</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hor-dɯ́ŋ.</div>\n\t\t<div class=\"glossblock\">give-PRF</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "he-NOM",
@@ -669,71 +686,52 @@
         "language_iso6393": "xxb",
         "language_name": "Boro",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q1454986": "physical system",
-            "Q14712": "drupe",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "drupe",
+                "wdid": "Q14712"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "bí-ɯ",
@@ -764,9 +762,12 @@
         "clength": 41,
         "doc_ID": 5210,
         "doc_URL": "https://www.glossa-journal.org/article/id/5210",
-        "entities": {
-            "Q169": "mango"
-        },
+        "entities": [
+            {
+                "label": "mango",
+                "wdid": "Q169"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tʰaizoú-kʰoú</div>\n\t\t<div class=\"glossblock\">mango-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bí-ɯ</div>\n\t\t<div class=\"glossblock\">he-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bibarí-nɯ</div>\n\t\t<div class=\"glossblock\">Bibari-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hor-dɯ́ŋ.</div>\n\t\t<div class=\"glossblock\">give-PRF</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "mango-ACC",
@@ -778,71 +779,52 @@
         "language_iso6393": "xxb",
         "language_name": "Boro",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q1454986": "physical system",
-            "Q14712": "drupe",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "drupe",
+                "wdid": "Q14712"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "tʰaizoú-kʰoú",
@@ -864,7 +846,7 @@
         "clength": 46,
         "doc_ID": 5210,
         "doc_URL": "https://www.glossa-journal.org/article/id/5210",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daodɯí</div>\n\t\t<div class=\"glossblock\">egg</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">baí-nai-á</div>\n\t\t<div class=\"glossblock\">break-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zɯbɯ́d</div>\n\t\t<div class=\"glossblock\">very</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɯzàŋ (dark line).</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "egg",
@@ -876,7 +858,7 @@
         "language_iso6393": "xxb",
         "language_name": "Boro",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "daodɯí",
@@ -898,7 +880,7 @@
         "clength": 45,
         "doc_ID": 5210,
         "doc_URL": "https://www.glossa-journal.org/article/id/5210",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daodɯí</div>\n\t\t<div class=\"glossblock\">egg</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">baìnaiá</div>\n\t\t<div class=\"glossblock\">buy-verb-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zɯbɯ́d</div>\n\t\t<div class=\"glossblock\">very</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɯzàŋ (light line).</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "egg",
@@ -910,7 +892,7 @@
         "language_iso6393": "xxb",
         "language_name": "Boro",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "daodɯí",
@@ -934,9 +916,12 @@
         "clength": 45,
         "doc_ID": 5210,
         "doc_URL": "https://www.glossa-journal.org/article/id/5210",
-        "entities": {
-            "Q169": "mango"
-        },
+        "entities": [
+            {
+                "label": "mango",
+                "wdid": "Q169"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɯ́ŋ-nao</div>\n\t\t<div class=\"glossblock\">You-LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tʰaizoú</div>\n\t\t<div class=\"glossblock\">mango</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">baì-nai-á</div>\n\t\t<div class=\"glossblock\">buy-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɯzàŋ (light).</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "You-LOC",
@@ -948,71 +933,52 @@
         "language_iso6393": "xxb",
         "language_name": "Boro",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q1454986": "physical system",
-            "Q14712": "drupe",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "drupe",
+                "wdid": "Q14712"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "nɯ́ŋ-nao",
@@ -1036,9 +1002,12 @@
         "clength": 43,
         "doc_ID": 5210,
         "doc_URL": "https://www.glossa-journal.org/article/id/5210",
-        "entities": {
-            "Q169": "mango"
-        },
+        "entities": [
+            {
+                "label": "mango",
+                "wdid": "Q169"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">àŋ-nao</div>\n\t\t<div class=\"glossblock\">I-LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tʰaizoú</div>\n\t\t<div class=\"glossblock\">mango</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">baì-nai-á</div>\n\t\t<div class=\"glossblock\">buy-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɯzàŋ (dark).</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I-LOC",
@@ -1050,71 +1019,52 @@
         "language_iso6393": "xxb",
         "language_name": "Boro",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1364": "Fruit",
-            "Q1454986": "physical system",
-            "Q14712": "drupe",
-            "Q1485500": "tangible good",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27481006": "",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "drupe",
+                "wdid": "Q14712"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "àŋ-nao",
@@ -1138,7 +1088,7 @@
         "clength": 43,
         "doc_ID": 5210,
         "doc_URL": "https://www.glossa-journal.org/article/id/5210",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɯ́ŋ-nao</div>\n\t\t<div class=\"glossblock\">You-LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bedòr</div>\n\t\t<div class=\"glossblock\">meat</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">baì-nai-á</div>\n\t\t<div class=\"glossblock\">buy-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɯzàŋ (light).</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "You-LOC",
@@ -1150,7 +1100,7 @@
         "language_iso6393": "xxb",
         "language_name": "Boro",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "nɯ́ŋ-nao",
@@ -1174,7 +1124,7 @@
         "clength": 41,
         "doc_ID": 5210,
         "doc_URL": "https://www.glossa-journal.org/article/id/5210",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">àŋ-nao</div>\n\t\t<div class=\"glossblock\">I-LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bedòr</div>\n\t\t<div class=\"glossblock\">meat</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">baì-nai-á</div>\n\t\t<div class=\"glossblock\">buy-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɯzàŋ (dark).</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I-LOC",
@@ -1186,7 +1136,7 @@
         "language_iso6393": "xxb",
         "language_name": "Boro",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "àŋ-nao",

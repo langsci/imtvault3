@@ -25,7 +25,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "twu",
@@ -61,7 +61,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "twu",
@@ -90,7 +90,7 @@
         "clength": 55,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">haksayng</div>\n\t\t<div class=\"glossblock\">student</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ney</div>\n\t\t<div class=\"glossblock\">four</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">myeng</div>\n\t\t<div class=\"glossblock\">CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cwung-eyse</div>\n\t\t<div class=\"glossblock\">among-from</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">myeng-i</div>\n\t\t<div class=\"glossblock\">CL-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tachy-ess-ta.</div>\n\t\t<div class=\"glossblock\">get hurt-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "student",
@@ -105,7 +105,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "haksayng",
@@ -139,9 +139,12 @@
         "clength": 60,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q9176": "Korean"
-        },
+        "entities": [
+            {
+                "label": "Korean",
+                "wdid": "Q9176"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">haksayng-tul</div>\n\t\t<div class=\"glossblock\">student-PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cwung-eyse</div>\n\t\t<div class=\"glossblock\">among-from</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[hankuk</div>\n\t\t<div class=\"glossblock\">[Korea</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">haksayng]-i</div>\n\t\t<div class=\"glossblock\">student]-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tachy-ess-ta.</div>\n\t\t<div class=\"glossblock\">get hurt-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "that",
@@ -155,17 +158,24 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q11263525": "Koreanic_languages",
-            "Q17376908": "Languoid",
-            "Q20162172": "human language",
-            "Q34770": "language",
-            "Q35120": "entity",
-            "Q488383": "object",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q98791755": "Asian languages"
-        },
+        "parententities": [
+            {
+                "label": "Koreanic_languages",
+                "wdid": "Q11263525"
+            },
+            {
+                "label": "Languoid",
+                "wdid": "Q17376908"
+            },
+            {
+                "label": "human language",
+                "wdid": "Q20162172"
+            },
+            {
+                "label": "Asian languages",
+                "wdid": "Q98791755"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "ku",
@@ -202,9 +212,12 @@
         "coordination": "and",
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q2962182": "Cheli"
-        },
+        "entities": [
+            {
+                "label": "Cheli",
+                "wdid": "Q2962182"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">haksayng-tul</div>\n\t\t<div class=\"glossblock\">student-PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cwung-eyse</div>\n\t\t<div class=\"glossblock\">among-from</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[Cheli-wa</div>\n\t\t<div class=\"glossblock\">[Cheli-CONJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Juni]-ka</div>\n\t\t<div class=\"glossblock\">Juni]-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tachy-ess-ta.</div>\n\t\t<div class=\"glossblock\">get hurt-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "that",
@@ -218,7 +231,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ku",
@@ -251,7 +264,7 @@
         "clength": 67,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">haksayng-tul</div>\n\t\t<div class=\"glossblock\">student-PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cwung-eyse</div>\n\t\t<div class=\"glossblock\">among-from</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[nam-haksayng</div>\n\t\t<div class=\"glossblock\">[male-student</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">myeng]-i</div>\n\t\t<div class=\"glossblock\">CL]-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tachy-ess-ta.</div>\n\t\t<div class=\"glossblock\">get hurt-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "that",
@@ -266,7 +279,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ku",
@@ -302,9 +315,12 @@
         "clength": 54,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q2962182": "Cheli"
-        },
+        "entities": [
+            {
+                "label": "Cheli",
+                "wdid": "Q2962182"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">??Cheli-nun</div>\n\t\t<div class=\"glossblock\">Cheli-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">this</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wain</div>\n\t\t<div class=\"glossblock\">wine</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cwung-eyse</div>\n\t\t<div class=\"glossblock\">among-from</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">can-ul</div>\n\t\t<div class=\"glossblock\">CL-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">massy-ess-ta.</div>\n\t\t<div class=\"glossblock\">drink-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Cheli-TOP",
@@ -319,7 +335,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "??Cheli-nun",
@@ -361,9 +377,12 @@
         "clength": 73,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q2962182": "Cheli"
-        },
+        "entities": [
+            {
+                "label": "Cheli",
+                "wdid": "Q2962182"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Cheli-ka</div>\n\t\t<div class=\"glossblock\">Cheli-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[thakca wi-ey</div>\n\t\t<div class=\"glossblock\">[table above-LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iss-te-n</div>\n\t\t<div class=\"glossblock\">exit-RT-REL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sakwa]-lul</div>\n\t\t<div class=\"glossblock\">apple]-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(cayppali)</div>\n\t\t<div class=\"glossblock\">(quickly)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kay</div>\n\t\t<div class=\"glossblock\">CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mek-ess-ta.</div>\n\t\t<div class=\"glossblock\">eat-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Cheli-NOM",
@@ -379,7 +398,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -418,9 +437,12 @@
         "coordination": "and",
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q2962182": "Cheli"
-        },
+        "entities": [
+            {
+                "label": "Cheli",
+                "wdid": "Q2962182"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*ku</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">haksayng-tul-i</div>\n\t\t<div class=\"glossblock\">student-PL-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[Cheli-wa</div>\n\t\t<div class=\"glossblock\">[Cheli-CONJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Juni]</div>\n\t\t<div class=\"glossblock\">Juni]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tachy-ess-ta.</div>\n\t\t<div class=\"glossblock\">get hurt-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "that",
@@ -433,7 +455,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*ku",
@@ -465,7 +487,7 @@
         "clength": 59,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*ku</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">haksayng-tul-i</div>\n\t\t<div class=\"glossblock\">student-PL-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[nam-haksayng</div>\n\t\t<div class=\"glossblock\">[male-student</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(twu</div>\n\t\t<div class=\"glossblock\">(two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">myeng)]</div>\n\t\t<div class=\"glossblock\">CL)]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tachy-ess-ta.</div>\n\t\t<div class=\"glossblock\">get hurt-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "that",
@@ -479,7 +501,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*ku",
@@ -513,7 +535,7 @@
         "clength": 41,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">haksayng-tul-i</div>\n\t\t<div class=\"glossblock\">student-PL-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">myeng</div>\n\t\t<div class=\"glossblock\">CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tachy-ess-ta.</div>\n\t\t<div class=\"glossblock\">get hurt-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "that",
@@ -526,7 +548,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ku",
@@ -559,9 +581,12 @@
         "clength": 42,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q2962182": "Cheli"
-        },
+        "entities": [
+            {
+                "label": "Cheli",
+                "wdid": "Q2962182"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Cheli-ka</div>\n\t\t<div class=\"glossblock\">Cheli-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">this</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wain-ul</div>\n\t\t<div class=\"glossblock\">wine-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[twu</div>\n\t\t<div class=\"glossblock\">[two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">can]</div>\n\t\t<div class=\"glossblock\">CL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">massy-ess-ta.</div>\n\t\t<div class=\"glossblock\">drink-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Cheli-NOM",
@@ -575,7 +600,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -610,9 +635,12 @@
         "clength": 37,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q2962182": "Cheli"
-        },
+        "entities": [
+            {
+                "label": "Cheli",
+                "wdid": "Q2962182"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Cheli-ka</div>\n\t\t<div class=\"glossblock\">Cheli-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wain-ul</div>\n\t\t<div class=\"glossblock\">wine-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">can</div>\n\t\t<div class=\"glossblock\">CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">masy-ess-ta.</div>\n\t\t<div class=\"glossblock\">drink-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Cheli-NOM",
@@ -625,7 +653,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -674,7 +702,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -720,7 +748,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -752,7 +780,7 @@
         "clength": 47,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Emma-ka</div>\n\t\t<div class=\"glossblock\">mom-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[ai-uy]</div>\n\t\t<div class=\"glossblock\">[[kid-GEN]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[chakawun]</div>\n\t\t<div class=\"glossblock\">[cold]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">son]-ul</div>\n\t\t<div class=\"glossblock\">hand]-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cap-ass-ta.</div>\n\t\t<div class=\"glossblock\">grab-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "mom-NOM",
@@ -765,7 +793,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Emma-ka",
@@ -810,7 +838,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Emma-ka",
@@ -845,9 +873,12 @@
         "clength": 58,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q2962182": "Cheli"
-        },
+        "entities": [
+            {
+                "label": "Cheli",
+                "wdid": "Q2962182"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?Cheli-ka</div>\n\t\t<div class=\"glossblock\">Cheli-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[chakawun]</div>\n\t\t<div class=\"glossblock\">[[cold]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[twu</div>\n\t\t<div class=\"glossblock\">[two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pyeng-uy]</div>\n\t\t<div class=\"glossblock\">CL-GEN]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wain]-ul</div>\n\t\t<div class=\"glossblock\">wine ]-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">masy-ess-ta.</div>\n\t\t<div class=\"glossblock\">drink-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Cheli-NOM",
@@ -861,7 +892,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "?Cheli-ka",
@@ -911,7 +942,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -948,7 +979,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "[NP",
@@ -982,10 +1013,16 @@
         "clength": 51,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q23490": "bottles of wine",
-            "Q2962182": "Cheli"
-        },
+        "entities": [
+            {
+                "label": "bottles of wine",
+                "wdid": "Q23490"
+            },
+            {
+                "label": "Cheli",
+                "wdid": "Q2962182"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">??Cheli-ka</div>\n\t\t<div class=\"glossblock\">Cheli-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[twu pyeng-uy</div>\n\t\t<div class=\"glossblock\">[two CL-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wain]-ul</div>\n\t\t<div class=\"glossblock\">wine]-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kkayttuly-ess-ta.</div>\n\t\t<div class=\"glossblock\">break-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Cheli-NOM",
@@ -997,7 +1034,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "??Cheli-ka",
@@ -1042,7 +1079,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -1088,7 +1125,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -1122,7 +1159,7 @@
         "clength": 43,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Cheli-ka</div>\n\t\t<div class=\"glossblock\">Cheli-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[il</div>\n\t\t<div class=\"glossblock\">[one</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lithe-uy</div>\n\t\t<div class=\"glossblock\">liter-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mwul]-ul</div>\n\t\t<div class=\"glossblock\">water]-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">masy-ess-ta.</div>\n\t\t<div class=\"glossblock\">drink-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Cheli-NOM",
@@ -1135,7 +1172,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -1180,7 +1217,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -1225,7 +1262,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -1272,7 +1309,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -1317,7 +1354,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Cheli-ka",
@@ -1361,7 +1398,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Cheli-ka",
@@ -1393,11 +1430,20 @@
         "clength": 56,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q11442": "bicycles",
-            "Q2962182": "Cheli",
-            "Q677393": "intends"
-        },
+        "entities": [
+            {
+                "label": "bicycles",
+                "wdid": "Q11442"
+            },
+            {
+                "label": "Cheli",
+                "wdid": "Q2962182"
+            },
+            {
+                "label": "intends",
+                "wdid": "Q677393"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Cheli-nun</div>\n\t\t<div class=\"glossblock\">Cheli-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[cacenke</div>\n\t\t<div class=\"glossblock\">[bicycle</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tay]-lul</div>\n\t\t<div class=\"glossblock\">CL]-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ssakey</div>\n\t\t<div class=\"glossblock\">cheap</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sa-lyeko</div>\n\t\t<div class=\"glossblock\">buy-intending</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-n-ta.</div>\n\t\t<div class=\"glossblock\">do-PRE-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Cheli-TOP",
@@ -1412,55 +1458,44 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q106839123": "means of transport",
-            "Q11019": "Machine",
-            "Q1150771": "output",
-            "Q11723891": "Single-track_vehicle",
-            "Q1183543": "appliance",
-            "Q1301433": "Land_vehicle",
-            "Q1408229": "finished good",
-            "Q1454986": "physical system",
-            "Q1485500": "tangible good",
-            "Q1507442": "human-powered vehicle",
-            "Q15401930": "artificial object",
-            "Q15618781": "wheeled vehicle",
-            "Q16686448": "artificial object",
-            "Q16889133": "class",
-            "Q18458812": "consumer goods",
-            "Q19279121": "free-emissions vehicle",
-            "Q2120578": "zero-emissions vehicle",
-            "Q2184715": "durable good",
-            "Q223557": "physical object",
-            "Q233040": "two-wheeler",
-            "Q2424752": "product",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q386724": "work",
-            "Q39546": "Tool",
-            "Q41321608": "vehicle without engine",
-            "Q42889": "Vehicle",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q5936788": "human-powered land vehicle",
-            "Q595658": "Velocipede",
-            "Q6671777": "structure",
-            "Q768186": "sports equipment",
-            "Q8205328": "artificial physical object",
-            "Q9158768": "storage",
-            "Q987767": "Container",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Machine",
+                "wdid": "Q11019"
+            },
+            {
+                "label": "Single-track_vehicle",
+                "wdid": "Q11723891"
+            },
+            {
+                "label": "Land_vehicle",
+                "wdid": "Q1301433"
+            },
+            {
+                "label": "two-wheeler",
+                "wdid": "Q233040"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            },
+            {
+                "label": "vehicle without engine",
+                "wdid": "Q41321608"
+            },
+            {
+                "label": "Vehicle",
+                "wdid": "Q42889"
+            },
+            {
+                "label": "Velocipede",
+                "wdid": "Q595658"
+            },
+            {
+                "label": "sports equipment",
+                "wdid": "Q768186"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-nun",
@@ -1496,11 +1531,20 @@
         "clength": 56,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q11442": "bicycles",
-            "Q2962182": "Cheli",
-            "Q677393": "intends"
-        },
+        "entities": [
+            {
+                "label": "bicycles",
+                "wdid": "Q11442"
+            },
+            {
+                "label": "Cheli",
+                "wdid": "Q2962182"
+            },
+            {
+                "label": "intends",
+                "wdid": "Q677393"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Cheli-nun</div>\n\t\t<div class=\"glossblock\">Cheli-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[cacenke]-lul</div>\n\t\t<div class=\"glossblock\">[bicycle]-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ssakey</div>\n\t\t<div class=\"glossblock\">cheap</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tay</div>\n\t\t<div class=\"glossblock\">CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sa-lyeko</div>\n\t\t<div class=\"glossblock\">buy-intending</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-n-ta.</div>\n\t\t<div class=\"glossblock\">do-PRE-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Cheli-TOP",
@@ -1515,55 +1559,44 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q106839123": "means of transport",
-            "Q11019": "Machine",
-            "Q1150771": "output",
-            "Q11723891": "Single-track_vehicle",
-            "Q1183543": "appliance",
-            "Q1301433": "Land_vehicle",
-            "Q1408229": "finished good",
-            "Q1454986": "physical system",
-            "Q1485500": "tangible good",
-            "Q1507442": "human-powered vehicle",
-            "Q15401930": "artificial object",
-            "Q15618781": "wheeled vehicle",
-            "Q16686448": "artificial object",
-            "Q16889133": "class",
-            "Q18458812": "consumer goods",
-            "Q19279121": "free-emissions vehicle",
-            "Q2120578": "zero-emissions vehicle",
-            "Q2184715": "durable good",
-            "Q223557": "physical object",
-            "Q233040": "two-wheeler",
-            "Q2424752": "product",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q386724": "work",
-            "Q39546": "Tool",
-            "Q41321608": "vehicle without engine",
-            "Q42889": "Vehicle",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q5936788": "human-powered land vehicle",
-            "Q595658": "Velocipede",
-            "Q6671777": "structure",
-            "Q768186": "sports equipment",
-            "Q8205328": "artificial physical object",
-            "Q9158768": "storage",
-            "Q987767": "Container",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Machine",
+                "wdid": "Q11019"
+            },
+            {
+                "label": "Single-track_vehicle",
+                "wdid": "Q11723891"
+            },
+            {
+                "label": "Land_vehicle",
+                "wdid": "Q1301433"
+            },
+            {
+                "label": "two-wheeler",
+                "wdid": "Q233040"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            },
+            {
+                "label": "vehicle without engine",
+                "wdid": "Q41321608"
+            },
+            {
+                "label": "Vehicle",
+                "wdid": "Q42889"
+            },
+            {
+                "label": "Velocipede",
+                "wdid": "Q595658"
+            },
+            {
+                "label": "sports equipment",
+                "wdid": "Q768186"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-nun",
@@ -1598,9 +1631,12 @@
         "clength": 48,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q2962182": "Cheli"
-        },
+        "entities": [
+            {
+                "label": "Cheli",
+                "wdid": "Q2962182"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Cheli-ka</div>\n\t\t<div class=\"glossblock\">Cheli-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[ku-ke</div>\n\t\t<div class=\"glossblock\">[that-thing</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kay/sey kay]-lul</div>\n\t\t<div class=\"glossblock\">CL/ three CL]-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mek-ess-ta.</div>\n\t\t<div class=\"glossblock\">eat-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Cheli-NOM",
@@ -1613,7 +1649,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -1647,9 +1683,12 @@
         "clength": 49,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q2962182": "Cheli"
-        },
+        "entities": [
+            {
+                "label": "Cheli",
+                "wdid": "Q2962182"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Cheli-ka</div>\n\t\t<div class=\"glossblock\">Cheli-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[ku-ke]-lul</div>\n\t\t<div class=\"glossblock\">[that-thing]-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kay/#sey</div>\n\t\t<div class=\"glossblock\">CL/ three</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kay</div>\n\t\t<div class=\"glossblock\">CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mek-ess-ta.</div>\n\t\t<div class=\"glossblock\">eat-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Cheli-NOM",
@@ -1663,7 +1702,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -1697,9 +1736,12 @@
         "clength": 60,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q2962182": "Cheli"
-        },
+        "entities": [
+            {
+                "label": "Cheli",
+                "wdid": "Q2962182"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Cheli-ka</div>\n\t\t<div class=\"glossblock\">Cheli-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kapcaki</div>\n\t\t<div class=\"glossblock\">suddenly</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[sonkalak</div>\n\t\t<div class=\"glossblock\">[finger</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yel</div>\n\t\t<div class=\"glossblock\">ten</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kay]-lul</div>\n\t\t<div class=\"glossblock\">CL]-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">phyelchyepoi-ess-ta.</div>\n\t\t<div class=\"glossblock\">spread out-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Cheli-NOM",
@@ -1713,7 +1755,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -1762,7 +1804,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "??Cheli-ka",
@@ -1793,9 +1835,12 @@
         "coordination": "and",
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q2962182": "Cheli"
-        },
+        "entities": [
+            {
+                "label": "Cheli",
+                "wdid": "Q2962182"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Cheli-ka</div>\n\t\t<div class=\"glossblock\">Cheli-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[pwumonim</div>\n\t\t<div class=\"glossblock\">[parent-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pwun]-ul</div>\n\t\t<div class=\"glossblock\">CL]-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">han-tongan</div>\n\t\t<div class=\"glossblock\">a while-during</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mosi-ko</div>\n\t\t<div class=\"glossblock\">take care-CONJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sal-ass-ta.</div>\n\t\t<div class=\"glossblock\">live-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Cheli-NOM",
@@ -1810,7 +1855,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -1863,7 +1908,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "??Cheli-ka",
@@ -1912,7 +1957,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -1959,7 +2004,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "??Cheli-ka",
@@ -1994,10 +2039,16 @@
         "clength": 54,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q131696": "towels",
-            "Q2962182": "Cheli"
-        },
+        "entities": [
+            {
+                "label": "towels",
+                "wdid": "Q131696"
+            },
+            {
+                "label": "Cheli",
+                "wdid": "Q2962182"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Cheli-ka</div>\n\t\t<div class=\"glossblock\">Cheli-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">thakca-lul</div>\n\t\t<div class=\"glossblock\">table-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[swuken</div>\n\t\t<div class=\"glossblock\">[towel</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cang]-ulo</div>\n\t\t<div class=\"glossblock\">CL]-INST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">takk-ass-ta.</div>\n\t\t<div class=\"glossblock\">clean-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Cheli-NOM",
@@ -2011,7 +2062,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -2062,7 +2113,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "??Cheli-ka",
@@ -2097,9 +2148,12 @@
         "clength": 47,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q2962182": "Cheli"
-        },
+        "entities": [
+            {
+                "label": "Cheli",
+                "wdid": "Q2962182"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Cheli-ka</div>\n\t\t<div class=\"glossblock\">Cheli-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sakwa-lul</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cayppali</div>\n\t\t<div class=\"glossblock\">quickly</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kay</div>\n\t\t<div class=\"glossblock\">CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mek-ess-ta.</div>\n\t\t<div class=\"glossblock\">eat-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Cheli-NOM",
@@ -2113,7 +2167,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -2156,7 +2210,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -2193,9 +2247,12 @@
         "coordination": "and",
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q2962182": "Cheli"
-        },
+        "entities": [
+            {
+                "label": "Cheli",
+                "wdid": "Q2962182"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Cheli-ka</div>\n\t\t<div class=\"glossblock\">Cheli-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[sakwa-lul</div>\n\t\t<div class=\"glossblock\">[apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kay]-wa</div>\n\t\t<div class=\"glossblock\">CL]-CONJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[bay-lul</div>\n\t\t<div class=\"glossblock\">[pear-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sey kay]</div>\n\t\t<div class=\"glossblock\">three CL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mek-ess-ta.</div>\n\t\t<div class=\"glossblock\">eat-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Cheli-NOM",
@@ -2210,7 +2267,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Cheli-ka",
@@ -2262,7 +2319,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -2301,9 +2358,12 @@
         "clength": 51,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q2962182": "Cheli"
-        },
+        "entities": [
+            {
+                "label": "Cheli",
+                "wdid": "Q2962182"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Cheli-ka</div>\n\t\t<div class=\"glossblock\">Cheli-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mek-un</div>\n\t\t<div class=\"glossblock\">eat-REL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kes-un</div>\n\t\t<div class=\"glossblock\">thing-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[sakwa-lul</div>\n\t\t<div class=\"glossblock\">[apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kay]-(i)-ta.</div>\n\t\t<div class=\"glossblock\">CL]-(COP)-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Cheli-NOM",
@@ -2317,7 +2377,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Cheli-ka",
@@ -2367,7 +2427,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -2414,7 +2474,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "??wain-ul",
@@ -2460,7 +2520,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*sonnim-i",
@@ -2506,7 +2566,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "sonnim-i",
@@ -2535,7 +2595,7 @@
         "clength": 38,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">??namhaksayng-i</div>\n\t\t<div class=\"glossblock\">male student-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">myeng</div>\n\t\t<div class=\"glossblock\">CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yengliha-ta.</div>\n\t\t<div class=\"glossblock\">be smart-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "male student-NOM",
@@ -2547,7 +2607,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "??namhaksayng-i",
@@ -2586,7 +2646,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "[namhaksayng",
@@ -2614,7 +2674,7 @@
         "clength": 32,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">namhaksayng-i</div>\n\t\t<div class=\"glossblock\">male student-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">myeng</div>\n\t\t<div class=\"glossblock\">CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aphu-ta.</div>\n\t\t<div class=\"glossblock\">be sick-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "male student-NOM",
@@ -2626,7 +2686,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "namhaksayng-i",
@@ -2665,7 +2725,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "[namhaksayng",
@@ -2697,9 +2757,12 @@
         "clength": 40,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q2962182": "Cheli"
-        },
+        "entities": [
+            {
+                "label": "Cheli",
+                "wdid": "Q2962182"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Cheli-ka</div>\n\t\t<div class=\"glossblock\">Cheli-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[wain</div>\n\t\t<div class=\"glossblock\">[wine</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pyeng]-ul</div>\n\t\t<div class=\"glossblock\">CL]-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mas-ess-ta.</div>\n\t\t<div class=\"glossblock\">drink-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Cheli-NOM",
@@ -2712,7 +2775,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -2745,7 +2808,7 @@
         "coordination": "and",
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yehaksayng-i</div>\n\t\t<div class=\"glossblock\">female student-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">myeng</div>\n\t\t<div class=\"glossblock\">CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kyelsek-hay-ss-ko,</div>\n\t\t<div class=\"glossblock\">absence-do-PST-CONJ,</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">namhaksayng-to</div>\n\t\t<div class=\"glossblock\">male student-also</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kuleh-ta.</div>\n\t\t<div class=\"glossblock\">do so-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "female student-NOM",
@@ -2759,7 +2822,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "yehaksayng-i",
@@ -2791,7 +2854,7 @@
         "clength": 35,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(ku)</div>\n\t\t<div class=\"glossblock\">(that)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sakwa-ka</div>\n\t\t<div class=\"glossblock\">apple-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kay</div>\n\t\t<div class=\"glossblock\">CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ssekk-ess-ta.</div>\n\t\t<div class=\"glossblock\">be rotten-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "(that)",
@@ -2804,7 +2867,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "(ku)",
@@ -2838,9 +2901,12 @@
         "clength": 43,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q2962182": "Cheli"
-        },
+        "entities": [
+            {
+                "label": "Cheli",
+                "wdid": "Q2962182"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Cheli-ka</div>\n\t\t<div class=\"glossblock\">Cheli-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(ku)</div>\n\t\t<div class=\"glossblock\">(that)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sakwa-lul</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kay</div>\n\t\t<div class=\"glossblock\">CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mek-ess-ta.</div>\n\t\t<div class=\"glossblock\">eat-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Cheli-NOM",
@@ -2854,7 +2920,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -2889,9 +2955,12 @@
         "clength": 51,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q131696": "towels"
-        },
+        "entities": [
+            {
+                "label": "towels",
+                "wdid": "Q131696"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">??ku-ka</div>\n\t\t<div class=\"glossblock\">he-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">thakca-lul</div>\n\t\t<div class=\"glossblock\">table-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">swuken-ulo</div>\n\t\t<div class=\"glossblock\">towel-INST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu cang</div>\n\t\t<div class=\"glossblock\">two CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">takk-ass-ta.</div>\n\t\t<div class=\"glossblock\">clean-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "he-NOM",
@@ -2904,7 +2973,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "??ku-ka",
@@ -2936,7 +3005,7 @@
         "clength": 41,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sonnim-i</div>\n\t\t<div class=\"glossblock\">guest-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu pwun</div>\n\t\t<div class=\"glossblock\">two CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wain-ul</div>\n\t\t<div class=\"glossblock\">wine-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">masy-ess-ta.</div>\n\t\t<div class=\"glossblock\">drink-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "guest-NOM",
@@ -2949,7 +3018,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "sonnim-i",
@@ -2996,7 +3065,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*sonnim-i",
@@ -3030,7 +3099,7 @@
         "clength": 44,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">??sonnim-i</div>\n\t\t<div class=\"glossblock\">guest-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pyeng</div>\n\t\t<div class=\"glossblock\">CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wain-ul</div>\n\t\t<div class=\"glossblock\">wine-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">masy-ess-ta.</div>\n\t\t<div class=\"glossblock\">drink-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "guest-NOM",
@@ -3044,7 +3113,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "??sonnim-i",
@@ -3078,7 +3147,7 @@
         "clength": 57,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku-nun</div>\n\t\t<div class=\"glossblock\">he-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wain</div>\n\t\t<div class=\"glossblock\">wine</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tases</div>\n\t\t<div class=\"glossblock\">five</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">can</div>\n\t\t<div class=\"glossblock\">CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cwung-eyse</div>\n\t\t<div class=\"glossblock\">among-from</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu can-ul</div>\n\t\t<div class=\"glossblock\">two CL-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">massy-ess-ta.</div>\n\t\t<div class=\"glossblock\">drink-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "he-TOP",
@@ -3093,7 +3162,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ku-nun",
@@ -3126,9 +3195,12 @@
         "clength": 59,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q1142016": "Lit"
-        },
+        "entities": [
+            {
+                "label": "Lit",
+                "wdid": "Q1142016"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*ku</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">haksayng-tul</div>\n\t\t<div class=\"glossblock\">student-PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cwung-eyse</div>\n\t\t<div class=\"glossblock\">among-from</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[motwu/cenpwu]-ka</div>\n\t\t<div class=\"glossblock\">[all/all]-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tachy-ess-ta.</div>\n\t\t<div class=\"glossblock\">get hurt-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "that",
@@ -3141,7 +3213,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*ku",
@@ -3172,7 +3244,7 @@
         "clength": 51,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">haksayng-tul-i</div>\n\t\t<div class=\"glossblock\">student-PL-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[motwu/cenpwu](-ka)</div>\n\t\t<div class=\"glossblock\">[all/all](-NOM)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tachy-ess-ta.</div>\n\t\t<div class=\"glossblock\">get hurt-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "that",
@@ -3184,7 +3256,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ku",
@@ -3217,9 +3289,12 @@
         "clength": 37,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q2962182": "Cheli"
-        },
+        "entities": [
+            {
+                "label": "Cheli",
+                "wdid": "Q2962182"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Cheli-ka</div>\n\t\t<div class=\"glossblock\">Cheli-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mwues-ul</div>\n\t\t<div class=\"glossblock\">what-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sey</div>\n\t\t<div class=\"glossblock\">three</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kay</div>\n\t\t<div class=\"glossblock\">CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mek-ess-ni?</div>\n\t\t<div class=\"glossblock\">eat-PST-INT</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Cheli-NOM",
@@ -3232,7 +3307,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -3266,9 +3341,12 @@
         "clength": 38,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q2962182": "Cheli"
-        },
+        "entities": [
+            {
+                "label": "Cheli",
+                "wdid": "Q2962182"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Cheli-ka</div>\n\t\t<div class=\"glossblock\">Cheli-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sakwa-lul</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sey</div>\n\t\t<div class=\"glossblock\">three</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kay</div>\n\t\t<div class=\"glossblock\">CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mek-ess-ta.</div>\n\t\t<div class=\"glossblock\">eat-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Cheli-NOM",
@@ -3281,7 +3359,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Cheli-ka",
@@ -3314,10 +3392,16 @@
         "clength": 39,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q23490": "bottles of wine",
-            "Q47146337": "drank"
-        },
+        "entities": [
+            {
+                "label": "bottles of wine",
+                "wdid": "Q23490"
+            },
+            {
+                "label": "drank",
+                "wdid": "Q47146337"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wain-ul</div>\n\t\t<div class=\"glossblock\">wine-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sonnim-i</div>\n\t\t<div class=\"glossblock\">guest-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twu</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pyeng</div>\n\t\t<div class=\"glossblock\">CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">masy-ess-ta.</div>\n\t\t<div class=\"glossblock\">drink-PST-DEC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "wine-ACC",
@@ -3330,23 +3414,16 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q1454986": "physical system",
-            "Q28732711": "physical substance",
-            "Q30060700": "scientific object",
-            "Q35120": "entity",
-            "Q3706669": "psychoactive drug",
-            "Q378078": "substance",
-            "Q409205": "xenobiotic",
-            "Q43460564": "chemical entity",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q79529": "chemical substance",
-            "Q8386": "Drug",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "psychoactive drug",
+                "wdid": "Q3706669"
+            },
+            {
+                "label": "Drug",
+                "wdid": "Q8386"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "wain-ul",
@@ -3388,7 +3465,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "??acwumma,",
@@ -3415,9 +3492,12 @@
         "clength": 34,
         "doc_ID": 4867,
         "doc_URL": "https://www.glossa-journal.org/article/id/4867",
-        "entities": {
-            "Q1569216": "please give"
-        },
+        "entities": [
+            {
+                "label": "please give",
+                "wdid": "Q1569216"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">acwumma,</div>\n\t\t<div class=\"glossblock\">missus,</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sakwa</div>\n\t\t<div class=\"glossblock\">apple</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yel kay</div>\n\t\t<div class=\"glossblock\">10 CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cwu-sey-yo.</div>\n\t\t<div class=\"glossblock\">give-SH-POL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "missus,",
@@ -3429,7 +3509,7 @@
         "language_iso6393": "kor",
         "language_name": "Korean",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "acwumma,",

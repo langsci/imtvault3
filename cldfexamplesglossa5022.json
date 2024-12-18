@@ -21,7 +21,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "wu-ben-shu"
@@ -51,7 +51,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "san-pi-ma"
@@ -79,7 +79,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "shi-gongjin-shu"
@@ -107,7 +107,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "wu-wan-shui"
@@ -138,7 +138,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "shi-gongjin-de-shu"
@@ -169,7 +169,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "wu-guan-de-shui"
@@ -201,7 +201,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "wu-ben-(*de)-shu"
@@ -233,7 +233,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "san-pi-(*de)-ma"
@@ -252,7 +252,7 @@
         "clength": 20,
         "doc_ID": 5022,
         "doc_URL": "https://www.glossa-journal.org/article/id/5022",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wu-xiao/da-guan-shui</div>\n\t\t<div class=\"glossblock\">five-small/big-CLʲᵃʳ-water</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "five-small/big-CLʲᵃʳ-water"
@@ -261,7 +261,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "wu-xiao/da-guan-shui"
@@ -280,7 +280,7 @@
         "clength": 20,
         "doc_ID": 5022,
         "doc_URL": "https://www.glossa-journal.org/article/id/5022",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">san-xiao/da-kuai-rou</div>\n\t\t<div class=\"glossblock\">three-small/big-CLᵖᶦᵉᶜᵉ-meat</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "three-small/big-CLᵖᶦᵉᶜᵉ-meat"
@@ -289,7 +289,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "san-xiao/da-kuai-rou"
@@ -319,7 +319,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "wu-(*xiao/*da)-ben-shu"
@@ -349,7 +349,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "san-(*xiao/*da)-pi-ma"
@@ -372,9 +372,12 @@
         "coordination": "and",
         "doc_ID": 5022,
         "doc_URL": "https://www.glossa-journal.org/article/id/5022",
-        "entities": {
-            "Q998426": "book store"
-        },
+        "entities": [
+            {
+                "label": "book store",
+                "wdid": "Q998426"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Wo</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zuotian</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qu</div>\n\t\t<div class=\"glossblock\">go</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shudian</div>\n\t\t<div class=\"glossblock\">book store</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mai-le</div>\n\t\t<div class=\"glossblock\">buy-PERF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shu.</div>\n\t\t<div class=\"glossblock\">book</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -388,7 +391,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Wo",
@@ -418,7 +421,7 @@
         "clength": 27,
         "doc_ID": 5022,
         "doc_URL": "https://www.glossa-journal.org/article/id/5022",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Wo</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yijing</div>\n\t\t<div class=\"glossblock\">already</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he-guo</div>\n\t\t<div class=\"glossblock\">drink-PERF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">niunai</div>\n\t\t<div class=\"glossblock\">milk</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le.</div>\n\t\t<div class=\"glossblock\">PAR</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -431,7 +434,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Wo",
@@ -465,7 +468,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Shui",
@@ -510,7 +513,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "dotira-no",
@@ -550,7 +553,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Shei",
@@ -579,7 +582,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ye-liang-ru-shui"
@@ -605,7 +608,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mianfen-dai"
@@ -626,7 +629,7 @@
         "clength": 20,
         "doc_ID": 5022,
         "doc_URL": "https://www.glossa-journal.org/article/id/5022",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Jinzi-ge</div>\n\t\t<div class=\"glossblock\">gold-brother</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bu</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shuohua.</div>\n\t\t<div class=\"glossblock\">talk</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "gold-brother",
@@ -637,7 +640,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [

@@ -20,7 +20,7 @@
         "clength": 36,
         "doc_ID": 9894,
         "doc_URL": "https://www.glossa-journal.org/article/id/9894",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Min</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kinige*(-ni)</div>\n\t\t<div class=\"glossblock\">book    -ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Masha-qa</div>\n\t\t<div class=\"glossblock\">Masha-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bier-di-m.</div>\n\t\t<div class=\"glossblock\">give-PAST-1SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -32,7 +32,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Min",
@@ -64,7 +64,7 @@
         "clength": 36,
         "doc_ID": 9894,
         "doc_URL": "https://www.glossa-journal.org/article/id/9894",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Min</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Masha-qa</div>\n\t\t<div class=\"glossblock\">Masha-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kinige(#-ni)</div>\n\t\t<div class=\"glossblock\">book     -ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bier-di-m.</div>\n\t\t<div class=\"glossblock\">give-PAST-1SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -76,7 +76,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Min",
@@ -104,10 +104,16 @@
         "clength": 45,
         "doc_ID": 9894,
         "doc_URL": "https://www.glossa-journal.org/article/id/9894",
-        "entities": {
-            "Q16893293": "Keskil",
-            "Q2181": "Aisen"
-        },
+        "entities": [
+            {
+                "label": "Keskil",
+                "wdid": "Q16893293"
+            },
+            {
+                "label": "Aisen",
+                "wdid": "Q2181"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Keskil</div>\n\t\t<div class=\"glossblock\">Keskil</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Aisen-y</div>\n\t\t<div class=\"glossblock\">Aisen-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kel-bet</div>\n\t\t<div class=\"glossblock\">come-NEG.AOR.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dien</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">]</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">]</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xomoj-do.</div>\n\t\t<div class=\"glossblock\">become.sad-PAST.3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Keskil",
@@ -124,7 +130,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -156,9 +162,12 @@
         "clength": 57,
         "doc_ID": 9894,
         "doc_URL": "https://www.glossa-journal.org/article/id/9894",
-        "entities": {
-            "Q2181": "Aisen"
-        },
+        "entities": [
+            {
+                "label": "Aisen",
+                "wdid": "Q2181"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[   Aisen(*-y)</div>\n\t\t<div class=\"glossblock\">Aisen    -ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[ massyyna</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">atyylah-ar-a</div>\n\t\t<div class=\"glossblock\">buy-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">] ]</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">naada</div>\n\t\t<div class=\"glossblock\">need</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">buol-la.</div>\n\t\t<div class=\"glossblock\">become-PAST.3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Aisen    -ACC",
@@ -172,7 +181,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "[   Aisen(*-y)",

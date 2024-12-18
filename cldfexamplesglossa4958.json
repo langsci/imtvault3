@@ -19,7 +19,7 @@
         "clength": 37,
         "doc_ID": 4958,
         "doc_URL": "https://www.glossa-journal.org/article/id/4958",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Nit-a’pihkahtoo-’p-wa</div>\n\t\t<div class=\"glossblock\">1-sell.TI-TH-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">amo</div>\n\t\t<div class=\"glossblock\">DEM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aipasstaam.</div>\n\t\t<div class=\"glossblock\">apple</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1-sell.TI-TH-3SG",
@@ -30,7 +30,7 @@
         "language_iso6393": "bla",
         "language_name": "Siksika",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Nit-a’pihkahtoo-’p-wa",
@@ -60,7 +60,7 @@
         "clength": 49,
         "doc_ID": 4958,
         "doc_URL": "https://www.glossa-journal.org/article/id/4958",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Nit-a’pihkahtoo-’p-yi</div>\n\t\t<div class=\"glossblock\">1-sell.TI-TH-3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">amo-istsi</div>\n\t\t<div class=\"glossblock\">DEM-PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aipasstaam-istsi.</div>\n\t\t<div class=\"glossblock\">apple-PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1-sell.TI-TH-3PL",
@@ -71,7 +71,7 @@
         "language_iso6393": "bla",
         "language_name": "Siksika",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Nit-a’pihkahtoo-’p-yi",
@@ -96,7 +96,7 @@
         "clength": 29,
         "doc_ID": 4958,
         "doc_URL": "https://www.glossa-journal.org/article/id/4958",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Nit-iponota’si-wa</div>\n\t\t<div class=\"glossblock\">1-sell.AI-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aipasstaam.</div>\n\t\t<div class=\"glossblock\">apple</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1-sell.AI-3SG",
@@ -106,7 +106,7 @@
         "language_iso6393": "bla",
         "language_name": "Siksika",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Nit-iponota’si-wa",
@@ -146,7 +146,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Nit-oowat-a-yi",
@@ -189,7 +189,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Nit-oowat-a-wa",
@@ -215,9 +215,12 @@
         "coordination": "or",
         "doc_ID": 4958,
         "doc_URL": "https://www.glossa-journal.org/article/id/4958",
-        "entities": {
-            "Q780": "chickens"
-        },
+        "entities": [
+            {
+                "label": "chickens",
+                "wdid": "Q780"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Nit-oowat-a</div>\n\t\t<div class=\"glossblock\">1-eat.TA-TH</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ni’tawaakii.</div>\n\t\t<div class=\"glossblock\">chicken</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1-eat.TA-TH",
@@ -227,46 +230,56 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10915": "Chordata",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1454986": "physical system",
-            "Q15401930": "artificial object",
-            "Q16390140": "Wild_animal",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q178559": "Poultry",
-            "Q1797813": "productive animal",
-            "Q2095": "Food",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q2424752": "product",
-            "Q25241": "Vertebrate",
-            "Q27043950": "anatomical entity",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q5113": "Bird",
-            "Q53617489": "independent continuant",
-            "Q57812559": "captive animal",
-            "Q57815212": "domesticated_bird",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q622852": "domesticated animal",
-            "Q6671777": "structure",
-            "Q7239": "Organism",
-            "Q729": "Animal",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Chordata",
+                "wdid": "Q10915"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Wild_animal",
+                "wdid": "Q16390140"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Poultry",
+                "wdid": "Q178559"
+            },
+            {
+                "label": "productive animal",
+                "wdid": "Q1797813"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "Vertebrate",
+                "wdid": "Q25241"
+            },
+            {
+                "label": "Bird",
+                "wdid": "Q5113"
+            },
+            {
+                "label": "domesticated_bird",
+                "wdid": "Q57815212"
+            },
+            {
+                "label": "domesticated animal",
+                "wdid": "Q622852"
+            },
+            {
+                "label": "Animal",
+                "wdid": "Q729"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "*Nit-oowat-a",
@@ -306,7 +319,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Nit-oowatoo-’p-yi",
@@ -347,7 +360,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Nit-oowatoo-’p-wa",
@@ -373,7 +386,7 @@
         "coordination": "or",
         "doc_ID": 4958,
         "doc_URL": "https://www.glossa-journal.org/article/id/4958",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Nit-oowatoo-’p</div>\n\t\t<div class=\"glossblock\">1-eat.TI-TH</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aipasstaam.</div>\n\t\t<div class=\"glossblock\">apple</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1-eat.TI-TH",
@@ -383,7 +396,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Nit-oowatoo-’p",
@@ -417,7 +430,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Nit-ooyi",
@@ -440,9 +453,12 @@
         "coordination": "or",
         "doc_ID": 4958,
         "doc_URL": "https://www.glossa-journal.org/article/id/4958",
-        "entities": {
-            "Q780": "chickens"
-        },
+        "entities": [
+            {
+                "label": "chickens",
+                "wdid": "Q780"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Nit-ooyi</div>\n\t\t<div class=\"glossblock\">1-eat.AI</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aipasstaam/ni’tawaakii.</div>\n\t\t<div class=\"glossblock\">apple/chicken</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1-eat.AI",
@@ -452,46 +468,56 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10915": "Chordata",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1454986": "physical system",
-            "Q15401930": "artificial object",
-            "Q16390140": "Wild_animal",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q178559": "Poultry",
-            "Q1797813": "productive animal",
-            "Q2095": "Food",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q2424752": "product",
-            "Q25241": "Vertebrate",
-            "Q27043950": "anatomical entity",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q5113": "Bird",
-            "Q53617489": "independent continuant",
-            "Q57812559": "captive animal",
-            "Q57815212": "domesticated_bird",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q622852": "domesticated animal",
-            "Q6671777": "structure",
-            "Q7239": "Organism",
-            "Q729": "Animal",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Chordata",
+                "wdid": "Q10915"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Wild_animal",
+                "wdid": "Q16390140"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Poultry",
+                "wdid": "Q178559"
+            },
+            {
+                "label": "productive animal",
+                "wdid": "Q1797813"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "Vertebrate",
+                "wdid": "Q25241"
+            },
+            {
+                "label": "Bird",
+                "wdid": "Q5113"
+            },
+            {
+                "label": "domesticated_bird",
+                "wdid": "Q57815212"
+            },
+            {
+                "label": "domesticated animal",
+                "wdid": "Q622852"
+            },
+            {
+                "label": "Animal",
+                "wdid": "Q729"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Nit-ooyi",
@@ -515,7 +541,7 @@
         "clength": 39,
         "doc_ID": 4958,
         "doc_URL": "https://www.glossa-journal.org/article/id/4958",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Nit-ooyi</div>\n\t\t<div class=\"glossblock\">1-eat.AI</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aipasstaam-wa/ni’tawaakii-wa.</div>\n\t\t<div class=\"glossblock\">apple-SG/chicken-SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1-eat.AI",
@@ -525,7 +551,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Nit-ooyi",
@@ -558,7 +584,7 @@
         "language_iso6393": "hur",
         "language_name": "Halkomelem",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "te",
@@ -594,7 +620,7 @@
         "language_iso6393": "hur",
         "language_name": "Halkomelem",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "te",
@@ -629,7 +655,7 @@
         "language_iso6393": "bla",
         "language_name": "Siksika",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Nit-ooyi",
@@ -652,7 +678,7 @@
         "coordination": "or",
         "doc_ID": 4958,
         "doc_URL": "https://www.glossa-journal.org/article/id/4958",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Nit-ooyi</div>\n\t\t<div class=\"glossblock\">1-eat.AI</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aipasstaam.</div>\n\t\t<div class=\"glossblock\">apple</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1-eat.AI",
@@ -662,7 +688,7 @@
         "language_iso6393": "bla",
         "language_name": "Siksika",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Nit-ooyi",

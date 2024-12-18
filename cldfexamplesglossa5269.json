@@ -11,9 +11,12 @@
         "clength": 47,
         "doc_ID": 5269,
         "doc_URL": "https://www.glossa-journal.org/article/id/5269",
-        "entities": {
-            "Q11035": "phoned"
-        },
+        "entities": [
+            {
+                "label": "phoned",
+                "wdid": "Q11035"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*¿Quién</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pregunt-aste</div>\n\t\t<div class=\"glossblock\">ask-2SG.PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">si</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">llam-ó</div>\n\t\t<div class=\"glossblock\">call-3SG.PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">por</div>\n\t\t<div class=\"glossblock\">by</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">teléfono?</div>\n\t\t<div class=\"glossblock\">phone</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "who",
@@ -28,47 +31,44 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q11019": "Machine",
-            "Q1150771": "output",
-            "Q1183543": "appliance",
-            "Q1310239": "component",
-            "Q1454986": "physical system",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686448": "artificial object",
-            "Q16889133": "class",
-            "Q210729": "electrical element",
-            "Q21146257": "type",
-            "Q223557": "physical object",
-            "Q22811462": "type of manufactured good",
-            "Q2424752": "product",
-            "Q2425052": "electrical appliance",
-            "Q2858615": "electronic device",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q3749263": "electrical device",
-            "Q386724": "work",
-            "Q39546": "Tool",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q581105": "consumer electronics",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q66310125": "nonbiological component",
-            "Q6671777": "structure",
-            "Q8205328": "artificial physical object",
-            "Q931447": "electrical load",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Machine",
+                "wdid": "Q11019"
+            },
+            {
+                "label": "electrical element",
+                "wdid": "Q210729"
+            },
+            {
+                "label": "type of manufactured good",
+                "wdid": "Q22811462"
+            },
+            {
+                "label": "electrical appliance",
+                "wdid": "Q2425052"
+            },
+            {
+                "label": "electronic device",
+                "wdid": "Q2858615"
+            },
+            {
+                "label": "electrical device",
+                "wdid": "Q3749263"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            },
+            {
+                "label": "consumer electronics",
+                "wdid": "Q581105"
+            },
+            {
+                "label": "electrical load",
+                "wdid": "Q931447"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "*¿Quién",
@@ -97,7 +97,7 @@
         "clength": 62,
         "doc_ID": 5269,
         "doc_URL": "https://www.glossa-journal.org/article/id/5269",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*¿Qué</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">diccionario</div>\n\t\t<div class=\"glossblock\">dictionary</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sab-ías</div>\n\t\t<div class=\"glossblock\">know-2SG.PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">quién</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hab-ía</div>\n\t\t<div class=\"glossblock\">have-3SG.PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">devuelto</div>\n\t\t<div class=\"glossblock\">return.PTCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Celia?</div>\n\t\t<div class=\"glossblock\">Celia</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "what",
@@ -115,7 +115,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*¿Qué",
@@ -147,7 +147,7 @@
         "clength": 59,
         "doc_ID": 5269,
         "doc_URL": "https://www.glossa-journal.org/article/id/5269",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">¿Qué</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">diccionario</div>\n\t\t<div class=\"glossblock\">dictionary</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sab-ías</div>\n\t\t<div class=\"glossblock\">know-2SG.PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">si</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Celia</div>\n\t\t<div class=\"glossblock\">Celia</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hab-ía</div>\n\t\t<div class=\"glossblock\">have-3SG.PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">devuelto</div>\n\t\t<div class=\"glossblock\">return.PTCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ya?</div>\n\t\t<div class=\"glossblock\">already</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "what",
@@ -165,7 +165,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "¿Qué",
@@ -197,7 +197,7 @@
         "clength": 50,
         "doc_ID": 5269,
         "doc_URL": "https://www.glossa-journal.org/article/id/5269",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*¿Quién</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sab-es</div>\n\t\t<div class=\"glossblock\">know-2SG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">por</div>\n\t\t<div class=\"glossblock\">because.of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qué</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">escrib-ió</div>\n\t\t<div class=\"glossblock\">write-3SG.PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">el</div>\n\t\t<div class=\"glossblock\">DET</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">informe?</div>\n\t\t<div class=\"glossblock\">report</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "who",
@@ -214,7 +214,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*¿Quién",
@@ -246,10 +246,16 @@
         "clength": 62,
         "doc_ID": 5269,
         "doc_URL": "https://www.glossa-journal.org/article/id/5269",
-        "entities": {
-            "Q209680": "discourse",
-            "Q571571": "offended"
-        },
+        "entities": [
+            {
+                "label": "discourse",
+                "wdid": "Q209680"
+            },
+            {
+                "label": "offended",
+                "wdid": "Q571571"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">¿Quién</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cre-e</div>\n\t\t<div class=\"glossblock\">believe-3SG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[que</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">el</div>\n\t\t<div class=\"glossblock\">DET</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">discurso</div>\n\t\t<div class=\"glossblock\">discourse</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ofend-ió</div>\n\t\t<div class=\"glossblock\">offend-3SG.PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tanto</div>\n\t\t<div class=\"glossblock\">so.much</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Julia</div>\n\t\t<div class=\"glossblock\">Julia</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ayer]?</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "who",
@@ -268,21 +274,12 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q105364223": "offense",
-            "Q1190554": "occurrence",
-            "Q16887380": "group",
-            "Q1914636": "activity",
-            "Q20937557": "sequence",
-            "Q26907166": "temporal entity",
-            "Q28813620": "set",
-            "Q35120": "entity",
-            "Q3769299": "human behavior",
-            "Q58415929": "spatio-temporal entity",
-            "Q61788060": "human activity",
-            "Q9332": "behavior",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "offense",
+                "wdid": "Q105364223"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "¿Quién",
@@ -316,10 +313,16 @@
         "clength": 65,
         "doc_ID": 5269,
         "doc_URL": "https://www.glossa-journal.org/article/id/5269",
-        "entities": {
-            "Q209680": "discourse",
-            "Q571571": "offended"
-        },
+        "entities": [
+            {
+                "label": "discourse",
+                "wdid": "Q209680"
+            },
+            {
+                "label": "offended",
+                "wdid": "Q571571"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">¿Quién</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cre-e</div>\n\t\t<div class=\"glossblock\">believe-3SG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[que</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">el</div>\n\t\t<div class=\"glossblock\">DET</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">discurso</div>\n\t\t<div class=\"glossblock\">discourse</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de-l</div>\n\t\t<div class=\"glossblock\">of-DET</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">director</div>\n\t\t<div class=\"glossblock\">director</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ofend-ió</div>\n\t\t<div class=\"glossblock\">offend-3SG.PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Julia]?</div>\n\t\t<div class=\"glossblock\">Julia</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "who",
@@ -338,21 +341,12 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q105364223": "offense",
-            "Q1190554": "occurrence",
-            "Q16887380": "group",
-            "Q1914636": "activity",
-            "Q20937557": "sequence",
-            "Q26907166": "temporal entity",
-            "Q28813620": "set",
-            "Q35120": "entity",
-            "Q3769299": "human behavior",
-            "Q58415929": "spatio-temporal entity",
-            "Q61788060": "human activity",
-            "Q9332": "behavior",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "offense",
+                "wdid": "Q105364223"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "¿Quién",
@@ -386,7 +380,7 @@
         "clength": 62,
         "doc_ID": 5269,
         "doc_URL": "https://www.glossa-journal.org/article/id/5269",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">¿Quién</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cre-es</div>\n\t\t<div class=\"glossblock\">believe-2SG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[que</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ofend-ió</div>\n\t\t<div class=\"glossblock\">offend-3SG.PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tanto</div>\n\t\t<div class=\"glossblock\">so.much</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Julia</div>\n\t\t<div class=\"glossblock\">Julia</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">con</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">el</div>\n\t\t<div class=\"glossblock\">DET</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">discurso]?</div>\n\t\t<div class=\"glossblock\">discourse</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "who",
@@ -405,7 +399,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "¿Quién",
@@ -439,7 +433,7 @@
         "clength": 62,
         "doc_ID": 5269,
         "doc_URL": "https://www.glossa-journal.org/article/id/5269",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*¿De</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">quién</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cre-es</div>\n\t\t<div class=\"glossblock\">believe-2SG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[que</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">el</div>\n\t\t<div class=\"glossblock\">DET</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">discurso</div>\n\t\t<div class=\"glossblock\">discourse</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ofend-ió</div>\n\t\t<div class=\"glossblock\">offend-3SG.PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tanto</div>\n\t\t<div class=\"glossblock\">so.much</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Julia]?</div>\n\t\t<div class=\"glossblock\">Julia</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "of",
@@ -458,7 +452,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*¿De",
@@ -492,7 +486,7 @@
         "clength": 65,
         "doc_ID": 5269,
         "doc_URL": "https://www.glossa-journal.org/article/id/5269",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">¿Quién</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha</div>\n\t\t<div class=\"glossblock\">have.3SG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ped-ido</div>\n\t\t<div class=\"glossblock\">ask-PTCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[que</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">resolv-amos</div>\n\t\t<div class=\"glossblock\">solve-1PL.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">el</div>\n\t\t<div class=\"glossblock\">DET</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">problema</div>\n\t\t<div class=\"glossblock\">problem</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">en</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">DET</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">reunión]?</div>\n\t\t<div class=\"glossblock\">meeting</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "who",
@@ -511,7 +505,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "¿Quién",
@@ -545,7 +539,7 @@
         "clength": 64,
         "doc_ID": 5269,
         "doc_URL": "https://www.glossa-journal.org/article/id/5269",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">¿Quién</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha</div>\n\t\t<div class=\"glossblock\">have.3SG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hecho</div>\n\t\t<div class=\"glossblock\">make.PTCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">DET</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">petición</div>\n\t\t<div class=\"glossblock\">petition</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[que</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">resolv-amos</div>\n\t\t<div class=\"glossblock\">solve-1PL.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">el</div>\n\t\t<div class=\"glossblock\">DET</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">problema]?</div>\n\t\t<div class=\"glossblock\">problem</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "who",
@@ -564,7 +558,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "¿Quién",
@@ -599,7 +593,7 @@
         "clength": 64,
         "doc_ID": 5269,
         "doc_URL": "https://www.glossa-journal.org/article/id/5269",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">¿Qué</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-s</div>\n\t\t<div class=\"glossblock\">have-2SG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ped-ido</div>\n\t\t<div class=\"glossblock\">ask-PTCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[que</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">resolv-amos</div>\n\t\t<div class=\"glossblock\">solve-1PL.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">en</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">DET</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">reunión</div>\n\t\t<div class=\"glossblock\">meeting</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">el</div>\n\t\t<div class=\"glossblock\">DET</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">viernes]?</div>\n\t\t<div class=\"glossblock\">Friday</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "what",
@@ -618,7 +612,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "¿Qué",
@@ -653,7 +647,7 @@
         "clength": 64,
         "doc_ID": 5269,
         "doc_URL": "https://www.glossa-journal.org/article/id/5269",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*¿Qué</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-s</div>\n\t\t<div class=\"glossblock\">have-2SG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hecho</div>\n\t\t<div class=\"glossblock\">make.PTCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">DET</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">petición</div>\n\t\t<div class=\"glossblock\">petition</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[que</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">resolv-amos</div>\n\t\t<div class=\"glossblock\">solve-1PL.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">el</div>\n\t\t<div class=\"glossblock\">DET</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">viernes]?</div>\n\t\t<div class=\"glossblock\">Friday</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "what",
@@ -672,7 +666,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*¿Qué",
@@ -705,7 +699,7 @@
         "clength": 63,
         "doc_ID": 5269,
         "doc_URL": "https://www.glossa-journal.org/article/id/5269",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">¿Quién</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pens-ó</div>\n\t\t<div class=\"glossblock\">think-3SG.PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[que</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anunc-iamos</div>\n\t\t<div class=\"glossblock\">announce-1PL.PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">los</div>\n\t\t<div class=\"glossblock\">DET</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">despido-s</div>\n\t\t<div class=\"glossblock\">dismissal-PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">en</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">DET</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">reunión]?</div>\n\t\t<div class=\"glossblock\">meeting</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "who",
@@ -723,7 +717,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "¿Quién",
@@ -754,7 +748,7 @@
         "clength": 69,
         "doc_ID": 5269,
         "doc_URL": "https://www.glossa-journal.org/article/id/5269",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">¿Quién</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">protest-ó</div>\n\t\t<div class=\"glossblock\">complain-3SG.PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[cuando</div>\n\t\t<div class=\"glossblock\">when</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anunc-iamos</div>\n\t\t<div class=\"glossblock\">announce-1PL.PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">los</div>\n\t\t<div class=\"glossblock\">DET</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">despido-s</div>\n\t\t<div class=\"glossblock\">dismissal-PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">en</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">DET</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">reunión]?</div>\n\t\t<div class=\"glossblock\">meeting</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "who",
@@ -772,7 +766,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "¿Quién",
@@ -804,9 +798,12 @@
         "clength": 63,
         "doc_ID": 5269,
         "doc_URL": "https://www.glossa-journal.org/article/id/5269",
-        "entities": {
-            "Q2406791": "unexpectedly"
-        },
+        "entities": [
+            {
+                "label": "unexpectedly",
+                "wdid": "Q2406791"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">¿Qué</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pens-aste</div>\n\t\t<div class=\"glossblock\">think-2SG.PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[que</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anunc-iamos</div>\n\t\t<div class=\"glossblock\">announce-1PL.PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">en</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">DET</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">reunión</div>\n\t\t<div class=\"glossblock\">meeting</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">improviso]?</div>\n\t\t<div class=\"glossblock\">unexpected</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "what",
@@ -824,7 +821,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "¿Qué",
@@ -855,9 +852,12 @@
         "clength": 70,
         "doc_ID": 5269,
         "doc_URL": "https://www.glossa-journal.org/article/id/5269",
-        "entities": {
-            "Q2406791": "unexpectedly"
-        },
+        "entities": [
+            {
+                "label": "unexpectedly",
+                "wdid": "Q2406791"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*¿Qué</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">protest-aste</div>\n\t\t<div class=\"glossblock\">complain-2SG.PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[cuando</div>\n\t\t<div class=\"glossblock\">when</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anunc-iamos</div>\n\t\t<div class=\"glossblock\">announce-1PL.PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">en</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">DET</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">reunión</div>\n\t\t<div class=\"glossblock\">meeting</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">improviso]?</div>\n\t\t<div class=\"glossblock\">unexpected</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "what",
@@ -875,7 +875,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*¿Qué",
@@ -907,7 +907,7 @@
         "clength": 55,
         "doc_ID": 5269,
         "doc_URL": "https://www.glossa-journal.org/article/id/5269",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">¿Quién</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">piens-a</div>\n\t\t<div class=\"glossblock\">think-3SG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[que</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hemos</div>\n\t\t<div class=\"glossblock\">have.1PL.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">encontr-ado</div>\n\t\t<div class=\"glossblock\">find-PTCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">unas</div>\n\t\t<div class=\"glossblock\">some</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">llave-s]?</div>\n\t\t<div class=\"glossblock\">key-PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "who",
@@ -923,7 +923,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "¿Quién",
@@ -952,7 +952,7 @@
         "clength": 56,
         "doc_ID": 5269,
         "doc_URL": "https://www.glossa-journal.org/article/id/5269",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">¿Quién</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pregunt-a</div>\n\t\t<div class=\"glossblock\">ask-3SG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[si</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hemos</div>\n\t\t<div class=\"glossblock\">have.1PL.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">encontr-ado</div>\n\t\t<div class=\"glossblock\">find-PTCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">unas</div>\n\t\t<div class=\"glossblock\">some</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">llave-s]?</div>\n\t\t<div class=\"glossblock\">key-PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "who",
@@ -968,7 +968,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "¿Quién",
@@ -998,7 +998,7 @@
         "clength": 56,
         "doc_ID": 5269,
         "doc_URL": "https://www.glossa-journal.org/article/id/5269",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">¿Qué</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">piens-as</div>\n\t\t<div class=\"glossblock\">think-2SG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[que</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hemos</div>\n\t\t<div class=\"glossblock\">have.1PL.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">encontr-ado</div>\n\t\t<div class=\"glossblock\">find-PTCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">por</div>\n\t\t<div class=\"glossblock\">by</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">casualidad]?</div>\n\t\t<div class=\"glossblock\">chance</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "what",
@@ -1014,7 +1014,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "¿Qué",
@@ -1043,7 +1043,7 @@
         "clength": 58,
         "doc_ID": 5269,
         "doc_URL": "https://www.glossa-journal.org/article/id/5269",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*¿Qué</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pregunt-as</div>\n\t\t<div class=\"glossblock\">ask-2SG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[si</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hemos</div>\n\t\t<div class=\"glossblock\">have.1PL.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">encontr-ado</div>\n\t\t<div class=\"glossblock\">find-PTCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">por</div>\n\t\t<div class=\"glossblock\">by</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">casualidad]?</div>\n\t\t<div class=\"glossblock\">chance</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "what",
@@ -1059,7 +1059,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*¿Qué",

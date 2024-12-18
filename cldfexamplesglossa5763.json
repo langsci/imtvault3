@@ -16,9 +16,12 @@
         "clength": 33,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {
-            "Q7278": "political party"
-        },
+        "entities": [
+            {
+                "label": "political party",
+                "wdid": "Q7278"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nic(a)xon</div>\n\t\t<div class=\"glossblock\">victory.CS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-miflaga</div>\n\t\t<div class=\"glossblock\">the-political.party(F)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">al</div>\n\t\t<div class=\"glossblock\">on</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yerive-ha</div>\n\t\t<div class=\"glossblock\">rival.Pl.CS-3SgF.Poss</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "victory.CS",
@@ -30,20 +33,24 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q155076": "juridical person",
-            "Q163740": "Nonprofit_organization",
-            "Q23958946": "individual entity",
-            "Q24229398": "agent",
-            "Q26720107": "personal law",
-            "Q35120": "entity",
-            "Q3778211": "legal person",
-            "Q488383": "object",
-            "Q7210356": "political organization",
-            "Q79913": "Non-governmental_organization",
-            "Q830077": "subject"
-        },
+        "parententities": [
+            {
+                "label": "juridical person",
+                "wdid": "Q155076"
+            },
+            {
+                "label": "Nonprofit_organization",
+                "wdid": "Q163740"
+            },
+            {
+                "label": "political organization",
+                "wdid": "Q7210356"
+            },
+            {
+                "label": "Non-governmental_organization",
+                "wdid": "Q79913"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "nic(a)xon",
@@ -69,10 +76,16 @@
         "clength": 30,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {
-            "Q171497": "sunflowers",
-            "Q5582": "Van Gogh"
-        },
+        "entities": [
+            {
+                "label": "sunflowers",
+                "wdid": "Q171497"
+            },
+            {
+                "label": "Van Gogh",
+                "wdid": "Q5582"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tmunat</div>\n\t\t<div class=\"glossblock\">picture.CS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-xamaniot</div>\n\t\t<div class=\"glossblock\">the-sunflowers</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šel</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">van</div>\n\t\t<div class=\"glossblock\">Van</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gox</div>\n\t\t<div class=\"glossblock\">Gogh</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "picture.CS",
@@ -85,7 +98,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "tmunat",
@@ -125,7 +138,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*tmunat",
@@ -152,10 +165,16 @@
         "clength": 38,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {
-            "Q171497": "sunflowers",
-            "Q5582": "Van Gogh"
-        },
+        "entities": [
+            {
+                "label": "sunflowers",
+                "wdid": "Q171497"
+            },
+            {
+                "label": "Van Gogh",
+                "wdid": "Q5582"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tmunat</div>\n\t\t<div class=\"glossblock\">picture.CS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-xamaniot</div>\n\t\t<div class=\"glossblock\">the-sunflowers</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-yafa</div>\n\t\t<div class=\"glossblock\">the-beautiful</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šel</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">van</div>\n\t\t<div class=\"glossblock\">Van</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gox</div>\n\t\t<div class=\"glossblock\">Gogh</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "picture.CS",
@@ -169,7 +188,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "tmunat",
@@ -192,9 +211,12 @@
         "coordination": "and",
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {
-            "Q200814": "suitcases"
-        },
+        "entities": [
+            {
+                "label": "suitcases",
+                "wdid": "Q200814"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bdikat</div>\n\t\t<div class=\"glossblock\">examination</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mizvadot</div>\n\t\t<div class=\"glossblock\">suitcases</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ve-tikim</div>\n\t\t<div class=\"glossblock\">and-bags</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "examination",
@@ -205,7 +227,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "bdikat",
@@ -228,7 +250,7 @@
         "clength": 26,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">harisat</div>\n\t\t<div class=\"glossblock\">destruction</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-’oyev</div>\n\t\t<div class=\"glossblock\">the-enemy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘et</div>\n\t\t<div class=\"glossblock\">OM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-ir</div>\n\t\t<div class=\"glossblock\">the-city</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "destruction",
@@ -240,7 +262,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "harisat",
@@ -272,7 +294,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*harisat",
@@ -292,9 +314,12 @@
         "clength": 35,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {
-            "Q20727128": "Borer"
-        },
+        "entities": [
+            {
+                "label": "Borer",
+                "wdid": "Q20727128"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">harisat</div>\n\t\t<div class=\"glossblock\">destruction</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-’ir</div>\n\t\t<div class=\"glossblock\">the-city</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(‘al yedey</div>\n\t\t<div class=\"glossblock\">(by</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-’oyev)</div>\n\t\t<div class=\"glossblock\">the-enemy)</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "destruction",
@@ -306,7 +331,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "harisat",
@@ -328,7 +353,7 @@
         "clength": 40,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hafgazot</div>\n\t\t<div class=\"glossblock\">bombardments</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-cava</div>\n\t\t<div class=\"glossblock\">the-army</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-masiviyot</div>\n\t\t<div class=\"glossblock\">the-massive</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et</div>\n\t\t<div class=\"glossblock\">Acc</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-kfar</div>\n\t\t<div class=\"glossblock\">the-village</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "bombardments",
@@ -341,7 +366,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "hafgazot",
@@ -364,7 +389,7 @@
         "clength": 42,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*hafgazot</div>\n\t\t<div class=\"glossblock\">bombardments</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-cava</div>\n\t\t<div class=\"glossblock\">the-army</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘et</div>\n\t\t<div class=\"glossblock\">Acc</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-kfar</div>\n\t\t<div class=\"glossblock\">the-village</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-masiviyot</div>\n\t\t<div class=\"glossblock\">the-massive</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "bombardments",
@@ -377,7 +402,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*hafgazot",
@@ -400,9 +425,12 @@
         "clength": 48,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {
-            "Q4959328": "break of dawn"
-        },
+        "entities": [
+            {
+                "label": "break of dawn",
+                "wdid": "Q4959328"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">harisate-nu</div>\n\t\t<div class=\"glossblock\">destruction-our</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-axzarit</div>\n\t\t<div class=\"glossblock\">the-cruel</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et</div>\n\t\t<div class=\"glossblock\">Acc</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-ir</div>\n\t\t<div class=\"glossblock\">the-city</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">im</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">alot</div>\n\t\t<div class=\"glossblock\">break</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-šaxar</div>\n\t\t<div class=\"glossblock\">the-dawn</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "destruction-our",
@@ -417,7 +445,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "harisate-nu",
@@ -457,7 +485,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*harisate-nu",
@@ -480,7 +508,7 @@
         "clength": 46,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?harisat</div>\n\t\t<div class=\"glossblock\">destruction</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-migdal</div>\n\t\t<div class=\"glossblock\">the-tower</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-mehira</div>\n\t\t<div class=\"glossblock\">the-rapid</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘al-yedey</div>\n\t\t<div class=\"glossblock\">by</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-cava</div>\n\t\t<div class=\"glossblock\">the-army</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "destruction",
@@ -493,7 +521,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "?harisat",
@@ -531,7 +559,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ha-harisa",
@@ -569,7 +597,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*ha-harisa",
@@ -607,7 +635,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*ha-harisa",
@@ -641,7 +669,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*ha-harisa",
@@ -675,7 +703,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ha-harisa",
@@ -709,7 +737,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*ha-harisa",
@@ -743,7 +771,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*ha-harisa",
@@ -766,9 +794,12 @@
         "clength": 54,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {
-            "Q20727128": "Borer"
-        },
+        "entities": [
+            {
+                "label": "Borer",
+                "wdid": "Q20727128"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-harisa</div>\n\t\t<div class=\"glossblock\">the-destruction</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-’axzarit</div>\n\t\t<div class=\"glossblock\">the-cruel</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šel</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-’oyev</div>\n\t\t<div class=\"glossblock\">the-enemy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-xamuš</div>\n\t\t<div class=\"glossblock\">the-armed</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘et</div>\n\t\t<div class=\"glossblock\">Acc</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-’ir</div>\n\t\t<div class=\"glossblock\">the-city</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the-destruction",
@@ -783,7 +814,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ha-harisa",
@@ -809,7 +840,7 @@
         "clength": 39,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-axila</div>\n\t\t<div class=\"glossblock\">the-eating</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-menumeset</div>\n\t\t<div class=\"glossblock\">the-polite</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šel</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dan</div>\n\t\t<div class=\"glossblock\">Dan</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et</div>\n\t\t<div class=\"glossblock\">Acc</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-uga</div>\n\t\t<div class=\"glossblock\">the-cake</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the-eating",
@@ -823,7 +854,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ha-axila",
@@ -848,7 +879,7 @@
         "clength": 40,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*ha-axila</div>\n\t\t<div class=\"glossblock\">the-eating</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šel</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dan</div>\n\t\t<div class=\"glossblock\">Dan</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-menumeset</div>\n\t\t<div class=\"glossblock\">the-polite</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et</div>\n\t\t<div class=\"glossblock\">Acc</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-uga</div>\n\t\t<div class=\"glossblock\">the-cake</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the-eating",
@@ -862,7 +893,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*ha-axila",
@@ -903,7 +934,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ha-’axila",
@@ -944,7 +975,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "?*ha-’axila",
@@ -969,7 +1000,7 @@
         "clength": 63,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-’axila</div>\n\t\t<div class=\"glossblock\">the-eating</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-menumeset</div>\n\t\t<div class=\"glossblock\">the-polite</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šel</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dan</div>\n\t\t<div class=\"glossblock\">Dan</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘et</div>\n\t\t<div class=\"glossblock\">Acc</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-tapu’ax</div>\n\t\t<div class=\"glossblock\">the-apple</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">be</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mehirut</div>\n\t\t<div class=\"glossblock\">quickness</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ka-zot</div>\n\t\t<div class=\"glossblock\">such</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the-eating",
@@ -986,7 +1017,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ha-’axila",
@@ -1011,7 +1042,7 @@
         "clength": 51,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-harisa</div>\n\t\t<div class=\"glossblock\">the-destruction</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-’axzarit</div>\n\t\t<div class=\"glossblock\">the-cruel</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šel</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-’ir</div>\n\t\t<div class=\"glossblock\">the-city</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘al yedey</div>\n\t\t<div class=\"glossblock\">by</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-’oyev</div>\n\t\t<div class=\"glossblock\">the-enemy</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the-destruction",
@@ -1025,7 +1056,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ha-harisa",
@@ -1064,7 +1095,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ha-tmuna",
@@ -1103,7 +1134,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ha-tmuna",
@@ -1125,9 +1156,12 @@
         "clength": 40,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {
-            "Q26949": "sunflowers"
-        },
+        "entities": [
+            {
+                "label": "sunflowers",
+                "wdid": "Q26949"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-ciyur</div>\n\t\t<div class=\"glossblock\">the-painting</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-baayati</div>\n\t\t<div class=\"glossblock\">the-problematic</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meod</div>\n\t\t<div class=\"glossblock\">very</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šel</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-xamaniot</div>\n\t\t<div class=\"glossblock\">the-sunflowers</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the-painting",
@@ -1140,7 +1174,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ha-ciyur",
@@ -1164,9 +1198,12 @@
         "clength": 37,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {
-            "Q5582": "Van Gogh"
-        },
+        "entities": [
+            {
+                "label": "Van Gogh",
+                "wdid": "Q5582"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-ciyur</div>\n\t\t<div class=\"glossblock\">the-painting</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-baayati</div>\n\t\t<div class=\"glossblock\">the-problematic</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meod</div>\n\t\t<div class=\"glossblock\">very</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šel</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">van</div>\n\t\t<div class=\"glossblock\">Van</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gogh</div>\n\t\t<div class=\"glossblock\">Gogh</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the-painting",
@@ -1180,7 +1217,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ha-ciyur",
@@ -1205,10 +1242,16 @@
         "clength": 54,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {
-            "Q171497": "sunflowers",
-            "Q5582": "Van Gogh"
-        },
+        "entities": [
+            {
+                "label": "sunflowers",
+                "wdid": "Q171497"
+            },
+            {
+                "label": "Van Gogh",
+                "wdid": "Q5582"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*ha-ciyur</div>\n\t\t<div class=\"glossblock\">the-painting</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šel</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-xamaniot</div>\n\t\t<div class=\"glossblock\">the-sunflowers</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-baayati</div>\n\t\t<div class=\"glossblock\">the-problematic</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meod</div>\n\t\t<div class=\"glossblock\">very</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šel</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">van</div>\n\t\t<div class=\"glossblock\">Van</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gogh</div>\n\t\t<div class=\"glossblock\">Gogh</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the-painting",
@@ -1224,7 +1267,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*ha-ciyur",
@@ -1251,10 +1294,16 @@
         "clength": 54,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {
-            "Q171497": "sunflowers",
-            "Q5582": "Van Gogh"
-        },
+        "entities": [
+            {
+                "label": "sunflowers",
+                "wdid": "Q171497"
+            },
+            {
+                "label": "Van Gogh",
+                "wdid": "Q5582"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*ha-ciyur</div>\n\t\t<div class=\"glossblock\">the-painting</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šel</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">van</div>\n\t\t<div class=\"glossblock\">Van</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gogh</div>\n\t\t<div class=\"glossblock\">Gogh</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-baayati</div>\n\t\t<div class=\"glossblock\">the-problematic</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meod</div>\n\t\t<div class=\"glossblock\">very</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šel</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-xamaniot</div>\n\t\t<div class=\"glossblock\">the-sunflowers</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the-painting",
@@ -1270,7 +1319,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*ha-ciyur",
@@ -1294,9 +1343,12 @@
         "clength": 63,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {
-            "Q4959328": "break of dawn"
-        },
+        "entities": [
+            {
+                "label": "break of dawn",
+                "wdid": "Q4959328"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">harisat</div>\n\t\t<div class=\"glossblock\">destruction</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-migdal</div>\n\t\t<div class=\"glossblock\">the-tower</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-mehira</div>\n\t\t<div class=\"glossblock\">the-rapid</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘al-yedey</div>\n\t\t<div class=\"glossblock\">by</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-cava</div>\n\t\t<div class=\"glossblock\">the-army</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">im</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a lot</div>\n\t\t<div class=\"glossblock\">break</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-šaxar</div>\n\t\t<div class=\"glossblock\">the-dawn</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "destruction",
@@ -1312,7 +1364,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "harisat",
@@ -1336,9 +1388,12 @@
         "clength": 62,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {
-            "Q4959328": "break of dawn"
-        },
+        "entities": [
+            {
+                "label": "break of dawn",
+                "wdid": "Q4959328"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">harisat</div>\n\t\t<div class=\"glossblock\">destruction</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-migdal</div>\n\t\t<div class=\"glossblock\">the-tower</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-mehira</div>\n\t\t<div class=\"glossblock\">the-rapid</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">im</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">alot</div>\n\t\t<div class=\"glossblock\">break</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-šaxar</div>\n\t\t<div class=\"glossblock\">the-dawn</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘al-yedey</div>\n\t\t<div class=\"glossblock\">by</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-cava</div>\n\t\t<div class=\"glossblock\">the-army</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "destruction",
@@ -1354,7 +1409,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "harisat",
@@ -1382,10 +1437,16 @@
         "clength": 32,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {
-            "Q18125": "Manchester",
-            "Q24826": "Liverpool"
-        },
+        "entities": [
+            {
+                "label": "Manchester",
+                "wdid": "Q18125"
+            },
+            {
+                "label": "Liverpool",
+                "wdid": "Q24826"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*nic(a)xon</div>\n\t\t<div class=\"glossblock\">the-victory.CS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">al</div>\n\t\t<div class=\"glossblock\">on</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mančester</div>\n\t\t<div class=\"glossblock\">Manchester</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">liverpul</div>\n\t\t<div class=\"glossblock\">Liverpool</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the-victory.CS",
@@ -1397,7 +1458,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*nic(a)xon",
@@ -1423,10 +1484,16 @@
         "clength": 36,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {
-            "Q18125": "Manchester",
-            "Q24826": "Liverpool"
-        },
+        "entities": [
+            {
+                "label": "Manchester",
+                "wdid": "Q18125"
+            },
+            {
+                "label": "Liverpool",
+                "wdid": "Q24826"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-nicaxon</div>\n\t\t<div class=\"glossblock\">the-victory.NCS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šel</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">liverpul</div>\n\t\t<div class=\"glossblock\">Liverpool</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">al</div>\n\t\t<div class=\"glossblock\">on</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mančester</div>\n\t\t<div class=\"glossblock\">Manchester</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the-victory.NCS",
@@ -1439,7 +1506,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ha-nicaxon",
@@ -1466,10 +1533,16 @@
         "clength": 37,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {
-            "Q18125": "Manchester",
-            "Q24826": "Liverpool"
-        },
+        "entities": [
+            {
+                "label": "Manchester",
+                "wdid": "Q18125"
+            },
+            {
+                "label": "Liverpool",
+                "wdid": "Q24826"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?ha-nicaxon</div>\n\t\t<div class=\"glossblock\">the-victory.NCS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">al</div>\n\t\t<div class=\"glossblock\">on</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mančester</div>\n\t\t<div class=\"glossblock\">Manchester</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šel</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">liverpul</div>\n\t\t<div class=\"glossblock\">Liverpool</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the-victory.NCS",
@@ -1482,7 +1555,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "?ha-nicaxon",
@@ -1507,7 +1580,7 @@
         "clength": 24,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zo</div>\n\t\t<div class=\"glossblock\">this</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dira</div>\n\t\t<div class=\"glossblock\">apartment</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rexavat</div>\n\t\t<div class=\"glossblock\">wide(FS)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xalonot.</div>\n\t\t<div class=\"glossblock\">windows</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "this",
@@ -1519,7 +1592,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "zo",
@@ -1539,7 +1612,7 @@
         "clength": 23,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mixtav</div>\n\t\t<div class=\"glossblock\">letter</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-yeled</div>\n\t\t<div class=\"glossblock\">the-child</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">el</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">acmo</div>\n\t\t<div class=\"glossblock\">himself</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "letter",
@@ -1551,7 +1624,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mixtav",
@@ -1571,7 +1644,7 @@
         "clength": 25,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mixtav</div>\n\t\t<div class=\"glossblock\">letter</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kol</div>\n\t\t<div class=\"glossblock\">every</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iša</div>\n\t\t<div class=\"glossblock\">woman</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le-ba’al-a</div>\n\t\t<div class=\"glossblock\">to-husband-her</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "letter",
@@ -1583,7 +1656,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "mixtav",
@@ -1605,10 +1678,16 @@
         "clength": 61,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {
-            "Q11629": "painter",
-            "Q234": "Flemish"
-        },
+        "entities": [
+            {
+                "label": "painter",
+                "wdid": "Q11629"
+            },
+            {
+                "label": "Flemish",
+                "wdid": "Q234"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rai’iti</div>\n\t\t<div class=\"glossblock\">saw.I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ba-ta’aruxa</div>\n\t\t<div class=\"glossblock\">at.the-exhibition</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dyokan</div>\n\t\t<div class=\"glossblock\">portrait</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šel</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iša</div>\n\t\t<div class=\"glossblock\">woman</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">flemit</div>\n\t\t<div class=\"glossblock\">flemish</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šel</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kol</div>\n\t\t<div class=\"glossblock\">every</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cayar</div>\n\t\t<div class=\"glossblock\">painter</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yadua</div>\n\t\t<div class=\"glossblock\">famous</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "saw.I",
@@ -1626,36 +1705,28 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q104127086": "memory",
-            "Q11028": "information",
-            "Q1150070": "change",
-            "Q1190554": "occurrence",
-            "Q12488383": "content",
-            "Q16887380": "group",
-            "Q184872": "recreation",
-            "Q1914636": "activity",
-            "Q2018526": "arts",
-            "Q20937557": "sequence",
-            "Q26907166": "temporal entity",
-            "Q28813620": "set",
-            "Q3249551": "process",
-            "Q35120": "entity",
-            "Q36649": "visual arts",
-            "Q3769299": "human behavior",
-            "Q451967": "intentional human activity",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q61788060": "human activity",
-            "Q67518978": "occurrent",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q735": "Art",
-            "Q80083": "humanities",
-            "Q9081": "Knowledge",
-            "Q9332": "behavior",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "recreation",
+                "wdid": "Q184872"
+            },
+            {
+                "label": "arts",
+                "wdid": "Q2018526"
+            },
+            {
+                "label": "visual arts",
+                "wdid": "Q36649"
+            },
+            {
+                "label": "Art",
+                "wdid": "Q735"
+            },
+            {
+                "label": "humanities",
+                "wdid": "Q80083"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "rai’iti",
@@ -1683,7 +1754,7 @@
         "clength": 60,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rai’ti</div>\n\t\t<div class=\"glossblock\">saw.I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ba-ta’aruxa</div>\n\t\t<div class=\"glossblock\">at.the-exhibition</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dyokan</div>\n\t\t<div class=\"glossblock\">portrait</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šel</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cayar</div>\n\t\t<div class=\"glossblock\">painter</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">flemi</div>\n\t\t<div class=\"glossblock\">flemish</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šel</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kol</div>\n\t\t<div class=\"glossblock\">every</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iša</div>\n\t\t<div class=\"glossblock\">woman</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yedu’a</div>\n\t\t<div class=\"glossblock\">famous</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "saw.I",
@@ -1701,7 +1772,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "rai’ti",
@@ -1742,7 +1813,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ha-tmuna",
@@ -1780,7 +1851,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ha-tmuna",
@@ -1807,7 +1878,7 @@
         "clength": 34,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-tmuna</div>\n\t\t<div class=\"glossblock\">the-picture</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šelo₁</div>\n\t\t<div class=\"glossblock\">of-him</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šel</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[ima</div>\n\t\t<div class=\"glossblock\">[mother</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šel</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dani₁]</div>\n\t\t<div class=\"glossblock\">Dani]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the-picture",
@@ -1821,7 +1892,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ha-tmuna",
@@ -1845,7 +1916,7 @@
         "clength": 34,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-tmuna</div>\n\t\t<div class=\"glossblock\">the-picture</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šel</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[ima</div>\n\t\t<div class=\"glossblock\">[mother</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šel</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dani₁]</div>\n\t\t<div class=\"glossblock\">Dani]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šelo₁</div>\n\t\t<div class=\"glossblock\">of-him</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the-picture",
@@ -1859,7 +1930,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ha-tmuna",
@@ -1897,7 +1968,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ha-ahava",
@@ -1934,7 +2005,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*ha-ahava",
@@ -1969,7 +2040,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "beyt",
@@ -2001,7 +2072,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*ha-beyt",
@@ -2028,7 +2099,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ha-bayit"
@@ -2045,7 +2116,7 @@
         "clength": 25,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kol/rov</div>\n\t\t<div class=\"glossblock\">all/most</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘aseret</div>\n\t\t<div class=\"glossblock\">ten</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dibrot</div>\n\t\t<div class=\"glossblock\">commandments</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "all/most",
@@ -2057,7 +2128,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "kol/rov",
@@ -2091,7 +2162,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "rabanim",
@@ -2129,7 +2200,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ha",
@@ -2153,7 +2224,7 @@
         "clength": 19,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(ha)</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘iš</div>\n\t\t<div class=\"glossblock\">man</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(ha)</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šliši</div>\n\t\t<div class=\"glossblock\">third</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -2165,7 +2236,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "(ha)",
@@ -2193,12 +2264,24 @@
         "coordination": "or",
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {
-            "Q133485": "Rabbi",
-            "Q2026038": "Shlonsky",
-            "Q582965": "colorful",
-            "Q5914617": "house manager"
-        },
+        "entities": [
+            {
+                "label": "Rabbi",
+                "wdid": "Q133485"
+            },
+            {
+                "label": "Shlonsky",
+                "wdid": "Q2026038"
+            },
+            {
+                "label": "colorful",
+                "wdid": "Q582965"
+            },
+            {
+                "label": "house manager",
+                "wdid": "Q5914617"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kis</div>\n\t\t<div class=\"glossblock\">pocket(M)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xulcat</div>\n\t\t<div class=\"glossblock\">shirt(F)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">menahelet</div>\n\t\t<div class=\"glossblock\">manager(F)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">beit</div>\n\t\t<div class=\"glossblock\">house(M)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rav</div>\n\t\t<div class=\"glossblock\">Rabbi(M)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">civ’oni</div>\n\t\t<div class=\"glossblock\">colorful(M)</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "pocket(M)",
@@ -2214,7 +2297,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "kis",
@@ -2245,7 +2328,7 @@
         "clength": 36,
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kisey</div>\n\t\t<div class=\"glossblock\">pockets.M.Pl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-xulca</div>\n\t\t<div class=\"glossblock\">the-shirt.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-xadaša</div>\n\t\t<div class=\"glossblock\">the-new.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha-civ’onim</div>\n\t\t<div class=\"glossblock\">the-colorful.M.Pl</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "pockets.M.Pl",
@@ -2257,7 +2340,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "kisey",
@@ -2296,7 +2379,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*kisey",
@@ -2329,7 +2412,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "misgeret",
@@ -2363,7 +2446,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*misgeret",
@@ -2396,7 +2479,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "kol",
@@ -2428,7 +2511,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "xameš",
@@ -2449,9 +2532,12 @@
         "coordination": "and",
         "doc_ID": 5763,
         "doc_URL": "https://www.glossa-journal.org/article/id/5763",
-        "entities": {
-            "Q200814": "suitcases"
-        },
+        "entities": [
+            {
+                "label": "suitcases",
+                "wdid": "Q200814"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bdikat</div>\n\t\t<div class=\"glossblock\">examination</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mizvadot</div>\n\t\t<div class=\"glossblock\">suitcases</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ve-tikim</div>\n\t\t<div class=\"glossblock\">and-bags</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mehira</div>\n\t\t<div class=\"glossblock\">rapid</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "examination",
@@ -2463,7 +2549,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "bdikat",
@@ -2495,7 +2581,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*sifrey",

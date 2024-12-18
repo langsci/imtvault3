@@ -15,11 +15,20 @@
         "clength": 101,
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {
-            "Q161652": "Japanese",
-            "Q21004257": "PH",
-            "Q33117": "CSJ"
-        },
+        "entities": [
+            {
+                "label": "Japanese",
+                "wdid": "Q161652"
+            },
+            {
+                "label": "PH",
+                "wdid": "Q21004257"
+            },
+            {
+                "label": "CSJ",
+                "wdid": "Q33117"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kore</div>\n\t\t<div class=\"glossblock\">this</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shugo-desu-yone.</div>\n\t\t<div class=\"glossblock\">subject-COP-FP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Desukara</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">maa</div>\n\t\t<div class=\"glossblock\">INTJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ano</div>\n\t\t<div class=\"glossblock\">INTJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bunpootekina</div>\n\t\t<div class=\"glossblock\">grammatical</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ano</div>\n\t\t<div class=\"glossblock\">INTJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-ga</div>\n\t\t<div class=\"glossblock\">PH-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kinoo-ga</div>\n\t\t<div class=\"glossblock\">function-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">chotto</div>\n\t\t<div class=\"glossblock\">somewhat</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">chigau-ndesu-keredomo</div>\n\t\t<div class=\"glossblock\">differ-MM-but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[…]</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "this",
@@ -39,7 +48,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Kore",
@@ -75,9 +84,12 @@
         "coordination": "and",
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {
-            "Q21004257": "PH"
-        },
+        "entities": [
+            {
+                "label": "PH",
+                "wdid": "Q21004257"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Moosukoshi</div>\n\t\t<div class=\"glossblock\">a.little.more</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nantoka</div>\n\t\t<div class=\"glossblock\">somehow</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anoo</div>\n\t\t<div class=\"glossblock\">INTJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-te</div>\n\t\t<div class=\"glossblock\">PH-CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">moosukoshi</div>\n\t\t<div class=\"glossblock\">a.little.more</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">asobiarui-te</div>\n\t\t<div class=\"glossblock\">jaunt.around-CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anoo</div>\n\t\t<div class=\"glossblock\">INTJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">chishiki-o</div>\n\t\t<div class=\"glossblock\">knowledge-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e-tai-to</div>\n\t\t<div class=\"glossblock\">gain-DES-QUOT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">omot-te</div>\n\t\t<div class=\"glossblock\">think-CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[…]</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "a.little.more",
@@ -96,7 +108,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Moosukoshi",
@@ -137,12 +149,24 @@
         "coordination": "and",
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {
-            "Q132705": "Niigata",
-            "Q14754454": "flatmate",
-            "Q202595": "prefecture",
-            "Q21004257": "PH"
-        },
+        "entities": [
+            {
+                "label": "Niigata",
+                "wdid": "Q132705"
+            },
+            {
+                "label": "flatmate",
+                "wdid": "Q14754454"
+            },
+            {
+                "label": "prefecture",
+                "wdid": "Q202595"
+            },
+            {
+                "label": "PH",
+                "wdid": "Q21004257"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dookyonin-no</div>\n\t\t<div class=\"glossblock\">roommate-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oya-ga</div>\n\t\t<div class=\"glossblock\">parent-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nanka</div>\n\t\t<div class=\"glossblock\">INTJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">niigata-ken-kara</div>\n\t\t<div class=\"glossblock\">Niigata-prefecture-from</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ki-te</div>\n\t\t<div class=\"glossblock\">come-CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[uchi-no</div>\n\t\t<div class=\"glossblock\">[1PL-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">musume-o</div>\n\t\t<div class=\"glossblock\">daughter-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">onegaishimasu]-mitaina.</div>\n\t\t<div class=\"glossblock\">please]-like</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sooiu</div>\n\t\t<div class=\"glossblock\">such</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tsumori-janakat-ta-noni</div>\n\t\t<div class=\"glossblock\">intention-COP.NEG-PST-but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mitai</div>\n\t\t<div class=\"glossblock\">like</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">demo</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">moo</div>\n\t\t<div class=\"glossblock\">now</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\">PH</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">damedesu-ne.</div>\n\t\t<div class=\"glossblock\">unavoidable-FP</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "that",
@@ -166,7 +190,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Sono",
@@ -207,12 +231,24 @@
         "clength": 77,
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {
-            "Q21004257": "PH",
-            "Q2705098": "TV personality",
-            "Q2901826": "talks a lot",
-            "Q336181": "variety programme"
-        },
+        "entities": [
+            {
+                "label": "PH",
+                "wdid": "Q21004257"
+            },
+            {
+                "label": "TV personality",
+                "wdid": "Q2705098"
+            },
+            {
+                "label": "talks a lot",
+                "wdid": "Q2901826"
+            },
+            {
+                "label": "variety programme",
+                "wdid": "Q336181"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\">much.NPI</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shaberu-no-ga</div>\n\t\t<div class=\"glossblock\">talk-NMLS-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-yone.</div>\n\t\t<div class=\"glossblock\">PH-FP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kooiu</div>\n\t\t<div class=\"glossblock\">this.kind</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">baraetii-de</div>\n\t\t<div class=\"glossblock\">variety.programme-in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shaberi-soona</div>\n\t\t<div class=\"glossblock\">talk-seem</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kanji-ja-nai-desu-yone.</div>\n\t\t<div class=\"glossblock\">feeling-COP-NEG-HON-FP</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "much.NPI",
@@ -227,7 +263,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -261,7 +297,7 @@
         "clength": 37,
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Anmari</div>\n\t\t<div class=\"glossblock\">much.NPI</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shaberu-no-ga</div>\n\t\t<div class=\"glossblock\">talk-NMLS-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tokuidesu-yone.</div>\n\t\t<div class=\"glossblock\">good.at-FP</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "much.NPI",
@@ -272,7 +308,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Anmari",
@@ -298,9 +334,12 @@
         "clength": 42,
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {
-            "Q21004257": "PH"
-        },
+        "entities": [
+            {
+                "label": "PH",
+                "wdid": "Q21004257"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Kinoo-wa</div>\n\t\t<div class=\"glossblock\">yesterday-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\">much.NPI</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-ta-yo…,</div>\n\t\t<div class=\"glossblock\">PH-PST-FP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">etto…,</div>\n\t\t<div class=\"glossblock\">well</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ne-nakat-ta-yo.</div>\n\t\t<div class=\"glossblock\">sleep-NEG-PST-FP</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday-TOP",
@@ -313,7 +352,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Kinoo-wa",
@@ -341,10 +380,16 @@
         "clength": 37,
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {
-            "Q21004257": "PH",
-            "Q334637": "detergent"
-        },
+        "entities": [
+            {
+                "label": "PH",
+                "wdid": "Q21004257"
+            },
+            {
+                "label": "detergent",
+                "wdid": "Q334637"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">J’ai</div>\n\t\t<div class=\"glossblock\">I.have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">besoin</div>\n\t\t<div class=\"glossblock\">necessity</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">du</div>\n\t\t<div class=\"glossblock\">of.the.MAS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">/</div>\n\t\t<div class=\"glossblock\">PH</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pour</div>\n\t\t<div class=\"glossblock\">for</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">laver</div>\n\t\t<div class=\"glossblock\">wash</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">linge.</div>\n\t\t<div class=\"glossblock\">laundry</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I.have",
@@ -360,7 +405,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "J’ai",
@@ -391,11 +436,20 @@
         "clength": 59,
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {
-            "Q21004257": "PH",
-            "Q5389": "Olympic Games",
-            "Q84263196": "COVID-19"
-        },
+        "entities": [
+            {
+                "label": "PH",
+                "wdid": "Q21004257"
+            },
+            {
+                "label": "Olympic Games",
+                "wdid": "Q5389"
+            },
+            {
+                "label": "COVID-19",
+                "wdid": "Q84263196"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Les</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jeux</div>\n\t\t<div class=\"glossblock\">games</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Olympiques</div>\n\t\t<div class=\"glossblock\">Olympics</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pourraient</div>\n\t\t<div class=\"glossblock\">might</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">être</div>\n\t\t<div class=\"glossblock\">be</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">annulés</div>\n\t\t<div class=\"glossblock\">cancelled</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">en</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">raison</div>\n\t\t<div class=\"glossblock\">reason</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">du</div>\n\t\t<div class=\"glossblock\">of.the.MAS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">/.</div>\n\t\t<div class=\"glossblock\">PH</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -413,135 +467,176 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q101991": "Inflammation",
-            "Q104493": "risk",
-            "Q107295072": "no title",
-            "Q108163": "proposition",
-            "Q10862449": "difference",
-            "Q11028": "information",
-            "Q1132455": "Hazard",
-            "Q1150070": "change",
-            "Q11516357": "adverse event",
-            "Q1168263": "function",
-            "Q1190554": "occurrence",
-            "Q12044624": "periodic process",
-            "Q1207505": "quality",
-            "Q12136": "Disease",
-            "Q12192": "Pneumonia",
-            "Q1284347": "Pneumonitis",
-            "Q13406554": "Sports_competition",
-            "Q13878858": "natural process",
-            "Q1441305": "clinical sign",
-            "Q15275719": "recurring event",
-            "Q15916540": "semantic unit",
-            "Q160402": "perception",
-            "Q1656682": "event",
-            "Q166231": "Infection",
-            "Q167170": "multi-sport event",
-            "Q16877783": "meaning",
-            "Q16887380": "group",
-            "Q16889133": "class",
-            "Q169872": "symptom",
-            "Q1724915": "use",
-            "Q1786828": "constituent",
-            "Q18123741": "infectious disease",
-            "Q182672": "Zoonosis",
-            "Q183046": "meaning",
-            "Q18553224": "lower_respiratory_tract_disease",
-            "Q18557436": "disease of anatomical entity",
-            "Q18603648": "contributing factor",
-            "Q18608583": "recurring_sporting_event",
-            "Q188572": "fact",
-            "Q18967413": "RNA_virus_infectious_disease",
-            "Q18975243": "Coronavirus_diseases",
-            "Q18975246": "Coronaviridae_infectious_disease",
-            "Q18975248": "Nidovirales_infectious_disease",
-            "Q1914636": "activity",
-            "Q1928978": "viral infectious disease",
-            "Q193181": "observation",
-            "Q203066": "relation",
-            "Q2057971": "health problem",
-            "Q20817253": "linguistic unit",
-            "Q2083837": "vector-borne disease",
-            "Q20937557": "sequence",
-            "Q21170479": "possibility",
-            "Q217594": "class",
-            "Q246672": "mathematical object",
-            "Q25383952": "exogenous disease",
-            "Q2603200": "Viral_pneumonia",
-            "Q2633267": "Atypical_pneumonia",
-            "Q2684591": "statement",
-            "Q26907166": "temporal entity",
-            "Q28807560": "clinical finding",
-            "Q28813620": "set",
-            "Q29182544": "assignment",
-            "Q29651519": "mental object",
-            "Q29896155": "difference",
-            "Q2995644": "result",
-            "Q2996394": "biological process",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q31464082": "source",
-            "Q31836626": "general_symptom",
-            "Q3249551": "process",
-            "Q3286546": "respiratory disease",
-            "Q3392853": "lung_disease",
-            "Q3505845": "state",
-            "Q35120": "entity",
-            "Q36161": "set",
-            "Q3631290": "Lower_respiratory_tract_infection",
-            "Q372016": "Pathogenesis",
-            "Q3769299": "human behavior",
-            "Q4026292": "action",
-            "Q41796": "sentence",
-            "Q42183538": "respiratory_signs_and_symptoms",
-            "Q42417296": "infection associated with diseases",
-            "Q42848": "data",
-            "Q4393498": "representation",
-            "Q44637051": "international competition",
-            "Q451967": "intentional human activity",
-            "Q474328": "declarative sentence",
-            "Q476300": "Competition",
-            "Q483247": "phenomenon",
-            "Q488383": "object",
-            "Q52948": "interaction",
-            "Q5371079": "emic unit",
-            "Q5422048": "external risk",
-            "Q5469988": "formalization",
-            "Q55009681": "(+)ssRNA_virus_infectious_disease",
-            "Q55091441": "operation result",
-            "Q55790495": "acute_viral_respiratory_tract_infection",
-            "Q567555": "anomaly",
-            "Q58415929": "spatio-temporal entity",
-            "Q5909198": "Host–pathogen_interaction",
-            "Q61788060": "human activity",
-            "Q621184": "problem",
-            "Q628523": "Message",
-            "Q639907": "medical finding",
-            "Q64732777": "biological phenomenon",
-            "Q67518233": "process",
-            "Q67518978": "occurrent",
-            "Q6804646": "Mechanism_(biology)",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q7189713": "physiological condition",
-            "Q754447": "Respiratory_tract_infection",
-            "Q781413": "mental process",
-            "Q813912": "condition",
-            "Q849149": "deviation",
-            "Q855395": "interpretation",
-            "Q864377": "multiset",
-            "Q86923152": "risk source",
-            "Q87075524": "health risk",
-            "Q9190427": "animal_disease",
-            "Q930933": "relation",
-            "Q9332": "behavior",
-            "Q937228": "property",
-            "Q9380010": "utterance",
-            "Q944806": "operational risk",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Sports_competition",
+                "wdid": "Q13406554"
+            },
+            {
+                "label": "recurring event",
+                "wdid": "Q15275719"
+            },
+            {
+                "label": "event",
+                "wdid": "Q1656682"
+            },
+            {
+                "label": "multi-sport event",
+                "wdid": "Q167170"
+            },
+            {
+                "label": "recurring_sporting_event",
+                "wdid": "Q18608583"
+            },
+            {
+                "label": "international competition",
+                "wdid": "Q44637051"
+            },
+            {
+                "label": "Competition",
+                "wdid": "Q476300"
+            },
+            {
+                "label": "interaction",
+                "wdid": "Q52948"
+            },
+            {
+                "label": "Inflammation",
+                "wdid": "Q101991"
+            },
+            {
+                "label": "adverse event",
+                "wdid": "Q11516357"
+            },
+            {
+                "label": "Disease",
+                "wdid": "Q12136"
+            },
+            {
+                "label": "Pneumonia",
+                "wdid": "Q12192"
+            },
+            {
+                "label": "Pneumonitis",
+                "wdid": "Q1284347"
+            },
+            {
+                "label": "natural process",
+                "wdid": "Q13878858"
+            },
+            {
+                "label": "clinical sign",
+                "wdid": "Q1441305"
+            },
+            {
+                "label": "Infection",
+                "wdid": "Q166231"
+            },
+            {
+                "label": "infectious disease",
+                "wdid": "Q18123741"
+            },
+            {
+                "label": "Zoonosis",
+                "wdid": "Q182672"
+            },
+            {
+                "label": "lower_respiratory_tract_disease",
+                "wdid": "Q18553224"
+            },
+            {
+                "label": "RNA_virus_infectious_disease",
+                "wdid": "Q18967413"
+            },
+            {
+                "label": "Coronavirus_diseases",
+                "wdid": "Q18975243"
+            },
+            {
+                "label": "Coronaviridae_infectious_disease",
+                "wdid": "Q18975246"
+            },
+            {
+                "label": "Nidovirales_infectious_disease",
+                "wdid": "Q18975248"
+            },
+            {
+                "label": "viral infectious disease",
+                "wdid": "Q1928978"
+            },
+            {
+                "label": "health problem",
+                "wdid": "Q2057971"
+            },
+            {
+                "label": "vector-borne disease",
+                "wdid": "Q2083837"
+            },
+            {
+                "label": "exogenous disease",
+                "wdid": "Q25383952"
+            },
+            {
+                "label": "Viral_pneumonia",
+                "wdid": "Q2603200"
+            },
+            {
+                "label": "Atypical_pneumonia",
+                "wdid": "Q2633267"
+            },
+            {
+                "label": "general_symptom",
+                "wdid": "Q31836626"
+            },
+            {
+                "label": "respiratory disease",
+                "wdid": "Q3286546"
+            },
+            {
+                "label": "lung_disease",
+                "wdid": "Q3392853"
+            },
+            {
+                "label": "Lower_respiratory_tract_infection",
+                "wdid": "Q3631290"
+            },
+            {
+                "label": "Pathogenesis",
+                "wdid": "Q372016"
+            },
+            {
+                "label": "respiratory_signs_and_symptoms",
+                "wdid": "Q42183538"
+            },
+            {
+                "label": "infection associated with diseases",
+                "wdid": "Q42417296"
+            },
+            {
+                "label": "(+)ssRNA_virus_infectious_disease",
+                "wdid": "Q55009681"
+            },
+            {
+                "label": "acute_viral_respiratory_tract_infection",
+                "wdid": "Q55790495"
+            },
+            {
+                "label": "Host–pathogen_interaction",
+                "wdid": "Q5909198"
+            },
+            {
+                "label": "Mechanism_(biology)",
+                "wdid": "Q6804646"
+            },
+            {
+                "label": "Respiratory_tract_infection",
+                "wdid": "Q754447"
+            },
+            {
+                "label": "animal_disease",
+                "wdid": "Q9190427"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Les",
@@ -569,9 +664,12 @@
         "clength": 41,
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {
-            "Q21004257": "PH"
-        },
+        "entities": [
+            {
+                "label": "PH",
+                "wdid": "Q21004257"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Tiens,</div>\n\t\t<div class=\"glossblock\">hey</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">il</div>\n\t\t<div class=\"glossblock\">it</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">y</div>\n\t\t<div class=\"glossblock\">there</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\">PH</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qui</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lit</div>\n\t\t<div class=\"glossblock\">read</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">un</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">journal</div>\n\t\t<div class=\"glossblock\">newspaper</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">là-bas.</div>\n\t\t<div class=\"glossblock\">over.there</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "hey",
@@ -589,7 +687,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Tiens,",
@@ -623,9 +721,12 @@
         "clength": 44,
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {
-            "Q21004257": "PH"
-        },
+        "entities": [
+            {
+                "label": "PH",
+                "wdid": "Q21004257"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">J’ai</div>\n\t\t<div class=\"glossblock\">I.have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">besoin</div>\n\t\t<div class=\"glossblock\">necessity</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">d’un</div>\n\t\t<div class=\"glossblock\">of.a.MAS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">plus</div>\n\t\t<div class=\"glossblock\">more</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gros</div>\n\t\t<div class=\"glossblock\">big.MAS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">/</div>\n\t\t<div class=\"glossblock\">PH</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(ah</div>\n\t\t<div class=\"glossblock\">(ah</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oui…,</div>\n\t\t<div class=\"glossblock\">yes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vis).</div>\n\t\t<div class=\"glossblock\">screw.FEM)</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I.have",
@@ -642,7 +743,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "J’ai",
@@ -674,7 +775,7 @@
         "clength": 32,
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*J’ai</div>\n\t\t<div class=\"glossblock\">I.have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">besoin</div>\n\t\t<div class=\"glossblock\">necessity</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">d’un</div>\n\t\t<div class=\"glossblock\">of.a.MAS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">plus</div>\n\t\t<div class=\"glossblock\">more</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gros</div>\n\t\t<div class=\"glossblock\">big.MAS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vis.</div>\n\t\t<div class=\"glossblock\">screw.FEM</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I.have",
@@ -688,7 +789,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*J’ai",
@@ -729,7 +830,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "J’ai",
@@ -758,9 +859,12 @@
         "clength": 24,
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {
-            "Q21004257": "PH"
-        },
+        "entities": [
+            {
+                "label": "PH",
+                "wdid": "Q21004257"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">brauche</div>\n\t\t<div class=\"glossblock\">need</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eine</div>\n\t\t<div class=\"glossblock\">a.FEM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">große</div>\n\t\t<div class=\"glossblock\">big.FEM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\">PH</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -773,7 +877,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ich",
@@ -814,7 +918,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "♯Ich",
@@ -840,9 +944,12 @@
         "clength": 44,
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {
-            "Q21004257": "PH"
-        },
+        "entities": [
+            {
+                "label": "PH",
+                "wdid": "Q21004257"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">brauche</div>\n\t\t<div class=\"glossblock\">need</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ein</div>\n\t\t<div class=\"glossblock\">a.NEUT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">großes</div>\n\t\t<div class=\"glossblock\">big.NEUT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\">PH</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(…,</div>\n\t\t<div class=\"glossblock\">(</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ähm…,</div>\n\t\t<div class=\"glossblock\">well</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Schraube).</div>\n\t\t<div class=\"glossblock\">screw.FEM)</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -858,7 +965,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ich",
@@ -889,7 +996,7 @@
         "clength": 33,
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">brauche</div>\n\t\t<div class=\"glossblock\">need</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ein</div>\n\t\t<div class=\"glossblock\">a.NEUT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">großes</div>\n\t\t<div class=\"glossblock\">big.NEUT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Schraube.</div>\n\t\t<div class=\"glossblock\">screw.FEM</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -902,7 +1009,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Ich",
@@ -941,7 +1048,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ich",
@@ -966,7 +1073,7 @@
         "clength": 12,
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\">DEM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\">CLF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">likai-le.</div>\n\t\t<div class=\"glossblock\">leave-PFV</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "DEM",
@@ -978,7 +1085,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "",
@@ -1015,7 +1122,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ken-ga",
@@ -1037,10 +1144,16 @@
         "clength": 13,
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {
-            "Q1030752": "salient",
-            "Q22907467": "contextually"
-        },
+        "entities": [
+            {
+                "label": "salient",
+                "wdid": "Q1030752"
+            },
+            {
+                "label": "contextually",
+                "wdid": "Q22907467"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hashit-teiru.</div>\n\t\t<div class=\"glossblock\">run-IPFV</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "run-IPFV"
@@ -1049,7 +1162,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Hashit-teiru."
@@ -1081,7 +1194,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ken-wa",
@@ -1111,7 +1224,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ken",
@@ -1146,7 +1259,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Leo",
@@ -1184,7 +1297,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Naomi-ga",
@@ -1210,9 +1323,12 @@
         "clength": 48,
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {
-            "Q21004257": "PH"
-        },
+        "entities": [
+            {
+                "label": "PH",
+                "wdid": "Q21004257"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Kinoo-wa</div>\n\t\t<div class=\"glossblock\">yesterday-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anmari</div>\n\t\t<div class=\"glossblock\">much.NPI</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-ta-yo…,</div>\n\t\t<div class=\"glossblock\">PH-PST-FP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">etto…,</div>\n\t\t<div class=\"glossblock\">well</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ne-nakat-ta-yo.</div>\n\t\t<div class=\"glossblock\">sleep-NEG-PST-FP</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday-TOP",
@@ -1225,7 +1341,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Kinoo-wa",
@@ -1253,9 +1369,12 @@
         "clength": 48,
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {
-            "Q21004257": "PH"
-        },
+        "entities": [
+            {
+                "label": "PH",
+                "wdid": "Q21004257"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kinoo-wa</div>\n\t\t<div class=\"glossblock\">yesterday-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anmari</div>\n\t\t<div class=\"glossblock\">much.NPI</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">--ta-yo…,</div>\n\t\t<div class=\"glossblock\">PH-NEG-PST-FP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">etto…,</div>\n\t\t<div class=\"glossblock\">well</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ne-nakat-ta-yo.</div>\n\t\t<div class=\"glossblock\">sleep-NEG-PST-FP</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday-TOP",
@@ -1268,7 +1387,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Kinoo-wa",
@@ -1297,9 +1416,12 @@
         "clength": 44,
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {
-            "Q21004257": "PH"
-        },
+        "entities": [
+            {
+                "label": "PH",
+                "wdid": "Q21004257"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">J′ai</div>\n\t\t<div class=\"glossblock\">I.have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">besoin</div>\n\t\t<div class=\"glossblock\">necessity</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">d’un</div>\n\t\t<div class=\"glossblock\">of.a.MAS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">plus</div>\n\t\t<div class=\"glossblock\">more</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gros</div>\n\t\t<div class=\"glossblock\">big.MAS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">/</div>\n\t\t<div class=\"glossblock\">PH</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(ah</div>\n\t\t<div class=\"glossblock\">(ah</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oui…,</div>\n\t\t<div class=\"glossblock\">yes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vis).</div>\n\t\t<div class=\"glossblock\">screw.FEM)</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I.have",
@@ -1316,7 +1438,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "J′ai",
@@ -1350,7 +1472,7 @@
         "clength": 38,
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bigat-en</div>\n\t\t<div class=\"glossblock\">morning-CMPL.ASP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a-</div>\n\t\t<div class=\"glossblock\">PTCL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nga</div>\n\t\t<div class=\"glossblock\">LIG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-n,</div>\n\t\t<div class=\"glossblock\">PH-PTCL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">naka-riing</div>\n\t\t<div class=\"glossblock\">ADJ.CMPL.ASP.INTR-wake.up</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kano-n.</div>\n\t\t<div class=\"glossblock\">HRS-PTCL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "morning-CMPL.ASP",
@@ -1364,7 +1486,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "bigat-en",
@@ -1390,10 +1512,16 @@
         "clength": 33,
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {
-            "Q191954": "President of France",
-            "Q21004257": "PH"
-        },
+        "entities": [
+            {
+                "label": "President of France",
+                "wdid": "Q191954"
+            },
+            {
+                "label": "PH",
+                "wdid": "Q21004257"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ao--de</div>\n\t\t<div class=\"glossblock\">Hollande</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shi</div>\n\t\t<div class=\"glossblock\">be</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xianren</div>\n\t\t<div class=\"glossblock\">current</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Faguo</div>\n\t\t<div class=\"glossblock\">France</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zongtong</div>\n\t\t<div class=\"glossblock\">President</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Hollande",
@@ -1406,7 +1534,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ao--de",
@@ -1431,9 +1559,12 @@
         "clength": 30,
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {
-            "Q21004257": "PH"
-        },
+        "entities": [
+            {
+                "label": "PH",
+                "wdid": "Q21004257"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sooieba,</div>\n\t\t<div class=\"glossblock\">that.reminds.me</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\">PH</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">omoshiroi-njanai-no?</div>\n\t\t<div class=\"glossblock\">interesting-MM-Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "that.reminds.me",
@@ -1444,7 +1575,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Sooieba,",
@@ -1463,9 +1594,12 @@
         "clength": 12,
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {
-            "Q177900": "transcription"
-        },
+        "entities": [
+            {
+                "label": "transcription",
+                "wdid": "Q177900"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Nanka,</div>\n\t\t<div class=\"glossblock\">like</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ano=.</div>\n\t\t<div class=\"glossblock\">um</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "like",
@@ -1475,7 +1609,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Nanka,",
@@ -1506,7 +1640,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Tokuzawa",
@@ -1536,7 +1670,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Chau",
@@ -1561,9 +1695,12 @@
         "clength": 45,
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {
-            "Q21527601": "Denial"
-        },
+        "entities": [
+            {
+                "label": "Denial",
+                "wdid": "Q21527601"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ano,</div>\n\t\t<div class=\"glossblock\">um</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hotta</div>\n\t\t<div class=\"glossblock\">Hotta</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Tsutomu-ga</div>\n\t\t<div class=\"glossblock\">Tsutomu-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaita,</div>\n\t\t<div class=\"glossblock\">wrote</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">“hinin”-teyuuno.</div>\n\t\t<div class=\"glossblock\">“denial”-something.called</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "um",
@@ -1576,7 +1713,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ano,",
@@ -1599,9 +1736,12 @@
         "clength": 25,
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {
-            "Q21004257": "PH"
-        },
+        "entities": [
+            {
+                "label": "PH",
+                "wdid": "Q21004257"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.hh</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kõige</div>\n\t\t<div class=\"glossblock\">most</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tähtsam</div>\n\t\t<div class=\"glossblock\">important</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">on</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-</div>\n\t\t<div class=\"glossblock\">PH</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -1615,7 +1755,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             ".hh",
@@ -1649,7 +1789,7 @@
         "clength": 31,
         "doc_ID": 9174,
         "doc_URL": "https://www.glossa-journal.org/article/id/9174",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">To</div>\n\t\t<div class=\"glossblock\">it.CL.ACC.NEUT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">diavasa</div>\n\t\t<div class=\"glossblock\">read.1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xtes,,</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tin</div>\n\t\t<div class=\"glossblock\">the.ACC.FEM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">epistoli.</div>\n\t\t<div class=\"glossblock\">letter.ACC.FEM</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "it.CL.ACC.NEUT",
@@ -1662,7 +1802,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "To",

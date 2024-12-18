@@ -23,7 +23,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "r-",
@@ -54,7 +54,7 @@
         "coordination": "or",
         "doc_ID": 6562,
         "doc_URL": "https://www.glossa-journal.org/article/id/6562",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oλu-l</div>\n\t\t<div class=\"glossblock\">DEM.OBL-ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">b-u<wɑ́>č’e-r</div>\n\t\t<div class=\"glossblock\">4-cut<>-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">baba</div>\n\t\t<div class=\"glossblock\">bread.4</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "DEM.OBL-ERG",
@@ -65,7 +65,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "oλu-l",
@@ -89,9 +89,12 @@
         "clength": 40,
         "doc_ID": 6562,
         "doc_URL": "https://www.glossa-journal.org/article/id/6562",
-        "entities": {
-            "Q205835": "snore"
-        },
+        "entities": [
+            {
+                "label": "snore",
+                "wdid": "Q205835"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ǝg-ra</div>\n\t\t<div class=\"glossblock\">that-PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʕadam-la</div>\n\t\t<div class=\"glossblock\">person-PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">b-u<wɑ́>t’-oλ</div>\n\t\t<div class=\"glossblock\">4-sleep<>-WHEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xo-ra-baa-∅</div>\n\t\t<div class=\"glossblock\">snore-AP--PRES</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "that-PL",
@@ -103,76 +106,20 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q104493": "risk",
-            "Q108163": "proposition",
-            "Q11028": "information",
-            "Q1132455": "Hazard",
-            "Q1150070": "change",
-            "Q1168263": "function",
-            "Q1190554": "occurrence",
-            "Q1207505": "quality",
-            "Q1441305": "clinical sign",
-            "Q15916540": "semantic unit",
-            "Q160402": "perception",
-            "Q16877783": "meaning",
-            "Q16887380": "group",
-            "Q16889133": "class",
-            "Q169872": "symptom",
-            "Q1724915": "use",
-            "Q1786828": "constituent",
-            "Q183046": "meaning",
-            "Q18603648": "contributing factor",
-            "Q188572": "fact",
-            "Q1914636": "activity",
-            "Q193181": "observation",
-            "Q2057971": "health problem",
-            "Q20817253": "linguistic unit",
-            "Q20937557": "sequence",
-            "Q21170479": "possibility",
-            "Q246672": "mathematical object",
-            "Q2684591": "statement",
-            "Q26907166": "temporal entity",
-            "Q28807560": "clinical finding",
-            "Q28813620": "set",
-            "Q29182544": "assignment",
-            "Q29651519": "mental object",
-            "Q30060700": "scientific object",
-            "Q31464082": "source",
-            "Q3249551": "process",
-            "Q3505845": "state",
-            "Q35120": "entity",
-            "Q3769299": "human behavior",
-            "Q4026292": "action",
-            "Q41796": "sentence",
-            "Q42183538": "respiratory_signs_and_symptoms",
-            "Q42848": "data",
-            "Q451967": "intentional human activity",
-            "Q474328": "declarative sentence",
-            "Q483247": "phenomenon",
-            "Q488383": "object",
-            "Q5371079": "emic unit",
-            "Q5422048": "external risk",
-            "Q58415929": "spatio-temporal entity",
-            "Q61788060": "human activity",
-            "Q621184": "problem",
-            "Q628523": "Message",
-            "Q639907": "medical finding",
-            "Q67518978": "occurrent",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q7189713": "physiological condition",
-            "Q781413": "mental process",
-            "Q813912": "condition",
-            "Q855395": "interpretation",
-            "Q86923152": "risk source",
-            "Q87075524": "health risk",
-            "Q9332": "behavior",
-            "Q937228": "property",
-            "Q9380010": "utterance",
-            "Q944806": "operational risk",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "clinical sign",
+                "wdid": "Q1441305"
+            },
+            {
+                "label": "health problem",
+                "wdid": "Q2057971"
+            },
+            {
+                "label": "respiratory_signs_and_symptoms",
+                "wdid": "Q42183538"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "ǝg-ra",
@@ -206,7 +153,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "q’ǝra",
@@ -236,7 +183,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "koxaa (be.dirty) +",
@@ -266,7 +213,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "šóše (bandage) +",
@@ -296,7 +243,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ék (fall) +",

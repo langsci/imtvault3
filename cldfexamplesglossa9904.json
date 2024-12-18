@@ -19,10 +19,16 @@
         "clength": 63,
         "doc_ID": 9904,
         "doc_URL": "https://www.glossa-journal.org/article/id/9904",
-        "entities": {
-            "Q129308": "John",
-            "Q82674": "Mary"
-        },
+        "entities": [
+            {
+                "label": "John",
+                "wdid": "Q129308"
+            },
+            {
+                "label": "Mary",
+                "wdid": "Q82674"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Meeli</div>\n\t\t<div class=\"glossblock\">Mary.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hi-’nip-e</div>\n\t\t<div class=\"glossblock\">3SUBJ-buy-TAM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(qetu)</div>\n\t\t<div class=\"glossblock\">more</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">himeeq’is</div>\n\t\t<div class=\"glossblock\">big</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘atoc</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[John-nim-kin’ix’ ‘atoc]</div>\n\t\t<div class=\"glossblock\">John-GEN-from car</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mary.NOM",
@@ -36,7 +42,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Meeli",
@@ -67,7 +73,7 @@
         "clength": 54,
         "doc_ID": 9904,
         "doc_URL": "https://www.glossa-journal.org/article/id/9904",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#Meeli</div>\n\t\t<div class=\"glossblock\">Mary.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hi-’nip-e</div>\n\t\t<div class=\"glossblock\">3SUBJ-buy-TAM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(qetu)</div>\n\t\t<div class=\"glossblock\">more</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">himeeq’is</div>\n\t\t<div class=\"glossblock\">big</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘atoc</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[John-kin’ix’]</div>\n\t\t<div class=\"glossblock\">John-from</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mary.NOM",
@@ -81,7 +87,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "#Meeli",

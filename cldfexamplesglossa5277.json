@@ -15,11 +15,20 @@
         "coordination": "and",
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {
-            "Q1021711": "seaside resort",
-            "Q208704": "flirting",
-            "Q218679": "Colette"
-        },
+        "entities": [
+            {
+                "label": "seaside resort",
+                "wdid": "Q1021711"
+            },
+            {
+                "label": "flirting",
+                "wdid": "Q208704"
+            },
+            {
+                "label": "Colette",
+                "wdid": "Q218679"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">On</div>\n\t\t<div class=\"glossblock\">one</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">him</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dit</div>\n\t\t<div class=\"glossblock\">says</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aux</div>\n\t\t<div class=\"glossblock\">at.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bains</div>\n\t\t<div class=\"glossblock\">baths</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mer,</div>\n\t\t<div class=\"glossblock\">sea</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">quelque part,</div>\n\t\t<div class=\"glossblock\">somewhere</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">où</div>\n\t\t<div class=\"glossblock\">where</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">il</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lézarde</div>\n\t\t<div class=\"glossblock\">lizard.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">flirte.</div>\n\t\t<div class=\"glossblock\">flirt.PRES.3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "one",
@@ -40,7 +49,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "On",
@@ -81,11 +90,20 @@
         "clength": 86,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {
-            "Q133156": "colonies",
-            "Q7271644": "quibbles",
-            "Q75": "Internet"
-        },
+        "entities": [
+            {
+                "label": "colonies",
+                "wdid": "Q133156"
+            },
+            {
+                "label": "quibbles",
+                "wdid": "Q7271644"
+            },
+            {
+                "label": "Internet",
+                "wdid": "Q75"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">On</div>\n\t\t<div class=\"glossblock\">one</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">diplomatise,</div>\n\t\t<div class=\"glossblock\">diplomat.VBZ.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">on</div>\n\t\t<div class=\"glossblock\">one</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">discutaille,</div>\n\t\t<div class=\"glossblock\">quibble.VBZ.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">les</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">autres</div>\n\t\t<div class=\"glossblock\">others</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ils</div>\n\t\t<div class=\"glossblock\">they</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">continuent</div>\n\t\t<div class=\"glossblock\">continue.PRES.3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">d’implanter</div>\n\t\t<div class=\"glossblock\">to set up</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">des</div>\n\t\t<div class=\"glossblock\">INDEF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">colonies.</div>\n\t\t<div class=\"glossblock\">colonies</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "one",
@@ -105,54 +123,64 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q106865223": "technical system",
-            "Q1068715": "Telecommunications_network",
-            "Q110910055": "region of space",
-            "Q1150771": "output",
-            "Q1207505": "quality",
-            "Q121359": "infrastructure",
-            "Q1347367": "aptitude",
-            "Q1454986": "physical system",
-            "Q1496967": "territory",
-            "Q151885": "concept",
-            "Q15401930": "artificial object",
-            "Q15642541": "human-geographic territorial entity",
-            "Q161243": "Dependent_territory",
-            "Q16686448": "artificial object",
-            "Q17334923": "physical location",
-            "Q1900326": "network",
-            "Q2145290": "mental representation",
-            "Q2221906": "geographic location",
-            "Q223557": "physical object",
-            "Q27096213": "geographic entity",
-            "Q27096235": "artificial geographic entity",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q386724": "work",
-            "Q4393498": "representation",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q56061": "administrative territorial entity",
-            "Q577764": "Communications_system",
-            "Q58415929": "spatio-temporal entity",
-            "Q58416391": "spatial object",
-            "Q58778": "system",
-            "Q618123": "geographical feature",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q8205328": "artificial physical object",
-            "Q82794": "geographic region",
-            "Q930933": "relation",
-            "Q937228": "property",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "territory",
+                "wdid": "Q1496967"
+            },
+            {
+                "label": "human-geographic territorial entity",
+                "wdid": "Q15642541"
+            },
+            {
+                "label": "Dependent_territory",
+                "wdid": "Q161243"
+            },
+            {
+                "label": "geographic location",
+                "wdid": "Q2221906"
+            },
+            {
+                "label": "geographic entity",
+                "wdid": "Q27096213"
+            },
+            {
+                "label": "artificial geographic entity",
+                "wdid": "Q27096235"
+            },
+            {
+                "label": "administrative territorial entity",
+                "wdid": "Q56061"
+            },
+            {
+                "label": "geographical feature",
+                "wdid": "Q618123"
+            },
+            {
+                "label": "geographic region",
+                "wdid": "Q82794"
+            },
+            {
+                "label": "Telecommunications_network",
+                "wdid": "Q1068715"
+            },
+            {
+                "label": "infrastructure",
+                "wdid": "Q121359"
+            },
+            {
+                "label": "aptitude",
+                "wdid": "Q1347367"
+            },
+            {
+                "label": "network",
+                "wdid": "Q1900326"
+            },
+            {
+                "label": "Communications_system",
+                "wdid": "Q577764"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "On",
@@ -192,11 +220,20 @@
         "coordination": "and",
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {
-            "Q329": "Sarkozy",
-            "Q46": "Europe",
-            "Q75": "Internet"
-        },
+        "entities": [
+            {
+                "label": "Sarkozy",
+                "wdid": "Q329"
+            },
+            {
+                "label": "Europe",
+                "wdid": "Q46"
+            },
+            {
+                "label": "Internet",
+                "wdid": "Q75"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Les</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">spasms</div>\n\t\t<div class=\"glossblock\">spasms</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">financiers</div>\n\t\t<div class=\"glossblock\">financial</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tenaillent</div>\n\t\t<div class=\"glossblock\">torment</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">l’Europe.</div>\n\t\t<div class=\"glossblock\">the Europe</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sarkozy</div>\n\t\t<div class=\"glossblock\">Sarkozy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sarkoze</div>\n\t\t<div class=\"glossblock\">sarkoz.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Merkel</div>\n\t\t<div class=\"glossblock\">Merkel</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">merkelise.</div>\n\t\t<div class=\"glossblock\">merkel.VBZ.PRES.3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -214,53 +251,60 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q106865223": "technical system",
-            "Q1068715": "Telecommunications_network",
-            "Q107425": "Landscape",
-            "Q11081619": "Land",
-            "Q110910055": "region of space",
-            "Q1150771": "output",
-            "Q1207505": "quality",
-            "Q121359": "infrastructure",
-            "Q1347367": "aptitude",
-            "Q1454986": "physical system",
-            "Q1496967": "territory",
-            "Q151885": "concept",
-            "Q15401930": "artificial object",
-            "Q16686448": "artificial object",
-            "Q17334923": "physical location",
-            "Q1900326": "network",
-            "Q205895": "landmass",
-            "Q20719696": "physico-geographical object",
-            "Q2145290": "mental representation",
-            "Q2221906": "geographic location",
-            "Q223557": "physical object",
-            "Q27096213": "geographic entity",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q386724": "work",
-            "Q4393498": "representation",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q577764": "Communications_system",
-            "Q58415929": "spatio-temporal entity",
-            "Q58416391": "spatial object",
-            "Q58778": "system",
-            "Q618123": "geographical feature",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q82794": "geographic region",
-            "Q930933": "relation",
-            "Q937228": "property",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Landscape",
+                "wdid": "Q107425"
+            },
+            {
+                "label": "Land",
+                "wdid": "Q11081619"
+            },
+            {
+                "label": "territory",
+                "wdid": "Q1496967"
+            },
+            {
+                "label": "physico-geographical object",
+                "wdid": "Q20719696"
+            },
+            {
+                "label": "geographic location",
+                "wdid": "Q2221906"
+            },
+            {
+                "label": "geographic entity",
+                "wdid": "Q27096213"
+            },
+            {
+                "label": "geographical feature",
+                "wdid": "Q618123"
+            },
+            {
+                "label": "geographic region",
+                "wdid": "Q82794"
+            },
+            {
+                "label": "Telecommunications_network",
+                "wdid": "Q1068715"
+            },
+            {
+                "label": "infrastructure",
+                "wdid": "Q121359"
+            },
+            {
+                "label": "aptitude",
+                "wdid": "Q1347367"
+            },
+            {
+                "label": "network",
+                "wdid": "Q1900326"
+            },
+            {
+                "label": "Communications_system",
+                "wdid": "Q577764"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Les",
@@ -296,12 +340,24 @@
         "coordination": "and",
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {
-            "Q193582": "National Assembly",
-            "Q329": "Sarkozy",
-            "Q7283": "terrorizing",
-            "Q75": "Internet"
-        },
+        "entities": [
+            {
+                "label": "National Assembly",
+                "wdid": "Q193582"
+            },
+            {
+                "label": "Sarkozy",
+                "wdid": "Q329"
+            },
+            {
+                "label": "terrorizing",
+                "wdid": "Q7283"
+            },
+            {
+                "label": "Internet",
+                "wdid": "Q75"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Valls</div>\n\t\t<div class=\"glossblock\">Valls</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sarkozyse</div>\n\t\t<div class=\"glossblock\">sarkozy.VBZ.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">terrorise</div>\n\t\t<div class=\"glossblock\">terrorizes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">droite</div>\n\t\t<div class=\"glossblock\">right</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">à</div>\n\t\t<div class=\"glossblock\">at</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">l’Assemblée</div>\n\t\t<div class=\"glossblock\">the assembly</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nationale.</div>\n\t\t<div class=\"glossblock\">national</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Valls",
@@ -318,36 +374,28 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q106865223": "technical system",
-            "Q1068715": "Telecommunications_network",
-            "Q1150771": "output",
-            "Q1207505": "quality",
-            "Q121359": "infrastructure",
-            "Q1347367": "aptitude",
-            "Q151885": "concept",
-            "Q15401930": "artificial object",
-            "Q16686448": "artificial object",
-            "Q1900326": "network",
-            "Q2145290": "mental representation",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q386724": "work",
-            "Q4393498": "representation",
-            "Q488383": "object",
-            "Q577764": "Communications_system",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q930933": "relation",
-            "Q937228": "property",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Telecommunications_network",
+                "wdid": "Q1068715"
+            },
+            {
+                "label": "infrastructure",
+                "wdid": "Q121359"
+            },
+            {
+                "label": "aptitude",
+                "wdid": "Q1347367"
+            },
+            {
+                "label": "network",
+                "wdid": "Q1900326"
+            },
+            {
+                "label": "Communications_system",
+                "wdid": "Q577764"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Valls",
@@ -380,10 +428,16 @@
         "clength": 69,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {
-            "Q75": "Internet",
-            "Q814722": "participles"
-        },
+        "entities": [
+            {
+                "label": "Internet",
+                "wdid": "Q75"
+            },
+            {
+                "label": "participles",
+                "wdid": "Q814722"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Quand</div>\n\t\t<div class=\"glossblock\">when</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">on</div>\n\t\t<div class=\"glossblock\">one</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pédantise,</div>\n\t\t<div class=\"glossblock\">pedant.VBZ.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">on</div>\n\t\t<div class=\"glossblock\">one</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">essaie</div>\n\t\t<div class=\"glossblock\">tries</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">d’accorder</div>\n\t\t<div class=\"glossblock\">to agree</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">les</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">participes</div>\n\t\t<div class=\"glossblock\">participles</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">correctement.</div>\n\t\t<div class=\"glossblock\">correctly</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "when",
@@ -400,42 +454,36 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q106865223": "technical system",
-            "Q1068715": "Telecommunications_network",
-            "Q1150771": "output",
-            "Q1207505": "quality",
-            "Q121359": "infrastructure",
-            "Q1347367": "aptitude",
-            "Q151885": "concept",
-            "Q15401930": "artificial object",
-            "Q16686448": "artificial object",
-            "Q16887380": "group",
-            "Q184754": "string",
-            "Q1900326": "network",
-            "Q20937557": "sequence",
-            "Q2145290": "mental representation",
-            "Q28813620": "set",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q386724": "work",
-            "Q4393498": "representation",
-            "Q4423888": "form",
-            "Q488383": "object",
-            "Q54553409": "verb_form",
-            "Q577764": "Communications_system",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q930933": "relation",
-            "Q937228": "property",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Telecommunications_network",
+                "wdid": "Q1068715"
+            },
+            {
+                "label": "infrastructure",
+                "wdid": "Q121359"
+            },
+            {
+                "label": "aptitude",
+                "wdid": "Q1347367"
+            },
+            {
+                "label": "network",
+                "wdid": "Q1900326"
+            },
+            {
+                "label": "Communications_system",
+                "wdid": "Q577764"
+            },
+            {
+                "label": "form",
+                "wdid": "Q4423888"
+            },
+            {
+                "label": "verb_form",
+                "wdid": "Q54553409"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Quand",
@@ -464,11 +512,20 @@
         "clength": 68,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {
-            "Q15879": "lizard",
-            "Q185260": "basking",
-            "Q75": "Internet"
-        },
+        "entities": [
+            {
+                "label": "lizard",
+                "wdid": "Q15879"
+            },
+            {
+                "label": "basking",
+                "wdid": "Q185260"
+            },
+            {
+                "label": "Internet",
+                "wdid": "Q75"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mon</div>\n\t\t<div class=\"glossblock\">my</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">doudou</div>\n\t\t<div class=\"glossblock\">honey</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">un</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vrai</div>\n\t\t<div class=\"glossblock\">true</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lézard.</div>\n\t\t<div class=\"glossblock\">lizard</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Il</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">adore</div>\n\t\t<div class=\"glossblock\">adores</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">prélasser</div>\n\t\t<div class=\"glossblock\">bask</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sous</div>\n\t\t<div class=\"glossblock\">under</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">soleil.</div>\n\t\t<div class=\"glossblock\">sun</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "my",
@@ -489,36 +546,28 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q106865223": "technical system",
-            "Q1068715": "Telecommunications_network",
-            "Q1150771": "output",
-            "Q1207505": "quality",
-            "Q121359": "infrastructure",
-            "Q1347367": "aptitude",
-            "Q151885": "concept",
-            "Q15401930": "artificial object",
-            "Q16686448": "artificial object",
-            "Q1900326": "network",
-            "Q2145290": "mental representation",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q386724": "work",
-            "Q4393498": "representation",
-            "Q488383": "object",
-            "Q577764": "Communications_system",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q930933": "relation",
-            "Q937228": "property",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Telecommunications_network",
+                "wdid": "Q1068715"
+            },
+            {
+                "label": "infrastructure",
+                "wdid": "Q121359"
+            },
+            {
+                "label": "aptitude",
+                "wdid": "Q1347367"
+            },
+            {
+                "label": "network",
+                "wdid": "Q1900326"
+            },
+            {
+                "label": "Communications_system",
+                "wdid": "Q577764"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Mon",
@@ -547,9 +596,12 @@
         "clength": 37,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {
-            "Q193391": "diplomat"
-        },
+        "entities": [
+            {
+                "label": "diplomat",
+                "wdid": "Q193391"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Cette</div>\n\t\t<div class=\"glossblock\">this</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">petite</div>\n\t\t<div class=\"glossblock\">little</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fille</div>\n\t\t<div class=\"glossblock\">girl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">diplomate!</div>\n\t\t<div class=\"glossblock\">diplomat</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "this",
@@ -563,53 +615,104 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q106559804": "person or organization",
-            "Q108289024": "chief executives, senior officials and legislators",
-            "Q108289363": "legislators and senior officials",
-            "Q108290289": "senior government officials",
-            "Q110551885": "mammal",
-            "Q110551902": "vertebrate",
-            "Q1162163": "director",
-            "Q1251441": "Leader",
-            "Q154954": "natural person",
-            "Q159344": "heterotroph",
-            "Q15978631": "Homo sapiens",
-            "Q164509": "omnivore",
-            "Q16532929": "administrator",
-            "Q18336849": "",
-            "Q20920693": "chief",
-            "Q212238": "civil servant",
-            "Q215627": "person",
-            "Q23958946": "individual entity",
-            "Q24229398": "agent",
-            "Q2462658": "Manager",
-            "Q25713832": "leader of organization",
-            "Q26720107": "personal law",
-            "Q27043950": "anatomical entity",
-            "Q278368": "User_(computing)",
-            "Q29651224": "natural object",
-            "Q327055": "Worker",
-            "Q35120": "entity",
-            "Q3778211": "legal person",
-            "Q488383": "object",
-            "Q5": "human",
-            "Q53617489": "independent continuant",
-            "Q572700": "Bureaucrat",
-            "Q599151": "Official",
-            "Q613354": "user",
-            "Q702269": "professional",
-            "Q703534": "employee",
-            "Q7239": "Organism",
-            "Q72638": "consumer",
-            "Q729": "Animal",
-            "Q795052": "individual",
-            "Q80363469": "government employee",
-            "Q830077": "subject",
-            "Q852998": "stakeholder",
-            "Q978044": "executive"
-        },
+        "parententities": [
+            {
+                "label": "mammal",
+                "wdid": "Q110551885"
+            },
+            {
+                "label": "vertebrate",
+                "wdid": "Q110551902"
+            },
+            {
+                "label": "director",
+                "wdid": "Q1162163"
+            },
+            {
+                "label": "Leader",
+                "wdid": "Q1251441"
+            },
+            {
+                "label": "natural person",
+                "wdid": "Q154954"
+            },
+            {
+                "label": "heterotroph",
+                "wdid": "Q159344"
+            },
+            {
+                "label": "omnivore",
+                "wdid": "Q164509"
+            },
+            {
+                "label": "administrator",
+                "wdid": "Q16532929"
+            },
+            {
+                "label": "chief",
+                "wdid": "Q20920693"
+            },
+            {
+                "label": "civil servant",
+                "wdid": "Q212238"
+            },
+            {
+                "label": "person",
+                "wdid": "Q215627"
+            },
+            {
+                "label": "Manager",
+                "wdid": "Q2462658"
+            },
+            {
+                "label": "leader of organization",
+                "wdid": "Q25713832"
+            },
+            {
+                "label": "User_(computing)",
+                "wdid": "Q278368"
+            },
+            {
+                "label": "Worker",
+                "wdid": "Q327055"
+            },
+            {
+                "label": "human",
+                "wdid": "Q5"
+            },
+            {
+                "label": "Bureaucrat",
+                "wdid": "Q572700"
+            },
+            {
+                "label": "Official",
+                "wdid": "Q599151"
+            },
+            {
+                "label": "user",
+                "wdid": "Q613354"
+            },
+            {
+                "label": "employee",
+                "wdid": "Q703534"
+            },
+            {
+                "label": "Animal",
+                "wdid": "Q729"
+            },
+            {
+                "label": "government employee",
+                "wdid": "Q80363469"
+            },
+            {
+                "label": "stakeholder",
+                "wdid": "Q852998"
+            },
+            {
+                "label": "executive",
+                "wdid": "Q978044"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Cette",
@@ -638,11 +741,20 @@
         "clength": 101,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {
-            "Q143945": "Carla Bruni",
-            "Q329": "Sarkozy",
-            "Q75": "Internet"
-        },
+        "entities": [
+            {
+                "label": "Carla Bruni",
+                "wdid": "Q143945"
+            },
+            {
+                "label": "Sarkozy",
+                "wdid": "Q329"
+            },
+            {
+                "label": "Internet",
+                "wdid": "Q75"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">À propos de</div>\n\t\t<div class=\"glossblock\">about</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sa</div>\n\t\t<div class=\"glossblock\">her</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fille,</div>\n\t\t<div class=\"glossblock\">daughter</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Carla</div>\n\t\t<div class=\"glossblock\">Carla</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Bruni</div>\n\t\t<div class=\"glossblock\">Bruni</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">declare</div>\n\t\t<div class=\"glossblock\">declares</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[…]</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">« Elle</div>\n\t\t<div class=\"glossblock\">she</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">très</div>\n\t\t<div class=\"glossblock\">very</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sarkozy.</div>\n\t\t<div class=\"glossblock\">Sarkozy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Nicolas</div>\n\t\t<div class=\"glossblock\">Nicolas</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a trouvé</div>\n\t\t<div class=\"glossblock\">find.PF.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">son</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">maître. »</div>\n\t\t<div class=\"glossblock\">master</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "about",
@@ -665,36 +777,28 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q106865223": "technical system",
-            "Q1068715": "Telecommunications_network",
-            "Q1150771": "output",
-            "Q1207505": "quality",
-            "Q121359": "infrastructure",
-            "Q1347367": "aptitude",
-            "Q151885": "concept",
-            "Q15401930": "artificial object",
-            "Q16686448": "artificial object",
-            "Q1900326": "network",
-            "Q2145290": "mental representation",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q386724": "work",
-            "Q4393498": "representation",
-            "Q488383": "object",
-            "Q577764": "Communications_system",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q930933": "relation",
-            "Q937228": "property",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Telecommunications_network",
+                "wdid": "Q1068715"
+            },
+            {
+                "label": "infrastructure",
+                "wdid": "Q121359"
+            },
+            {
+                "label": "aptitude",
+                "wdid": "Q1347367"
+            },
+            {
+                "label": "network",
+                "wdid": "Q1900326"
+            },
+            {
+                "label": "Communications_system",
+                "wdid": "Q577764"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "À propos de",
@@ -733,10 +837,16 @@
         "clength": 37,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {
-            "Q203071": "DSK",
-            "Q75": "Internet"
-        },
+        "entities": [
+            {
+                "label": "DSK",
+                "wdid": "Q203071"
+            },
+            {
+                "label": "Internet",
+                "wdid": "Q75"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Comme</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">d’habitude,</div>\n\t\t<div class=\"glossblock\">usual</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[DSK]</div>\n\t\t<div class=\"glossblock\">DSK</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">était</div>\n\t\t<div class=\"glossblock\">be.IMPF.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pédant.</div>\n\t\t<div class=\"glossblock\">pedantic</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "as",
@@ -749,36 +859,28 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q106865223": "technical system",
-            "Q1068715": "Telecommunications_network",
-            "Q1150771": "output",
-            "Q1207505": "quality",
-            "Q121359": "infrastructure",
-            "Q1347367": "aptitude",
-            "Q151885": "concept",
-            "Q15401930": "artificial object",
-            "Q16686448": "artificial object",
-            "Q1900326": "network",
-            "Q2145290": "mental representation",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q386724": "work",
-            "Q4393498": "representation",
-            "Q488383": "object",
-            "Q577764": "Communications_system",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q930933": "relation",
-            "Q937228": "property",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Telecommunications_network",
+                "wdid": "Q1068715"
+            },
+            {
+                "label": "infrastructure",
+                "wdid": "Q121359"
+            },
+            {
+                "label": "aptitude",
+                "wdid": "Q1347367"
+            },
+            {
+                "label": "network",
+                "wdid": "Q1900326"
+            },
+            {
+                "label": "Communications_system",
+                "wdid": "Q577764"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Comme",
@@ -809,11 +911,20 @@
         "clength": 33,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {
-            "Q329": "Sarkozy",
-            "Q41053": "Hezbollah",
-            "Q75": "Internet"
-        },
+        "entities": [
+            {
+                "label": "Sarkozy",
+                "wdid": "Q329"
+            },
+            {
+                "label": "Hezbollah",
+                "wdid": "Q41053"
+            },
+            {
+                "label": "Internet",
+                "wdid": "Q75"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sarkozy</div>\n\t\t<div class=\"glossblock\">Sarkozy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">diplomatise</div>\n\t\t<div class=\"glossblock\">diplomat.VBZ.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hezbollah.</div>\n\t\t<div class=\"glossblock\">Hezbollah</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Sarkozy",
@@ -825,36 +936,28 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q106865223": "technical system",
-            "Q1068715": "Telecommunications_network",
-            "Q1150771": "output",
-            "Q1207505": "quality",
-            "Q121359": "infrastructure",
-            "Q1347367": "aptitude",
-            "Q151885": "concept",
-            "Q15401930": "artificial object",
-            "Q16686448": "artificial object",
-            "Q1900326": "network",
-            "Q2145290": "mental representation",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q386724": "work",
-            "Q4393498": "representation",
-            "Q488383": "object",
-            "Q577764": "Communications_system",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q930933": "relation",
-            "Q937228": "property",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Telecommunications_network",
+                "wdid": "Q1068715"
+            },
+            {
+                "label": "infrastructure",
+                "wdid": "Q121359"
+            },
+            {
+                "label": "aptitude",
+                "wdid": "Q1347367"
+            },
+            {
+                "label": "network",
+                "wdid": "Q1900326"
+            },
+            {
+                "label": "Communications_system",
+                "wdid": "Q577764"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Sarkozy",
@@ -880,9 +983,12 @@
         "clength": 31,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {
-            "Q41053": "Hezbollah"
-        },
+        "entities": [
+            {
+                "label": "Hezbollah",
+                "wdid": "Q41053"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Le</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hezbollah</div>\n\t\t<div class=\"glossblock\">Hezbollah</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">s’est diplomatisé.</div>\n\t\t<div class=\"glossblock\">REFL = diplomat.VBZ.PF.3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -893,7 +999,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Le",
@@ -914,9 +1020,12 @@
         "clength": 25,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {
-            "Q193391": "diplomat"
-        },
+        "entities": [
+            {
+                "label": "diplomat",
+                "wdid": "Q193391"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Juliette</div>\n\t\t<div class=\"glossblock\">Juliette</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">∅</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">diplomate.</div>\n\t\t<div class=\"glossblock\">diplomat</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Juliette",
@@ -928,53 +1037,104 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q106559804": "person or organization",
-            "Q108289024": "chief executives, senior officials and legislators",
-            "Q108289363": "legislators and senior officials",
-            "Q108290289": "senior government officials",
-            "Q110551885": "mammal",
-            "Q110551902": "vertebrate",
-            "Q1162163": "director",
-            "Q1251441": "Leader",
-            "Q154954": "natural person",
-            "Q159344": "heterotroph",
-            "Q15978631": "Homo sapiens",
-            "Q164509": "omnivore",
-            "Q16532929": "administrator",
-            "Q18336849": "",
-            "Q20920693": "chief",
-            "Q212238": "civil servant",
-            "Q215627": "person",
-            "Q23958946": "individual entity",
-            "Q24229398": "agent",
-            "Q2462658": "Manager",
-            "Q25713832": "leader of organization",
-            "Q26720107": "personal law",
-            "Q27043950": "anatomical entity",
-            "Q278368": "User_(computing)",
-            "Q29651224": "natural object",
-            "Q327055": "Worker",
-            "Q35120": "entity",
-            "Q3778211": "legal person",
-            "Q488383": "object",
-            "Q5": "human",
-            "Q53617489": "independent continuant",
-            "Q572700": "Bureaucrat",
-            "Q599151": "Official",
-            "Q613354": "user",
-            "Q702269": "professional",
-            "Q703534": "employee",
-            "Q7239": "Organism",
-            "Q72638": "consumer",
-            "Q729": "Animal",
-            "Q795052": "individual",
-            "Q80363469": "government employee",
-            "Q830077": "subject",
-            "Q852998": "stakeholder",
-            "Q978044": "executive"
-        },
+        "parententities": [
+            {
+                "label": "mammal",
+                "wdid": "Q110551885"
+            },
+            {
+                "label": "vertebrate",
+                "wdid": "Q110551902"
+            },
+            {
+                "label": "director",
+                "wdid": "Q1162163"
+            },
+            {
+                "label": "Leader",
+                "wdid": "Q1251441"
+            },
+            {
+                "label": "natural person",
+                "wdid": "Q154954"
+            },
+            {
+                "label": "heterotroph",
+                "wdid": "Q159344"
+            },
+            {
+                "label": "omnivore",
+                "wdid": "Q164509"
+            },
+            {
+                "label": "administrator",
+                "wdid": "Q16532929"
+            },
+            {
+                "label": "chief",
+                "wdid": "Q20920693"
+            },
+            {
+                "label": "civil servant",
+                "wdid": "Q212238"
+            },
+            {
+                "label": "person",
+                "wdid": "Q215627"
+            },
+            {
+                "label": "Manager",
+                "wdid": "Q2462658"
+            },
+            {
+                "label": "leader of organization",
+                "wdid": "Q25713832"
+            },
+            {
+                "label": "User_(computing)",
+                "wdid": "Q278368"
+            },
+            {
+                "label": "Worker",
+                "wdid": "Q327055"
+            },
+            {
+                "label": "human",
+                "wdid": "Q5"
+            },
+            {
+                "label": "Bureaucrat",
+                "wdid": "Q572700"
+            },
+            {
+                "label": "Official",
+                "wdid": "Q599151"
+            },
+            {
+                "label": "user",
+                "wdid": "Q613354"
+            },
+            {
+                "label": "employee",
+                "wdid": "Q703534"
+            },
+            {
+                "label": "Animal",
+                "wdid": "Q729"
+            },
+            {
+                "label": "government employee",
+                "wdid": "Q80363469"
+            },
+            {
+                "label": "stakeholder",
+                "wdid": "Q852998"
+            },
+            {
+                "label": "executive",
+                "wdid": "Q978044"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Juliette",
@@ -1008,7 +1168,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Juliette",
@@ -1037,7 +1197,7 @@
         "clength": 13,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Paul</div>\n\t\t<div class=\"glossblock\">Paul</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">putasse.</div>\n\t\t<div class=\"glossblock\">whore.VBZ.PRES.3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Paul",
@@ -1047,7 +1207,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Paul",
@@ -1067,7 +1227,7 @@
         "clength": 28,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">→</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Paul</div>\n\t\t<div class=\"glossblock\">Paul</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(vraie)</div>\n\t\t<div class=\"glossblock\">true</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pute.</div>\n\t\t<div class=\"glossblock\">whore</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -1081,7 +1241,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "→",
@@ -1112,7 +1272,7 @@
         "clength": 21,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Juliette</div>\n\t\t<div class=\"glossblock\">Juliette</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">diplomatise.</div>\n\t\t<div class=\"glossblock\">diplomat.VBZ.PRES.3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Juliette",
@@ -1122,7 +1282,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Juliette",
@@ -1142,7 +1302,7 @@
         "clength": 37,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">→</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Juliette</div>\n\t\t<div class=\"glossblock\">Juliette</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(vraie)</div>\n\t\t<div class=\"glossblock\">true</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">diplomate.</div>\n\t\t<div class=\"glossblock\">diplomat</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -1156,7 +1316,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "→",
@@ -1187,7 +1347,7 @@
         "clength": 27,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Juliette</div>\n\t\t<div class=\"glossblock\">Juliette</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">merkelise/merkele.</div>\n\t\t<div class=\"glossblock\">merkel.VBZ.PRES.3SG/merkel.PRES.3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Juliette",
@@ -1197,7 +1357,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Juliette",
@@ -1218,7 +1378,7 @@
         "clength": 34,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">→</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Juliette</div>\n\t\t<div class=\"glossblock\">Juliette</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(vraie)</div>\n\t\t<div class=\"glossblock\">true</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Merkel.</div>\n\t\t<div class=\"glossblock\">Merkel</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -1232,7 +1392,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "→",
@@ -1263,9 +1423,12 @@
         "clength": 22,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {
-            "Q202698": "Yesterday"
-        },
+        "entities": [
+            {
+                "label": "Yesterday",
+                "wdid": "Q202698"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hier,</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pierre</div>\n\t\t<div class=\"glossblock\">Pierre</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a putassé</div>\n\t\t<div class=\"glossblock\">whore.VBZ.PF.3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday",
@@ -1276,7 +1439,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Hier,",
@@ -1302,9 +1465,12 @@
         "clength": 34,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {
-            "Q202698": "Yesterday"
-        },
+        "entities": [
+            {
+                "label": "Yesterday",
+                "wdid": "Q202698"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hier,</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pierre</div>\n\t\t<div class=\"glossblock\">Pierre</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a été</div>\n\t\t<div class=\"glossblock\">be.PF.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vraie</div>\n\t\t<div class=\"glossblock\">true</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pute.</div>\n\t\t<div class=\"glossblock\">whore</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday",
@@ -1318,7 +1484,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Hier,",
@@ -1349,7 +1515,7 @@
         "clength": 29,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hier,</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Juliette</div>\n\t\t<div class=\"glossblock\">Juliette</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a diplomatisé.</div>\n\t\t<div class=\"glossblock\">diplomat.VBZ.PF.3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday",
@@ -1360,7 +1526,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Hier,",
@@ -1381,10 +1547,16 @@
         "clength": 41,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {
-            "Q193391": "diplomat",
-            "Q202698": "Yesterday"
-        },
+        "entities": [
+            {
+                "label": "diplomat",
+                "wdid": "Q193391"
+            },
+            {
+                "label": "Yesterday",
+                "wdid": "Q202698"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hier,</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Juliette</div>\n\t\t<div class=\"glossblock\">Juliette</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">has</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">été</div>\n\t\t<div class=\"glossblock\">been</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vraie</div>\n\t\t<div class=\"glossblock\">true</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">diplomate.</div>\n\t\t<div class=\"glossblock\">diplomat</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday",
@@ -1399,53 +1571,104 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q106559804": "person or organization",
-            "Q108289024": "chief executives, senior officials and legislators",
-            "Q108289363": "legislators and senior officials",
-            "Q108290289": "senior government officials",
-            "Q110551885": "mammal",
-            "Q110551902": "vertebrate",
-            "Q1162163": "director",
-            "Q1251441": "Leader",
-            "Q154954": "natural person",
-            "Q159344": "heterotroph",
-            "Q15978631": "Homo sapiens",
-            "Q164509": "omnivore",
-            "Q16532929": "administrator",
-            "Q18336849": "",
-            "Q20920693": "chief",
-            "Q212238": "civil servant",
-            "Q215627": "person",
-            "Q23958946": "individual entity",
-            "Q24229398": "agent",
-            "Q2462658": "Manager",
-            "Q25713832": "leader of organization",
-            "Q26720107": "personal law",
-            "Q27043950": "anatomical entity",
-            "Q278368": "User_(computing)",
-            "Q29651224": "natural object",
-            "Q327055": "Worker",
-            "Q35120": "entity",
-            "Q3778211": "legal person",
-            "Q488383": "object",
-            "Q5": "human",
-            "Q53617489": "independent continuant",
-            "Q572700": "Bureaucrat",
-            "Q599151": "Official",
-            "Q613354": "user",
-            "Q702269": "professional",
-            "Q703534": "employee",
-            "Q7239": "Organism",
-            "Q72638": "consumer",
-            "Q729": "Animal",
-            "Q795052": "individual",
-            "Q80363469": "government employee",
-            "Q830077": "subject",
-            "Q852998": "stakeholder",
-            "Q978044": "executive"
-        },
+        "parententities": [
+            {
+                "label": "mammal",
+                "wdid": "Q110551885"
+            },
+            {
+                "label": "vertebrate",
+                "wdid": "Q110551902"
+            },
+            {
+                "label": "director",
+                "wdid": "Q1162163"
+            },
+            {
+                "label": "Leader",
+                "wdid": "Q1251441"
+            },
+            {
+                "label": "natural person",
+                "wdid": "Q154954"
+            },
+            {
+                "label": "heterotroph",
+                "wdid": "Q159344"
+            },
+            {
+                "label": "omnivore",
+                "wdid": "Q164509"
+            },
+            {
+                "label": "administrator",
+                "wdid": "Q16532929"
+            },
+            {
+                "label": "chief",
+                "wdid": "Q20920693"
+            },
+            {
+                "label": "civil servant",
+                "wdid": "Q212238"
+            },
+            {
+                "label": "person",
+                "wdid": "Q215627"
+            },
+            {
+                "label": "Manager",
+                "wdid": "Q2462658"
+            },
+            {
+                "label": "leader of organization",
+                "wdid": "Q25713832"
+            },
+            {
+                "label": "User_(computing)",
+                "wdid": "Q278368"
+            },
+            {
+                "label": "Worker",
+                "wdid": "Q327055"
+            },
+            {
+                "label": "human",
+                "wdid": "Q5"
+            },
+            {
+                "label": "Bureaucrat",
+                "wdid": "Q572700"
+            },
+            {
+                "label": "Official",
+                "wdid": "Q599151"
+            },
+            {
+                "label": "user",
+                "wdid": "Q613354"
+            },
+            {
+                "label": "employee",
+                "wdid": "Q703534"
+            },
+            {
+                "label": "Animal",
+                "wdid": "Q729"
+            },
+            {
+                "label": "government employee",
+                "wdid": "Q80363469"
+            },
+            {
+                "label": "stakeholder",
+                "wdid": "Q852998"
+            },
+            {
+                "label": "executive",
+                "wdid": "Q978044"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Hier,",
@@ -1478,7 +1701,7 @@
         "clength": 101,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sasha</div>\n\t\t<div class=\"glossblock\">Sascha</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">niaise,</div>\n\t\t<div class=\"glossblock\">dumb.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mais</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ne</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t’y</div>\n\t\t<div class=\"glossblock\">you = PRO.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">trompe</div>\n\t\t<div class=\"glossblock\">mistake.IMP.2SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pas,</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">il</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">loin</div>\n\t\t<div class=\"glossblock\">far</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">d’être</div>\n\t\t<div class=\"glossblock\">from be.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">niais,</div>\n\t\t<div class=\"glossblock\">dumb</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">c’est</div>\n\t\t<div class=\"glossblock\">it is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">juste</div>\n\t\t<div class=\"glossblock\">just</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">un</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">genre</div>\n\t\t<div class=\"glossblock\">look</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qu’il</div>\n\t\t<div class=\"glossblock\">that he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">donne</div>\n\t\t<div class=\"glossblock\">gives</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">…</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Sascha",
@@ -1506,7 +1729,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Sasha",
@@ -1546,7 +1769,7 @@
         "clength": 52,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">On</div>\n\t\t<div class=\"glossblock\">one</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fainéante,</div>\n\t\t<div class=\"glossblock\">lazy.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mais</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">on</div>\n\t\t<div class=\"glossblock\">one</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">n’est</div>\n\t\t<div class=\"glossblock\">NEG = is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pas</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fainéant,</div>\n\t\t<div class=\"glossblock\">lazy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">attention!</div>\n\t\t<div class=\"glossblock\">attention</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "one",
@@ -1562,7 +1785,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -1592,7 +1815,7 @@
         "clength": 75,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Il</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ronchonne</div>\n\t\t<div class=\"glossblock\">grumpy.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mais</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">c’est</div>\n\t\t<div class=\"glossblock\">it = is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">juste</div>\n\t\t<div class=\"glossblock\">just</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de la</div>\n\t\t<div class=\"glossblock\">INDEF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">façade,</div>\n\t\t<div class=\"glossblock\">show</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">il</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pas</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ronchon</div>\n\t\t<div class=\"glossblock\">grumpy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pour</div>\n\t\t<div class=\"glossblock\">for</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">un</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sou.</div>\n\t\t<div class=\"glossblock\">penny</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "he",
@@ -1614,7 +1837,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -1651,7 +1874,7 @@
         "clength": 90,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">J’ai patienté</div>\n\t\t<div class=\"glossblock\">I = patient.PF.1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">parce que</div>\n\t\t<div class=\"glossblock\">because</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">j’étais</div>\n\t\t<div class=\"glossblock\">I = be.IMPF.1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bien</div>\n\t\t<div class=\"glossblock\">well</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">obligé,</div>\n\t\t<div class=\"glossblock\">obliged</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mais</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t’assure</div>\n\t\t<div class=\"glossblock\">you = ensure</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">que</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">patient,</div>\n\t\t<div class=\"glossblock\">patient</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">l’étais</div>\n\t\t<div class=\"glossblock\">it = IMPF.1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pas!</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I = patient.PF.1SG",
@@ -1672,7 +1895,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "J’ai patienté",
@@ -1723,7 +1946,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Hier,",
@@ -1764,7 +1987,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Jean",
@@ -1801,7 +2024,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Sascha",
@@ -1839,7 +2062,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Juliette",
@@ -1864,10 +2087,16 @@
         "clength": 132,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {
-            "Q4112212": "inclination",
-            "Q484": "laziness"
-        },
+        "entities": [
+            {
+                "label": "inclination",
+                "wdid": "Q4112212"
+            },
+            {
+                "label": "laziness",
+                "wdid": "Q484"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sam,</div>\n\t\t<div class=\"glossblock\">Sam</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">il</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">au</div>\n\t\t<div class=\"glossblock\">at-the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fond</div>\n\t\t<div class=\"glossblock\">bottom</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">très</div>\n\t\t<div class=\"glossblock\">very</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">paresseux,</div>\n\t\t<div class=\"glossblock\">lazy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mais</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cette</div>\n\t\t<div class=\"glossblock\">this</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">inclination</div>\n\t\t<div class=\"glossblock\">inclination</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ne</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">s’actualise</div>\n\t\t<div class=\"glossblock\">REFL = instantiates</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jamais</div>\n\t\t<div class=\"glossblock\">never</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(il</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ne</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">laisse</div>\n\t\t<div class=\"glossblock\">lets</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jamais</div>\n\t\t<div class=\"glossblock\">never</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sa</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">paresse</div>\n\t\t<div class=\"glossblock\">laziness</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">prendre</div>\n\t\t<div class=\"glossblock\">take.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dessus).</div>\n\t\t<div class=\"glossblock\">top</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Sam",
@@ -1897,7 +2126,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Sam,",
@@ -1942,10 +2171,16 @@
         "clength": 106,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {
-            "Q208551": "lazes",
-            "Q4112212": "inclination"
-        },
+        "entities": [
+            {
+                "label": "lazes",
+                "wdid": "Q208551"
+            },
+            {
+                "label": "inclination",
+                "wdid": "Q4112212"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sam,</div>\n\t\t<div class=\"glossblock\">Sam</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">il</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">paresse,</div>\n\t\t<div class=\"glossblock\">laz.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#mais</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cette</div>\n\t\t<div class=\"glossblock\">this</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">inclination</div>\n\t\t<div class=\"glossblock\">inclination</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ne</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">s’actualise</div>\n\t\t<div class=\"glossblock\">REFL = instantiates</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jamais</div>\n\t\t<div class=\"glossblock\">never</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(il</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ne</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">it</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">laisse</div>\n\t\t<div class=\"glossblock\">lets</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jamais</div>\n\t\t<div class=\"glossblock\">never</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">prendre</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">laziness</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dessus).</div>\n\t\t<div class=\"glossblock\">take.INF</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Sam",
@@ -1970,7 +2205,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Sam,",
@@ -2008,9 +2243,12 @@
         "clength": 130,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {
-            "Q4112212": "inclination"
-        },
+        "entities": [
+            {
+                "label": "inclination",
+                "wdid": "Q4112212"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ana,</div>\n\t\t<div class=\"glossblock\">Ana</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">elle</div>\n\t\t<div class=\"glossblock\">she</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">en</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">réalité</div>\n\t\t<div class=\"glossblock\">reality</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">très</div>\n\t\t<div class=\"glossblock\">very</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mesquine,</div>\n\t\t<div class=\"glossblock\">petty</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mais</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cette</div>\n\t\t<div class=\"glossblock\">this</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">inclination</div>\n\t\t<div class=\"glossblock\">inclination</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ne</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">s’actualise</div>\n\t\t<div class=\"glossblock\">REFL = instantiates</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jamais</div>\n\t\t<div class=\"glossblock\">never</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(elle</div>\n\t\t<div class=\"glossblock\">she</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ne</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">it</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">laisse</div>\n\t\t<div class=\"glossblock\">lets</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jamais</div>\n\t\t<div class=\"glossblock\">never</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">prendre</div>\n\t\t<div class=\"glossblock\">take.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dessus).</div>\n\t\t<div class=\"glossblock\">top</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Ana",
@@ -2039,7 +2277,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ana,",
@@ -2083,9 +2321,12 @@
         "clength": 111,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {
-            "Q4112212": "inclination"
-        },
+        "entities": [
+            {
+                "label": "inclination",
+                "wdid": "Q4112212"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ana,</div>\n\t\t<div class=\"glossblock\">Ana</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">elle</div>\n\t\t<div class=\"glossblock\">she</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mesquine,</div>\n\t\t<div class=\"glossblock\">petty.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#mais</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cette</div>\n\t\t<div class=\"glossblock\">this</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">inclination</div>\n\t\t<div class=\"glossblock\">inclination</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ne</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">s’actualise</div>\n\t\t<div class=\"glossblock\">REFL = instantiates</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jamais</div>\n\t\t<div class=\"glossblock\">never</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(elle</div>\n\t\t<div class=\"glossblock\">she</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ne</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">it</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">laisse</div>\n\t\t<div class=\"glossblock\">lets</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jamais</div>\n\t\t<div class=\"glossblock\">never</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">prendre</div>\n\t\t<div class=\"glossblock\">take.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dessus).</div>\n\t\t<div class=\"glossblock\">top</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Ana",
@@ -2110,7 +2351,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ana,",
@@ -2149,9 +2390,12 @@
         "clength": 27,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {
-            "Q245068": "comedian"
-        },
+        "entities": [
+            {
+                "label": "comedian",
+                "wdid": "Q245068"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Le</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">comédien</div>\n\t\t<div class=\"glossblock\">comedian</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a ri</div>\n\t\t<div class=\"glossblock\">laugh.PF.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">foule.</div>\n\t\t<div class=\"glossblock\">crowd</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -2164,7 +2408,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Le",
@@ -2187,7 +2431,7 @@
         "clength": 35,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pierre</div>\n\t\t<div class=\"glossblock\">Pierre</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">has</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">couru</div>\n\t\t<div class=\"glossblock\">run</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(*le</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">chien)</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">au</div>\n\t\t<div class=\"glossblock\">to-the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">parc.</div>\n\t\t<div class=\"glossblock\">park</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Pierre",
@@ -2202,7 +2446,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Pierre",
@@ -2232,11 +2476,20 @@
         "coordination": "or",
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {
-            "Q7889": "video games",
-            "Q8093": "Nintendo",
-            "Q946865": "retired people"
-        },
+        "entities": [
+            {
+                "label": "video games",
+                "wdid": "Q7889"
+            },
+            {
+                "label": "Nintendo",
+                "wdid": "Q8093"
+            },
+            {
+                "label": "retired people",
+                "wdid": "Q946865"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sans</div>\n\t\t<div class=\"glossblock\">without</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">parler</div>\n\t\t<div class=\"glossblock\">speak.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Nintendo</div>\n\t\t<div class=\"glossblock\">Nintendo</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qui</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gaminise</div>\n\t\t<div class=\"glossblock\">kid.VBZ.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[*gamine]</div>\n\t\t<div class=\"glossblock\">kid.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ou</div>\n\t\t<div class=\"glossblock\">or</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">retraitise</div>\n\t\t<div class=\"glossblock\">pension.VBZ.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jeu</div>\n\t\t<div class=\"glossblock\">game</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vidéo.</div>\n\t\t<div class=\"glossblock\">video</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(Internet)</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "without",
@@ -2257,49 +2510,60 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q106213450": "time-based visual work",
-            "Q110910970": "visual work",
-            "Q11410": "Game",
-            "Q1150771": "output",
-            "Q1150958": "Play_(activity)",
-            "Q1190554": "occurrence",
-            "Q15401930": "artificial object",
-            "Q15621286": "intellectual work",
-            "Q166142": "application",
-            "Q16686448": "artificial object",
-            "Q16887380": "group",
-            "Q173799": "entertainment",
-            "Q17537576": "creative work",
-            "Q184872": "recreation",
-            "Q18593264": "item of collection or exhibition",
-            "Q1914636": "activity",
-            "Q194980": "intangible good",
-            "Q20937557": "sequence",
-            "Q2249149": "electronic game",
-            "Q2424752": "product",
-            "Q2431196": "audiovisual work",
-            "Q26907166": "temporal entity",
-            "Q28813620": "set",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q3769299": "human behavior",
-            "Q386724": "work",
-            "Q4502142": "visual artwork",
-            "Q451967": "intentional human activity",
-            "Q47461344": "written work",
-            "Q488383": "object",
-            "Q51938570": "entertainment software",
-            "Q58415929": "spatio-temporal entity",
-            "Q61788060": "human activity",
-            "Q7397": "Software",
-            "Q838948": "work of art",
-            "Q9332": "behavior",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Game",
+                "wdid": "Q11410"
+            },
+            {
+                "label": "Play_(activity)",
+                "wdid": "Q1150958"
+            },
+            {
+                "label": "application",
+                "wdid": "Q166142"
+            },
+            {
+                "label": "entertainment",
+                "wdid": "Q173799"
+            },
+            {
+                "label": "recreation",
+                "wdid": "Q184872"
+            },
+            {
+                "label": "item of collection or exhibition",
+                "wdid": "Q18593264"
+            },
+            {
+                "label": "intangible good",
+                "wdid": "Q194980"
+            },
+            {
+                "label": "electronic game",
+                "wdid": "Q2249149"
+            },
+            {
+                "label": "audiovisual work",
+                "wdid": "Q2431196"
+            },
+            {
+                "label": "visual artwork",
+                "wdid": "Q4502142"
+            },
+            {
+                "label": "entertainment software",
+                "wdid": "Q51938570"
+            },
+            {
+                "label": "Software",
+                "wdid": "Q7397"
+            },
+            {
+                "label": "work of art",
+                "wdid": "Q838948"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Sans",
@@ -2332,9 +2596,12 @@
         "clength": 63,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {
-            "Q188190": "Elysée"
-        },
+        "entities": [
+            {
+                "label": "Elysée",
+                "wdid": "Q188190"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Et</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">si</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">l’Élysée</div>\n\t\t<div class=\"glossblock\">the Elysee</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">avait</div>\n\t\t<div class=\"glossblock\">had</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tout</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">« macronisé »</div>\n\t\t<div class=\"glossblock\">macron.VBZ.PP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[*macronné]?</div>\n\t\t<div class=\"glossblock\">macron.PP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(Internet)</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "and",
@@ -2350,7 +2617,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Et",
@@ -2380,9 +2647,12 @@
         "clength": 37,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {
-            "Q46": "Europe"
-        },
+        "entities": [
+            {
+                "label": "Europe",
+                "wdid": "Q46"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Merkel</div>\n\t\t<div class=\"glossblock\">Merkel</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">merkelise</div>\n\t\t<div class=\"glossblock\">merkel.VBZ.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[*merkele]</div>\n\t\t<div class=\"glossblock\">merkel.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">l’Europe.</div>\n\t\t<div class=\"glossblock\">the = Europe</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Merkel",
@@ -2394,31 +2664,40 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q107425": "Landscape",
-            "Q11081619": "Land",
-            "Q110910055": "region of space",
-            "Q1454986": "physical system",
-            "Q1496967": "territory",
-            "Q17334923": "physical location",
-            "Q205895": "landmass",
-            "Q20719696": "physico-geographical object",
-            "Q2221906": "geographic location",
-            "Q223557": "physical object",
-            "Q27096213": "geographic entity",
-            "Q30060700": "scientific object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58416391": "spatial object",
-            "Q58778": "system",
-            "Q618123": "geographical feature",
-            "Q6671777": "structure",
-            "Q82794": "geographic region",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Landscape",
+                "wdid": "Q107425"
+            },
+            {
+                "label": "Land",
+                "wdid": "Q11081619"
+            },
+            {
+                "label": "territory",
+                "wdid": "Q1496967"
+            },
+            {
+                "label": "physico-geographical object",
+                "wdid": "Q20719696"
+            },
+            {
+                "label": "geographic location",
+                "wdid": "Q2221906"
+            },
+            {
+                "label": "geographic entity",
+                "wdid": "Q27096213"
+            },
+            {
+                "label": "geographical feature",
+                "wdid": "Q618123"
+            },
+            {
+                "label": "geographic region",
+                "wdid": "Q82794"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Merkel",
@@ -2445,7 +2724,7 @@
         "clength": 46,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Paul</div>\n\t\t<div class=\"glossblock\">Paul</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a materné</div>\n\t\t<div class=\"glossblock\">mother.PF.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(ses</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">poupées)</div>\n\t\t<div class=\"glossblock\">dolls</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">toute</div>\n\t\t<div class=\"glossblock\">whole</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">journée.</div>\n\t\t<div class=\"glossblock\">day</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Paul",
@@ -2460,7 +2739,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Paul",
@@ -2493,7 +2772,7 @@
         "clength": 52,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sarkozy</div>\n\t\t<div class=\"glossblock\">Sarkozy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a diplomatisé</div>\n\t\t<div class=\"glossblock\">diplomat.VBZ.PF.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hezbollah</div>\n\t\t<div class=\"glossblock\">Hezbollah</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">en</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">deux</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">semaines.</div>\n\t\t<div class=\"glossblock\">weeks</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Sarkozy",
@@ -2508,7 +2787,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Sarkozy",
@@ -2538,7 +2817,7 @@
         "clength": 43,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#Paul</div>\n\t\t<div class=\"glossblock\">Paul</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a materné</div>\n\t\t<div class=\"glossblock\">mother.PF.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ses</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">poupées</div>\n\t\t<div class=\"glossblock\">dolls</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">en</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dix</div>\n\t\t<div class=\"glossblock\">ten</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">minutes.</div>\n\t\t<div class=\"glossblock\">minutes</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Paul",
@@ -2553,7 +2832,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "#Paul",
@@ -2585,7 +2864,7 @@
         "clength": 15,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pierre</div>\n\t\t<div class=\"glossblock\">Pierre</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bêtifie.</div>\n\t\t<div class=\"glossblock\">stupid.VBZ.PRES.3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Pierre",
@@ -2595,7 +2874,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Pierre",
@@ -2622,7 +2901,7 @@
         "clength": 27,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pierre</div>\n\t\t<div class=\"glossblock\">Pierre</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bêtifie</div>\n\t\t<div class=\"glossblock\">stupid.VBZ.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">les</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">enfants.</div>\n\t\t<div class=\"glossblock\">children</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Pierre",
@@ -2634,7 +2913,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Pierre",
@@ -2660,7 +2939,7 @@
         "clength": 85,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Vous</div>\n\t\t<div class=\"glossblock\">you</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ne</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">trouvez</div>\n\t\t<div class=\"glossblock\">find</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pas</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qu’on</div>\n\t\t<div class=\"glossblock\">that one</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se bêtifie</div>\n\t\t<div class=\"glossblock\">REFL = stupid.VBZ.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">à</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rester</div>\n\t\t<div class=\"glossblock\">stay</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tout</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">temps</div>\n\t\t<div class=\"glossblock\">time</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sur</div>\n\t\t<div class=\"glossblock\">on</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">plage?</div>\n\t\t<div class=\"glossblock\">beach</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(M. Proust)</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "you",
@@ -2683,7 +2962,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Vous",
@@ -2725,7 +3004,7 @@
         "clength": 15,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Pierre</div>\n\t\t<div class=\"glossblock\">Pierre</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">abêtit.</div>\n\t\t<div class=\"glossblock\">TRZ.stupid.VBZ.PRES.3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Pierre",
@@ -2735,7 +3014,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Pierre",
@@ -2764,7 +3043,7 @@
         "clength": 26,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pierre</div>\n\t\t<div class=\"glossblock\">Pierre</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">abêtit</div>\n\t\t<div class=\"glossblock\">TRZ.stupid.VBZ.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">les</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">enfants.</div>\n\t\t<div class=\"glossblock\">children</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Pierre",
@@ -2776,7 +3055,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Pierre",
@@ -2803,7 +3082,7 @@
         "clength": 16,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pierre</div>\n\t\t<div class=\"glossblock\">Pierre</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">s’abêtit.</div>\n\t\t<div class=\"glossblock\">REFL = TRZ.stupid.VBZ.PRES.3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Pierre",
@@ -2813,7 +3092,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Pierre",
@@ -2838,7 +3117,7 @@
         "clength": 24,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pierre</div>\n\t\t<div class=\"glossblock\">Pierre</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">niaise/</div>\n\t\t<div class=\"glossblock\">naive.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">canaille.</div>\n\t\t<div class=\"glossblock\">rascal.PRES.3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Pierre",
@@ -2849,7 +3128,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Pierre",
@@ -2875,7 +3154,7 @@
         "clength": 37,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Pierre</div>\n\t\t<div class=\"glossblock\">Pierre</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">niaise/</div>\n\t\t<div class=\"glossblock\">naive.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">canaille</div>\n\t\t<div class=\"glossblock\">rascal.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">les</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">enfants.</div>\n\t\t<div class=\"glossblock\">children</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Pierre",
@@ -2888,7 +3167,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Pierre",
@@ -2914,7 +3193,7 @@
         "clength": 31,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Pierre</div>\n\t\t<div class=\"glossblock\">Pierre</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se niaise/</div>\n\t\t<div class=\"glossblock\">REFL = naive.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se canaille.</div>\n\t\t<div class=\"glossblock\">REFL = rascal.PRES.3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Pierre",
@@ -2925,7 +3204,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Pierre",
@@ -2953,7 +3232,7 @@
         "clength": 29,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Pierre</div>\n\t\t<div class=\"glossblock\">Pierre</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">enniaise/</div>\n\t\t<div class=\"glossblock\">TRZ.naive.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">encanaille.</div>\n\t\t<div class=\"glossblock\">TRZ.rascal.PRES.3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Pierre",
@@ -2964,7 +3243,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Pierre",
@@ -2992,7 +3271,7 @@
         "clength": 40,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pierre</div>\n\t\t<div class=\"glossblock\">Pierre</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">enniaise/</div>\n\t\t<div class=\"glossblock\">TRZ.naive.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">encanaille</div>\n\t\t<div class=\"glossblock\">TRZ.rascal.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">les</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">enfants.</div>\n\t\t<div class=\"glossblock\">children</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Pierre",
@@ -3005,7 +3284,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Pierre",
@@ -3033,7 +3312,7 @@
         "coordination": "or",
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pierre</div>\n\t\t<div class=\"glossblock\">Pierre</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">s’enniaise/</div>\n\t\t<div class=\"glossblock\">REFL = TRZ.naive.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">s’encanaille.</div>\n\t\t<div class=\"glossblock\">REFL = TRZ.rascal.PRES.3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Pierre",
@@ -3044,7 +3323,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Pierre",
@@ -3068,7 +3347,7 @@
         "clength": 46,
         "doc_ID": 5277,
         "doc_URL": "https://www.glossa-journal.org/article/id/5277",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Merkel</div>\n\t\t<div class=\"glossblock\">Merkel</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">merkelt,</div>\n\t\t<div class=\"glossblock\">merkel.PRES.3SG,</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Seehofer</div>\n\t\t<div class=\"glossblock\">Seehofer</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">seehofert.</div>\n\t\t<div class=\"glossblock\">seehofer.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(Internet)</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Merkel",
@@ -3081,7 +3360,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Merkel",

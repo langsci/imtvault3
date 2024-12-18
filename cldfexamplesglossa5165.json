@@ -23,7 +23,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Piove."
@@ -58,7 +58,7 @@
         "language_iso6393": "ita",
         "language_name": "Italian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ha",
@@ -94,7 +94,7 @@
         "language_iso6393": "ita",
         "language_name": "Italian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "È",
@@ -133,7 +133,7 @@
         "language_iso6393": "ita",
         "language_name": "Italian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Hanno",
@@ -171,7 +171,7 @@
         "language_iso6393": "ita",
         "language_name": "Italian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Sono",
@@ -198,9 +198,12 @@
         "clength": 28,
         "doc_ID": 5165,
         "doc_URL": "https://www.glossa-journal.org/article/id/5165",
-        "entities": {
-            "Q7925": "rained"
-        },
+        "entities": [
+            {
+                "label": "rained",
+                "wdid": "Q7925"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sei</div>\n\t\t<div class=\"glossblock\">be.PRS.2SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">forse</div>\n\t\t<div class=\"glossblock\">perhaps</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">piovuto</div>\n\t\t<div class=\"glossblock\">rained.MSG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dal</div>\n\t\t<div class=\"glossblock\">from.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cielo?</div>\n\t\t<div class=\"glossblock\">sky</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "be.PRS.2SG",
@@ -213,50 +216,40 @@
         "language_iso6393": "ita",
         "language_name": "Italian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q108163": "proposition",
-            "Q11028": "information",
-            "Q1190554": "occurrence",
-            "Q12036439": "meteor",
-            "Q1207505": "quality",
-            "Q1322005": "natural phenomenon",
-            "Q1347367": "aptitude",
-            "Q151885": "concept",
-            "Q15916540": "semantic unit",
-            "Q16332653": "meteorological phenomenon",
-            "Q16877783": "meaning",
-            "Q16889133": "class",
-            "Q1786828": "constituent",
-            "Q183046": "meaning",
-            "Q188572": "fact",
-            "Q1972098": "hydrometeor",
-            "Q20817253": "linguistic unit",
-            "Q2145290": "mental representation",
-            "Q246672": "mathematical object",
-            "Q25257": "Precipitation",
-            "Q2684591": "statement",
-            "Q26907166": "temporal entity",
-            "Q29651519": "mental object",
-            "Q30060700": "scientific object",
-            "Q35120": "entity",
-            "Q4072190": "atmospheric phenomenon",
-            "Q41796": "sentence",
-            "Q42848": "data",
-            "Q4393498": "representation",
-            "Q474328": "declarative sentence",
-            "Q483247": "phenomenon",
-            "Q488383": "object",
-            "Q5371079": "emic unit",
-            "Q58415929": "spatio-temporal entity",
-            "Q58928516": "meteorological concept",
-            "Q628523": "Message",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q930933": "relation",
-            "Q937228": "property",
-            "Q9380010": "utterance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "meteor",
+                "wdid": "Q12036439"
+            },
+            {
+                "label": "natural phenomenon",
+                "wdid": "Q1322005"
+            },
+            {
+                "label": "aptitude",
+                "wdid": "Q1347367"
+            },
+            {
+                "label": "meteorological phenomenon",
+                "wdid": "Q16332653"
+            },
+            {
+                "label": "hydrometeor",
+                "wdid": "Q1972098"
+            },
+            {
+                "label": "Precipitation",
+                "wdid": "Q25257"
+            },
+            {
+                "label": "atmospheric phenomenon",
+                "wdid": "Q4072190"
+            },
+            {
+                "label": "meteorological concept",
+                "wdid": "Q58928516"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Sei",
@@ -284,9 +277,12 @@
         "clength": 29,
         "doc_ID": 5165,
         "doc_URL": "https://www.glossa-journal.org/article/id/5165",
-        "entities": {
-            "Q7925": "rained"
-        },
+        "entities": [
+            {
+                "label": "rained",
+                "wdid": "Q7925"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Hai</div>\n\t\t<div class=\"glossblock\">have.PRS.2SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">forse</div>\n\t\t<div class=\"glossblock\">perhaps</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">piovuto</div>\n\t\t<div class=\"glossblock\">rained.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dal</div>\n\t\t<div class=\"glossblock\">from.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cielo?</div>\n\t\t<div class=\"glossblock\">sky</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "have.PRS.2SG",
@@ -299,50 +295,40 @@
         "language_iso6393": "ita",
         "language_name": "Italian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q108163": "proposition",
-            "Q11028": "information",
-            "Q1190554": "occurrence",
-            "Q12036439": "meteor",
-            "Q1207505": "quality",
-            "Q1322005": "natural phenomenon",
-            "Q1347367": "aptitude",
-            "Q151885": "concept",
-            "Q15916540": "semantic unit",
-            "Q16332653": "meteorological phenomenon",
-            "Q16877783": "meaning",
-            "Q16889133": "class",
-            "Q1786828": "constituent",
-            "Q183046": "meaning",
-            "Q188572": "fact",
-            "Q1972098": "hydrometeor",
-            "Q20817253": "linguistic unit",
-            "Q2145290": "mental representation",
-            "Q246672": "mathematical object",
-            "Q25257": "Precipitation",
-            "Q2684591": "statement",
-            "Q26907166": "temporal entity",
-            "Q29651519": "mental object",
-            "Q30060700": "scientific object",
-            "Q35120": "entity",
-            "Q4072190": "atmospheric phenomenon",
-            "Q41796": "sentence",
-            "Q42848": "data",
-            "Q4393498": "representation",
-            "Q474328": "declarative sentence",
-            "Q483247": "phenomenon",
-            "Q488383": "object",
-            "Q5371079": "emic unit",
-            "Q58415929": "spatio-temporal entity",
-            "Q58928516": "meteorological concept",
-            "Q628523": "Message",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q930933": "relation",
-            "Q937228": "property",
-            "Q9380010": "utterance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "meteor",
+                "wdid": "Q12036439"
+            },
+            {
+                "label": "natural phenomenon",
+                "wdid": "Q1322005"
+            },
+            {
+                "label": "aptitude",
+                "wdid": "Q1347367"
+            },
+            {
+                "label": "meteorological phenomenon",
+                "wdid": "Q16332653"
+            },
+            {
+                "label": "hydrometeor",
+                "wdid": "Q1972098"
+            },
+            {
+                "label": "Precipitation",
+                "wdid": "Q25257"
+            },
+            {
+                "label": "atmospheric phenomenon",
+                "wdid": "Q4072190"
+            },
+            {
+                "label": "meteorological concept",
+                "wdid": "Q58928516"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "*Hai",
@@ -371,9 +357,12 @@
         "clength": 56,
         "doc_ID": 5165,
         "doc_URL": "https://www.glossa-journal.org/article/id/5165",
-        "entities": {
-            "Q37602": "hail"
-        },
+        "entities": [
+            {
+                "label": "hail",
+                "wdid": "Q37602"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">è</div>\n\t\t<div class=\"glossblock\">be.PRS.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">grandinata</div>\n\t\t<div class=\"glossblock\">hailed.FSG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">una</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fitta</div>\n\t\t<div class=\"glossblock\">thick</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">grandine</div>\n\t\t<div class=\"glossblock\">hail.FSG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">on</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tutto</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">il</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">territorio …</div>\n\t\t<div class=\"glossblock\">territory</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "be.PRS.3SG",
@@ -390,50 +379,40 @@
         "language_iso6393": "ita",
         "language_name": "Italian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q108163": "proposition",
-            "Q11028": "information",
-            "Q1190554": "occurrence",
-            "Q12036439": "meteor",
-            "Q1207505": "quality",
-            "Q1322005": "natural phenomenon",
-            "Q1347367": "aptitude",
-            "Q151885": "concept",
-            "Q15916540": "semantic unit",
-            "Q16332653": "meteorological phenomenon",
-            "Q16877783": "meaning",
-            "Q16889133": "class",
-            "Q1786828": "constituent",
-            "Q183046": "meaning",
-            "Q188572": "fact",
-            "Q1972098": "hydrometeor",
-            "Q20817253": "linguistic unit",
-            "Q2145290": "mental representation",
-            "Q246672": "mathematical object",
-            "Q25257": "Precipitation",
-            "Q2684591": "statement",
-            "Q26907166": "temporal entity",
-            "Q29651519": "mental object",
-            "Q30060700": "scientific object",
-            "Q35120": "entity",
-            "Q4072190": "atmospheric phenomenon",
-            "Q41796": "sentence",
-            "Q42848": "data",
-            "Q4393498": "representation",
-            "Q474328": "declarative sentence",
-            "Q483247": "phenomenon",
-            "Q488383": "object",
-            "Q5371079": "emic unit",
-            "Q58415929": "spatio-temporal entity",
-            "Q58928516": "meteorological concept",
-            "Q628523": "Message",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q930933": "relation",
-            "Q937228": "property",
-            "Q9380010": "utterance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "meteor",
+                "wdid": "Q12036439"
+            },
+            {
+                "label": "natural phenomenon",
+                "wdid": "Q1322005"
+            },
+            {
+                "label": "aptitude",
+                "wdid": "Q1347367"
+            },
+            {
+                "label": "meteorological phenomenon",
+                "wdid": "Q16332653"
+            },
+            {
+                "label": "hydrometeor",
+                "wdid": "Q1972098"
+            },
+            {
+                "label": "Precipitation",
+                "wdid": "Q25257"
+            },
+            {
+                "label": "atmospheric phenomenon",
+                "wdid": "Q4072190"
+            },
+            {
+                "label": "meteorological concept",
+                "wdid": "Q58928516"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "è",

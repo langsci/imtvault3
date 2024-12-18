@@ -25,7 +25,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "mɔ-sumbɔ",
@@ -61,7 +61,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "nɔ-sumbɔ=mɔ"
@@ -98,7 +98,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "nɔ-sumbɔ-an=ɡa=ai"
@@ -132,9 +132,12 @@
         "clength": 53,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {
-            "Q11442": "bicycle"
-        },
+        "entities": [
+            {
+                "label": "bicycle",
+                "wdid": "Q11442"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ni-sakɛ-0=mɔ</div>\n\t\t<div class=\"glossblock\">RLS-put.up-UV=CPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ulaŋ</div>\n\t\t<div class=\"glossblock\">again</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛi</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sapɛda</div>\n\t\t<div class=\"glossblock\">bike</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">maŋana</div>\n\t\t<div class=\"glossblock\">child</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">PRX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔ-RDP-lakɔ=mɔ</div>\n\t\t<div class=\"glossblock\">AV.RLS-RDP-walk=CPL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "RLS-put.up-UV=CPL",
@@ -149,55 +152,44 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q106839123": "means of transport",
-            "Q11019": "Machine",
-            "Q1150771": "output",
-            "Q11723891": "Single-track_vehicle",
-            "Q1183543": "appliance",
-            "Q1301433": "Land_vehicle",
-            "Q1408229": "finished good",
-            "Q1454986": "physical system",
-            "Q1485500": "tangible good",
-            "Q1507442": "human-powered vehicle",
-            "Q15401930": "artificial object",
-            "Q15618781": "wheeled vehicle",
-            "Q16686448": "artificial object",
-            "Q16889133": "class",
-            "Q18458812": "consumer goods",
-            "Q19279121": "free-emissions vehicle",
-            "Q2120578": "zero-emissions vehicle",
-            "Q2184715": "durable good",
-            "Q223557": "physical object",
-            "Q233040": "two-wheeler",
-            "Q2424752": "product",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q386724": "work",
-            "Q39546": "Tool",
-            "Q41321608": "vehicle without engine",
-            "Q42889": "Vehicle",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q5936788": "human-powered land vehicle",
-            "Q595658": "Velocipede",
-            "Q6671777": "structure",
-            "Q768186": "sports equipment",
-            "Q8205328": "artificial physical object",
-            "Q9158768": "storage",
-            "Q987767": "Container",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Machine",
+                "wdid": "Q11019"
+            },
+            {
+                "label": "Single-track_vehicle",
+                "wdid": "Q11723891"
+            },
+            {
+                "label": "Land_vehicle",
+                "wdid": "Q1301433"
+            },
+            {
+                "label": "two-wheeler",
+                "wdid": "Q233040"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            },
+            {
+                "label": "vehicle without engine",
+                "wdid": "Q41321608"
+            },
+            {
+                "label": "Vehicle",
+                "wdid": "Q42889"
+            },
+            {
+                "label": "Velocipede",
+                "wdid": "Q595658"
+            },
+            {
+                "label": "sports equipment",
+                "wdid": "Q768186"
+            }
+        ],
         "provider": "langsci",
         "srcwordsbare": [
             "ni-sakɛ-0=mɔ",
@@ -227,9 +219,12 @@
         "clength": 17,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {
-            "Q7892": "drinking water"
-        },
+        "entities": [
+            {
+                "label": "drinking water",
+                "wdid": "Q7892"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">inaŋ</div>\n\t\t<div class=\"glossblock\">mother</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔN-inum</div>\n\t\t<div class=\"glossblock\">AV.RLS-drink</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɔɡɔ</div>\n\t\t<div class=\"glossblock\">water</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "mother",
@@ -240,84 +235,88 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q102205": "Fluid",
-            "Q103940464": "continuant",
-            "Q11173": "chemical compound",
-            "Q11435": "Liquid",
-            "Q1150771": "output",
-            "Q11723014": "dihydrogen_chalcogenide",
-            "Q11879003": "environmental resource",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1327815": "hydrogen_compound",
-            "Q1454986": "physical system",
-            "Q15075845": "primary commodity",
-            "Q15401930": "artificial object",
-            "Q1554231": "resource",
-            "Q15989253": "part",
-            "Q1621273": "particle",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q1704572": "continuum",
-            "Q188460": "natural resource",
-            "Q19478619": "metaclass",
-            "Q20026787": "chemical component",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q2393187": "molecular entity",
-            "Q23958946": "individual entity",
-            "Q2424752": "product",
-            "Q25385534": "Hydrogen_chalcogenide",
-            "Q25416091": "substance",
-            "Q283": "Water",
-            "Q28555911": "ordinary matter",
-            "Q28693603": "quantum particle",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28877": "goods",
-            "Q28877390": "massive quantum particle",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29053744": "liquid_water",
-            "Q2923525": "massive particle",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q31464082": "source",
-            "Q3366856": "composite particle",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q378078": "substance",
-            "Q40050": "Drink",
-            "Q43460564": "chemical entity",
-            "Q4406616": "concrete object",
-            "Q4437984": "continuum",
-            "Q46344": "quantum",
-            "Q488383": "object",
-            "Q4913883": "Binary_compounds_of_hydrogen",
-            "Q50690": "Oxide",
-            "Q5127848": "class",
-            "Q5156940": "oxygen compound",
-            "Q578779": "pure substance",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66392": "binary compound",
-            "Q66591980": "Foundational Model of Anatomy attribute entity",
-            "Q66591990": "physical state",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q76272846": "oxygen molecular entity",
-            "Q79529": "chemical substance",
-            "Q898920": "chalcogenide",
-            "Q908049": "bound state",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Fluid",
+                "wdid": "Q102205"
+            },
+            {
+                "label": "chemical compound",
+                "wdid": "Q11173"
+            },
+            {
+                "label": "Liquid",
+                "wdid": "Q11435"
+            },
+            {
+                "label": "dihydrogen_chalcogenide",
+                "wdid": "Q11723014"
+            },
+            {
+                "label": "environmental resource",
+                "wdid": "Q11879003"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "hydrogen_compound",
+                "wdid": "Q1327815"
+            },
+            {
+                "label": "particle",
+                "wdid": "Q1621273"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "Hydrogen_chalcogenide",
+                "wdid": "Q25385534"
+            },
+            {
+                "label": "Water",
+                "wdid": "Q283"
+            },
+            {
+                "label": "liquid_water",
+                "wdid": "Q29053744"
+            },
+            {
+                "label": "Drink",
+                "wdid": "Q40050"
+            },
+            {
+                "label": "Binary_compounds_of_hydrogen",
+                "wdid": "Q4913883"
+            },
+            {
+                "label": "Oxide",
+                "wdid": "Q50690"
+            },
+            {
+                "label": "binary compound",
+                "wdid": "Q66392"
+            },
+            {
+                "label": "physical state",
+                "wdid": "Q66591990"
+            },
+            {
+                "label": "chalcogenide",
+                "wdid": "Q898920"
+            },
+            {
+                "label": "bound state",
+                "wdid": "Q908049"
+            }
+        ],
         "provider": "langsci",
         "srcwordsbare": [
             "inaŋ",
@@ -343,10 +342,16 @@
         "clength": 16,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {
-            "Q27058": "approx",
-            "Q7892": "drinking water"
-        },
+        "entities": [
+            {
+                "label": "approx",
+                "wdid": "Q27058"
+            },
+            {
+                "label": "drinking water",
+                "wdid": "Q7892"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɔɡɔ</div>\n\t\t<div class=\"glossblock\">water</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ni-inum</div>\n\t\t<div class=\"glossblock\">UV.RLS-drink</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">inaŋ</div>\n\t\t<div class=\"glossblock\">mother</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "water",
@@ -357,84 +362,88 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q102205": "Fluid",
-            "Q103940464": "continuant",
-            "Q11173": "chemical compound",
-            "Q11435": "Liquid",
-            "Q1150771": "output",
-            "Q11723014": "dihydrogen_chalcogenide",
-            "Q11879003": "environmental resource",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q1327815": "hydrogen_compound",
-            "Q1454986": "physical system",
-            "Q15075845": "primary commodity",
-            "Q15401930": "artificial object",
-            "Q1554231": "resource",
-            "Q15989253": "part",
-            "Q1621273": "particle",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q1704572": "continuum",
-            "Q188460": "natural resource",
-            "Q19478619": "metaclass",
-            "Q20026787": "chemical component",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q2393187": "molecular entity",
-            "Q23958946": "individual entity",
-            "Q2424752": "product",
-            "Q25385534": "Hydrogen_chalcogenide",
-            "Q25416091": "substance",
-            "Q283": "Water",
-            "Q28555911": "ordinary matter",
-            "Q28693603": "quantum particle",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28877": "goods",
-            "Q28877390": "massive quantum particle",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q29053744": "liquid_water",
-            "Q2923525": "massive particle",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q31464082": "source",
-            "Q3366856": "composite particle",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q378078": "substance",
-            "Q40050": "Drink",
-            "Q43460564": "chemical entity",
-            "Q4406616": "concrete object",
-            "Q4437984": "continuum",
-            "Q46344": "quantum",
-            "Q488383": "object",
-            "Q4913883": "Binary_compounds_of_hydrogen",
-            "Q50690": "Oxide",
-            "Q5127848": "class",
-            "Q5156940": "oxygen compound",
-            "Q578779": "pure substance",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66392": "binary compound",
-            "Q66591980": "Foundational Model of Anatomy attribute entity",
-            "Q66591990": "physical state",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q76272846": "oxygen molecular entity",
-            "Q79529": "chemical substance",
-            "Q898920": "chalcogenide",
-            "Q908049": "bound state",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Fluid",
+                "wdid": "Q102205"
+            },
+            {
+                "label": "chemical compound",
+                "wdid": "Q11173"
+            },
+            {
+                "label": "Liquid",
+                "wdid": "Q11435"
+            },
+            {
+                "label": "dihydrogen_chalcogenide",
+                "wdid": "Q11723014"
+            },
+            {
+                "label": "environmental resource",
+                "wdid": "Q11879003"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "hydrogen_compound",
+                "wdid": "Q1327815"
+            },
+            {
+                "label": "particle",
+                "wdid": "Q1621273"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "Hydrogen_chalcogenide",
+                "wdid": "Q25385534"
+            },
+            {
+                "label": "Water",
+                "wdid": "Q283"
+            },
+            {
+                "label": "liquid_water",
+                "wdid": "Q29053744"
+            },
+            {
+                "label": "Drink",
+                "wdid": "Q40050"
+            },
+            {
+                "label": "Binary_compounds_of_hydrogen",
+                "wdid": "Q4913883"
+            },
+            {
+                "label": "Oxide",
+                "wdid": "Q50690"
+            },
+            {
+                "label": "binary compound",
+                "wdid": "Q66392"
+            },
+            {
+                "label": "physical state",
+                "wdid": "Q66591990"
+            },
+            {
+                "label": "chalcogenide",
+                "wdid": "Q898920"
+            },
+            {
+                "label": "bound state",
+                "wdid": "Q908049"
+            }
+        ],
         "provider": "langsci",
         "srcwordsbare": [
             "ɔɡɔ",
@@ -463,7 +472,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "ɔtɔ"
@@ -493,7 +502,7 @@
         "clength": 52,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anu</div>\n\t\t<div class=\"glossblock\">REL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">laa-lau</div>\n\t\t<div class=\"glossblock\">RDP-presently</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sulud-an</div>\n\t\t<div class=\"glossblock\">push-APPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tau</div>\n\t\t<div class=\"glossblock\">person</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔanɛ</div>\n\t\t<div class=\"glossblock\">male</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛi</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dulak</div>\n\t\t<div class=\"glossblock\">front</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɔɡɔbbun</div>\n\t\t<div class=\"glossblock\">well</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ana</div>\n\t\t<div class=\"glossblock\">MED</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "REL",
@@ -510,7 +519,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "anu",
@@ -546,7 +555,7 @@
         "clength": 30,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔanɛ</div>\n\t\t<div class=\"glossblock\">man</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anu</div>\n\t\t<div class=\"glossblock\">REL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lau</div>\n\t\t<div class=\"glossblock\">presently</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔN-sulud-an</div>\n\t\t<div class=\"glossblock\">AV.RLS-push-APPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɔtɔ</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "man",
@@ -559,7 +568,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "mɔanɛ",
@@ -590,9 +599,12 @@
         "clength": 60,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {
-            "Q2881121": "eagerly"
-        },
+        "entities": [
+            {
+                "label": "eagerly",
+                "wdid": "Q2881121"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daan</div>\n\t\t<div class=\"glossblock\">later</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tɔɔka</div>\n\t\t<div class=\"glossblock\">finished</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔN-pɛnɛk</div>\n\t\t<div class=\"glossblock\">AV.RLS-climb</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">isia</div>\n\t\t<div class=\"glossblock\">3S</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lau</div>\n\t\t<div class=\"glossblock\">presently</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔN-pɛnɛk</div>\n\t\t<div class=\"glossblock\">AV-climb</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔ-aʃik</div>\n\t\t<div class=\"glossblock\">ST.RLS-busy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lau</div>\n\t\t<div class=\"glossblock\">presently</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔN-tipu</div>\n\t\t<div class=\"glossblock\">AV-pick</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "later",
@@ -609,7 +621,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "daan",
@@ -646,9 +658,12 @@
         "clength": 24,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {
-            "Q1318274": "whatchamacallit"
-        },
+        "entities": [
+            {
+                "label": "whatchamacallit",
+                "wdid": "Q1318274"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tau-0=na</div>\n\t\t<div class=\"glossblock\">put-UV=3S.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛi</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anu</div>\n\t\t<div class=\"glossblock\">FILL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">badu=na</div>\n\t\t<div class=\"glossblock\">shirt=3S.GEN</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "put-UV=3S.GEN",
@@ -660,7 +675,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "tau-0=na",
@@ -689,7 +704,7 @@
         "clength": 21,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">RDP-salu</div>\n\t\t<div class=\"glossblock\">RDP-to.face</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kɔlɔan=na=kɔ</div>\n\t\t<div class=\"glossblock\">right=3s.GEN=AND</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "RDP-to.face",
@@ -699,7 +714,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "RDP-salu",
@@ -731,7 +746,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "mɔN-kabing"
@@ -762,7 +777,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "mɔN-ɡulaŋ"
@@ -789,7 +804,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "ballamatɛ"
@@ -821,9 +836,12 @@
         "clength": 35,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {
-            "Q11442": "bicycle"
-        },
+        "entities": [
+            {
+                "label": "bicycle",
+                "wdid": "Q11442"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sapɛda</div>\n\t\t<div class=\"glossblock\">bicycle</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔ-RDP-lumpak=mɔ=kɔ</div>\n\t\t<div class=\"glossblock\">ST.RLS-RDP-hit.against=CPL=AND</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛi</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">batu</div>\n\t\t<div class=\"glossblock\">stone</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "bicycle",
@@ -835,55 +853,44 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q106839123": "means of transport",
-            "Q11019": "Machine",
-            "Q1150771": "output",
-            "Q11723891": "Single-track_vehicle",
-            "Q1183543": "appliance",
-            "Q1301433": "Land_vehicle",
-            "Q1408229": "finished good",
-            "Q1454986": "physical system",
-            "Q1485500": "tangible good",
-            "Q1507442": "human-powered vehicle",
-            "Q15401930": "artificial object",
-            "Q15618781": "wheeled vehicle",
-            "Q16686448": "artificial object",
-            "Q16889133": "class",
-            "Q18458812": "consumer goods",
-            "Q19279121": "free-emissions vehicle",
-            "Q2120578": "zero-emissions vehicle",
-            "Q2184715": "durable good",
-            "Q223557": "physical object",
-            "Q233040": "two-wheeler",
-            "Q2424752": "product",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q386724": "work",
-            "Q39546": "Tool",
-            "Q41321608": "vehicle without engine",
-            "Q42889": "Vehicle",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q5936788": "human-powered land vehicle",
-            "Q595658": "Velocipede",
-            "Q6671777": "structure",
-            "Q768186": "sports equipment",
-            "Q8205328": "artificial physical object",
-            "Q9158768": "storage",
-            "Q987767": "Container",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Machine",
+                "wdid": "Q11019"
+            },
+            {
+                "label": "Single-track_vehicle",
+                "wdid": "Q11723891"
+            },
+            {
+                "label": "Land_vehicle",
+                "wdid": "Q1301433"
+            },
+            {
+                "label": "two-wheeler",
+                "wdid": "Q233040"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            },
+            {
+                "label": "vehicle without engine",
+                "wdid": "Q41321608"
+            },
+            {
+                "label": "Vehicle",
+                "wdid": "Q42889"
+            },
+            {
+                "label": "Velocipede",
+                "wdid": "Q595658"
+            },
+            {
+                "label": "sports equipment",
+                "wdid": "Q768186"
+            }
+        ],
         "provider": "langsci",
         "srcwordsbare": [
             "sapɛda",
@@ -916,9 +923,12 @@
         "coordination": "and",
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {
-            "Q167918": "grandfathers"
-        },
+        "entities": [
+            {
+                "label": "grandfathers",
+                "wdid": "Q167918"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anu</div>\n\t\t<div class=\"glossblock\">REL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔɡa</div>\n\t\t<div class=\"glossblock\">only</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">uli=ai</div>\n\t\t<div class=\"glossblock\">from=VEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sɛi</div>\n\t\t<div class=\"glossblock\">HON</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kakai=ta</div>\n\t\t<div class=\"glossblock\">grandfather=1PI.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ai</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bakɛlɛ=ta</div>\n\t\t<div class=\"glossblock\">grandmother=1PI.GEN</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "REL",
@@ -933,61 +943,48 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q106110777": "predecessor",
-            "Q106559804": "person or organization",
-            "Q108163": "proposition",
-            "Q11028": "information",
-            "Q12758374": "kin",
-            "Q15916540": "semantic unit",
-            "Q16334295": "group of humans",
-            "Q16334298": "group of living things",
-            "Q16877783": "meaning",
-            "Q16889133": "class",
-            "Q171318": "Kinship",
-            "Q1786828": "constituent",
-            "Q183046": "meaning",
-            "Q18336849": "",
-            "Q188572": "fact",
-            "Q20817253": "linguistic unit",
-            "Q215627": "person",
-            "Q2198779": "unit",
-            "Q23958946": "individual entity",
-            "Q24229398": "agent",
-            "Q246672": "mathematical object",
-            "Q24882651": "Second-degree_relative",
-            "Q26720107": "personal law",
-            "Q2684591": "statement",
-            "Q29651519": "mental object",
-            "Q30060700": "scientific object",
-            "Q35120": "entity",
-            "Q3778211": "legal person",
-            "Q402152": "Ancestor",
-            "Q41796": "sentence",
-            "Q42848": "data",
-            "Q4330518": "object of study",
-            "Q474328": "declarative sentence",
-            "Q483247": "phenomenon",
-            "Q488383": "object",
-            "Q5371079": "emic unit",
-            "Q58778": "system",
-            "Q602884": "social phenomenon",
-            "Q61961344": "group of physical objects",
-            "Q628523": "Message",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q7887142": "unit of analysis",
-            "Q795052": "individual",
-            "Q830077": "subject",
-            "Q853725": "social relation",
-            "Q874405": "human social group",
-            "Q930933": "relation",
-            "Q9380010": "utterance",
-            "Q98119401": "group or class of physical objects",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "predecessor",
+                "wdid": "Q106110777"
+            },
+            {
+                "label": "kin",
+                "wdid": "Q12758374"
+            },
+            {
+                "label": "group of humans",
+                "wdid": "Q16334295"
+            },
+            {
+                "label": "Kinship",
+                "wdid": "Q171318"
+            },
+            {
+                "label": "person",
+                "wdid": "Q215627"
+            },
+            {
+                "label": "unit",
+                "wdid": "Q2198779"
+            },
+            {
+                "label": "Second-degree_relative",
+                "wdid": "Q24882651"
+            },
+            {
+                "label": "Ancestor",
+                "wdid": "Q402152"
+            },
+            {
+                "label": "social relation",
+                "wdid": "Q853725"
+            },
+            {
+                "label": "human social group",
+                "wdid": "Q874405"
+            }
+        ],
         "provider": "langsci",
         "srcwordsbare": [
             "anu",
@@ -1022,7 +1019,7 @@
         "clength": 40,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ana</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔ-ita</div>\n\t\t<div class=\"glossblock\">POT-see</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kami</div>\n\t\t<div class=\"glossblock\">1PE</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛi</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">RDP-lipu</div>\n\t\t<div class=\"glossblock\">RDP-country</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">RDP-ɡii</div>\n\t\t<div class=\"glossblock\">RDP-different</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ana</div>\n\t\t<div class=\"glossblock\">MED</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "if",
@@ -1037,7 +1034,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "ana",
@@ -1069,7 +1066,7 @@
         "clength": 34,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔanɛ</div>\n\t\t<div class=\"glossblock\">man</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ana</div>\n\t\t<div class=\"glossblock\">MED</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lau</div>\n\t\t<div class=\"glossblock\">presently</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔN-sulud-an</div>\n\t\t<div class=\"glossblock\">AV-push-APPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɔtɔ</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ana</div>\n\t\t<div class=\"glossblock\">MED</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "man",
@@ -1083,7 +1080,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "mɔanɛ",
@@ -1117,7 +1114,7 @@
         "clength": 22,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">io</div>\n\t\t<div class=\"glossblock\">OK</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kita</div>\n\t\t<div class=\"glossblock\">2S</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pɔni</div>\n\t\t<div class=\"glossblock\">again</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔ-anu=ai</div>\n\t\t<div class=\"glossblock\">AV-FILL=VEN</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "OK",
@@ -1129,7 +1126,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "io",
@@ -1160,7 +1157,7 @@
         "clength": 34,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anu</div>\n\t\t<div class=\"glossblock\">REL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ampi</div>\n\t\t<div class=\"glossblock\">side</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kɔlɔanan</div>\n\t\t<div class=\"glossblock\">right</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">RDP-salu=ai</div>\n\t\t<div class=\"glossblock\">RDP-to.face=VEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kita</div>\n\t\t<div class=\"glossblock\">2S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "REL",
@@ -1173,7 +1170,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "anu",
@@ -1202,7 +1199,7 @@
         "clength": 30,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ampi</div>\n\t\t<div class=\"glossblock\">side</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kɔlɔanan</div>\n\t\t<div class=\"glossblock\">right</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">RDP-salu=ai</div>\n\t\t<div class=\"glossblock\">RDP-to.face=VEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kita</div>\n\t\t<div class=\"glossblock\">2S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "side",
@@ -1214,7 +1211,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "ampi",
@@ -1239,7 +1236,7 @@
         "clength": 13,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔli-tɛŋɡɛ-an</div>\n\t\t<div class=\"glossblock\">RCP-back-RCP</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "RCP-back-RCP"
@@ -1248,7 +1245,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "mɔli-tɛŋɡɛ-an"
@@ -1270,7 +1267,7 @@
         "clength": 17,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ramɛ-an</div>\n\t\t<div class=\"glossblock\">lively-NMLZ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tau</div>\n\t\t<div class=\"glossblock\">person</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pɔmɔɔ</div>\n\t\t<div class=\"glossblock\">back.then</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "lively-NMLZ",
@@ -1281,7 +1278,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "ramɛ-an",
@@ -1305,7 +1302,7 @@
         "clength": 19,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">geip=pɔ</div>\n\t\t<div class=\"glossblock\">neg=INCPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sallɔ</div>\n\t\t<div class=\"glossblock\">basket</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pɔmɔɔ</div>\n\t\t<div class=\"glossblock\">first</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "neg=INCPL",
@@ -1316,7 +1313,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "geip=pɔ",
@@ -1350,9 +1347,12 @@
         "clength": 61,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {
-            "Q11442": "bicycle"
-        },
+        "entities": [
+            {
+                "label": "bicycle",
+                "wdid": "Q11442"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kɛasikan</div>\n\t\t<div class=\"glossblock\">excitement</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔɡ-RDP-ita-i</div>\n\t\t<div class=\"glossblock\">AV.NRLS-RDP-watch-APPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">maŋana</div>\n\t\t<div class=\"glossblock\">child</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɔlaɡɔ</div>\n\t\t<div class=\"glossblock\">girl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">itu</div>\n\t\t<div class=\"glossblock\">DIST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sapɛda</div>\n\t\t<div class=\"glossblock\">bicycle</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔ-RDP-lumpak</div>\n\t\t<div class=\"glossblock\">AV.RLS-RDP-hit.against</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "excitement",
@@ -1367,55 +1367,44 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q106839123": "means of transport",
-            "Q11019": "Machine",
-            "Q1150771": "output",
-            "Q11723891": "Single-track_vehicle",
-            "Q1183543": "appliance",
-            "Q1301433": "Land_vehicle",
-            "Q1408229": "finished good",
-            "Q1454986": "physical system",
-            "Q1485500": "tangible good",
-            "Q1507442": "human-powered vehicle",
-            "Q15401930": "artificial object",
-            "Q15618781": "wheeled vehicle",
-            "Q16686448": "artificial object",
-            "Q16889133": "class",
-            "Q18458812": "consumer goods",
-            "Q19279121": "free-emissions vehicle",
-            "Q2120578": "zero-emissions vehicle",
-            "Q2184715": "durable good",
-            "Q223557": "physical object",
-            "Q233040": "two-wheeler",
-            "Q2424752": "product",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q386724": "work",
-            "Q39546": "Tool",
-            "Q41321608": "vehicle without engine",
-            "Q42889": "Vehicle",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q5936788": "human-powered land vehicle",
-            "Q595658": "Velocipede",
-            "Q6671777": "structure",
-            "Q768186": "sports equipment",
-            "Q8205328": "artificial physical object",
-            "Q9158768": "storage",
-            "Q987767": "Container",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Machine",
+                "wdid": "Q11019"
+            },
+            {
+                "label": "Single-track_vehicle",
+                "wdid": "Q11723891"
+            },
+            {
+                "label": "Land_vehicle",
+                "wdid": "Q1301433"
+            },
+            {
+                "label": "two-wheeler",
+                "wdid": "Q233040"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            },
+            {
+                "label": "vehicle without engine",
+                "wdid": "Q41321608"
+            },
+            {
+                "label": "Vehicle",
+                "wdid": "Q42889"
+            },
+            {
+                "label": "Velocipede",
+                "wdid": "Q595658"
+            },
+            {
+                "label": "sports equipment",
+                "wdid": "Q768186"
+            }
+        ],
         "provider": "langsci",
         "srcwordsbare": [
             "kɛasikan",
@@ -1452,7 +1441,7 @@
         "clength": 57,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sirita=na</div>\n\t\t<div class=\"glossblock\">story=3S.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">PRX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɡɛimɔ</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daan</div>\n\t\t<div class=\"glossblock\">EXIST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lau</div>\n\t\t<div class=\"glossblock\">presently</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔkɔ-dɔɔŋ</div>\n\t\t<div class=\"glossblock\">ST.AV-want</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mo-aliŋ</div>\n\t\t<div class=\"glossblock\">ST-disappear</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">PRX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">baraŋ</div>\n\t\t<div class=\"glossblock\">goods</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">PRX</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "story=3S.GEN",
@@ -1470,7 +1459,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "sirita=na",
@@ -1507,7 +1496,7 @@
         "clength": 31,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛllɔ</div>\n\t\t<div class=\"glossblock\">like</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">RDP-ɛŋgat</div>\n\t\t<div class=\"glossblock\">RDP-lift.up</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anu</div>\n\t\t<div class=\"glossblock\">REL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛi</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ulin</div>\n\t\t<div class=\"glossblock\">back</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wi</div>\n\t\t<div class=\"glossblock\">INTJ</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "like",
@@ -1521,7 +1510,7 @@
         "language_iso6393": "ind",
         "language_name": "Indonesian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "dɛllɔ",
@@ -1550,7 +1539,7 @@
         "clength": 16,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔli-tɛŋɡɛ-an</div>\n\t\t<div class=\"glossblock\">RCP-back-RCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wi</div>\n\t\t<div class=\"glossblock\">INTJ</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "RCP-back-RCP",
@@ -1560,7 +1549,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "mɔli-tɛŋɡɛ-an",
@@ -1585,7 +1574,7 @@
         "clength": 19,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">yes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔli-teŋɡɛ-an</div>\n\t\t<div class=\"glossblock\">RCP-back-RCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɛɛ</div>\n\t\t<div class=\"glossblock\">INTJ</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yes",
@@ -1596,7 +1585,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "ia",
@@ -1622,7 +1611,7 @@
         "clength": 15,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔli-ulun-an</div>\n\t\t<div class=\"glossblock\">RCP-row-RCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɛɛ</div>\n\t\t<div class=\"glossblock\">INTJ</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "RCP-row-RCP",
@@ -1632,7 +1621,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "mɔli-ulun-an",
@@ -1657,7 +1646,7 @@
         "clength": 13,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">PRX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pɔni=ɡa</div>\n\t\t<div class=\"glossblock\">still=?</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɛɛ</div>\n\t\t<div class=\"glossblock\">INTJ</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PRX",
@@ -1668,7 +1657,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "ia",
@@ -1705,7 +1694,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "nɔ-dulu",
@@ -1745,7 +1734,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "ah",
@@ -1766,7 +1755,7 @@
         "clength": 20,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">maŋana</div>\n\t\t<div class=\"glossblock\">child</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">umbasan</div>\n\t\t<div class=\"glossblock\">young.man</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛdɛŋ</div>\n\t\t<div class=\"glossblock\">small</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "child",
@@ -1777,7 +1766,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "maŋana",
@@ -1807,9 +1796,12 @@
         "clength": 39,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {
-            "Q168552": "thingy"
-        },
+        "entities": [
+            {
+                "label": "thingy",
+                "wdid": "Q168552"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">maŋana</div>\n\t\t<div class=\"glossblock\">child</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">umbasan</div>\n\t\t<div class=\"glossblock\">young.man</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛdɛŋ</div>\n\t\t<div class=\"glossblock\">small</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mai</div>\n\t\t<div class=\"glossblock\">come</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔɡ-ala</div>\n\t\t<div class=\"glossblock\">AV.RLS-fetch</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anu</div>\n\t\t<div class=\"glossblock\">FILL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">PRX</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "child",
@@ -1824,7 +1816,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "maŋana",
@@ -1868,7 +1860,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "ni-lantum-0=na=mɔ"
@@ -1901,7 +1893,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "so-RDP-lɛŋɡɛt"
@@ -1929,9 +1921,12 @@
         "coordination": "and",
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {
-            "Q11442": "bicycle"
-        },
+        "entities": [
+            {
+                "label": "bicycle",
+                "wdid": "Q11442"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sakɛ-0=na</div>\n\t\t<div class=\"glossblock\">get.on-APPL=3S.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛi</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sapɛda</div>\n\t\t<div class=\"glossblock\">cycle</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">danna</div>\n\t\t<div class=\"glossblock\">then</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "get.on-APPL=3S.GEN",
@@ -1943,55 +1938,44 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q106839123": "means of transport",
-            "Q11019": "Machine",
-            "Q1150771": "output",
-            "Q11723891": "Single-track_vehicle",
-            "Q1183543": "appliance",
-            "Q1301433": "Land_vehicle",
-            "Q1408229": "finished good",
-            "Q1454986": "physical system",
-            "Q1485500": "tangible good",
-            "Q1507442": "human-powered vehicle",
-            "Q15401930": "artificial object",
-            "Q15618781": "wheeled vehicle",
-            "Q16686448": "artificial object",
-            "Q16889133": "class",
-            "Q18458812": "consumer goods",
-            "Q19279121": "free-emissions vehicle",
-            "Q2120578": "zero-emissions vehicle",
-            "Q2184715": "durable good",
-            "Q223557": "physical object",
-            "Q233040": "two-wheeler",
-            "Q2424752": "product",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q386724": "work",
-            "Q39546": "Tool",
-            "Q41321608": "vehicle without engine",
-            "Q42889": "Vehicle",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q5936788": "human-powered land vehicle",
-            "Q595658": "Velocipede",
-            "Q6671777": "structure",
-            "Q768186": "sports equipment",
-            "Q8205328": "artificial physical object",
-            "Q9158768": "storage",
-            "Q987767": "Container",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Machine",
+                "wdid": "Q11019"
+            },
+            {
+                "label": "Single-track_vehicle",
+                "wdid": "Q11723891"
+            },
+            {
+                "label": "Land_vehicle",
+                "wdid": "Q1301433"
+            },
+            {
+                "label": "two-wheeler",
+                "wdid": "Q233040"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            },
+            {
+                "label": "vehicle without engine",
+                "wdid": "Q41321608"
+            },
+            {
+                "label": "Vehicle",
+                "wdid": "Q42889"
+            },
+            {
+                "label": "Velocipede",
+                "wdid": "Q595658"
+            },
+            {
+                "label": "sports equipment",
+                "wdid": "Q768186"
+            }
+        ],
         "provider": "langsci",
         "srcwordsbare": [
             "sakɛ-0=na",
@@ -2031,7 +2015,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "isia",
@@ -2072,7 +2056,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "ni-untud-0=na=mɔ=kɔ"
@@ -2113,7 +2097,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "ni-untud-0=mɔ=kɔ",
@@ -2155,7 +2139,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "ni-bɛɛn-0=na=mɔ=ai"
@@ -2181,7 +2165,7 @@
         "clength": 31,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iŋɡa</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔli-ita-an</div>\n\t\t<div class=\"glossblock\">RCP.RLS-see-RCP.RLS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">takin</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tau</div>\n\t\t<div class=\"glossblock\">person</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dakɔ</div>\n\t\t<div class=\"glossblock\">big</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "NEG",
@@ -2194,7 +2178,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "iŋɡa",
@@ -2223,7 +2207,7 @@
         "clength": 30,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sirita</div>\n\t\t<div class=\"glossblock\">story</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aku</div>\n\t\t<div class=\"glossblock\">1S.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">PRX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sirita</div>\n\t\t<div class=\"glossblock\">story</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tau</div>\n\t\t<div class=\"glossblock\">person</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pɔmɔɔ</div>\n\t\t<div class=\"glossblock\">first</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "story",
@@ -2237,7 +2221,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "sirita",
@@ -2273,7 +2257,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "iŋɡa",
@@ -2296,7 +2280,7 @@
         "clength": 11,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daan</div>\n\t\t<div class=\"glossblock\">EXIST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">taisɔl</div>\n\t\t<div class=\"glossblock\">old.man</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "EXIST",
@@ -2306,7 +2290,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "daan",
@@ -2342,7 +2326,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "RDP-lau",
@@ -2379,7 +2363,7 @@
         "clength": 43,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha</div>\n\t\t<div class=\"glossblock\">INTJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iŋɡa</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daan</div>\n\t\t<div class=\"glossblock\">EXIST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">parhatikan-0=na</div>\n\t\t<div class=\"glossblock\">pay.attention-UV=3S.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tau</div>\n\t\t<div class=\"glossblock\">person</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i-panau</div>\n\t\t<div class=\"glossblock\">LOC-under</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">PRX</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "INTJ",
@@ -2394,7 +2378,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "ha",
@@ -2427,9 +2411,12 @@
         "clength": 44,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {
-            "Q27939": "Singing"
-        },
+        "entities": [
+            {
+                "label": "Singing",
+                "wdid": "Q27939"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">RDP-ɡii</div>\n\t\t<div class=\"glossblock\">RDP-different</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mo-lɛlɛɡɛsan</div>\n\t\t<div class=\"glossblock\">AV-Lelegesasn</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">RDP-ɡii</div>\n\t\t<div class=\"glossblock\">RDP-different</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mo-RDP-ɡɛɡɛs-an</div>\n\t\t<div class=\"glossblock\">AV-RDP-rub-APPL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "RDP-different",
@@ -2441,51 +2428,44 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q1150771": "output",
-            "Q1190554": "occurrence",
-            "Q1454986": "physical system",
-            "Q15116915": "show",
-            "Q15401930": "artificial object",
-            "Q15621286": "intellectual work",
-            "Q1656682": "event",
-            "Q1668139": "musical_interpretation",
-            "Q16686448": "artificial object",
-            "Q16887380": "group",
-            "Q16889133": "class",
-            "Q17537576": "creative work",
-            "Q18593264": "item of collection or exhibition",
-            "Q1914636": "activity",
-            "Q20937557": "sequence",
-            "Q21146257": "type",
-            "Q223557": "physical object",
-            "Q2267705": "field_of_study",
-            "Q26907166": "temporal entity",
-            "Q286583": "manifestation",
-            "Q28813620": "set",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q29182544": "assignment",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35140": "Performance",
-            "Q35459920": "three-dimensional object",
-            "Q386724": "work",
-            "Q4026292": "action",
-            "Q43099500": "performing_arts_production",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q6942562": "musical_performance",
-            "Q8205328": "artificial physical object",
-            "Q838948": "work of art",
-            "Q855395": "interpretation",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "show",
+                "wdid": "Q15116915"
+            },
+            {
+                "label": "event",
+                "wdid": "Q1656682"
+            },
+            {
+                "label": "musical_interpretation",
+                "wdid": "Q1668139"
+            },
+            {
+                "label": "item of collection or exhibition",
+                "wdid": "Q18593264"
+            },
+            {
+                "label": "field_of_study",
+                "wdid": "Q2267705"
+            },
+            {
+                "label": "Performance",
+                "wdid": "Q35140"
+            },
+            {
+                "label": "performing_arts_production",
+                "wdid": "Q43099500"
+            },
+            {
+                "label": "musical_performance",
+                "wdid": "Q6942562"
+            },
+            {
+                "label": "work of art",
+                "wdid": "Q838948"
+            }
+        ],
         "provider": "langsci",
         "srcwordsbare": [
             "RDP-ɡii",
@@ -2524,7 +2504,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "nɔ-dabu",
@@ -2564,7 +2544,7 @@
         "clength": 67,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">karɛna</div>\n\t\t<div class=\"glossblock\">because</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">isia</div>\n\t\t<div class=\"glossblock\">3S</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔɡ-ita-i</div>\n\t\t<div class=\"glossblock\">AV.RLS-see-APPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sapɛɔ=na</div>\n\t\t<div class=\"glossblock\">hat=3S.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">itu</div>\n\t\t<div class=\"glossblock\">DIST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɡɛiɡa</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔ-ita-0=na</div>\n\t\t<div class=\"glossblock\">POT-see-UV=3S.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">batu</div>\n\t\t<div class=\"glossblock\">stone</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛi</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dulak</div>\n\t\t<div class=\"glossblock\">front</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "because",
@@ -2582,7 +2562,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "karɛna",
@@ -2623,7 +2603,7 @@
         "clength": 43,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">inʤan</div>\n\t\t<div class=\"glossblock\">after</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔ-puliŋ=mɔ</div>\n\t\t<div class=\"glossblock\">ST.RLS-full=CPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɔua</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">RDP-lɛŋɡɛt</div>\n\t\t<div class=\"glossblock\">RDP-basket</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">itu=mɔ=kɔ</div>\n\t\t<div class=\"glossblock\">DIST=CPL=AND</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "after",
@@ -2636,7 +2616,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "inʤan",
@@ -2676,7 +2656,7 @@
         "clength": 42,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔ-t<um>alib=mɔ=kɔ</div>\n\t\t<div class=\"glossblock\">AV.RLS-<AUTO.MOT>pass.by=CPL=AND</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tau</div>\n\t\t<div class=\"glossblock\">person</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">RDP-ɡɔɔt</div>\n\t\t<div class=\"glossblock\">RDP-hold</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tɔalaŋ</div>\n\t\t<div class=\"glossblock\">goat</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">itu</div>\n\t\t<div class=\"glossblock\">DIST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "AV.RLS-<AUTO.MOT>pass.by=CPL=AND",
@@ -2689,7 +2669,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "nɔ-t<um>alib=mɔ=kɔ",
@@ -2723,7 +2703,7 @@
         "clength": 37,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔN-RDP-siliɡ=kɔ</div>\n\t\t<div class=\"glossblock\">AV-RDP-glance=AND</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛi</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɔlaɡɔ</div>\n\t\t<div class=\"glossblock\">girl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tɛrus</div>\n\t\t<div class=\"glossblock\">then</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">itu</div>\n\t\t<div class=\"glossblock\">DIST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "AV-RDP-glance=AND",
@@ -2736,7 +2716,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "mɔN-RDP-siliɡ=kɔ",
@@ -2762,7 +2742,7 @@
         "clength": 27,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɛmaŋ</div>\n\t\t<div class=\"glossblock\">in.fact</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sistim</div>\n\t\t<div class=\"glossblock\">system</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kɔ-kɔluarɡa-an</div>\n\t\t<div class=\"glossblock\">NR-family-NR</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "in.fact",
@@ -2773,7 +2753,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "mɛmaŋ",
@@ -2811,7 +2791,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "musti",
@@ -2845,7 +2825,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "mɔ-kɛlɛɡ=pɔ"
@@ -2871,7 +2851,7 @@
         "clength": 22,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔ-RDP-lumpak</div>\n\t\t<div class=\"glossblock\">ST-RDP-hit.against</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛi</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">batu</div>\n\t\t<div class=\"glossblock\">stone</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "ST-RDP-hit.against",
@@ -2882,7 +2862,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "nɔ-RDP-lumpak",
@@ -2917,9 +2897,12 @@
         "clength": 33,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {
-            "Q37153": "avocados"
-        },
+        "entities": [
+            {
+                "label": "avocados",
+                "wdid": "Q37153"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">alpukaat</div>\n\t\t<div class=\"glossblock\">avocado</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anu</div>\n\t\t<div class=\"glossblock\">REL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ni-lantum-0=na=kɔ</div>\n\t\t<div class=\"glossblock\">RLS-bring.along-UV=3S.GEN=AND</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">PRX</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "avocado",
@@ -2931,7 +2914,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "alpukaat",
@@ -2971,7 +2954,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "no-kakab=mɔ=kɔ"
@@ -3008,7 +2991,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "sukat-i",
@@ -3035,7 +3018,7 @@
         "clength": 26,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anu</div>\n\t\t<div class=\"glossblock\">REL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">RDP-salu</div>\n\t\t<div class=\"glossblock\">RDP-facing</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛi</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">puun</div>\n\t\t<div class=\"glossblock\">tree</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaju</div>\n\t\t<div class=\"glossblock\">wood</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "REL",
@@ -3048,7 +3031,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "anu",
@@ -3089,7 +3072,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "bali",
@@ -3130,7 +3113,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "sasaakan",
@@ -3158,7 +3141,7 @@
         "clength": 12,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔntɔli-amaŋ</div>\n\t\t<div class=\"glossblock\">BE.RELATED.AS-father</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "BE.RELATED.AS-father"
@@ -3167,7 +3150,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "mɔntɔli-amaŋ"
@@ -3198,9 +3181,12 @@
         "clength": 53,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {
-            "Q37153": "avocado"
-        },
+        "entities": [
+            {
+                "label": "avocado",
+                "wdid": "Q37153"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bali</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">siŋɡaian</div>\n\t\t<div class=\"glossblock\">friend</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ni-bɛɛn-an=na=kɔ</div>\n\t\t<div class=\"glossblock\">RLS-give-APPL=3S.GEN=AND</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">alpukaat</div>\n\t\t<div class=\"glossblock\">avocado</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kalangɛna</div>\n\t\t<div class=\"glossblock\">a.moment.ago</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">itu</div>\n\t\t<div class=\"glossblock\">DIST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "so",
@@ -3214,7 +3200,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "bali",
@@ -3255,7 +3241,7 @@
         "clength": 60,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔ-RDP-lakɔ=mɔ=kɔ</div>\n\t\t<div class=\"glossblock\">AV.RLS-RDP-walk=cpl=and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔ-t<um>alib=mɔ</div>\n\t\t<div class=\"glossblock\">AV.RLS-<AUTO.MOT>pass.by=CPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pɔni=kɔ</div>\n\t\t<div class=\"glossblock\">again=AND</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛi</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aluŋ</div>\n\t\t<div class=\"glossblock\">under</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">puun</div>\n\t\t<div class=\"glossblock\">tree</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaju</div>\n\t\t<div class=\"glossblock\">wood</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "AV.RLS-RDP-walk=cpl=and",
@@ -3270,7 +3256,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "nɔ-RDP-lakɔ=mɔ=kɔ",
@@ -3306,9 +3292,12 @@
         "clength": 53,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {
-            "Q37153": "avocados"
-        },
+        "entities": [
+            {
+                "label": "avocados",
+                "wdid": "Q37153"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anu</div>\n\t\t<div class=\"glossblock\">REL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lau</div>\n\t\t<div class=\"glossblock\">presently</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pɛnɛk-0</div>\n\t\t<div class=\"glossblock\">climb-UV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tau</div>\n\t\t<div class=\"glossblock\">person</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pɔ-ɡauan</div>\n\t\t<div class=\"glossblock\">GER-garden</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">PRX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛi</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">alung</div>\n\t\t<div class=\"glossblock\">under</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">alpukaat</div>\n\t\t<div class=\"glossblock\">avocado</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">PRX</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "REL",
@@ -3326,7 +3315,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "anu",
@@ -3366,7 +3355,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "kɛʤadian=na"
@@ -3388,7 +3377,7 @@
         "clength": 10,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daan</div>\n\t\t<div class=\"glossblock\">EXIST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">taisɔ</div>\n\t\t<div class=\"glossblock\">old.man</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "EXIST",
@@ -3398,7 +3387,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "daan",
@@ -3438,7 +3427,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "dɔua=mɔ",
@@ -3471,7 +3460,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "aa"
@@ -3503,7 +3492,7 @@
         "coordination": "and",
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">isia</div>\n\t\t<div class=\"glossblock\">3S</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔN-pɛnɛk</div>\n\t\t<div class=\"glossblock\">AV.RLS-climb</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ulaŋ</div>\n\t\t<div class=\"glossblock\">repeat</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔɡ-ala=ai</div>\n\t\t<div class=\"glossblock\">AV-fetch=VEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pɔni</div>\n\t\t<div class=\"glossblock\">again</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔN-suaŋ-an</div>\n\t\t<div class=\"glossblock\">AV-fill-APPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛi</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sallɔ</div>\n\t\t<div class=\"glossblock\">basket</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3S",
@@ -3519,7 +3508,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "isia",
@@ -3557,7 +3546,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "tutuŋ=mɔ"
@@ -3588,7 +3577,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "anu"
@@ -3620,7 +3609,7 @@
         "clength": 32,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">o</div>\n\t\t<div class=\"glossblock\">INTJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tiana</div>\n\t\t<div class=\"glossblock\">QUOT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gɛiga</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku=dabu-an</div>\n\t\t<div class=\"glossblock\">1SG=throw-UV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛi</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɔgɔ</div>\n\t\t<div class=\"glossblock\">water</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "INTJ",
@@ -3634,7 +3623,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "o",
@@ -3673,9 +3662,12 @@
         "clength": 34,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {
-            "Q37153": "avocados"
-        },
+        "entities": [
+            {
+                "label": "avocados",
+                "wdid": "Q37153"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sɔ-ɡaat</div>\n\t\t<div class=\"glossblock\">ONE-part</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔ-anu-an=mɔ</div>\n\t\t<div class=\"glossblock\">AV.RLS-FILL-APPL=CPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">alpukaat</div>\n\t\t<div class=\"glossblock\">avocado</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">PRX</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "a",
@@ -3688,7 +3680,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "a",
@@ -3726,7 +3718,7 @@
         "clength": 36,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sɔ-ɡaat</div>\n\t\t<div class=\"glossblock\">ONE-part</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔ-anu-an=mo</div>\n\t\t<div class=\"glossblock\">AV.RLS-FILL-APPL=CPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tau</div>\n\t\t<div class=\"glossblock\">person</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔn-takɔ</div>\n\t\t<div class=\"glossblock\">AV.RLS-steal</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">PRX</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "ONE-part",
@@ -3739,7 +3731,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "sɔ-ɡaat",
@@ -3770,7 +3762,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "bali"
@@ -3810,7 +3802,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "pɔɡ-ita-0=ta",
@@ -3843,7 +3835,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "kɔ=RDP-daan",
@@ -3884,7 +3876,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "namɔ",
@@ -3920,7 +3912,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "dɛi",
@@ -3955,7 +3947,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "ɔ",
@@ -3991,7 +3983,7 @@
         "clength": 47,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iŋɡa</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daan</div>\n\t\t<div class=\"glossblock\">EXIST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kan</div>\n\t\t<div class=\"glossblock\">perhaps</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔkɔ-dɔɔng</div>\n\t\t<div class=\"glossblock\">ST.AV-want</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔ-RDP-ɡali=mɔ</div>\n\t\t<div class=\"glossblock\">AV-RDP-stop=CPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">PRX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iŋɡa</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "NEG",
@@ -4006,7 +3998,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "iŋɡa",
@@ -4047,7 +4039,7 @@
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "modality": "volitive",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "isia",
@@ -4080,7 +4072,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "tiŋana"
@@ -4107,7 +4099,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "sabatu"
@@ -4137,9 +4129,12 @@
         "clength": 30,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {
-            "Q1429216": "fell to the ground"
-        },
+        "entities": [
+            {
+                "label": "fell to the ground",
+                "wdid": "Q1429216"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sɔ-ɡaat</div>\n\t\t<div class=\"glossblock\">ONE-part</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔ-dabu=mɔ=ai</div>\n\t\t<div class=\"glossblock\">ST-fall=CPL=VEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛi</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">buta</div>\n\t\t<div class=\"glossblock\">earth</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "ONE-part",
@@ -4151,7 +4146,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "sɔ-ɡaat",
@@ -4179,9 +4174,12 @@
         "clength": 25,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {
-            "Q11946202": "butterfly"
-        },
+        "entities": [
+            {
+                "label": "butterfly",
+                "wdid": "Q11946202"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">baɡu-0=na</div>\n\t\t<div class=\"glossblock\">beat-UV=3S.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pɔni</div>\n\t\t<div class=\"glossblock\">again</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kalibɔmbaŋ</div>\n\t\t<div class=\"glossblock\">butterfly</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "beat-UV=3S.GEN",
@@ -4192,7 +4190,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "baɡu-0=na",
@@ -4218,7 +4216,7 @@
         "clength": 32,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">danna</div>\n\t\t<div class=\"glossblock\">then</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔli-ita-an</div>\n\t\t<div class=\"glossblock\">RCP.RLS-see-RCP.RLS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">takin</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tau</div>\n\t\t<div class=\"glossblock\">person</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dakɔ</div>\n\t\t<div class=\"glossblock\">big</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "then",
@@ -4231,7 +4229,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "danna",
@@ -4270,7 +4268,7 @@
         "clength": 61,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lau</div>\n\t\t<div class=\"glossblock\">presently</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anu</div>\n\t\t<div class=\"glossblock\">REL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lau</div>\n\t\t<div class=\"glossblock\">presently</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sulud-an</div>\n\t\t<div class=\"glossblock\">push-APPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tau</div>\n\t\t<div class=\"glossblock\">person</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ana</div>\n\t\t<div class=\"glossblock\">MED</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛi</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dulak</div>\n\t\t<div class=\"glossblock\">front</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɔɡɔbbun=na</div>\n\t\t<div class=\"glossblock\">well=3S.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔ-ita-0=ku</div>\n\t\t<div class=\"glossblock\">ST-see-UV=1s.GEN</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "presently",
@@ -4288,7 +4286,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "lau",
@@ -4338,9 +4336,12 @@
         "clength": 110,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {
-            "Q37153": "avocados"
-        },
+        "entities": [
+            {
+                "label": "avocados",
+                "wdid": "Q37153"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bali</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tau</div>\n\t\t<div class=\"glossblock\">person</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔN-tipu</div>\n\t\t<div class=\"glossblock\">AV.RLS-pick</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tɔɡu</div>\n\t\t<div class=\"glossblock\">possession</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">alpukaat</div>\n\t\t<div class=\"glossblock\">avocado</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">PRX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔ-nau=mɔ=ai</div>\n\t\t<div class=\"glossblock\">AV.RLS-go.down=CPL=VEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">uli=ai</div>\n\t\t<div class=\"glossblock\">from=VEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anu=na</div>\n\t\t<div class=\"glossblock\">FILL=3s.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">uli=ai</div>\n\t\t<div class=\"glossblock\">from=VEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɛ</div>\n\t\t<div class=\"glossblock\">INTJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">puun</div>\n\t\t<div class=\"glossblock\">tree</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">alpukaat</div>\n\t\t<div class=\"glossblock\">avocado</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">PRX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anu</div>\n\t\t<div class=\"glossblock\">REL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tɔɔka</div>\n\t\t<div class=\"glossblock\">finished</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ni-tipu-0=na</div>\n\t\t<div class=\"glossblock\">RLS-pick-UV=3S.GEN</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "so",
@@ -4365,7 +4366,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "bali",
@@ -4414,7 +4415,7 @@
         "clength": 52,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">RDP-lau</div>\n\t\t<div class=\"glossblock\">RDP-while</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">isia</div>\n\t\t<div class=\"glossblock\">3S</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛi</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">babo</div>\n\t\t<div class=\"glossblock\">above</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ondan</div>\n\t\t<div class=\"glossblock\">ladder</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lau</div>\n\t\t<div class=\"glossblock\">while</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔ-tipu</div>\n\t\t<div class=\"glossblock\">AV.RLS-pick</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔ-t<um>alib</div>\n\t\t<div class=\"glossblock\">AV.RLS-<AUTO.MOT>pass.by</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "RDP-while",
@@ -4430,7 +4431,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "RDP-lau",
@@ -4472,7 +4473,7 @@
         "clength": 63,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ni-untud-0=na=kɔ</div>\n\t\t<div class=\"glossblock\">RLS-bring-UV=3S.GEN=AND</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛi</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tau</div>\n\t\t<div class=\"glossblock\">person</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔN-takɔ</div>\n\t\t<div class=\"glossblock\">AV.RLS-steal</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">maŋana</div>\n\t\t<div class=\"glossblock\">child</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔN-takɔ</div>\n\t\t<div class=\"glossblock\">AV.RLS-steal</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">buŋɔ</div>\n\t\t<div class=\"glossblock\">fruit</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">piir</div>\n\t\t<div class=\"glossblock\">pear</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">itu</div>\n\t\t<div class=\"glossblock\">DIST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "RLS-bring-UV=3S.GEN=AND",
@@ -4489,7 +4490,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "ni-untud-0=na=kɔ",
@@ -4525,7 +4526,7 @@
         "clength": 37,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">untuk</div>\n\t\t<div class=\"glossblock\">for</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pɔN-tarima-an</div>\n\t\t<div class=\"glossblock\">NMLZ-accept-NMLZ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tau</div>\n\t\t<div class=\"glossblock\">person</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔ-ngɔ-uma</div>\n\t\t<div class=\"glossblock\">ST-COLL-arrived</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">PRX</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "for",
@@ -4538,7 +4539,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "untuk",
@@ -4579,9 +4580,12 @@
         "coordination": "and",
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {
-            "Q37153": "avocados"
-        },
+        "entities": [
+            {
+                "label": "avocados",
+                "wdid": "Q37153"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daan</div>\n\t\t<div class=\"glossblock\">later</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔ-dabu</div>\n\t\t<div class=\"glossblock\">ST.RLS-fall</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔ-l<um>ɛlas</div>\n\t\t<div class=\"glossblock\">AV.RLS-<AUTO.MOT>scatter</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">alpukaat</div>\n\t\t<div class=\"glossblock\">avocado</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔ-ɔngɔt=mɔ=kɔ</div>\n\t\t<div class=\"glossblock\">ST.RLS-hurt=CPL=AND</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɡaakɛ</div>\n\t\t<div class=\"glossblock\">too</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bulud=na</div>\n\t\t<div class=\"glossblock\">shin=3s.GEN</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "later",
@@ -4596,7 +4600,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "daan",
@@ -4631,7 +4635,7 @@
         "clength": 26,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bali</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pɔɡ-ita-0=ta</div>\n\t\t<div class=\"glossblock\">SF-look.for-UV=2S.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anu</div>\n\t\t<div class=\"glossblock\">REL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">babi</div>\n\t\t<div class=\"glossblock\">pig</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "so",
@@ -4643,7 +4647,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "bali",
@@ -4673,7 +4677,7 @@
         "clength": 27,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɔtɔ</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ana</div>\n\t\t<div class=\"glossblock\">MED</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lau</div>\n\t\t<div class=\"glossblock\">presently</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sulud-an=na</div>\n\t\t<div class=\"glossblock\">push-APPL=3S.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ana</div>\n\t\t<div class=\"glossblock\">MED</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "car",
@@ -4686,7 +4690,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "ɔtɔ",
@@ -4720,7 +4724,7 @@
         "clength": 52,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anu</div>\n\t\t<div class=\"glossblock\">REL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">RDP-lau</div>\n\t\t<div class=\"glossblock\">RDP-presently</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sulud-an</div>\n\t\t<div class=\"glossblock\">push-APPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tau</div>\n\t\t<div class=\"glossblock\">person</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔanɛ</div>\n\t\t<div class=\"glossblock\">man</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛi</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dulak</div>\n\t\t<div class=\"glossblock\">front</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɔɡɔbbun</div>\n\t\t<div class=\"glossblock\">well</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ana</div>\n\t\t<div class=\"glossblock\">MED</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "REL",
@@ -4737,7 +4741,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "anu",
@@ -4776,7 +4780,7 @@
         "clength": 57,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sirita=na</div>\n\t\t<div class=\"glossblock\">story=3S.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">PRX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɡɛimɔ</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daan</div>\n\t\t<div class=\"glossblock\">EXIST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lau</div>\n\t\t<div class=\"glossblock\">presently</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔkɔ-dɔɔŋ</div>\n\t\t<div class=\"glossblock\">ST.AV-want</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mɔ-aliŋ</div>\n\t\t<div class=\"glossblock\">ST-disappear</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">PRX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">baraŋ</div>\n\t\t<div class=\"glossblock\">goods</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">PRX</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "story=3S.GEN",
@@ -4794,7 +4798,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "sirita=na",
@@ -4827,7 +4831,7 @@
         "clength": 18,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">inaŋ</div>\n\t\t<div class=\"glossblock\">mother</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔN-inum</div>\n\t\t<div class=\"glossblock\">AV.RLS-drink</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sɔpa</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "mother",
@@ -4838,7 +4842,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "inaŋ",
@@ -4875,7 +4879,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "isɛi",
@@ -4901,7 +4905,7 @@
         "clength": 19,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sɔpa</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ni-inum-0</div>\n\t\t<div class=\"glossblock\">RLS-drink-UV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">inaŋ</div>\n\t\t<div class=\"glossblock\">mother</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "what",
@@ -4912,7 +4916,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "sɔpa",
@@ -4949,7 +4953,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "ɔɡɔ",
@@ -4986,7 +4990,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "ɔɡɔ",
@@ -5023,7 +5027,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "sɔpa",
@@ -5049,7 +5053,7 @@
         "clength": 20,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛuk</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔN-lugud</div>\n\t\t<div class=\"glossblock\">AV.RLS-chase</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sɛsɛŋ</div>\n\t\t<div class=\"glossblock\">cat</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "dog",
@@ -5060,7 +5064,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "dɛuk",
@@ -5086,7 +5090,7 @@
         "clength": 19,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛuk</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔN-lugud</div>\n\t\t<div class=\"glossblock\">AV.RLS-chase</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sɔpa</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "dog",
@@ -5097,7 +5101,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "dɛuk",
@@ -5127,7 +5131,7 @@
         "clength": 39,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">maŋana</div>\n\t\t<div class=\"glossblock\">child</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɔlaɡɔ</div>\n\t\t<div class=\"glossblock\">girl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔN-bɛɛn-an</div>\n\t\t<div class=\"glossblock\">AV.RLS-give-APPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">buuk</div>\n\t\t<div class=\"glossblock\">book</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛi</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">isɛi</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "child",
@@ -5141,7 +5145,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "maŋana",
@@ -5176,7 +5180,7 @@
         "clength": 42,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">maŋana</div>\n\t\t<div class=\"glossblock\">child</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɔlaɡɔ</div>\n\t\t<div class=\"glossblock\">girl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔN-bɛɛn-an</div>\n\t\t<div class=\"glossblock\">AV.RLS-give-APPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">buuk</div>\n\t\t<div class=\"glossblock\">book</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛi</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">inaŋ=na</div>\n\t\t<div class=\"glossblock\">mother=3.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "child",
@@ -5190,7 +5194,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "maŋana",
@@ -5225,7 +5229,7 @@
         "clength": 42,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">maŋana</div>\n\t\t<div class=\"glossblock\">child</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɔlaɡɔ</div>\n\t\t<div class=\"glossblock\">girl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔN-bɛɛn-an</div>\n\t\t<div class=\"glossblock\">AV.RLS-give-APPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sɔpa</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛi</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">inaŋ=na</div>\n\t\t<div class=\"glossblock\">mother=3.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "child",
@@ -5239,7 +5243,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "maŋana",
@@ -5274,7 +5278,7 @@
         "clength": 33,
         "doc_ID": 414,
         "doc_URL": "https://langsci-press.org/catalog/book/414",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">isɛi</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nɔN-bɛɛn-an</div>\n\t\t<div class=\"glossblock\">AV.RLS-give-APPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">buuk</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dɛi</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">inaŋ=na</div>\n\t\t<div class=\"glossblock\">mother=3.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "who",
@@ -5287,7 +5291,7 @@
         "language_iso6393": "txe",
         "language_name": "Totoli",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "isɛi",

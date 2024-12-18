@@ -11,7 +11,7 @@
         "clength": 61,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(*Jedino)</div>\n\t\t<div class=\"glossblock\">only</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">/</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(*samo)</div>\n\t\t<div class=\"glossblock\">just</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">/</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(*čak)</div>\n\t\t<div class=\"glossblock\">even</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">premda / mada</div>\n\t\t<div class=\"glossblock\">although</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nije</div>\n\t\t<div class=\"glossblock\">COP.NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gladna,</div>\n\t\t<div class=\"glossblock\">hungry</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jede.</div>\n\t\t<div class=\"glossblock\">eats</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "only",
@@ -28,7 +28,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -57,7 +57,7 @@
         "clength": 49,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(*Jedino)</div>\n\t\t<div class=\"glossblock\">only</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">/</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(*samo)</div>\n\t\t<div class=\"glossblock\">just</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">/</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">čak</div>\n\t\t<div class=\"glossblock\">even</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iako</div>\n\t\t<div class=\"glossblock\">although</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nije</div>\n\t\t<div class=\"glossblock\">COP.NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gladna,</div>\n\t\t<div class=\"glossblock\">hungry</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jede.</div>\n\t\t<div class=\"glossblock\">eats</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "only",
@@ -74,7 +74,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -110,9 +110,12 @@
         "clength": 54,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q5223107": "fell silent"
-        },
+        "entities": [
+            {
+                "label": "fell silent",
+                "wdid": "Q5223107"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ućutao</div>\n\t\t<div class=\"glossblock\">fell_silent</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je,</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(*čak)</div>\n\t\t<div class=\"glossblock\">even</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iako</div>\n\t\t<div class=\"glossblock\">although</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">to</div>\n\t\t<div class=\"glossblock\">that.DEM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ćutanje</div>\n\t\t<div class=\"glossblock\">silence.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nije</div>\n\t\t<div class=\"glossblock\">AUX.NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dugo</div>\n\t\t<div class=\"glossblock\">long</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">potrajalo.</div>\n\t\t<div class=\"glossblock\">lasted</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "fell_silent",
@@ -129,7 +132,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -161,7 +164,7 @@
         "clength": 46,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ova</div>\n\t\t<div class=\"glossblock\">this</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">haljina</div>\n\t\t<div class=\"glossblock\">dress.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">COP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lepa,</div>\n\t\t<div class=\"glossblock\">nice</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(*čak)</div>\n\t\t<div class=\"glossblock\">even</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iako</div>\n\t\t<div class=\"glossblock\">although</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">COP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">baš</div>\n\t\t<div class=\"glossblock\">exactly</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">skupa.</div>\n\t\t<div class=\"glossblock\">expensive</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "this",
@@ -178,7 +181,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ova",
@@ -211,9 +214,12 @@
         "clength": 78,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q5065782": "CCS"
-        },
+        "entities": [
+            {
+                "label": "CCS",
+                "wdid": "Q5065782"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Na</div>\n\t\t<div class=\"glossblock\">on</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">posao</div>\n\t\t<div class=\"glossblock\">job.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">primili</div>\n\t\t<div class=\"glossblock\">received</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">direktorovu</div>\n\t\t<div class=\"glossblock\">director’s</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">svastiku,</div>\n\t\t<div class=\"glossblock\">cousin.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[čak]</div>\n\t\t<div class=\"glossblock\">even</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iako</div>\n\t\t<div class=\"glossblock\">although</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nije</div>\n\t\t<div class=\"glossblock\">AUX.NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ispunjavala</div>\n\t\t<div class=\"glossblock\">fulfilled</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sve</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">uslove.</div>\n\t\t<div class=\"glossblock\">conditions.ACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "on",
@@ -232,7 +238,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Na",
@@ -265,9 +271,12 @@
         "clength": 29,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q5065782": "CCS"
-        },
+        "entities": [
+            {
+                "label": "CCS",
+                "wdid": "Q5065782"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Posećivali</div>\n\t\t<div class=\"glossblock\">visited</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se,</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iako</div>\n\t\t<div class=\"glossblock\">although</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">retko.</div>\n\t\t<div class=\"glossblock\">rarely</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "visited",
@@ -280,7 +289,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Posećivali",
@@ -309,9 +318,12 @@
         "clength": 58,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q5065782": "CCS"
-        },
+        "entities": [
+            {
+                "label": "CCS",
+                "wdid": "Q5065782"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Iako</div>\n\t\t<div class=\"glossblock\">although</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sam</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">brzo</div>\n\t\t<div class=\"glossblock\">quickly</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">utonula</div>\n\t\t<div class=\"glossblock\">sank</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">san,</div>\n\t\t<div class=\"glossblock\">dream.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vrlo</div>\n\t\t<div class=\"glossblock\">very</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">brzo</div>\n\t\t<div class=\"glossblock\">quickly</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sam</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">probudila.</div>\n\t\t<div class=\"glossblock\">woke_up</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "although",
@@ -331,7 +343,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Iako",
@@ -373,7 +385,7 @@
         "clength": 86,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mada</div>\n\t\t<div class=\"glossblock\">although</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sam</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">imao</div>\n\t\t<div class=\"glossblock\">had</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">planu</div>\n\t\t<div class=\"glossblock\">plan.LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dođem</div>\n\t\t<div class=\"glossblock\">come.1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dva</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dana</div>\n\t\t<div class=\"glossblock\">day</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ranije,</div>\n\t\t<div class=\"glossblock\">earlier</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ipak</div>\n\t\t<div class=\"glossblock\">still</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nisam</div>\n\t\t<div class=\"glossblock\">AUX.NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">uspeo</div>\n\t\t<div class=\"glossblock\">succeeded</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zbog</div>\n\t\t<div class=\"glossblock\">because_of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jakog</div>\n\t\t<div class=\"glossblock\">strong</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nevremena.</div>\n\t\t<div class=\"glossblock\">storm.GEN</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "although",
@@ -397,7 +409,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Mada",
@@ -439,10 +451,16 @@
         "clength": 80,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q466410": "high technology",
-            "Q655970": "mysticism"
-        },
+        "entities": [
+            {
+                "label": "high technology",
+                "wdid": "Q466410"
+            },
+            {
+                "label": "mysticism",
+                "wdid": "Q655970"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Premda</div>\n\t\t<div class=\"glossblock\">although</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">živimo</div>\n\t\t<div class=\"glossblock\">live.2PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">doba</div>\n\t\t<div class=\"glossblock\">period</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">visoke</div>\n\t\t<div class=\"glossblock\">high</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tehnologije,</div>\n\t\t<div class=\"glossblock\">technology.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">arhitektura</div>\n\t\t<div class=\"glossblock\">architecture.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ostaje</div>\n\t\t<div class=\"glossblock\">remains</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zavjetovana</div>\n\t\t<div class=\"glossblock\">vowed</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mistici.</div>\n\t\t<div class=\"glossblock\">mysticism.DAT</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "although",
@@ -460,7 +478,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Premda",
@@ -502,7 +520,7 @@
         "clength": 86,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Nakon</div>\n\t\t<div class=\"glossblock\">after</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nekoliko</div>\n\t\t<div class=\"glossblock\">few</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meseci</div>\n\t\t<div class=\"glossblock\">months.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ožiljci</div>\n\t\t<div class=\"glossblock\">scars.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">počinju</div>\n\t\t<div class=\"glossblock\">start.3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">blede,</div>\n\t\t<div class=\"glossblock\">fade.3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mada</div>\n\t\t<div class=\"glossblock\">although</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nikada</div>\n\t\t<div class=\"glossblock\">never</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">neće</div>\n\t\t<div class=\"glossblock\">will.NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nestati</div>\n\t\t<div class=\"glossblock\">disappear.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">potpunosti.</div>\n\t\t<div class=\"glossblock\">completeness.LOC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "after",
@@ -523,7 +541,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Nakon",
@@ -562,7 +580,7 @@
         "clength": 93,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kod</div>\n\t\t<div class=\"glossblock\">at</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">njih</div>\n\t\t<div class=\"glossblock\">them.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">skoro</div>\n\t\t<div class=\"glossblock\">almost</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nije</div>\n\t\t<div class=\"glossblock\">AUX.NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bilo</div>\n\t\t<div class=\"glossblock\">was</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bolesti,</div>\n\t\t<div class=\"glossblock\">disease.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">premda</div>\n\t\t<div class=\"glossblock\">although</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bilo</div>\n\t\t<div class=\"glossblock\">was</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">smrti;</div>\n\t\t<div class=\"glossblock\">death.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ali</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">njihovi</div>\n\t\t<div class=\"glossblock\">their</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">stari</div>\n\t\t<div class=\"glossblock\">old_ones</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">umirali</div>\n\t\t<div class=\"glossblock\">died</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tiho…</div>\n\t\t<div class=\"glossblock\">quietly</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "at",
@@ -587,7 +605,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Kod",
@@ -628,9 +646,12 @@
         "clength": 54,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q5065782": "CCS"
-        },
+        "entities": [
+            {
+                "label": "CCS",
+                "wdid": "Q5065782"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Najgori</div>\n\t\t<div class=\"glossblock\">worst</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">COP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">đak</div>\n\t\t<div class=\"glossblock\">student.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">po</div>\n\t\t<div class=\"glossblock\">by</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">učenju,</div>\n\t\t<div class=\"glossblock\">learning.LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">premda</div>\n\t\t<div class=\"glossblock\">although</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">najbolji</div>\n\t\t<div class=\"glossblock\">best</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">po</div>\n\t\t<div class=\"glossblock\">by</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vladanju.</div>\n\t\t<div class=\"glossblock\">governance.LOC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "worst",
@@ -647,7 +668,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Najgori",
@@ -677,7 +698,7 @@
         "clength": 31,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Čak</div>\n\t\t<div class=\"glossblock\">even</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i-ako</div>\n\t\t<div class=\"glossblock\">and-if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pada</div>\n\t\t<div class=\"glossblock\">falls</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kiša,</div>\n\t\t<div class=\"glossblock\">rain.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mara</div>\n\t\t<div class=\"glossblock\">Mara.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">trči.</div>\n\t\t<div class=\"glossblock\">runs</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "even",
@@ -691,7 +712,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Čak",
@@ -721,9 +742,12 @@
         "coordination": "and",
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q865962": "stays silent"
-        },
+        "entities": [
+            {
+                "label": "stays silent",
+                "wdid": "Q865962"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Smireno</div>\n\t\t<div class=\"glossblock\">calmy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">me</div>\n\t\t<div class=\"glossblock\">I.ACC.CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gleda</div>\n\t\t<div class=\"glossblock\">watches</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ćuti.</div>\n\t\t<div class=\"glossblock\">keeps_silent</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "calmy",
@@ -736,7 +760,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Smireno",
@@ -767,9 +791,12 @@
         "coordination": "and",
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q217411": "Pera"
-        },
+        "entities": [
+            {
+                "label": "Pera",
+                "wdid": "Q217411"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pera</div>\n\t\t<div class=\"glossblock\">Pera.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kupio</div>\n\t\t<div class=\"glossblock\">bought</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sendvič</div>\n\t\t<div class=\"glossblock\">sandwich.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">salatu.</div>\n\t\t<div class=\"glossblock\">salad.ACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Pera.NOM",
@@ -783,7 +810,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Pera",
@@ -815,9 +842,12 @@
         "coordination": "and",
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q217411": "Pera"
-        },
+        "entities": [
+            {
+                "label": "Pera",
+                "wdid": "Q217411"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pera</div>\n\t\t<div class=\"glossblock\">Pera.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kupio</div>\n\t\t<div class=\"glossblock\">bought</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sendvič</div>\n\t\t<div class=\"glossblock\">sandwich.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">salatu.</div>\n\t\t<div class=\"glossblock\">salad.ACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Pera.NOM",
@@ -832,7 +862,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Pera",
@@ -864,9 +894,12 @@
         "clength": 23,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q217411": "Pera"
-        },
+        "entities": [
+            {
+                "label": "Pera",
+                "wdid": "Q217411"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pera</div>\n\t\t<div class=\"glossblock\">Pera.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kupio</div>\n\t\t<div class=\"glossblock\">bought</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">salatu.</div>\n\t\t<div class=\"glossblock\">salad.ACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Pera.NOM",
@@ -879,7 +912,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Pera",
@@ -907,7 +940,7 @@
         "clength": 32,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Jovan</div>\n\t\t<div class=\"glossblock\">Jovan.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rešava</div>\n\t\t<div class=\"glossblock\">solves</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">najteže</div>\n\t\t<div class=\"glossblock\">hardest</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">probleme.</div>\n\t\t<div class=\"glossblock\">problems.ACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Jovan.NOM",
@@ -920,7 +953,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Jovan",
@@ -962,7 +995,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Da",
@@ -989,7 +1022,7 @@
         "clength": 26,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(Čak)</div>\n\t\t<div class=\"glossblock\">even</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">domaći</div>\n\t\t<div class=\"glossblock\">homework.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">uradila.</div>\n\t\t<div class=\"glossblock\">did</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "even",
@@ -1002,7 +1035,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "(Čak)",
@@ -1028,9 +1061,12 @@
         "clength": 28,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q217411": "Pera"
-        },
+        "entities": [
+            {
+                "label": "Pera",
+                "wdid": "Q217411"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ako</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ne</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pada</div>\n\t\t<div class=\"glossblock\">falls</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kiša,</div>\n\t\t<div class=\"glossblock\">rain.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pera</div>\n\t\t<div class=\"glossblock\">Pera.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">trči.</div>\n\t\t<div class=\"glossblock\">runs</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "if",
@@ -1044,7 +1080,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ako",
@@ -1071,9 +1107,12 @@
         "clength": 27,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q217411": "Pera"
-        },
+        "entities": [
+            {
+                "label": "Pera",
+                "wdid": "Q217411"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">I</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ako</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pada</div>\n\t\t<div class=\"glossblock\">falls</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kiša,</div>\n\t\t<div class=\"glossblock\">rain.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pera</div>\n\t\t<div class=\"glossblock\">Pera.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">trči.</div>\n\t\t<div class=\"glossblock\">runs</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "and",
@@ -1087,7 +1126,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "I",
@@ -1114,9 +1153,12 @@
         "clength": 27,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q217411": "Pera"
-        },
+        "entities": [
+            {
+                "label": "Pera",
+                "wdid": "Q217411"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">I-ako</div>\n\t\t<div class=\"glossblock\">and-if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pada</div>\n\t\t<div class=\"glossblock\">falls</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kiša,</div>\n\t\t<div class=\"glossblock\">rain.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pera</div>\n\t\t<div class=\"glossblock\">Pera.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">trči.</div>\n\t\t<div class=\"glossblock\">runs</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "and-if",
@@ -1129,7 +1171,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "I-ako",
@@ -1154,9 +1196,12 @@
         "clength": 63,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q217411": "Pera"
-        },
+        "entities": [
+            {
+                "label": "Pera",
+                "wdid": "Q217411"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">I</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ako</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">COP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">proleće,</div>\n\t\t<div class=\"glossblock\">spring.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ako</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">COP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zima,</div>\n\t\t<div class=\"glossblock\">winter.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ako</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">COP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">leto,</div>\n\t\t<div class=\"glossblock\">summer.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">…),</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pera</div>\n\t\t<div class=\"glossblock\">Pera.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">trči.</div>\n\t\t<div class=\"glossblock\">runs</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "and",
@@ -1179,7 +1224,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "I",
@@ -1217,9 +1262,12 @@
         "clength": 28,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q217411": "Pera"
-        },
+        "entities": [
+            {
+                "label": "Pera",
+                "wdid": "Q217411"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">I-ako</div>\n\t\t<div class=\"glossblock\">and-if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">COP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">proleće,</div>\n\t\t<div class=\"glossblock\">spring.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pera</div>\n\t\t<div class=\"glossblock\">Pera.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">trči.</div>\n\t\t<div class=\"glossblock\">runs</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "and-if",
@@ -1232,7 +1280,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "I-ako",
@@ -1262,9 +1310,12 @@
         "clength": 30,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q490": "Milan"
-        },
+        "entities": [
+            {
+                "label": "Milan",
+                "wdid": "Q490"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Čak</div>\n\t\t<div class=\"glossblock\">even</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Milan</div>\n\t\t<div class=\"glossblock\">Milan.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">došao</div>\n\t\t<div class=\"glossblock\">came</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na</div>\n\t\t<div class=\"glossblock\">on</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">žurku.</div>\n\t\t<div class=\"glossblock\">party.ACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "even",
@@ -1279,7 +1330,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Čak",
@@ -1312,9 +1363,12 @@
         "clength": 35,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q19482": "Wimbledon"
-        },
+        "entities": [
+            {
+                "label": "Wimbledon",
+                "wdid": "Q19482"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Federer</div>\n\t\t<div class=\"glossblock\">Federer.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">osvojio</div>\n\t\t<div class=\"glossblock\">won</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">čak</div>\n\t\t<div class=\"glossblock\">even</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">8</div>\n\t\t<div class=\"glossblock\">8</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Vimbldona.</div>\n\t\t<div class=\"glossblock\">Wimbledon.GEN</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Federer.NOM",
@@ -1328,7 +1382,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Federer",
@@ -1357,9 +1411,12 @@
         "clength": 24,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q148": "China"
-        },
+        "entities": [
+            {
+                "label": "China",
+                "wdid": "Q148"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Čak</div>\n\t\t<div class=\"glossblock\">even</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kinu</div>\n\t\t<div class=\"glossblock\">China.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">otputovao.</div>\n\t\t<div class=\"glossblock\">traveled</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "even",
@@ -1372,7 +1429,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Čak",
@@ -1403,10 +1460,16 @@
         "clength": 33,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q1426": "Federer",
-            "Q41520": "Wimbledons"
-        },
+        "entities": [
+            {
+                "label": "Federer",
+                "wdid": "Q1426"
+            },
+            {
+                "label": "Wimbledons",
+                "wdid": "Q41520"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Federer</div>\n\t\t<div class=\"glossblock\">Federer.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">osvojio</div>\n\t\t<div class=\"glossblock\">won</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">8</div>\n\t\t<div class=\"glossblock\">8</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Vimbldona.</div>\n\t\t<div class=\"glossblock\">Wimbledon.GEN</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Federer.NOM",
@@ -1420,7 +1483,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Federer",
@@ -1449,9 +1512,12 @@
         "clength": 22,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q148": "China"
-        },
+        "entities": [
+            {
+                "label": "China",
+                "wdid": "Q148"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">I</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kinu</div>\n\t\t<div class=\"glossblock\">China.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">otputovao.</div>\n\t\t<div class=\"glossblock\">traveled</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "and",
@@ -1464,7 +1530,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "I",
@@ -1492,9 +1558,12 @@
         "clength": 32,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q217411": "Pera"
-        },
+        "entities": [
+            {
+                "label": "Pera",
+                "wdid": "Q217411"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Čak</div>\n\t\t<div class=\"glossblock\">even</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ako</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">COP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">proleće,</div>\n\t\t<div class=\"glossblock\">spring.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pera</div>\n\t\t<div class=\"glossblock\">Pera.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">trči.</div>\n\t\t<div class=\"glossblock\">runs</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "even",
@@ -1509,7 +1578,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Čak",
@@ -1539,9 +1608,12 @@
         "clength": 32,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q217411": "Pera"
-        },
+        "entities": [
+            {
+                "label": "Pera",
+                "wdid": "Q217411"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Čak</div>\n\t\t<div class=\"glossblock\">even</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i-ako</div>\n\t\t<div class=\"glossblock\">and-if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">COP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">proleće,</div>\n\t\t<div class=\"glossblock\">spring.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pera</div>\n\t\t<div class=\"glossblock\">Pera.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">trči.</div>\n\t\t<div class=\"glossblock\">runs</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "even",
@@ -1555,7 +1627,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Čak",
@@ -1579,9 +1651,12 @@
         "clength": 63,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q19482": "Wimbledon"
-        },
+        "entities": [
+            {
+                "label": "Wimbledon",
+                "wdid": "Q19482"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Osvojio</div>\n\t\t<div class=\"glossblock\">won</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">aux</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jedino</div>\n\t\t<div class=\"glossblock\">only</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">/</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">čak</div>\n\t\t<div class=\"glossblock\">even</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(*jedino+čak</div>\n\t\t<div class=\"glossblock\">only+even</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">/</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*čak+jedino)</div>\n\t\t<div class=\"glossblock\">even+only</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Vimbldon.</div>\n\t\t<div class=\"glossblock\">Wimbledon</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "won",
@@ -1599,7 +1674,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Osvojio",
@@ -1631,7 +1706,7 @@
         "clength": 56,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Čak</div>\n\t\t<div class=\"glossblock\">even</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[samo</div>\n\t\t<div class=\"glossblock\">just</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[(i)</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jedan</div>\n\t\t<div class=\"glossblock\">one</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cvet]]</div>\n\t\t<div class=\"glossblock\">flower.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bi</div>\n\t\t<div class=\"glossblock\">would</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">obradovao</div>\n\t\t<div class=\"glossblock\">made_happy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">moju</div>\n\t\t<div class=\"glossblock\">my</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">devojku.]</div>\n\t\t<div class=\"glossblock\">girlfriend.ACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "even",
@@ -1648,7 +1723,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Čak",
@@ -1678,10 +1753,16 @@
         "clength": 66,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q1426": "Federer",
-            "Q41520": "Wimbledons"
-        },
+        "entities": [
+            {
+                "label": "Federer",
+                "wdid": "Q1426"
+            },
+            {
+                "label": "Wimbledons",
+                "wdid": "Q41520"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Federer</div>\n\t\t<div class=\"glossblock\">Federer.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">osvojio</div>\n\t\t<div class=\"glossblock\">won</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">čak</div>\n\t\t<div class=\"glossblock\">even</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">/</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">samo</div>\n\t\t<div class=\"glossblock\">just</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(*čak+samo</div>\n\t\t<div class=\"glossblock\">even+just</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">/ *samo+čak)</div>\n\t\t<div class=\"glossblock\">just+even</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">8</div>\n\t\t<div class=\"glossblock\">8</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Vimbldona.</div>\n\t\t<div class=\"glossblock\">Wimbledon.</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Federer.NOM",
@@ -1699,7 +1780,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Federer",
@@ -1745,7 +1826,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Nije",
@@ -1779,7 +1860,7 @@
         "clength": 50,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ma</div>\n\t\t<div class=\"glossblock\">PART</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">od</div>\n\t\t<div class=\"glossblock\">from</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koga</div>\n\t\t<div class=\"glossblock\">whom.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">primiš</div>\n\t\t<div class=\"glossblock\">receive.2SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">poklon,</div>\n\t\t<div class=\"glossblock\">gift.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">treba</div>\n\t\t<div class=\"glossblock\">should</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zahvališ.</div>\n\t\t<div class=\"glossblock\">thank.2SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PART",
@@ -1797,7 +1878,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ma",
@@ -1833,9 +1914,12 @@
         "clength": 70,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q328835": "sense of touch"
-        },
+        "entities": [
+            {
+                "label": "sense of touch",
+                "wdid": "Q328835"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sve</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">životinjske</div>\n\t\t<div class=\"glossblock\">animal</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vrste,</div>\n\t\t<div class=\"glossblock\">kinds</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma(kar)</div>\n\t\t<div class=\"glossblock\">at_least</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">to</div>\n\t\t<div class=\"glossblock\">that.DEM.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bile</div>\n\t\t<div class=\"glossblock\">were</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">najniže,</div>\n\t\t<div class=\"glossblock\">the_lowest</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">imaju</div>\n\t\t<div class=\"glossblock\">have.3pl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">osećaj</div>\n\t\t<div class=\"glossblock\">feeling.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dodira.</div>\n\t\t<div class=\"glossblock\">touch.GEN</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "all",
@@ -1854,7 +1938,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Sve",
@@ -1894,9 +1978,12 @@
         "clength": 51,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q1415055": "ugliest"
-        },
+        "entities": [
+            {
+                "label": "ugliest",
+                "wdid": "Q1415055"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ma(kar)</div>\n\t\t<div class=\"glossblock\">at_least</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">COP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">najružniji</div>\n\t\t<div class=\"glossblock\">most_ugliest</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na</div>\n\t\t<div class=\"glossblock\">on</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">svetu,</div>\n\t\t<div class=\"glossblock\">world.LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meni</div>\n\t\t<div class=\"glossblock\">I.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sviđa.</div>\n\t\t<div class=\"glossblock\">likes</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "at_least",
@@ -1914,7 +2001,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ma(kar)",
@@ -1951,7 +2038,7 @@
         "clength": 28,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Poješću</div>\n\t\t<div class=\"glossblock\">eat.FUT.1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ga</div>\n\t\t<div class=\"glossblock\">it.ACC.CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma(kar)</div>\n\t\t<div class=\"glossblock\">at_least</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">me</div>\n\t\t<div class=\"glossblock\">I.ACC.CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ubilo.</div>\n\t\t<div class=\"glossblock\">killed</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "eat.FUT.1SG",
@@ -1964,7 +2051,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Poješću",
@@ -1993,9 +2080,12 @@
         "clength": 29,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q26269989": "easiest"
-        },
+        "entities": [
+            {
+                "label": "easiest",
+                "wdid": "Q26269989"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Uradi</div>\n\t\t<div class=\"glossblock\">do.IMP.2SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">makar</div>\n\t\t<div class=\"glossblock\">at_least</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">najlakši</div>\n\t\t<div class=\"glossblock\">the_easiest</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zadatak!</div>\n\t\t<div class=\"glossblock\">task.ACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "do.IMP.2SG",
@@ -2007,77 +2097,60 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q104637332": "planned process",
-            "Q108163": "proposition",
-            "Q11028": "information",
-            "Q1150070": "change",
-            "Q1150771": "output",
-            "Q1151067": "rule",
-            "Q1190554": "occurrence",
-            "Q12453": "Measurement",
-            "Q12894677": "means",
-            "Q1379672": "Evaluation",
-            "Q1454986": "physical system",
-            "Q15401930": "artificial object",
-            "Q15916540": "semantic unit",
-            "Q16686448": "artificial object",
-            "Q16877783": "meaning",
-            "Q16887380": "group",
-            "Q16889133": "class",
-            "Q1786828": "constituent",
-            "Q1799072": "method",
-            "Q183046": "meaning",
-            "Q1914636": "activity",
-            "Q1979154": "Model",
-            "Q20817253": "linguistic unit",
-            "Q20937557": "sequence",
-            "Q223557": "physical object",
-            "Q246672": "mathematical object",
-            "Q2574811": "cause",
-            "Q26907166": "temporal entity",
-            "Q2695280": "technique",
-            "Q286583": "manifestation",
-            "Q28813620": "set",
-            "Q28873665": "rating_system",
-            "Q29651519": "mental object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q31464082": "source",
-            "Q321703": "premise",
-            "Q3249551": "process",
-            "Q340169": "media",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q3604747": "acquisition",
-            "Q3622126": "conceptual system",
-            "Q37112258": "finding",
-            "Q386724": "work",
-            "Q4026292": "action",
-            "Q41719": "hypothesis",
-            "Q41796": "sentence",
-            "Q4393498": "representation",
-            "Q4406616": "concrete object",
-            "Q474328": "declarative sentence",
-            "Q488383": "object",
-            "Q5371079": "emic unit",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q5962346": "classification scheme",
-            "Q628523": "Message",
-            "Q6423319": "knowledge organization system",
-            "Q6671777": "structure",
-            "Q67518233": "process",
-            "Q67518978": "occurrent",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q791801": "estimation",
-            "Q8205328": "artificial physical object",
-            "Q930933": "relation",
-            "Q9380010": "utterance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "rule",
+                "wdid": "Q1151067"
+            },
+            {
+                "label": "Measurement",
+                "wdid": "Q12453"
+            },
+            {
+                "label": "Evaluation",
+                "wdid": "Q1379672"
+            },
+            {
+                "label": "Model",
+                "wdid": "Q1979154"
+            },
+            {
+                "label": "technique",
+                "wdid": "Q2695280"
+            },
+            {
+                "label": "rating_system",
+                "wdid": "Q28873665"
+            },
+            {
+                "label": "premise",
+                "wdid": "Q321703"
+            },
+            {
+                "label": "media",
+                "wdid": "Q340169"
+            },
+            {
+                "label": "acquisition",
+                "wdid": "Q3604747"
+            },
+            {
+                "label": "finding",
+                "wdid": "Q37112258"
+            },
+            {
+                "label": "hypothesis",
+                "wdid": "Q41719"
+            },
+            {
+                "label": "classification scheme",
+                "wdid": "Q5962346"
+            },
+            {
+                "label": "knowledge organization system",
+                "wdid": "Q6423319"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Uradi",
@@ -2107,7 +2180,7 @@
         "clength": 47,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Taj</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zadatak</div>\n\t\t<div class=\"glossblock\">task.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">može</div>\n\t\t<div class=\"glossblock\">can.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rešiti</div>\n\t\t<div class=\"glossblock\">solve.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na</div>\n\t\t<div class=\"glossblock\">on</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">makar</div>\n\t\t<div class=\"glossblock\">at_least</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dva</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">načina.</div>\n\t\t<div class=\"glossblock\">ways</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "that",
@@ -2124,7 +2197,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Taj",
@@ -2169,7 +2242,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Jovan",
@@ -2204,7 +2277,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ma",
@@ -2242,7 +2315,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ma",
@@ -2274,7 +2347,7 @@
         "clength": 28,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ti</div>\n\t\t<div class=\"glossblock\">you.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ćeš</div>\n\t\t<div class=\"glossblock\">will</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">otići</div>\n\t\t<div class=\"glossblock\">leave.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kupiš</div>\n\t\t<div class=\"glossblock\">buy.2SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">karte.</div>\n\t\t<div class=\"glossblock\">tickets.ACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "you.NOM",
@@ -2288,7 +2361,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ti",
@@ -2320,7 +2393,7 @@
         "clength": 24,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ma</div>\n\t\t<div class=\"glossblock\">PART</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nemoj!</div>\n\t\t<div class=\"glossblock\">don’t</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">A</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ti</div>\n\t\t<div class=\"glossblock\">you.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sediš.</div>\n\t\t<div class=\"glossblock\">sit.2SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PART",
@@ -2334,7 +2407,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -2370,7 +2443,7 @@
         "clength": 37,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ma</div>\n\t\t<div class=\"glossblock\">PART</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gde</div>\n\t\t<div class=\"glossblock\">where</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ja</div>\n\t\t<div class=\"glossblock\">I.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sad</div>\n\t\t<div class=\"glossblock\">now</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">idem</div>\n\t\t<div class=\"glossblock\">go.1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">po</div>\n\t\t<div class=\"glossblock\">over</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">toj</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vrućini?</div>\n\t\t<div class=\"glossblock\">heat.LOC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PART",
@@ -2387,7 +2460,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ma",
@@ -2423,7 +2496,7 @@
         "clength": 24,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ma</div>\n\t\t<div class=\"glossblock\">PART</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">li</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tamo</div>\n\t\t<div class=\"glossblock\">there</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Marko?</div>\n\t\t<div class=\"glossblock\">Marko.NOM</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PART",
@@ -2437,7 +2510,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ma",
@@ -2473,9 +2546,12 @@
         "clength": 81,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q5731747": "good mother"
-        },
+        "entities": [
+            {
+                "label": "good mother",
+                "wdid": "Q5731747"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ona</div>\n\t\t<div class=\"glossblock\">she</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">COP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dobra</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">majka,</div>\n\t\t<div class=\"glossblock\">mother.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mada</div>\n\t\t<div class=\"glossblock\">although</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ponekad</div>\n\t\t<div class=\"glossblock\">sometimes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ume</div>\n\t\t<div class=\"glossblock\">knows</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bude</div>\n\t\t<div class=\"glossblock\">be</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">previše</div>\n\t\t<div class=\"glossblock\">overmuch</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">stroga</div>\n\t\t<div class=\"glossblock\">strict</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">prema</div>\n\t\t<div class=\"glossblock\">toward</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">svom</div>\n\t\t<div class=\"glossblock\">REFL.POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">potomstvu.</div>\n\t\t<div class=\"glossblock\">offspring.LOC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "she",
@@ -2497,7 +2573,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ona",
@@ -2538,9 +2614,12 @@
         "clength": 191,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q403": "Serbia"
-        },
+        "entities": [
+            {
+                "label": "Serbia",
+                "wdid": "Q403"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">U</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kojim</div>\n\t\t<div class=\"glossblock\">which</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">situacijama</div>\n\t\t<div class=\"glossblock\">situations.LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">najsočnije</div>\n\t\t<div class=\"glossblock\">juiciest</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">psujete?</div>\n\t\t<div class=\"glossblock\">curse.2PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">–</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Najčešće</div>\n\t\t<div class=\"glossblock\">most_often</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šalterskim</div>\n\t\t<div class=\"glossblock\">administrative</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">situacijama</div>\n\t\t<div class=\"glossblock\">situations.LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Srbiji,</div>\n\t\t<div class=\"glossblock\">Serbia.LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koje</div>\n\t\t<div class=\"glossblock\">which.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gotovo</div>\n\t\t<div class=\"glossblock\">almost</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">uvek</div>\n\t\t<div class=\"glossblock\">always</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">podrazumevaju</div>\n\t\t<div class=\"glossblock\">involve.3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ozbiljno</div>\n\t\t<div class=\"glossblock\">serious</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">poniženje.</div>\n\t\t<div class=\"glossblock\">humilitation.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ipak,</div>\n\t\t<div class=\"glossblock\">however</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">češće</div>\n\t\t<div class=\"glossblock\">more_often</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">psujem</div>\n\t\t<div class=\"glossblock\">curse.1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sebi…</div>\n\t\t<div class=\"glossblock\">REFL.LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mada</div>\n\t\t<div class=\"glossblock\">although</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mi</div>\n\t\t<div class=\"glossblock\">I.DAT.CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">omakne</div>\n\t\t<div class=\"glossblock\">slips</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">naglas.</div>\n\t\t<div class=\"glossblock\">loud</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "in",
@@ -2577,7 +2656,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -2652,10 +2731,16 @@
         "coordination": "and",
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q190": "God",
-            "Q5065782": "CCS"
-        },
+        "entities": [
+            {
+                "label": "God",
+                "wdid": "Q190"
+            },
+            {
+                "label": "CCS",
+                "wdid": "Q5065782"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hodali</div>\n\t\t<div class=\"glossblock\">walked</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">smo</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">po</div>\n\t\t<div class=\"glossblock\">over</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">suncu</div>\n\t\t<div class=\"glossblock\">sun.LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sasvim</div>\n\t\t<div class=\"glossblock\">totally</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">neobavezno</div>\n\t\t<div class=\"glossblock\">facultative</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pričali.</div>\n\t\t<div class=\"glossblock\">talked</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ne,</div>\n\t\t<div class=\"glossblock\">no</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nismo</div>\n\t\t<div class=\"glossblock\">AUX.NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pričali</div>\n\t\t<div class=\"glossblock\">talked</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">o</div>\n\t\t<div class=\"glossblock\">about</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Bogu.</div>\n\t\t<div class=\"glossblock\">God.LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mada…</div>\n\t\t<div class=\"glossblock\">although</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Setila</div>\n\t\t<div class=\"glossblock\">remembered</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sam</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nečega</div>\n\t\t<div class=\"glossblock\">something.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">što</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mi</div>\n\t\t<div class=\"glossblock\">I.DAT.CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Fon</div>\n\t\t<div class=\"glossblock\">Fon</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hauzburg</div>\n\t\t<div class=\"glossblock\">Hausburg.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rekao</div>\n\t\t<div class=\"glossblock\">told</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kasnije,</div>\n\t\t<div class=\"glossblock\">later</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jednom</div>\n\t\t<div class=\"glossblock\">once</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">drugom</div>\n\t\t<div class=\"glossblock\">second</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">prilikom.</div>\n\t\t<div class=\"glossblock\">occasion.INS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Rekao</div>\n\t\t<div class=\"glossblock\">told</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je:</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">– O</div>\n\t\t<div class=\"glossblock\">about</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Bogu</div>\n\t\t<div class=\"glossblock\">God.LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nema</div>\n\t\t<div class=\"glossblock\">has_not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šta</div>\n\t\t<div class=\"glossblock\">what.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaže.</div>\n\t\t<div class=\"glossblock\">says</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "walked",
@@ -2700,31 +2785,32 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q106559804": "person or organization",
-            "Q15619164": "abstract being",
-            "Q178885": "Deity",
-            "Q18336849": "",
-            "Q18706315": "hypothetical entity",
-            "Q21070598": "character that may or may not be fictional",
-            "Q215627": "person",
-            "Q23958946": "individual entity",
-            "Q24229398": "agent",
-            "Q24334685": "mythical_entity",
-            "Q26720107": "personal law",
-            "Q28855038": "supernatural_being",
-            "Q30060629": "object of non-science",
-            "Q35120": "entity",
-            "Q3778211": "legal person",
-            "Q4271324": "mythical character",
-            "Q4356623": "Intelligent_designer",
-            "Q488383": "object",
-            "Q635155": "Creator_deity",
-            "Q7048977": "abstract entity",
-            "Q795052": "individual",
-            "Q830077": "subject"
-        },
+        "parententities": [
+            {
+                "label": "abstract being",
+                "wdid": "Q15619164"
+            },
+            {
+                "label": "Deity",
+                "wdid": "Q178885"
+            },
+            {
+                "label": "person",
+                "wdid": "Q215627"
+            },
+            {
+                "label": "mythical_entity",
+                "wdid": "Q24334685"
+            },
+            {
+                "label": "supernatural_being",
+                "wdid": "Q28855038"
+            },
+            {
+                "label": "mythical character",
+                "wdid": "Q4271324"
+            }
+        ],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -2791,10 +2877,16 @@
         "clength": 73,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q18220024": "Ignjat",
-            "Q5065782": "CCS"
-        },
+        "entities": [
+            {
+                "label": "Ignjat",
+                "wdid": "Q18220024"
+            },
+            {
+                "label": "CCS",
+                "wdid": "Q5065782"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Poslovođa</div>\n\t\t<div class=\"glossblock\">manager.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ignjat</div>\n\t\t<div class=\"glossblock\">Ignjat.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">čistio</div>\n\t\t<div class=\"glossblock\">cleaned</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pred</div>\n\t\t<div class=\"glossblock\">in_front_of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">radnjom,</div>\n\t\t<div class=\"glossblock\">shop.INS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mada</div>\n\t\t<div class=\"glossblock\">although</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nije</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">imalo</div>\n\t\t<div class=\"glossblock\">had</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šta</div>\n\t\t<div class=\"glossblock\">what.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">čisti.</div>\n\t\t<div class=\"glossblock\">cleans</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "manager.NOM",
@@ -2815,7 +2907,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Poslovođa",
@@ -2851,9 +2943,12 @@
         "clength": 27,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q217411": "Pera"
-        },
+        "entities": [
+            {
+                "label": "Pera",
+                "wdid": "Q217411"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ma-da</div>\n\t\t<div class=\"glossblock\">at_least-COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pada</div>\n\t\t<div class=\"glossblock\">falls</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kiša,</div>\n\t\t<div class=\"glossblock\">rain.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pera</div>\n\t\t<div class=\"glossblock\">Pera.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">trči.</div>\n\t\t<div class=\"glossblock\">runs</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "at_least-COMP",
@@ -2866,7 +2961,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ma-da",
@@ -2897,7 +2992,7 @@
         "clength": 46,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Da</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">imam</div>\n\t\t<div class=\"glossblock\">have.1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">para,</div>\n\t\t<div class=\"glossblock\">money.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ne</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">znam</div>\n\t\t<div class=\"glossblock\">know.1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šta</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bih</div>\n\t\t<div class=\"glossblock\">would</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">radila</div>\n\t\t<div class=\"glossblock\">worked</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sa</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">njima.</div>\n\t\t<div class=\"glossblock\">them.INS</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "COMP",
@@ -2915,7 +3010,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Da",
@@ -2949,7 +3044,7 @@
         "clength": 40,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Moram</div>\n\t\t<div class=\"glossblock\">must.1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">požurim</div>\n\t\t<div class=\"glossblock\">hurry.1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bih</div>\n\t\t<div class=\"glossblock\">would</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">stigao</div>\n\t\t<div class=\"glossblock\">arrived</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na</div>\n\t\t<div class=\"glossblock\">on</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">taksi.</div>\n\t\t<div class=\"glossblock\">taxi.ACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "must.1SG",
@@ -2965,7 +3060,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Moram",
@@ -2994,9 +3089,12 @@
         "clength": 36,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q217411": "Pera"
-        },
+        "entities": [
+            {
+                "label": "Pera",
+                "wdid": "Q217411"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pera</div>\n\t\t<div class=\"glossblock\">Pera.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rekao</div>\n\t\t<div class=\"glossblock\">said</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">/</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tvrdio</div>\n\t\t<div class=\"glossblock\">claimed</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pada</div>\n\t\t<div class=\"glossblock\">falls</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kiša.</div>\n\t\t<div class=\"glossblock\">rain.NOM</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Pera.NOM",
@@ -3012,7 +3110,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Pera",
@@ -3048,7 +3146,7 @@
         "clength": 37,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Tačno</div>\n\t\t<div class=\"glossblock\">true</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(to)</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Meri</div>\n\t\t<div class=\"glossblock\">Merry.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ubila</div>\n\t\t<div class=\"glossblock\">killed</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Džona.</div>\n\t\t<div class=\"glossblock\">John.ACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "true",
@@ -3064,7 +3162,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Tačno",
@@ -3100,7 +3198,7 @@
         "clength": 30,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sećam</div>\n\t\t<div class=\"glossblock\">remember.1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(toga)</div>\n\t\t<div class=\"glossblock\">that.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">si</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dolazio.</div>\n\t\t<div class=\"glossblock\">came</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "remember.1SG",
@@ -3114,7 +3212,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Sećam",
@@ -3155,7 +3253,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Da",
@@ -3182,7 +3280,7 @@
         "clength": 39,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Rezultat</div>\n\t\t<div class=\"glossblock\">result.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">utakmice</div>\n\t\t<div class=\"glossblock\">match.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">COP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jedan</div>\n\t\t<div class=\"glossblock\">one</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">prema</div>\n\t\t<div class=\"glossblock\">opposite</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jedan.</div>\n\t\t<div class=\"glossblock\">one</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "result.NOM",
@@ -3196,7 +3294,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Rezultat",
@@ -3226,7 +3324,7 @@
         "clength": 30,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kuća</div>\n\t\t<div class=\"glossblock\">house.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">COP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">okrenuta</div>\n\t\t<div class=\"glossblock\">turned</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">prema</div>\n\t\t<div class=\"glossblock\">opposite</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zgradi.</div>\n\t\t<div class=\"glossblock\">building.LOC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "house.NOM",
@@ -3239,7 +3337,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Kuća",
@@ -3272,10 +3370,16 @@
         "clength": 62,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q482": "Poetry",
-            "Q5065782": "CCS"
-        },
+        "entities": [
+            {
+                "label": "Poetry",
+                "wdid": "Q482"
+            },
+            {
+                "label": "CCS",
+                "wdid": "Q5065782"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Poezija</div>\n\t\t<div class=\"glossblock\">poetry.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">COP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sva</div>\n\t\t<div class=\"glossblock\">totally</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">usmerena</div>\n\t\t<div class=\"glossblock\">directed</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na</div>\n\t\t<div class=\"glossblock\">on</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">to</div>\n\t\t<div class=\"glossblock\">that.DEM.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zabavi,</div>\n\t\t<div class=\"glossblock\">entertains</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">premda</div>\n\t\t<div class=\"glossblock\">although</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ona</div>\n\t\t<div class=\"glossblock\">she.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koristi.</div>\n\t\t<div class=\"glossblock\">benefits</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "poetry.NOM",
@@ -3295,26 +3399,24 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q1150771": "output",
-            "Q1318295": "Narrative",
-            "Q15401930": "artificial object",
-            "Q15621286": "intellectual work",
-            "Q16686448": "artificial object",
-            "Q17537576": "creative work",
-            "Q18593264": "item of collection or exhibition",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q386724": "work",
-            "Q47461344": "written work",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q7725634": "literary work",
-            "Q838948": "work of art"
-        },
+        "parententities": [
+            {
+                "label": "Narrative",
+                "wdid": "Q1318295"
+            },
+            {
+                "label": "item of collection or exhibition",
+                "wdid": "Q18593264"
+            },
+            {
+                "label": "literary work",
+                "wdid": "Q7725634"
+            },
+            {
+                "label": "work of art",
+                "wdid": "Q838948"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Poezija",
@@ -3355,9 +3457,12 @@
         "clength": 100,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q5065782": "CCS"
-        },
+        "entities": [
+            {
+                "label": "CCS",
+                "wdid": "Q5065782"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Predeo</div>\n\t\t<div class=\"glossblock\">landscape.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oko</div>\n\t\t<div class=\"glossblock\">around</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">njih</div>\n\t\t<div class=\"glossblock\">them.LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">postajao</div>\n\t\t<div class=\"glossblock\">become</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">go</div>\n\t\t<div class=\"glossblock\">naked</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">neplodan,</div>\n\t\t<div class=\"glossblock\">barren</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">premda</div>\n\t\t<div class=\"glossblock\">although</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nekad</div>\n\t\t<div class=\"glossblock\">once</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">davno,</div>\n\t\t<div class=\"glossblock\">long_ago</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kako</div>\n\t\t<div class=\"glossblock\">how</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">im</div>\n\t\t<div class=\"glossblock\">they.DAT.CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Torin</div>\n\t\t<div class=\"glossblock\">Torin.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rekao,</div>\n\t\t<div class=\"glossblock\">told</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bio</div>\n\t\t<div class=\"glossblock\">was</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zelen.</div>\n\t\t<div class=\"glossblock\">green</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "landscape.NOM",
@@ -3384,7 +3489,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Predeo",
@@ -3426,9 +3531,12 @@
         "clength": 29,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {
-            "Q217411": "Pera"
-        },
+        "entities": [
+            {
+                "label": "Pera",
+                "wdid": "Q217411"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Prem-da</div>\n\t\t<div class=\"glossblock\">opposite-COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pada</div>\n\t\t<div class=\"glossblock\">falls</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kiša,</div>\n\t\t<div class=\"glossblock\">rain.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pera</div>\n\t\t<div class=\"glossblock\">Pera.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">trči.</div>\n\t\t<div class=\"glossblock\">runs</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "opposite-COMP",
@@ -3441,7 +3549,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Prem-da",
@@ -3472,7 +3580,7 @@
         "clength": 40,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Jovan</div>\n\t\t<div class=\"glossblock\">Jovan</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rekao</div>\n\t\t<div class=\"glossblock\">said</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">TO</div>\n\t\t<div class=\"glossblock\">that.DEM.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Marija</div>\n\t\t<div class=\"glossblock\">Marija</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ustaje</div>\n\t\t<div class=\"glossblock\">gets_up</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rano.</div>\n\t\t<div class=\"glossblock\">early</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Jovan",
@@ -3488,7 +3596,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Jovan",
@@ -3519,7 +3627,7 @@
         "clength": 42,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Jel’</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">TO</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Marko</div>\n\t\t<div class=\"glossblock\">Marko.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">trči,</div>\n\t\t<div class=\"glossblock\">runs</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iako</div>\n\t\t<div class=\"glossblock\">although</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(*to)</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pada</div>\n\t\t<div class=\"glossblock\">falls</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kiša?!</div>\n\t\t<div class=\"glossblock\">rain.NOM</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Q",
@@ -3535,7 +3643,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Jel’",
@@ -3567,7 +3675,7 @@
         "clength": 25,
         "doc_ID": 10317,
         "doc_URL": "https://www.glossa-journal.org/article/id/10317",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Nije</div>\n\t\t<div class=\"glossblock\">AUX.NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pojeo</div>\n\t\t<div class=\"glossblock\">ate</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">čak</div>\n\t\t<div class=\"glossblock\">even</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ni</div>\n\t\t<div class=\"glossblock\">nor</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">salatu.</div>\n\t\t<div class=\"glossblock\">salad.ACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "AUX.NEG",
@@ -3580,7 +3688,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Nije",
@@ -3618,7 +3726,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "a.",

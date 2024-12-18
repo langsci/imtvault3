@@ -12,9 +12,12 @@
         "coordination": "and",
         "doc_ID": 6315,
         "doc_URL": "https://www.glossa-journal.org/article/id/6315",
-        "entities": {
-            "Q5145864": "Collaborator"
-        },
+        "entities": [
+            {
+                "label": "Collaborator",
+                "wdid": "Q5145864"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">L’</div>\n\t\t<div class=\"glossblock\">The</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">amico</div>\n\t\t<div class=\"glossblock\">friend</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">collaboratore</div>\n\t\t<div class=\"glossblock\">collaborator</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">di</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gianni</div>\n\t\t<div class=\"glossblock\">Gianni</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">è</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">stato</div>\n\t\t<div class=\"glossblock\">been</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qui.</div>\n\t\t<div class=\"glossblock\">here</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "The",
@@ -31,7 +34,7 @@
         "language_iso6393": "ita",
         "language_name": "Italian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "L’",
@@ -59,10 +62,16 @@
         "coordination": "and",
         "doc_ID": 6315,
         "doc_URL": "https://www.glossa-journal.org/article/id/6315",
-        "entities": {
-            "Q14085739": "sailor",
-            "Q6355077": "good friends"
-        },
+        "entities": [
+            {
+                "label": "sailor",
+                "wdid": "Q14085739"
+            },
+            {
+                "label": "good friends",
+                "wdid": "Q6355077"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Questo</div>\n\t\t<div class=\"glossblock\">This</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">soldato</div>\n\t\t<div class=\"glossblock\">soldier</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">marinaio</div>\n\t\t<div class=\"glossblock\">sailor</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">are</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">buoni</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">amici.</div>\n\t\t<div class=\"glossblock\">friends</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "This",
@@ -77,66 +86,56 @@
         "language_iso6393": "ita",
         "language_name": "Italian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q108163": "proposition",
-            "Q11028": "information",
-            "Q1207505": "quality",
-            "Q12558574": "point of view",
-            "Q1347367": "aptitude",
-            "Q151885": "concept",
-            "Q15916540": "semantic unit",
-            "Q1651597": "Indian religions",
-            "Q16877783": "meaning",
-            "Q16889133": "class",
-            "Q1786828": "constituent",
-            "Q183046": "meaning",
-            "Q188572": "fact",
-            "Q20817253": "linguistic unit",
-            "Q2145290": "mental representation",
-            "Q246672": "mathematical object",
-            "Q251777": "custom",
-            "Q2684591": "statement",
-            "Q28813620": "set",
-            "Q29651519": "mental object",
-            "Q30060700": "scientific object",
-            "Q34394": "Belief",
-            "Q3505845": "state",
-            "Q35120": "entity",
-            "Q367293": "convention",
-            "Q3702971": "personal data",
-            "Q37787614": "person property",
-            "Q41796": "sentence",
-            "Q42848": "data",
-            "Q4393498": "representation",
-            "Q4406616": "concrete object",
-            "Q474328": "declarative sentence",
-            "Q48324": "morality",
-            "Q483247": "phenomenon",
-            "Q488383": "object",
-            "Q49447": "world view",
-            "Q53001749": "subject of depiction",
-            "Q5371079": "emic unit",
-            "Q5390013": "belief system",
-            "Q54989186": "mental state",
-            "Q55979391": "ethical concept",
-            "Q58778": "system",
-            "Q595523": "notion",
-            "Q61151961": "individual data",
-            "Q628523": "Message",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q71966963": "religion or world view",
-            "Q7257": "Ideology",
-            "Q748": "Buddhism",
-            "Q813912": "condition",
-            "Q82821": "tradition",
-            "Q9174": "Religion",
-            "Q930933": "relation",
-            "Q937228": "property",
-            "Q9380010": "utterance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "aptitude",
+                "wdid": "Q1347367"
+            },
+            {
+                "label": "Indian religions",
+                "wdid": "Q1651597"
+            },
+            {
+                "label": "custom",
+                "wdid": "Q251777"
+            },
+            {
+                "label": "convention",
+                "wdid": "Q367293"
+            },
+            {
+                "label": "morality",
+                "wdid": "Q48324"
+            },
+            {
+                "label": "subject of depiction",
+                "wdid": "Q53001749"
+            },
+            {
+                "label": "ethical concept",
+                "wdid": "Q55979391"
+            },
+            {
+                "label": "individual data",
+                "wdid": "Q61151961"
+            },
+            {
+                "label": "Ideology",
+                "wdid": "Q7257"
+            },
+            {
+                "label": "Buddhism",
+                "wdid": "Q748"
+            },
+            {
+                "label": "tradition",
+                "wdid": "Q82821"
+            },
+            {
+                "label": "Religion",
+                "wdid": "Q9174"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "*Questo",
@@ -162,9 +161,12 @@
         "coordination": "and",
         "doc_ID": 6315,
         "doc_URL": "https://www.glossa-journal.org/article/id/6315",
-        "entities": {
-            "Q6355077": "good friends"
-        },
+        "entities": [
+            {
+                "label": "good friends",
+                "wdid": "Q6355077"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Questi</div>\n\t\t<div class=\"glossblock\">These</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">soldati</div>\n\t\t<div class=\"glossblock\">soldiers</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">marinai</div>\n\t\t<div class=\"glossblock\">sailors</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">are</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">buoni</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">amici.</div>\n\t\t<div class=\"glossblock\">friends</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "These",
@@ -179,66 +181,56 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q108163": "proposition",
-            "Q11028": "information",
-            "Q1207505": "quality",
-            "Q12558574": "point of view",
-            "Q1347367": "aptitude",
-            "Q151885": "concept",
-            "Q15916540": "semantic unit",
-            "Q1651597": "Indian religions",
-            "Q16877783": "meaning",
-            "Q16889133": "class",
-            "Q1786828": "constituent",
-            "Q183046": "meaning",
-            "Q188572": "fact",
-            "Q20817253": "linguistic unit",
-            "Q2145290": "mental representation",
-            "Q246672": "mathematical object",
-            "Q251777": "custom",
-            "Q2684591": "statement",
-            "Q28813620": "set",
-            "Q29651519": "mental object",
-            "Q30060700": "scientific object",
-            "Q34394": "Belief",
-            "Q3505845": "state",
-            "Q35120": "entity",
-            "Q367293": "convention",
-            "Q3702971": "personal data",
-            "Q37787614": "person property",
-            "Q41796": "sentence",
-            "Q42848": "data",
-            "Q4393498": "representation",
-            "Q4406616": "concrete object",
-            "Q474328": "declarative sentence",
-            "Q48324": "morality",
-            "Q483247": "phenomenon",
-            "Q488383": "object",
-            "Q49447": "world view",
-            "Q53001749": "subject of depiction",
-            "Q5371079": "emic unit",
-            "Q5390013": "belief system",
-            "Q54989186": "mental state",
-            "Q55979391": "ethical concept",
-            "Q58778": "system",
-            "Q595523": "notion",
-            "Q61151961": "individual data",
-            "Q628523": "Message",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q71966963": "religion or world view",
-            "Q7257": "Ideology",
-            "Q748": "Buddhism",
-            "Q813912": "condition",
-            "Q82821": "tradition",
-            "Q9174": "Religion",
-            "Q930933": "relation",
-            "Q937228": "property",
-            "Q9380010": "utterance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "aptitude",
+                "wdid": "Q1347367"
+            },
+            {
+                "label": "Indian religions",
+                "wdid": "Q1651597"
+            },
+            {
+                "label": "custom",
+                "wdid": "Q251777"
+            },
+            {
+                "label": "convention",
+                "wdid": "Q367293"
+            },
+            {
+                "label": "morality",
+                "wdid": "Q48324"
+            },
+            {
+                "label": "subject of depiction",
+                "wdid": "Q53001749"
+            },
+            {
+                "label": "ethical concept",
+                "wdid": "Q55979391"
+            },
+            {
+                "label": "individual data",
+                "wdid": "Q61151961"
+            },
+            {
+                "label": "Ideology",
+                "wdid": "Q7257"
+            },
+            {
+                "label": "Buddhism",
+                "wdid": "Q748"
+            },
+            {
+                "label": "tradition",
+                "wdid": "Q82821"
+            },
+            {
+                "label": "Religion",
+                "wdid": "Q9174"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Questi",
@@ -265,9 +257,12 @@
         "coordination": "and",
         "doc_ID": 6315,
         "doc_URL": "https://www.glossa-journal.org/article/id/6315",
-        "entities": {
-            "Q5145864": "Collaborator"
-        },
+        "entities": [
+            {
+                "label": "Collaborator",
+                "wdid": "Q5145864"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">L’amico</div>\n\t\t<div class=\"glossblock\">The friend</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">collaboratore</div>\n\t\t<div class=\"glossblock\">collaborator</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">di</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gianni</div>\n\t\t<div class=\"glossblock\">Gianni</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">è</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">stato</div>\n\t\t<div class=\"glossblock\">been</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qui</div>\n\t\t<div class=\"glossblock\">here</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "The friend",
@@ -283,7 +278,7 @@
         "language_iso6393": "ita",
         "language_name": "Italian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "L’amico",
@@ -310,10 +305,16 @@
         "coordination": "and",
         "doc_ID": 6315,
         "doc_URL": "https://www.glossa-journal.org/article/id/6315",
-        "entities": {
-            "Q14085739": "sailor",
-            "Q6355077": "good friends"
-        },
+        "entities": [
+            {
+                "label": "sailor",
+                "wdid": "Q14085739"
+            },
+            {
+                "label": "good friends",
+                "wdid": "Q6355077"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Questo</div>\n\t\t<div class=\"glossblock\">This</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">soldato</div>\n\t\t<div class=\"glossblock\">soldier</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">marinaio</div>\n\t\t<div class=\"glossblock\">sailor are</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">buoni</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">amici</div>\n\t\t<div class=\"glossblock\">friends</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "This",
@@ -328,66 +329,56 @@
         "language_iso6393": "ita",
         "language_name": "Italian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q108163": "proposition",
-            "Q11028": "information",
-            "Q1207505": "quality",
-            "Q12558574": "point of view",
-            "Q1347367": "aptitude",
-            "Q151885": "concept",
-            "Q15916540": "semantic unit",
-            "Q1651597": "Indian religions",
-            "Q16877783": "meaning",
-            "Q16889133": "class",
-            "Q1786828": "constituent",
-            "Q183046": "meaning",
-            "Q188572": "fact",
-            "Q20817253": "linguistic unit",
-            "Q2145290": "mental representation",
-            "Q246672": "mathematical object",
-            "Q251777": "custom",
-            "Q2684591": "statement",
-            "Q28813620": "set",
-            "Q29651519": "mental object",
-            "Q30060700": "scientific object",
-            "Q34394": "Belief",
-            "Q3505845": "state",
-            "Q35120": "entity",
-            "Q367293": "convention",
-            "Q3702971": "personal data",
-            "Q37787614": "person property",
-            "Q41796": "sentence",
-            "Q42848": "data",
-            "Q4393498": "representation",
-            "Q4406616": "concrete object",
-            "Q474328": "declarative sentence",
-            "Q48324": "morality",
-            "Q483247": "phenomenon",
-            "Q488383": "object",
-            "Q49447": "world view",
-            "Q53001749": "subject of depiction",
-            "Q5371079": "emic unit",
-            "Q5390013": "belief system",
-            "Q54989186": "mental state",
-            "Q55979391": "ethical concept",
-            "Q58778": "system",
-            "Q595523": "notion",
-            "Q61151961": "individual data",
-            "Q628523": "Message",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q71966963": "religion or world view",
-            "Q7257": "Ideology",
-            "Q748": "Buddhism",
-            "Q813912": "condition",
-            "Q82821": "tradition",
-            "Q9174": "Religion",
-            "Q930933": "relation",
-            "Q937228": "property",
-            "Q9380010": "utterance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "aptitude",
+                "wdid": "Q1347367"
+            },
+            {
+                "label": "Indian religions",
+                "wdid": "Q1651597"
+            },
+            {
+                "label": "custom",
+                "wdid": "Q251777"
+            },
+            {
+                "label": "convention",
+                "wdid": "Q367293"
+            },
+            {
+                "label": "morality",
+                "wdid": "Q48324"
+            },
+            {
+                "label": "subject of depiction",
+                "wdid": "Q53001749"
+            },
+            {
+                "label": "ethical concept",
+                "wdid": "Q55979391"
+            },
+            {
+                "label": "individual data",
+                "wdid": "Q61151961"
+            },
+            {
+                "label": "Ideology",
+                "wdid": "Q7257"
+            },
+            {
+                "label": "Buddhism",
+                "wdid": "Q748"
+            },
+            {
+                "label": "tradition",
+                "wdid": "Q82821"
+            },
+            {
+                "label": "Religion",
+                "wdid": "Q9174"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "*Questo",
@@ -413,9 +404,12 @@
         "coordination": "and",
         "doc_ID": 6315,
         "doc_URL": "https://www.glossa-journal.org/article/id/6315",
-        "entities": {
-            "Q6355077": "good friends"
-        },
+        "entities": [
+            {
+                "label": "good friends",
+                "wdid": "Q6355077"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Questi</div>\n\t\t<div class=\"glossblock\">These</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">soldati</div>\n\t\t<div class=\"glossblock\">soldiers</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">marinai</div>\n\t\t<div class=\"glossblock\">sailors</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">are</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">buoni</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">amici</div>\n\t\t<div class=\"glossblock\">friends</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "These",
@@ -430,66 +424,56 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q108163": "proposition",
-            "Q11028": "information",
-            "Q1207505": "quality",
-            "Q12558574": "point of view",
-            "Q1347367": "aptitude",
-            "Q151885": "concept",
-            "Q15916540": "semantic unit",
-            "Q1651597": "Indian religions",
-            "Q16877783": "meaning",
-            "Q16889133": "class",
-            "Q1786828": "constituent",
-            "Q183046": "meaning",
-            "Q188572": "fact",
-            "Q20817253": "linguistic unit",
-            "Q2145290": "mental representation",
-            "Q246672": "mathematical object",
-            "Q251777": "custom",
-            "Q2684591": "statement",
-            "Q28813620": "set",
-            "Q29651519": "mental object",
-            "Q30060700": "scientific object",
-            "Q34394": "Belief",
-            "Q3505845": "state",
-            "Q35120": "entity",
-            "Q367293": "convention",
-            "Q3702971": "personal data",
-            "Q37787614": "person property",
-            "Q41796": "sentence",
-            "Q42848": "data",
-            "Q4393498": "representation",
-            "Q4406616": "concrete object",
-            "Q474328": "declarative sentence",
-            "Q48324": "morality",
-            "Q483247": "phenomenon",
-            "Q488383": "object",
-            "Q49447": "world view",
-            "Q53001749": "subject of depiction",
-            "Q5371079": "emic unit",
-            "Q5390013": "belief system",
-            "Q54989186": "mental state",
-            "Q55979391": "ethical concept",
-            "Q58778": "system",
-            "Q595523": "notion",
-            "Q61151961": "individual data",
-            "Q628523": "Message",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q71966963": "religion or world view",
-            "Q7257": "Ideology",
-            "Q748": "Buddhism",
-            "Q813912": "condition",
-            "Q82821": "tradition",
-            "Q9174": "Religion",
-            "Q930933": "relation",
-            "Q937228": "property",
-            "Q9380010": "utterance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "aptitude",
+                "wdid": "Q1347367"
+            },
+            {
+                "label": "Indian religions",
+                "wdid": "Q1651597"
+            },
+            {
+                "label": "custom",
+                "wdid": "Q251777"
+            },
+            {
+                "label": "convention",
+                "wdid": "Q367293"
+            },
+            {
+                "label": "morality",
+                "wdid": "Q48324"
+            },
+            {
+                "label": "subject of depiction",
+                "wdid": "Q53001749"
+            },
+            {
+                "label": "ethical concept",
+                "wdid": "Q55979391"
+            },
+            {
+                "label": "individual data",
+                "wdid": "Q61151961"
+            },
+            {
+                "label": "Ideology",
+                "wdid": "Q7257"
+            },
+            {
+                "label": "Buddhism",
+                "wdid": "Q748"
+            },
+            {
+                "label": "tradition",
+                "wdid": "Q82821"
+            },
+            {
+                "label": "Religion",
+                "wdid": "Q9174"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Questi",
@@ -515,11 +499,20 @@
         "coordination": "and",
         "doc_ID": 6315,
         "doc_URL": "https://www.glossa-journal.org/article/id/6315",
-        "entities": {
-            "Q179731": "baking soda",
-            "Q3089784": "kneaded",
-            "Q36465": "flour"
-        },
+        "entities": [
+            {
+                "label": "baking soda",
+                "wdid": "Q179731"
+            },
+            {
+                "label": "kneaded",
+                "wdid": "Q3089784"
+            },
+            {
+                "label": "flour",
+                "wdid": "Q36465"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*La</div>\n\t\t<div class=\"glossblock\">The</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">farina</div>\n\t\t<div class=\"glossblock\">flour</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bicarbonato di sodio</div>\n\t\t<div class=\"glossblock\">baking soda</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">venivano</div>\n\t\t<div class=\"glossblock\">came</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mescolati</div>\n\t\t<div class=\"glossblock\">mixed</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">in</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">una</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ciotola</div>\n\t\t<div class=\"glossblock\">bowl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">il</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">burro</div>\n\t\t<div class=\"glossblock\">butter</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">veniva</div>\n\t\t<div class=\"glossblock\">came</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lavorato</div>\n\t\t<div class=\"glossblock\">worked</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nella</div>\n\t\t<div class=\"glossblock\">into</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">farina;12</div>\n\t\t<div class=\"glossblock\">flour</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "The",
@@ -543,62 +536,44 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q1150070": "change",
-            "Q1150771": "output",
-            "Q1155083": "granular material",
-            "Q1190554": "occurrence",
-            "Q1194058": "disposable product",
-            "Q1359395": "Bulk_cargo",
-            "Q1454986": "physical system",
-            "Q15401930": "artificial object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q16887380": "group",
-            "Q1704572": "continuum",
-            "Q18458812": "consumer goods",
-            "Q20937557": "sequence",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q2184715": "durable good",
-            "Q223557": "physical object",
-            "Q2259909": "dry bulk cargo",
-            "Q2424752": "product",
-            "Q2449671": "transportable goods",
-            "Q25416091": "substance",
-            "Q26907166": "temporal entity",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28813620": "set",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q2908004": "Powder",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q319224": "cargo",
-            "Q3249551": "process",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q378078": "substance",
-            "Q43460564": "chemical entity",
-            "Q4406616": "concrete object",
-            "Q4437984": "continuum",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q6671777": "structure",
-            "Q67518978": "occurrent",
-            "Q736427": "staple food",
-            "Q7493597": "shelf-stable food",
-            "Q79529": "chemical substance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "granular material",
+                "wdid": "Q1155083"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Bulk_cargo",
+                "wdid": "Q1359395"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "dry bulk cargo",
+                "wdid": "Q2259909"
+            },
+            {
+                "label": "Powder",
+                "wdid": "Q2908004"
+            },
+            {
+                "label": "cargo",
+                "wdid": "Q319224"
+            },
+            {
+                "label": "staple food",
+                "wdid": "Q736427"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "*La",
@@ -633,12 +608,24 @@
         "coordination": "and",
         "doc_ID": 6315,
         "doc_URL": "https://www.glossa-journal.org/article/id/6315",
-        "entities": {
-            "Q106612": "sour milk",
-            "Q179731": "baking soda",
-            "Q3089784": "kneaded",
-            "Q36465": "flour"
-        },
+        "entities": [
+            {
+                "label": "sour milk",
+                "wdid": "Q106612"
+            },
+            {
+                "label": "baking soda",
+                "wdid": "Q179731"
+            },
+            {
+                "label": "kneaded",
+                "wdid": "Q3089784"
+            },
+            {
+                "label": "flour",
+                "wdid": "Q36465"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*La</div>\n\t\t<div class=\"glossblock\">The</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">farine</div>\n\t\t<div class=\"glossblock\">flower</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">levure</div>\n\t\t<div class=\"glossblock\">yeast</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ont</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">été</div>\n\t\t<div class=\"glossblock\">been</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mélangés</div>\n\t\t<div class=\"glossblock\">mixed</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dans</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">un</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol</div>\n\t\t<div class=\"glossblock\">bowl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">beurre</div>\n\t\t<div class=\"glossblock\">butter</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">has</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">été</div>\n\t\t<div class=\"glossblock\">been</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">incorporé</div>\n\t\t<div class=\"glossblock\">incorporated</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">à</div>\n\t\t<div class=\"glossblock\">into</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">farine ;</div>\n\t\t<div class=\"glossblock\">flower</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "The",
@@ -665,62 +652,44 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q1150070": "change",
-            "Q1150771": "output",
-            "Q1155083": "granular material",
-            "Q1190554": "occurrence",
-            "Q1194058": "disposable product",
-            "Q1359395": "Bulk_cargo",
-            "Q1454986": "physical system",
-            "Q15401930": "artificial object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q16887380": "group",
-            "Q1704572": "continuum",
-            "Q18458812": "consumer goods",
-            "Q20937557": "sequence",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q2184715": "durable good",
-            "Q223557": "physical object",
-            "Q2259909": "dry bulk cargo",
-            "Q2424752": "product",
-            "Q2449671": "transportable goods",
-            "Q25416091": "substance",
-            "Q26907166": "temporal entity",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28813620": "set",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q2908004": "Powder",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q319224": "cargo",
-            "Q3249551": "process",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q378078": "substance",
-            "Q43460564": "chemical entity",
-            "Q4406616": "concrete object",
-            "Q4437984": "continuum",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q6671777": "structure",
-            "Q67518978": "occurrent",
-            "Q736427": "staple food",
-            "Q7493597": "shelf-stable food",
-            "Q79529": "chemical substance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "granular material",
+                "wdid": "Q1155083"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Bulk_cargo",
+                "wdid": "Q1359395"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "dry bulk cargo",
+                "wdid": "Q2259909"
+            },
+            {
+                "label": "Powder",
+                "wdid": "Q2908004"
+            },
+            {
+                "label": "cargo",
+                "wdid": "Q319224"
+            },
+            {
+                "label": "staple food",
+                "wdid": "Q736427"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "*La",
@@ -768,7 +737,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Dieser",
@@ -800,7 +769,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Deze",
@@ -832,7 +801,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Cet",
@@ -864,7 +833,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Quest(o)",
@@ -896,7 +865,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Diese",
@@ -928,7 +897,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Diesen",
@@ -960,7 +929,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Dieses",
@@ -981,7 +950,7 @@
         "clength": 23,
         "doc_ID": 6315,
         "doc_URL": "https://www.glossa-journal.org/article/id/6315",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Les</div>\n\t\t<div class=\"glossblock\">The</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">deux</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">/</div>\n\t\t<div class=\"glossblock\">/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">trois</div>\n\t\t<div class=\"glossblock\">three</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hommes</div>\n\t\t<div class=\"glossblock\">men</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "The",
@@ -994,7 +963,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Les",
@@ -1017,7 +986,7 @@
         "clength": 18,
         "doc_ID": 6315,
         "doc_URL": "https://www.glossa-journal.org/article/id/6315",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">I</div>\n\t\t<div class=\"glossblock\">The</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">due</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">/</div>\n\t\t<div class=\"glossblock\">/</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tre</div>\n\t\t<div class=\"glossblock\">three</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">uomini</div>\n\t\t<div class=\"glossblock\">men</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "The",
@@ -1030,7 +999,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "I",
@@ -1064,7 +1033,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Der",
@@ -1097,7 +1066,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Er",
@@ -1131,7 +1100,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Er",
@@ -1167,7 +1136,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Der",
@@ -1200,7 +1169,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Dem",
@@ -1234,7 +1203,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Les",
@@ -1255,7 +1224,7 @@
         "coordination": "and",
         "doc_ID": 6315,
         "doc_URL": "https://www.glossa-journal.org/article/id/6315",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">??{La //della}</div>\n\t\t<div class=\"glossblock\">{the // some}</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">plastica</div>\n\t\t<div class=\"glossblock\">plastic</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">carta</div>\n\t\t<div class=\"glossblock\">paper</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vanno</div>\n\t\t<div class=\"glossblock\">are</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">divise</div>\n\t\t<div class=\"glossblock\">separated</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "{the // some}",
@@ -1269,7 +1238,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "??{La //della}",
@@ -1293,9 +1262,12 @@
         "clength": 28,
         "doc_ID": 6315,
         "doc_URL": "https://www.glossa-journal.org/article/id/6315",
-        "entities": {
-            "Q2630670": "hugs"
-        },
+        "entities": [
+            {
+                "label": "hugs",
+                "wdid": "Q2630670"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">La</div>\n\t\t<div class=\"glossblock\">The</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fille</div>\n\t\t<div class=\"glossblock\">girl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">embrasse</div>\n\t\t<div class=\"glossblock\">hugs</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">son</div>\n\t\t<div class=\"glossblock\">her</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">copain</div>\n\t\t<div class=\"glossblock\">friend</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "The",
@@ -1308,7 +1280,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "La",
@@ -1331,9 +1303,12 @@
         "clength": 27,
         "doc_ID": 6315,
         "doc_URL": "https://www.glossa-journal.org/article/id/6315",
-        "entities": {
-            "Q2630670": "hugs"
-        },
+        "entities": [
+            {
+                "label": "hugs",
+                "wdid": "Q2630670"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">La</div>\n\t\t<div class=\"glossblock\">The</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fille</div>\n\t\t<div class=\"glossblock\">girl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">embrasse</div>\n\t\t<div class=\"glossblock\">hugs</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sa</div>\n\t\t<div class=\"glossblock\">her</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">copine</div>\n\t\t<div class=\"glossblock\">friend</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "The",
@@ -1346,7 +1321,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "La",

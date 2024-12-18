@@ -8,10 +8,16 @@
         "clength": 37,
         "doc_ID": 4871,
         "doc_URL": "https://www.glossa-journal.org/article/id/4871",
-        "entities": {
-            "Q194101": "dwarf",
-            "Q259745": "witches"
-        },
+        "entities": [
+            {
+                "label": "dwarf",
+                "wdid": "Q194101"
+            },
+            {
+                "label": "witches",
+                "wdid": "Q259745"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lo</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gnomo</div>\n\t\t<div class=\"glossblock\">dwarf</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">che</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">insegue</div>\n\t\t<div class=\"glossblock\">chases</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">streghe</div>\n\t\t<div class=\"glossblock\">witches</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">SRC</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -28,113 +34,36 @@
         "language_iso6393": "ita",
         "language_name": "Italian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q104127086": "memory",
-            "Q104493": "risk",
-            "Q1047113": "specialty",
-            "Q105948247": "knowledge system",
-            "Q105952144": "information hazard",
-            "Q108163": "proposition",
-            "Q10862449": "difference",
-            "Q11028": "information",
-            "Q110403031": "knowledge type",
-            "Q1132455": "Hazard",
-            "Q1150771": "output",
-            "Q1190554": "occurrence",
-            "Q1207505": "quality",
-            "Q12488383": "content",
-            "Q12558574": "point of view",
-            "Q13579947": "misinformation",
-            "Q1412596": "simulacrum",
-            "Q1454986": "physical system",
-            "Q15401930": "artificial object",
-            "Q15621286": "intellectual work",
-            "Q15916540": "semantic unit",
-            "Q16686448": "artificial object",
-            "Q16877783": "meaning",
-            "Q16887380": "group",
-            "Q16889133": "class",
-            "Q1747121": "flaw",
-            "Q17537576": "creative work",
-            "Q1786828": "constituent",
-            "Q178934": "Occult",
-            "Q183046": "meaning",
-            "Q1858206": "White_magic",
-            "Q18603648": "contributing factor",
-            "Q188572": "fact",
-            "Q1914636": "activity",
-            "Q1920219": "social issue",
-            "Q203066": "relation",
-            "Q20817253": "linguistic unit",
-            "Q20937557": "sequence",
-            "Q21146257": "type",
-            "Q21170479": "possibility",
-            "Q2145290": "mental representation",
-            "Q217594": "class",
-            "Q223557": "physical object",
-            "Q246672": "mathematical object",
-            "Q25203551": "Phenotype_(clinical_medicine)",
-            "Q2538477": "growth_disorder",
-            "Q2684591": "statement",
-            "Q26907166": "temporal entity",
-            "Q28813620": "set",
-            "Q28954762": "non-science",
-            "Q29485": "error",
-            "Q29651519": "mental object",
-            "Q29896155": "difference",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q31464082": "source",
-            "Q34394": "Belief",
-            "Q3505845": "state",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q36161": "set",
-            "Q3769299": "human behavior",
-            "Q386724": "work",
-            "Q41796": "sentence",
-            "Q42848": "data",
-            "Q4393498": "representation",
-            "Q4406616": "concrete object",
-            "Q474328": "declarative sentence",
-            "Q47461344": "written work",
-            "Q483247": "phenomenon",
-            "Q483677": "pseudoscience",
-            "Q488383": "object",
-            "Q49447": "world view",
-            "Q5371079": "emic unit",
-            "Q5390013": "belief system",
-            "Q5422048": "external risk",
-            "Q5469988": "formalization",
-            "Q54989186": "mental state",
-            "Q55091441": "operation result",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q595523": "notion",
-            "Q621184": "problem",
-            "Q628523": "Message",
-            "Q6671777": "structure",
-            "Q690768": "Black_magic",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q71966963": "religion or world view",
-            "Q7254446": "pseudo-scholarship",
-            "Q8027727": "Wissenschaft",
-            "Q813912": "condition",
-            "Q81741": "Magic_(supernatural)",
-            "Q8205328": "artificial physical object",
-            "Q849149": "deviation",
-            "Q864377": "multiset",
-            "Q86923152": "risk source",
-            "Q9081": "Knowledge",
-            "Q9198102": "sorcery",
-            "Q930933": "relation",
-            "Q9332": "behavior",
-            "Q937228": "property",
-            "Q9380010": "utterance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Phenotype_(clinical_medicine)",
+                "wdid": "Q25203551"
+            },
+            {
+                "label": "growth_disorder",
+                "wdid": "Q2538477"
+            },
+            {
+                "label": "Occult",
+                "wdid": "Q178934"
+            },
+            {
+                "label": "White_magic",
+                "wdid": "Q1858206"
+            },
+            {
+                "label": "Black_magic",
+                "wdid": "Q690768"
+            },
+            {
+                "label": "Magic_(supernatural)",
+                "wdid": "Q81741"
+            },
+            {
+                "label": "sorcery",
+                "wdid": "Q9198102"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "lo",
@@ -159,9 +88,12 @@
         "clength": 36,
         "doc_ID": 4871,
         "doc_URL": "https://www.glossa-journal.org/article/id/4871",
-        "entities": {
-            "Q194101": "dwarf"
-        },
+        "entities": [
+            {
+                "label": "dwarf",
+                "wdid": "Q194101"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">to</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gnomo</div>\n\t\t<div class=\"glossblock\">dwarf</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">che</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">strega</div>\n\t\t<div class=\"glossblock\">witch</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">insegue</div>\n\t\t<div class=\"glossblock\">chases</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ORC</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -178,10 +110,16 @@
         "language_iso6393": "ita",
         "language_name": "Italian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q25203551": "Phenotype_(clinical_medicine)",
-            "Q2538477": "growth_disorder"
-        },
+        "parententities": [
+            {
+                "label": "Phenotype_(clinical_medicine)",
+                "wdid": "Q25203551"
+            },
+            {
+                "label": "growth_disorder",
+                "wdid": "Q2538477"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "to",
@@ -206,9 +144,12 @@
         "clength": 43,
         "doc_ID": 4871,
         "doc_URL": "https://www.glossa-journal.org/article/id/4871",
-        "entities": {
-            "Q194101": "dwarf"
-        },
+        "entities": [
+            {
+                "label": "dwarf",
+                "wdid": "Q194101"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lo</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gnomo</div>\n\t\t<div class=\"glossblock\">dwarf</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">che</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">è</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">inseguito</div>\n\t\t<div class=\"glossblock\">chased</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dalla</div>\n\t\t<div class=\"glossblock\">by-the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">strega</div>\n\t\t<div class=\"glossblock\">witch</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">PRC</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -226,10 +167,16 @@
         "language_iso6393": "ita",
         "language_name": "Italian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q25203551": "Phenotype_(clinical_medicine)",
-            "Q2538477": "growth_disorder"
-        },
+        "parententities": [
+            {
+                "label": "Phenotype_(clinical_medicine)",
+                "wdid": "Q25203551"
+            },
+            {
+                "label": "growth_disorder",
+                "wdid": "Q2538477"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "lo",
@@ -257,7 +204,7 @@
         "clength": 50,
         "doc_ID": 4871,
         "doc_URL": "https://www.glossa-journal.org/article/id/4871",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Fammi</div>\n\t\t<div class=\"glossblock\">Let-me</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vedere</div>\n\t\t<div class=\"glossblock\">see</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">il</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cane</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">che</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">insegue</div>\n\t\t<div class=\"glossblock\">chases</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">il</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cavallo.</div>\n\t\t<div class=\"glossblock\">horse</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">SRC</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Let-me",
@@ -276,7 +223,7 @@
         "language_iso6393": "ita",
         "language_name": "Italian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Fammi",
@@ -305,7 +252,7 @@
         "clength": 50,
         "doc_ID": 4871,
         "doc_URL": "https://www.glossa-journal.org/article/id/4871",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Fammi</div>\n\t\t<div class=\"glossblock\">Let-me</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vedere</div>\n\t\t<div class=\"glossblock\">see</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">il</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cane</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">che</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">il</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cavallo</div>\n\t\t<div class=\"glossblock\">horse</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">insegue.</div>\n\t\t<div class=\"glossblock\">chases</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ORC</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Let-me",
@@ -324,7 +271,7 @@
         "language_iso6393": "ita",
         "language_name": "Italian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Fammi",
@@ -353,7 +300,7 @@
         "clength": 52,
         "doc_ID": 4871,
         "doc_URL": "https://www.glossa-journal.org/article/id/4871",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Fammi</div>\n\t\t<div class=\"glossblock\">Let-me</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vedere</div>\n\t\t<div class=\"glossblock\">see</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">il</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cane</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">che</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">è</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">spinto</div>\n\t\t<div class=\"glossblock\">pushed</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dal</div>\n\t\t<div class=\"glossblock\">by-the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cavallo.</div>\n\t\t<div class=\"glossblock\">horse</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">PRC</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Let-me",
@@ -373,7 +320,7 @@
         "language_iso6393": "ita",
         "language_name": "Italian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Fammi",
@@ -401,7 +348,7 @@
         "clength": 27,
         "doc_ID": 4871,
         "doc_URL": "https://www.glossa-journal.org/article/id/4871",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gatti</div>\n\t\t<div class=\"glossblock\">cats</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">che</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">insegue</div>\n\t\t<div class=\"glossblock\">follows</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">il</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cane</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -415,7 +362,7 @@
         "language_iso6393": "ita",
         "language_name": "Italian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "i",
@@ -457,7 +404,7 @@
         "language_iso6393": "ita",
         "language_name": "Italian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "[",

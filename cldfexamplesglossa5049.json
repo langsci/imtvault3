@@ -14,7 +14,7 @@
         "clength": 23,
         "doc_ID": 5049,
         "doc_URL": "https://www.glossa-journal.org/article/id/5049",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Tjejen</div>\n\t\t<div class=\"glossblock\">girl.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gillar</div>\n\t\t<div class=\"glossblock\">like</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jag</div>\n\t\t<div class=\"glossblock\">1SG.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">inte.</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "girl.the",
@@ -26,7 +26,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Tjejen",
@@ -67,7 +67,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Dig",
@@ -87,9 +87,12 @@
         "clength": 47,
         "doc_ID": 5049,
         "doc_URL": "https://www.glossa-journal.org/article/id/5049",
-        "entities": {
-            "Q13233": "ice cream"
-        },
+        "entities": [
+            {
+                "label": "ice cream",
+                "wdid": "Q13233"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Barnen</div>\n\t\t<div class=\"glossblock\">children.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">får</div>\n\t\t<div class=\"glossblock\">can</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">inte</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">äta</div>\n\t\t<div class=\"glossblock\">eat</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">upp</div>\n\t\t<div class=\"glossblock\">up</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">all</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">glass</div>\n\t\t<div class=\"glossblock\">ice-cream</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">innan</div>\n\t\t<div class=\"glossblock\">before</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">middan.</div>\n\t\t<div class=\"glossblock\">dinner</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "children.the",
@@ -106,48 +109,48 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1454986": "physical system",
-            "Q14915034": "Course_(food)",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q182940": "Dessert",
-            "Q2095": "Food",
-            "Q2134742": "real good",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q26834928": "Production of food industry by OKP",
-            "Q26902699": "food products, beverages and tobacco products (OKPD, subsection DA)",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26904113": "food and drink products (OKPD 15, includes not only edible)",
-            "Q27161574": "Products on the All-Russian classifier of production",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q3712597": "dessert with spoon",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q5159627": "Confectionery",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q746549": "Dish_(food)",
-            "Q8195619": "human_food",
-            "Q8205328": "artificial physical object",
-            "Q866153": "Frozen_dessert",
-            "Q868404": "final good",
-            "Q951964": "food product",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Course_(food)",
+                "wdid": "Q14915034"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Dessert",
+                "wdid": "Q182940"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "dessert with spoon",
+                "wdid": "Q3712597"
+            },
+            {
+                "label": "Confectionery",
+                "wdid": "Q5159627"
+            },
+            {
+                "label": "Dish_(food)",
+                "wdid": "Q746549"
+            },
+            {
+                "label": "human_food",
+                "wdid": "Q8195619"
+            },
+            {
+                "label": "Frozen_dessert",
+                "wdid": "Q866153"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Barnen",
@@ -172,9 +175,12 @@
         "clength": 47,
         "doc_ID": 5049,
         "doc_URL": "https://www.glossa-journal.org/article/id/5049",
-        "entities": {
-            "Q13233": "ice cream"
-        },
+        "entities": [
+            {
+                "label": "ice cream",
+                "wdid": "Q13233"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Barnen</div>\n\t\t<div class=\"glossblock\">children.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">inte</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">får</div>\n\t\t<div class=\"glossblock\">can</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">äta</div>\n\t\t<div class=\"glossblock\">eat</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">upp</div>\n\t\t<div class=\"glossblock\">up</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">all</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">glass</div>\n\t\t<div class=\"glossblock\">ice-cream</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">innan</div>\n\t\t<div class=\"glossblock\">before</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">middan.</div>\n\t\t<div class=\"glossblock\">dinner</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "children.the",
@@ -191,48 +197,48 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1454986": "physical system",
-            "Q14915034": "Course_(food)",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q182940": "Dessert",
-            "Q2095": "Food",
-            "Q2134742": "real good",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q26834928": "Production of food industry by OKP",
-            "Q26902699": "food products, beverages and tobacco products (OKPD, subsection DA)",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26904113": "food and drink products (OKPD 15, includes not only edible)",
-            "Q27161574": "Products on the All-Russian classifier of production",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q3712597": "dessert with spoon",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q5159627": "Confectionery",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q746549": "Dish_(food)",
-            "Q8195619": "human_food",
-            "Q8205328": "artificial physical object",
-            "Q866153": "Frozen_dessert",
-            "Q868404": "final good",
-            "Q951964": "food product",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Course_(food)",
+                "wdid": "Q14915034"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Dessert",
+                "wdid": "Q182940"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "dessert with spoon",
+                "wdid": "Q3712597"
+            },
+            {
+                "label": "Confectionery",
+                "wdid": "Q5159627"
+            },
+            {
+                "label": "Dish_(food)",
+                "wdid": "Q746549"
+            },
+            {
+                "label": "human_food",
+                "wdid": "Q8195619"
+            },
+            {
+                "label": "Frozen_dessert",
+                "wdid": "Q866153"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Barnen",
@@ -257,9 +263,12 @@
         "clength": 47,
         "doc_ID": 5049,
         "doc_URL": "https://www.glossa-journal.org/article/id/5049",
-        "entities": {
-            "Q13233": "ice cream"
-        },
+        "entities": [
+            {
+                "label": "ice cream",
+                "wdid": "Q13233"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">All</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">glass</div>\n\t\t<div class=\"glossblock\">ice-cream</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">får</div>\n\t\t<div class=\"glossblock\">can</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">barnen</div>\n\t\t<div class=\"glossblock\">children.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">inte</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">äta</div>\n\t\t<div class=\"glossblock\">eat</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">upp</div>\n\t\t<div class=\"glossblock\">up</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">innan</div>\n\t\t<div class=\"glossblock\">before</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">middan.</div>\n\t\t<div class=\"glossblock\">dinner</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "all",
@@ -276,48 +285,48 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1454986": "physical system",
-            "Q14915034": "Course_(food)",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q182940": "Dessert",
-            "Q2095": "Food",
-            "Q2134742": "real good",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q26834928": "Production of food industry by OKP",
-            "Q26902699": "food products, beverages and tobacco products (OKPD, subsection DA)",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26904113": "food and drink products (OKPD 15, includes not only edible)",
-            "Q27161574": "Products on the All-Russian classifier of production",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q3712597": "dessert with spoon",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q5159627": "Confectionery",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q746549": "Dish_(food)",
-            "Q8195619": "human_food",
-            "Q8205328": "artificial physical object",
-            "Q866153": "Frozen_dessert",
-            "Q868404": "final good",
-            "Q951964": "food product",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Course_(food)",
+                "wdid": "Q14915034"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Dessert",
+                "wdid": "Q182940"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "dessert with spoon",
+                "wdid": "Q3712597"
+            },
+            {
+                "label": "Confectionery",
+                "wdid": "Q5159627"
+            },
+            {
+                "label": "Dish_(food)",
+                "wdid": "Q746549"
+            },
+            {
+                "label": "human_food",
+                "wdid": "Q8195619"
+            },
+            {
+                "label": "Frozen_dessert",
+                "wdid": "Q866153"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "All",
@@ -342,9 +351,12 @@
         "clength": 47,
         "doc_ID": 5049,
         "doc_URL": "https://www.glossa-journal.org/article/id/5049",
-        "entities": {
-            "Q13233": "ice cream"
-        },
+        "entities": [
+            {
+                "label": "ice cream",
+                "wdid": "Q13233"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">All</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">glass</div>\n\t\t<div class=\"glossblock\">ice-cream</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">får</div>\n\t\t<div class=\"glossblock\">can</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">inte</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">barnen</div>\n\t\t<div class=\"glossblock\">children.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">äta</div>\n\t\t<div class=\"glossblock\">eat</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">upp</div>\n\t\t<div class=\"glossblock\">up</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">innan</div>\n\t\t<div class=\"glossblock\">before</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">middan.</div>\n\t\t<div class=\"glossblock\">dinner</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "all",
@@ -361,48 +373,48 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1454986": "physical system",
-            "Q14915034": "Course_(food)",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q182940": "Dessert",
-            "Q2095": "Food",
-            "Q2134742": "real good",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q26834928": "Production of food industry by OKP",
-            "Q26902699": "food products, beverages and tobacco products (OKPD, subsection DA)",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26904113": "food and drink products (OKPD 15, includes not only edible)",
-            "Q27161574": "Products on the All-Russian classifier of production",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q3712597": "dessert with spoon",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q5159627": "Confectionery",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q746549": "Dish_(food)",
-            "Q8195619": "human_food",
-            "Q8205328": "artificial physical object",
-            "Q866153": "Frozen_dessert",
-            "Q868404": "final good",
-            "Q951964": "food product",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Course_(food)",
+                "wdid": "Q14915034"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Dessert",
+                "wdid": "Q182940"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "dessert with spoon",
+                "wdid": "Q3712597"
+            },
+            {
+                "label": "Confectionery",
+                "wdid": "Q5159627"
+            },
+            {
+                "label": "Dish_(food)",
+                "wdid": "Q746549"
+            },
+            {
+                "label": "human_food",
+                "wdid": "Q8195619"
+            },
+            {
+                "label": "Frozen_dessert",
+                "wdid": "Q866153"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "All",
@@ -427,9 +439,12 @@
         "clength": 51,
         "doc_ID": 5049,
         "doc_URL": "https://www.glossa-journal.org/article/id/5049",
-        "entities": {
-            "Q13233": "ice cream"
-        },
+        "entities": [
+            {
+                "label": "ice cream",
+                "wdid": "Q13233"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">All</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">glass</div>\n\t\t<div class=\"glossblock\">ice-cream</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">får</div>\n\t\t<div class=\"glossblock\">can</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">inte</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ätas</div>\n\t\t<div class=\"glossblock\">eaten</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">upp</div>\n\t\t<div class=\"glossblock\">up</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">av</div>\n\t\t<div class=\"glossblock\">by</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">barnen</div>\n\t\t<div class=\"glossblock\">children.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">innan</div>\n\t\t<div class=\"glossblock\">before</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">middan.</div>\n\t\t<div class=\"glossblock\">dinner</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "all",
@@ -447,48 +462,48 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1454986": "physical system",
-            "Q14915034": "Course_(food)",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q182940": "Dessert",
-            "Q2095": "Food",
-            "Q2134742": "real good",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q26834928": "Production of food industry by OKP",
-            "Q26902699": "food products, beverages and tobacco products (OKPD, subsection DA)",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26904113": "food and drink products (OKPD 15, includes not only edible)",
-            "Q27161574": "Products on the All-Russian classifier of production",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q3712597": "dessert with spoon",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q5159627": "Confectionery",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q746549": "Dish_(food)",
-            "Q8195619": "human_food",
-            "Q8205328": "artificial physical object",
-            "Q866153": "Frozen_dessert",
-            "Q868404": "final good",
-            "Q951964": "food product",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Course_(food)",
+                "wdid": "Q14915034"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Dessert",
+                "wdid": "Q182940"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "dessert with spoon",
+                "wdid": "Q3712597"
+            },
+            {
+                "label": "Confectionery",
+                "wdid": "Q5159627"
+            },
+            {
+                "label": "Dish_(food)",
+                "wdid": "Q746549"
+            },
+            {
+                "label": "human_food",
+                "wdid": "Q8195619"
+            },
+            {
+                "label": "Frozen_dessert",
+                "wdid": "Q866153"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "All",
@@ -514,9 +529,12 @@
         "clength": 51,
         "doc_ID": 5049,
         "doc_URL": "https://www.glossa-journal.org/article/id/5049",
-        "entities": {
-            "Q13233": "ice cream"
-        },
+        "entities": [
+            {
+                "label": "ice cream",
+                "wdid": "Q13233"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">All</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">glass</div>\n\t\t<div class=\"glossblock\">ice-cream</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">inte</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">får</div>\n\t\t<div class=\"glossblock\">can</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ätas</div>\n\t\t<div class=\"glossblock\">eaten</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">upp</div>\n\t\t<div class=\"glossblock\">up</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">av</div>\n\t\t<div class=\"glossblock\">by</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">barnen</div>\n\t\t<div class=\"glossblock\">children.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">innan</div>\n\t\t<div class=\"glossblock\">before</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">middan.</div>\n\t\t<div class=\"glossblock\">dinner</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "all",
@@ -534,48 +552,48 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1454986": "physical system",
-            "Q14915034": "Course_(food)",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q182940": "Dessert",
-            "Q2095": "Food",
-            "Q2134742": "real good",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q26834928": "Production of food industry by OKP",
-            "Q26902699": "food products, beverages and tobacco products (OKPD, subsection DA)",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26904113": "food and drink products (OKPD 15, includes not only edible)",
-            "Q27161574": "Products on the All-Russian classifier of production",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q3712597": "dessert with spoon",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q5159627": "Confectionery",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q746549": "Dish_(food)",
-            "Q8195619": "human_food",
-            "Q8205328": "artificial physical object",
-            "Q866153": "Frozen_dessert",
-            "Q868404": "final good",
-            "Q951964": "food product",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Course_(food)",
+                "wdid": "Q14915034"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Dessert",
+                "wdid": "Q182940"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "dessert with spoon",
+                "wdid": "Q3712597"
+            },
+            {
+                "label": "Confectionery",
+                "wdid": "Q5159627"
+            },
+            {
+                "label": "Dish_(food)",
+                "wdid": "Q746549"
+            },
+            {
+                "label": "human_food",
+                "wdid": "Q8195619"
+            },
+            {
+                "label": "Frozen_dessert",
+                "wdid": "Q866153"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "All",
@@ -601,9 +619,12 @@
         "clength": 40,
         "doc_ID": 5049,
         "doc_URL": "https://www.glossa-journal.org/article/id/5049",
-        "entities": {
-            "Q8331": "foxes"
-        },
+        "entities": [
+            {
+                "label": "foxes",
+                "wdid": "Q8331"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Den</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">äldsta</div>\n\t\t<div class=\"glossblock\">oldest</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">av</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rävarna</div>\n\t\t<div class=\"glossblock\">foxes.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">har</div>\n\t\t<div class=\"glossblock\">has</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lurat</div>\n\t\t<div class=\"glossblock\">cheated</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jägaren.</div>\n\t\t<div class=\"glossblock\">hunter.the</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -618,11 +639,20 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q25306": "Carnivora",
-            "Q27414": "Caniformia",
-            "Q7377": "Mammal"
-        },
+        "parententities": [
+            {
+                "label": "Carnivora",
+                "wdid": "Q25306"
+            },
+            {
+                "label": "Caniformia",
+                "wdid": "Q27414"
+            },
+            {
+                "label": "Mammal",
+                "wdid": "Q7377"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Den",
@@ -645,9 +675,12 @@
         "clength": 40,
         "doc_ID": 5049,
         "doc_URL": "https://www.glossa-journal.org/article/id/5049",
-        "entities": {
-            "Q8331": "foxes"
-        },
+        "entities": [
+            {
+                "label": "foxes",
+                "wdid": "Q8331"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Den</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">äldsta</div>\n\t\t<div class=\"glossblock\">oldest</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">av</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rävarna</div>\n\t\t<div class=\"glossblock\">foxes.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">har</div>\n\t\t<div class=\"glossblock\">has</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jägaren</div>\n\t\t<div class=\"glossblock\">hunter.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lurat.</div>\n\t\t<div class=\"glossblock\">cheated</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -662,11 +695,20 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q25306": "Carnivora",
-            "Q27414": "Caniformia",
-            "Q7377": "Mammal"
-        },
+        "parententities": [
+            {
+                "label": "Carnivora",
+                "wdid": "Q25306"
+            },
+            {
+                "label": "Caniformia",
+                "wdid": "Q27414"
+            },
+            {
+                "label": "Mammal",
+                "wdid": "Q7377"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Den",
@@ -689,7 +731,7 @@
         "clength": 33,
         "doc_ID": 5049,
         "doc_URL": "https://www.glossa-journal.org/article/id/5049",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">En</div>\n\t\t<div class=\"glossblock\">one</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">av</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gästerna</div>\n\t\t<div class=\"glossblock\">customers.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kastade</div>\n\t\t<div class=\"glossblock\">threw</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ut</div>\n\t\t<div class=\"glossblock\">out</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">värden.</div>\n\t\t<div class=\"glossblock\">inkeeper.the</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "one",
@@ -703,7 +745,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "En",
@@ -725,7 +767,7 @@
         "clength": 33,
         "doc_ID": 5049,
         "doc_URL": "https://www.glossa-journal.org/article/id/5049",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">En</div>\n\t\t<div class=\"glossblock\">one</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">av</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gästerna</div>\n\t\t<div class=\"glossblock\">customers.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kastade</div>\n\t\t<div class=\"glossblock\">threw</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">värden</div>\n\t\t<div class=\"glossblock\">inkeeper.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ut.</div>\n\t\t<div class=\"glossblock\">out</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "one",
@@ -739,7 +781,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "En",
@@ -765,9 +807,12 @@
         "coordination": "and",
         "doc_ID": 5049,
         "doc_URL": "https://www.glossa-journal.org/article/id/5049",
-        "entities": {
-            "Q174728": "centimeter"
-        },
+        "entities": [
+            {
+                "label": "centimeter",
+                "wdid": "Q174728"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Det</div>\n\t\t<div class=\"glossblock\">it</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">stämmer</div>\n\t\t<div class=\"glossblock\">is.true</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">att</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Olof Ersson</div>\n\t\t<div class=\"glossblock\">Olof Ersson</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">blivit</div>\n\t\t<div class=\"glossblock\">been</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">huggen</div>\n\t\t<div class=\"glossblock\">stabbed</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">huvudet</div>\n\t\t<div class=\"glossblock\">head.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">med</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">en</div>\n\t\t<div class=\"glossblock\">an</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yxa.</div>\n\t\t<div class=\"glossblock\">axe</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">En</div>\n\t\t<div class=\"glossblock\">an</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yxhammare,</div>\n\t\t<div class=\"glossblock\">axhammer</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">närmare</div>\n\t\t<div class=\"glossblock\">closer</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bestämt.</div>\n\t\t<div class=\"glossblock\">decided</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Den</div>\n\t\t<div class=\"glossblock\">it</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rev</div>\n\t\t<div class=\"glossblock\">tore</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">upp</div>\n\t\t<div class=\"glossblock\">up</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ett</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fem</div>\n\t\t<div class=\"glossblock\">five</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">centimeter</div>\n\t\t<div class=\"glossblock\">centimeter</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">långt</div>\n\t\t<div class=\"glossblock\">long</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sår</div>\n\t\t<div class=\"glossblock\">wound</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">och</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">krossade</div>\n\t\t<div class=\"glossblock\">crushed</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hjässbenen.</div>\n\t\t<div class=\"glossblock\">crown.bones.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Men</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">den</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">saken</div>\n\t\t<div class=\"glossblock\">thing</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">överlevde</div>\n\t\t<div class=\"glossblock\">survived</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">den</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tjockskallige</div>\n\t\t<div class=\"glossblock\">thickheaded</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Olof.</div>\n\t\t<div class=\"glossblock\">Olof</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "it",
@@ -808,7 +853,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Det",
@@ -858,11 +903,20 @@
         "coordination": "and",
         "doc_ID": 5049,
         "doc_URL": "https://www.glossa-journal.org/article/id/5049",
-        "entities": {
-            "Q1072476": "flex",
-            "Q1219805": "mucosa",
-            "Q1453244": "air duct"
-        },
+        "entities": [
+            {
+                "label": "flex",
+                "wdid": "Q1072476"
+            },
+            {
+                "label": "mucosa",
+                "wdid": "Q1219805"
+            },
+            {
+                "label": "air duct",
+                "wdid": "Q1453244"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Samtidigt</div>\n\t\t<div class=\"glossblock\">simultaneously</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">som</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vi</div>\n\t\t<div class=\"glossblock\">we</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">andas</div>\n\t\t<div class=\"glossblock\">breathe</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">måste</div>\n\t\t<div class=\"glossblock\">must</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vi</div>\n\t\t<div class=\"glossblock\">we</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nämligen</div>\n\t\t<div class=\"glossblock\">namely</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">spänna</div>\n\t\t<div class=\"glossblock\">flex</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ett</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">antal</div>\n\t\t<div class=\"glossblock\">number</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">småmuskler</div>\n\t\t<div class=\"glossblock\">small.muscles</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">svalget</div>\n\t\t<div class=\"glossblock\">throat.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">så</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">att</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">slemhinnorna</div>\n\t\t<div class=\"glossblock\">mucosa.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">inte</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ska</div>\n\t\t<div class=\"glossblock\">will</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dras</div>\n\t\t<div class=\"glossblock\">pulled</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">in</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">och</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">förminska</div>\n\t\t<div class=\"glossblock\">diminish</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">luftkanalen.</div>\n\t\t<div class=\"glossblock\">air.duct.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Det</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kan</div>\n\t\t<div class=\"glossblock\">can</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">man</div>\n\t\t<div class=\"glossblock\">one</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">visa</div>\n\t\t<div class=\"glossblock\">show</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">med</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ett</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">enkelt</div>\n\t\t<div class=\"glossblock\">simple</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">experiment.</div>\n\t\t<div class=\"glossblock\">experiment</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "simultaneously",
@@ -901,59 +955,28 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q1150771": "output",
-            "Q1310239": "component",
-            "Q1454986": "physical system",
-            "Q15401930": "artificial object",
-            "Q1587185": null,
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q16887380": "group",
-            "Q176088": null,
-            "Q20088819": "group of cells",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q2424752": "product",
-            "Q25416091": "substance",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27062218": "multicellular structure",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28813620": "set",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q289472": "biogenic substance",
-            "Q2897903": "goods and services",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3271208": null,
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q40397": "tissue",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q866317": null,
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": null,
+                "wdid": "Q1587185"
+            },
+            {
+                "label": null,
+                "wdid": "Q176088"
+            },
+            {
+                "label": null,
+                "wdid": "Q3271208"
+            },
+            {
+                "label": "tissue",
+                "wdid": "Q40397"
+            },
+            {
+                "label": null,
+                "wdid": "Q866317"
+            }
+        ],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -1001,9 +1024,12 @@
         "clength": 50,
         "doc_ID": 5049,
         "doc_URL": "https://www.glossa-journal.org/article/id/5049",
-        "entities": {
-            "Q207123": "herbs"
-        },
+        "entities": [
+            {
+                "label": "herbs",
+                "wdid": "Q207123"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">En</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">härligt</div>\n\t\t<div class=\"glossblock\">delightful</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">örtkryddad</div>\n\t\t<div class=\"glossblock\">herb-spiced</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">soppa</div>\n\t\t<div class=\"glossblock\">soup</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">käkade</div>\n\t\t<div class=\"glossblock\">ate</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vi</div>\n\t\t<div class=\"glossblock\">we</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bland</div>\n\t\t<div class=\"glossblock\">among</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">annat.</div>\n\t\t<div class=\"glossblock\">other</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "a",
@@ -1019,7 +1045,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "En",
@@ -1045,12 +1071,24 @@
         "clength": 127,
         "doc_ID": 5049,
         "doc_URL": "https://www.glossa-journal.org/article/id/5049",
-        "entities": {
-            "Q155814": "Tarragon",
-            "Q1761719": "Oregano",
-            "Q20129": "omelette",
-            "Q23501": "tomato"
-        },
+        "entities": [
+            {
+                "label": "Tarragon",
+                "wdid": "Q155814"
+            },
+            {
+                "label": "Oregano",
+                "wdid": "Q1761719"
+            },
+            {
+                "label": "omelette",
+                "wdid": "Q20129"
+            },
+            {
+                "label": "tomato",
+                "wdid": "Q23501"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dragon</div>\n\t\t<div class=\"glossblock\">tarragon</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">är</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gott</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">en</div>\n\t\t<div class=\"glossblock\">an</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">omelett,</div>\n\t\t<div class=\"glossblock\">omelette</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">basilika</div>\n\t\t<div class=\"glossblock\">basil</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">likaså –</div>\n\t\t<div class=\"glossblock\">as.well</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">särskilt</div>\n\t\t<div class=\"glossblock\">particularly</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">om</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">omeletten</div>\n\t\t<div class=\"glossblock\">omelette.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">serveras</div>\n\t\t<div class=\"glossblock\">serve-PASS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">med</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tomatsallad.</div>\n\t\t<div class=\"glossblock\">tomato.sallad</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Oregano</div>\n\t\t<div class=\"glossblock\">oregano</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kan</div>\n\t\t<div class=\"glossblock\">can</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">man</div>\n\t\t<div class=\"glossblock\">one</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">också</div>\n\t\t<div class=\"glossblock\">also</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tänka</div>\n\t\t<div class=\"glossblock\">consider</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sig.</div>\n\t\t<div class=\"glossblock\">3</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "tarragon",
@@ -1078,7 +1116,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Dragon",
@@ -1125,19 +1163,52 @@
         "coordination": "and",
         "doc_ID": 5049,
         "doc_URL": "https://www.glossa-journal.org/article/id/5049",
-        "entities": {
-            "Q1032390": "cluttered",
-            "Q1369036": "Marilyn",
-            "Q1400565": "spur",
-            "Q16999179": "moral support",
-            "Q170339": "Cranach",
-            "Q192425": "post cards",
-            "Q202558": "Avignon",
-            "Q284521": "pictures of women",
-            "Q4949016": "Botticelli",
-            "Q6527": "Rousseau",
-            "Q7190531": "Picasso"
-        },
+        "entities": [
+            {
+                "label": "cluttered",
+                "wdid": "Q1032390"
+            },
+            {
+                "label": "Marilyn",
+                "wdid": "Q1369036"
+            },
+            {
+                "label": "spur",
+                "wdid": "Q1400565"
+            },
+            {
+                "label": "moral support",
+                "wdid": "Q16999179"
+            },
+            {
+                "label": "Cranach",
+                "wdid": "Q170339"
+            },
+            {
+                "label": "post cards",
+                "wdid": "Q192425"
+            },
+            {
+                "label": "Avignon",
+                "wdid": "Q202558"
+            },
+            {
+                "label": "pictures of women",
+                "wdid": "Q284521"
+            },
+            {
+                "label": "Botticelli",
+                "wdid": "Q4949016"
+            },
+            {
+                "label": "Rousseau",
+                "wdid": "Q6527"
+            },
+            {
+                "label": "Picasso",
+                "wdid": "Q7190531"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">I</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ateljén</div>\n\t\t<div class=\"glossblock\">studio.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">står</div>\n\t\t<div class=\"glossblock\">stand</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bland</div>\n\t\t<div class=\"glossblock\">among</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">färger</div>\n\t\t<div class=\"glossblock\">paint</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ett</div>\n\t\t<div class=\"glossblock\">an</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gammalt</div>\n\t\t<div class=\"glossblock\">old</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">skrivbord</div>\n\t\t<div class=\"glossblock\">desk</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fullt</div>\n\t\t<div class=\"glossblock\">full</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">av</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vykort</div>\n\t\t<div class=\"glossblock\">post.cards</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">och</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">andra</div>\n\t\t<div class=\"glossblock\">other</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bilder</div>\n\t\t<div class=\"glossblock\">pictures</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">av</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kvinnor</div>\n\t\t<div class=\"glossblock\">women</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">konsten,</div>\n\t\t<div class=\"glossblock\">art.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">från</div>\n\t\t<div class=\"glossblock\">from</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Marilyn</div>\n\t\t<div class=\"glossblock\">Marilyn</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">till</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Botticelli</div>\n\t\t<div class=\"glossblock\">Botticelli</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">och</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Cranach.</div>\n\t\t<div class=\"glossblock\">Cranach</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">En</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bok</div>\n\t\t<div class=\"glossblock\">book</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">om</div>\n\t\t<div class=\"glossblock\">about</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Picasso</div>\n\t\t<div class=\"glossblock\">Picasso</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">är</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">uppslagen</div>\n\t\t<div class=\"glossblock\">opened</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">och</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">där</div>\n\t\t<div class=\"glossblock\">there</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">finns</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">en</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bild</div>\n\t\t<div class=\"glossblock\">picture</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">av</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Les</div>\n\t\t<div class=\"glossblock\">Les</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Demosielles d’Avignon.</div>\n\t\t<div class=\"glossblock\">Demosielles d’Avignon</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Några</div>\n\t\t<div class=\"glossblock\">any</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kvinnliga</div>\n\t\t<div class=\"glossblock\">female</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">konstnärsidoler</div>\n\t\t<div class=\"glossblock\">favorite-artists</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">har</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Cecilia</div>\n\t\t<div class=\"glossblock\">Cecilia</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">inte,</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tyvärr,</div>\n\t\t<div class=\"glossblock\">unfortunately</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">säger</div>\n\t\t<div class=\"glossblock\">says</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hon.</div>\n\t\t<div class=\"glossblock\">she</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Stimulansen</div>\n\t\t<div class=\"glossblock\">spur.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kommer</div>\n\t\t<div class=\"glossblock\">comes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">från</div>\n\t\t<div class=\"glossblock\">from</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">manliga</div>\n\t\t<div class=\"glossblock\">male</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">konstnärer</div>\n\t\t<div class=\"glossblock\">artists</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">som</div>\n\t\t<div class=\"glossblock\">like</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Rousseau,</div>\n\t\t<div class=\"glossblock\">Rousseau</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Picasso,</div>\n\t\t<div class=\"glossblock\">Picasso</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Cranach. Kvinnliga</div>\n\t\t<div class=\"glossblock\">Cranach female</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">konstnärer</div>\n\t\t<div class=\"glossblock\">artists</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">som</div>\n\t\t<div class=\"glossblock\">like</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Derkert,</div>\n\t\t<div class=\"glossblock\">Derkert</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hjertén</div>\n\t\t<div class=\"glossblock\">Hjertén</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">och</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Delauney</div>\n\t\t<div class=\"glossblock\">Delauney</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">är</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mer</div>\n\t\t<div class=\"glossblock\">more</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">moraliskt</div>\n\t\t<div class=\"glossblock\">moral</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">stöd.</div>\n\t\t<div class=\"glossblock\">support</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "in",
@@ -1211,7 +1282,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -1294,7 +1365,7 @@
         "clength": 22,
         "doc_ID": 5049,
         "doc_URL": "https://www.glossa-journal.org/article/id/5049",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">boken</div>\n\t\t<div class=\"glossblock\">book.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">som</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pojken</div>\n\t\t<div class=\"glossblock\">boy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">läste</div>\n\t\t<div class=\"glossblock\">read</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "book.the",
@@ -1306,7 +1377,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "boken",

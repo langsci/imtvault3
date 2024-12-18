@@ -24,7 +24,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "Þis",
@@ -48,7 +48,7 @@
         "clength": 61,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">In</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þis</div>\n\t\t<div class=\"glossblock\">this</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sentence</div>\n\t\t<div class=\"glossblock\">sentence</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mustirs</div>\n\t\t<div class=\"glossblock\">shows</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sain</div>\n\t\t<div class=\"glossblock\">Saint</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">benet</div>\n\t\t<div class=\"glossblock\">Benet</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">us</div>\n\t\t<div class=\"glossblock\">us</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hu</div>\n\t\t<div class=\"glossblock\">how</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">we</div>\n\t\t<div class=\"glossblock\">we</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sal</div>\n\t\t<div class=\"glossblock\">should</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lede</div>\n\t\t<div class=\"glossblock\">lead</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ure</div>\n\t\t<div class=\"glossblock\">our</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lif.</div>\n\t\t<div class=\"glossblock\">life</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "in",
@@ -69,7 +69,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "In",
@@ -99,11 +99,20 @@
         "clength": 32,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q1271395": "Saint Gilbert",
-            "Q1357237": "Capgrave",
-            "Q28839480": "girdle"
-        },
+        "entities": [
+            {
+                "label": "Saint Gilbert",
+                "wdid": "Q1271395"
+            },
+            {
+                "label": "Capgrave",
+                "wdid": "Q1357237"
+            },
+            {
+                "label": "girdle",
+                "wdid": "Q28839480"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">With</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þe</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">girdill</div>\n\t\t<div class=\"glossblock\">girdle</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þei</div>\n\t\t<div class=\"glossblock\">they</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">girt</div>\n\t\t<div class=\"glossblock\">girt</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">his</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nek</div>\n\t\t<div class=\"glossblock\">neck</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "with",
@@ -118,7 +127,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "With",
@@ -142,10 +151,16 @@
         "clength": 23,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q1271395": "Saint Gilbert",
-            "Q1357237": "Capgrave"
-        },
+        "entities": [
+            {
+                "label": "Saint Gilbert",
+                "wdid": "Q1271395"
+            },
+            {
+                "label": "Capgrave",
+                "wdid": "Q1357237"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">This</div>\n\t\t<div class=\"glossblock\">this</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">did</div>\n\t\t<div class=\"glossblock\">did</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">his</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">seruauntis</div>\n\t\t<div class=\"glossblock\">servants</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "this",
@@ -157,7 +172,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "This",
@@ -180,11 +195,20 @@
         "clength": 60,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q12819497": "avaricious",
-            "Q5683": "Chaucer",
-            "Q7756181": "Parson's Tale"
-        },
+        "entities": [
+            {
+                "label": "avaricious",
+                "wdid": "Q12819497"
+            },
+            {
+                "label": "Chaucer",
+                "wdid": "Q5683"
+            },
+            {
+                "label": "Parson's Tale",
+                "wdid": "Q7756181"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Thus</div>\n\t\t<div class=\"glossblock\">thus</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">is</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">an</div>\n\t\t<div class=\"glossblock\">an</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">avaricious</div>\n\t\t<div class=\"glossblock\">avaricious</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Man,</div>\n\t\t<div class=\"glossblock\">man</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">that</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">loveth</div>\n\t\t<div class=\"glossblock\">loves</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">his</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tresor</div>\n\t\t<div class=\"glossblock\">treasure</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">biforn</div>\n\t\t<div class=\"glossblock\">before</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">god</div>\n\t\t<div class=\"glossblock\">God</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "thus",
@@ -203,7 +227,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "Thus",
@@ -234,10 +258,16 @@
         "clength": 49,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q23393": "Lord's Prayer",
-            "Q731652": "Lollard"
-        },
+        "entities": [
+            {
+                "label": "Lord's Prayer",
+                "wdid": "Q23393"
+            },
+            {
+                "label": "Lollard",
+                "wdid": "Q731652"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">but</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">it</div>\n\t\t<div class=\"glossblock\">it</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sufficeþ</div>\n\t\t<div class=\"glossblock\">suffices</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">too</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hem</div>\n\t\t<div class=\"glossblock\">them</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">to</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kunne</div>\n\t\t<div class=\"glossblock\">can</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">her</div>\n\t\t<div class=\"glossblock\">their</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pater</div>\n\t\t<div class=\"glossblock\">Pater</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Noster</div>\n\t\t<div class=\"glossblock\">Noster</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "but",
@@ -255,7 +285,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "but",
@@ -282,9 +312,12 @@
         "clength": 32,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q94608": "Caxton"
-        },
+        "entities": [
+            {
+                "label": "Caxton",
+                "wdid": "Q94608"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Who</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">this</div>\n\t\t<div class=\"glossblock\">this</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">booke</div>\n\t\t<div class=\"glossblock\">book</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shall</div>\n\t\t<div class=\"glossblock\">shall</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wylle</div>\n\t\t<div class=\"glossblock\">will</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lerne</div>\n\t\t<div class=\"glossblock\">learn</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "who",
@@ -298,7 +331,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "Who",
@@ -323,10 +356,16 @@
         "clength": 16,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q281852": "Brut",
-            "Q713727": "Layamon"
-        },
+        "entities": [
+            {
+                "label": "Brut",
+                "wdid": "Q281852"
+            },
+            {
+                "label": "Layamon",
+                "wdid": "Q713727"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þas</div>\n\t\t<div class=\"glossblock\">the.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">castles</div>\n\t\t<div class=\"glossblock\">castle-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ȝæte</div>\n\t\t<div class=\"glossblock\">gate</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the.GEN",
@@ -337,7 +376,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "þas",
@@ -363,9 +402,12 @@
         "coordination": "and",
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q166419": "Fox"
-        },
+        "entities": [
+            {
+                "label": "Fox",
+                "wdid": "Q166419"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">“Vuolf,”</div>\n\t\t<div class=\"glossblock\">Wolf</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">quod</div>\n\t\t<div class=\"glossblock\">said</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þe</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vox</div>\n\t\t<div class=\"glossblock\">fox</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">him</div>\n\t\t<div class=\"glossblock\">3sg-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þo,</div>\n\t\t<div class=\"glossblock\">then</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">“Al</div>\n\t\t<div class=\"glossblock\">All</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þat</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þou</div>\n\t\t<div class=\"glossblock\">you</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hauest</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">her</div>\n\t\t<div class=\"glossblock\">here</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bifore</div>\n\t\t<div class=\"glossblock\">before</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">I-do,</div>\n\t\t<div class=\"glossblock\">done</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">In</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þohut,</div>\n\t\t<div class=\"glossblock\">thought</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">in</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">speche,</div>\n\t\t<div class=\"glossblock\">speech</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">and</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">in</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dede,</div>\n\t\t<div class=\"glossblock\">action</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">…</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þe</div>\n\t\t<div class=\"glossblock\">you</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">forȝeue.”</div>\n\t\t<div class=\"glossblock\">forgive</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Wolf",
@@ -397,7 +439,7 @@
         "language_iso6393": "lat",
         "language_name": "Latin",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "“Vuolf,”",
@@ -438,13 +480,28 @@
         "clength": 113,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q1001051": "scripture",
-            "Q1626958": "Wycliffe Bible",
-            "Q223388": "common opinion",
-            "Q3109222": "prologue",
-            "Q4688993": "affirm"
-        },
+        "entities": [
+            {
+                "label": "scripture",
+                "wdid": "Q1001051"
+            },
+            {
+                "label": "Wycliffe Bible",
+                "wdid": "Q1626958"
+            },
+            {
+                "label": "common opinion",
+                "wdid": "Q223388"
+            },
+            {
+                "label": "prologue",
+                "wdid": "Q3109222"
+            },
+            {
+                "label": "affirm",
+                "wdid": "Q4688993"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ofte</div>\n\t\t<div class=\"glossblock\">often</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">in</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">storial</div>\n\t\t<div class=\"glossblock\">historical</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mateer</div>\n\t\t<div class=\"glossblock\">matters</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">scripture</div>\n\t\t<div class=\"glossblock\">scripture</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rehersith</div>\n\t\t<div class=\"glossblock\">repeats</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">the</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">comune</div>\n\t\t<div class=\"glossblock\">common</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">opynyoun</div>\n\t\t<div class=\"glossblock\">opinion</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">of</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">men,</div>\n\t\t<div class=\"glossblock\">men</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">and</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">affirmeth</div>\n\t\t<div class=\"glossblock\">affirms</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">not,</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">that</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">it</div>\n\t\t<div class=\"glossblock\">it</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">was</div>\n\t\t<div class=\"glossblock\">was</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">so</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">in</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dede.</div>\n\t\t<div class=\"glossblock\">actuality</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "often",
@@ -472,7 +529,7 @@
         "language_iso6393": "lat",
         "language_name": "Latin",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "langsci",
         "srcwordsbare": [
@@ -510,10 +567,16 @@
         "clength": 95,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q1357237": "Capgrave",
-            "Q185363": "Chronicle"
-        },
+        "entities": [
+            {
+                "label": "Capgrave",
+                "wdid": "Q1357237"
+            },
+            {
+                "label": "Chronicle",
+                "wdid": "Q185363"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">The</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">men</div>\n\t\t<div class=\"glossblock\">men</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">of</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þe</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">town</div>\n\t\t<div class=\"glossblock\">town</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">had</div>\n\t\t<div class=\"glossblock\">had</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">suspecion</div>\n\t\t<div class=\"glossblock\">suspicion</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">to</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hem,</div>\n\t\t<div class=\"glossblock\">them</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þat</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">her</div>\n\t\t<div class=\"glossblock\">their</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tydyngis</div>\n\t\t<div class=\"glossblock\">tidings</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">were</div>\n\t\t<div class=\"glossblock\">were</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lyes</div>\n\t\t<div class=\"glossblock\">lies</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(as</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">it</div>\n\t\t<div class=\"glossblock\">it</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">was</div>\n\t\t<div class=\"glossblock\">was</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">in</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dede),</div>\n\t\t<div class=\"glossblock\">truth</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">risen.</div>\n\t\t<div class=\"glossblock\">rose</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -541,57 +604,72 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q107435521": "record",
-            "Q1145106": null,
-            "Q1150771": "output",
-            "Q1298356": "egodocument",
-            "Q1318295": "Narrative",
-            "Q1454986": "physical system",
-            "Q15401930": "artificial object",
-            "Q1554231": "resource",
-            "Q15621286": "intellectual work",
-            "Q16686448": "artificial object",
-            "Q16887380": "group",
-            "Q17489659": "group of works",
-            "Q17518870": null,
-            "Q17537576": "creative work",
-            "Q184754": "string",
-            "Q18593264": "item of collection or exhibition",
-            "Q20937557": "sequence",
-            "Q213051": "Nonfiction",
-            "Q223557": "physical object",
-            "Q2267856": "personal_testimonial",
-            "Q234460": "text",
-            "Q23958946": "individual entity",
-            "Q286583": "manifestation",
-            "Q28813620": "set",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q30277550": null,
-            "Q31464082": "source",
-            "Q35120": "entity",
-            "Q3523102": "source of information",
-            "Q35459920": "three-dimensional object",
-            "Q37866906": "information resource",
-            "Q386724": "work",
-            "Q4406616": "concrete object",
-            "Q47461344": "written work",
-            "Q488383": "object",
-            "Q49848": "Document",
-            "Q5369651": "Historical_source",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q7725634": "literary work",
-            "Q8205328": "artificial physical object",
-            "Q838948": "work of art",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": null,
+                "wdid": "Q1145106"
+            },
+            {
+                "label": "egodocument",
+                "wdid": "Q1298356"
+            },
+            {
+                "label": "Narrative",
+                "wdid": "Q1318295"
+            },
+            {
+                "label": "group of works",
+                "wdid": "Q17489659"
+            },
+            {
+                "label": null,
+                "wdid": "Q17518870"
+            },
+            {
+                "label": "item of collection or exhibition",
+                "wdid": "Q18593264"
+            },
+            {
+                "label": "Nonfiction",
+                "wdid": "Q213051"
+            },
+            {
+                "label": "personal_testimonial",
+                "wdid": "Q2267856"
+            },
+            {
+                "label": "text",
+                "wdid": "Q234460"
+            },
+            {
+                "label": null,
+                "wdid": "Q30277550"
+            },
+            {
+                "label": "source of information",
+                "wdid": "Q3523102"
+            },
+            {
+                "label": "information resource",
+                "wdid": "Q37866906"
+            },
+            {
+                "label": "Document",
+                "wdid": "Q49848"
+            },
+            {
+                "label": "Historical_source",
+                "wdid": "Q5369651"
+            },
+            {
+                "label": "literary work",
+                "wdid": "Q7725634"
+            },
+            {
+                "label": "work of art",
+                "wdid": "Q838948"
+            }
+        ],
         "provider": "langsci",
         "srcwordsbare": [
             "The",
@@ -640,7 +718,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "sumer",
@@ -665,9 +743,12 @@
         "clength": 33,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q123542": "Ash Wednesday"
-        },
+        "entities": [
+            {
+                "label": "Ash Wednesday",
+                "wdid": "Q123542"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Nū</div>\n\t\t<div class=\"glossblock\">now</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rīċa</div>\n\t\t<div class=\"glossblock\">rich</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mann</div>\n\t\t<div class=\"glossblock\">man</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ne</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mæġ</div>\n\t\t<div class=\"glossblock\">can</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hēr</div>\n\t\t<div class=\"glossblock\">here</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">habban</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "now",
@@ -683,7 +764,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "Nū",
@@ -715,12 +796,24 @@
         "clength": 37,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q233573": "Offa",
-            "Q3364526": "alderman",
-            "Q42291422": "English Chronicle",
-            "Q87167": "manuscript"
-        },
+        "entities": [
+            {
+                "label": "Offa",
+                "wdid": "Q233573"
+            },
+            {
+                "label": "alderman",
+                "wdid": "Q3364526"
+            },
+            {
+                "label": "English Chronicle",
+                "wdid": "Q42291422"
+            },
+            {
+                "label": "manuscript",
+                "wdid": "Q87167"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">On</div>\n\t\t<div class=\"glossblock\">on</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þes</div>\n\t\t<div class=\"glossblock\">ART.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ilca</div>\n\t\t<div class=\"glossblock\">same</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Offa</div>\n\t\t<div class=\"glossblock\">Offa.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dæi</div>\n\t\t<div class=\"glossblock\">day</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wæs</div>\n\t\t<div class=\"glossblock\">was</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ān</div>\n\t\t<div class=\"glossblock\">an</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ealdorman</div>\n\t\t<div class=\"glossblock\">alderman</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "on",
@@ -736,51 +829,40 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q107435521": "record",
-            "Q110304307": "two-dimensional visual artwork",
-            "Q110910970": "visual work",
-            "Q1150771": "output",
-            "Q1454986": "physical system",
-            "Q15401930": "artificial object",
-            "Q1554231": "resource",
-            "Q15621286": "intellectual work",
-            "Q16686448": "artificial object",
-            "Q16887380": "group",
-            "Q17537576": "creative work",
-            "Q184754": "string",
-            "Q18593264": "item of collection or exhibition",
-            "Q20937557": "sequence",
-            "Q223557": "physical object",
-            "Q234460": "text",
-            "Q23958946": "individual entity",
-            "Q286583": "manifestation",
-            "Q28813620": "set",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q31464082": "source",
-            "Q3331189": "version, edition or translation",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q37866906": "information resource",
-            "Q386724": "work",
-            "Q4406616": "concrete object",
-            "Q4502142": "visual artwork",
-            "Q47461344": "written work",
-            "Q488383": "object",
-            "Q49848": "Document",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q732577": "Publication",
-            "Q8205328": "artificial physical object",
-            "Q838948": "work of art",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "item of collection or exhibition",
+                "wdid": "Q18593264"
+            },
+            {
+                "label": "text",
+                "wdid": "Q234460"
+            },
+            {
+                "label": "version, edition or translation",
+                "wdid": "Q3331189"
+            },
+            {
+                "label": "information resource",
+                "wdid": "Q37866906"
+            },
+            {
+                "label": "visual artwork",
+                "wdid": "Q4502142"
+            },
+            {
+                "label": "Document",
+                "wdid": "Q49848"
+            },
+            {
+                "label": "Publication",
+                "wdid": "Q732577"
+            },
+            {
+                "label": "work of art",
+                "wdid": "Q838948"
+            }
+        ],
         "provider": "langsci",
         "srcwordsbare": [
             "On",
@@ -807,9 +889,12 @@
         "clength": 40,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q9077": "Moses"
-        },
+        "entities": [
+            {
+                "label": "Moses",
+                "wdid": "Q9077"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">and</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Aaron</div>\n\t\t<div class=\"glossblock\">Aaron</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ahæfde</div>\n\t\t<div class=\"glossblock\">raised</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">his</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hand</div>\n\t\t<div class=\"glossblock\">hand</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">upp</div>\n\t\t<div class=\"glossblock\">up</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">on</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ġebēdum</div>\n\t\t<div class=\"glossblock\">prayer</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "and",
@@ -825,7 +910,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "and",
@@ -852,7 +937,7 @@
         "clength": 33,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ðā</div>\n\t\t<div class=\"glossblock\">then</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">āscade</div>\n\t\t<div class=\"glossblock\">asked</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iċ</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hine</div>\n\t\t<div class=\"glossblock\">him</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hwȳ</div>\n\t\t<div class=\"glossblock\">why</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hē</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">swā</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dyde</div>\n\t\t<div class=\"glossblock\">did</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "then",
@@ -868,7 +953,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "ðā",
@@ -900,11 +985,20 @@
         "clength": 49,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q190": "God",
-            "Q692467": "Homilies",
-            "Q9592": "Catholic"
-        },
+        "entities": [
+            {
+                "label": "God",
+                "wdid": "Q190"
+            },
+            {
+                "label": "Homilies",
+                "wdid": "Q692467"
+            },
+            {
+                "label": "Catholic",
+                "wdid": "Q9592"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">on</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twām</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þingum</div>\n\t\t<div class=\"glossblock\">things</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hæfde</div>\n\t\t<div class=\"glossblock\">had</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">god</div>\n\t\t<div class=\"glossblock\">God</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þæs</div>\n\t\t<div class=\"glossblock\">ART.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mannes</div>\n\t\t<div class=\"glossblock\">man.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sāule</div>\n\t\t<div class=\"glossblock\">soul</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ġegōdod</div>\n\t\t<div class=\"glossblock\">endowed</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "in",
@@ -921,31 +1015,32 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q106559804": "person or organization",
-            "Q15619164": "abstract being",
-            "Q178885": "Deity",
-            "Q18336849": "",
-            "Q18706315": "hypothetical entity",
-            "Q21070598": "character that may or may not be fictional",
-            "Q215627": "person",
-            "Q23958946": "individual entity",
-            "Q24229398": "agent",
-            "Q24334685": "mythical_entity",
-            "Q26720107": "personal law",
-            "Q28855038": "supernatural_being",
-            "Q30060629": "object of non-science",
-            "Q35120": "entity",
-            "Q3778211": "legal person",
-            "Q4271324": "mythical character",
-            "Q4356623": "Intelligent_designer",
-            "Q488383": "object",
-            "Q635155": "Creator_deity",
-            "Q7048977": "abstract entity",
-            "Q795052": "individual",
-            "Q830077": "subject"
-        },
+        "parententities": [
+            {
+                "label": "abstract being",
+                "wdid": "Q15619164"
+            },
+            {
+                "label": "Deity",
+                "wdid": "Q178885"
+            },
+            {
+                "label": "person",
+                "wdid": "Q215627"
+            },
+            {
+                "label": "mythical_entity",
+                "wdid": "Q24334685"
+            },
+            {
+                "label": "supernatural_being",
+                "wdid": "Q28855038"
+            },
+            {
+                "label": "mythical character",
+                "wdid": "Q4271324"
+            }
+        ],
         "provider": "langsci",
         "srcwordsbare": [
             "on",
@@ -977,9 +1072,12 @@
         "clength": 26,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q1620761": "Apollonius of Tyre"
-        },
+        "entities": [
+            {
+                "label": "Apollonius of Tyre",
+                "wdid": "Q1620761"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Þū</div>\n\t\t<div class=\"glossblock\">you</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hafast</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ġecoren</div>\n\t\t<div class=\"glossblock\">chosen</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þone</div>\n\t\t<div class=\"glossblock\">ART.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wēr</div>\n\t\t<div class=\"glossblock\">man</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "you",
@@ -992,7 +1090,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "Þū",
@@ -1018,7 +1116,7 @@
         "clength": 34,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þæt</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ðū</div>\n\t\t<div class=\"glossblock\">you</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þās</div>\n\t\t<div class=\"glossblock\">those</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dyntas</div>\n\t\t<div class=\"glossblock\">blows</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">naht</div>\n\t\t<div class=\"glossblock\">nothing</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ne</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ġefretst</div>\n\t\t<div class=\"glossblock\">feel</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "that",
@@ -1033,7 +1131,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "langsci",
         "srcwordsbare": [
@@ -1062,7 +1160,7 @@
         "clength": 37,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ne</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mæg</div>\n\t\t<div class=\"glossblock\">may</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nān</div>\n\t\t<div class=\"glossblock\">no</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">man</div>\n\t\t<div class=\"glossblock\">man</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twām</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hlāfordum</div>\n\t\t<div class=\"glossblock\">masters</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þēowian</div>\n\t\t<div class=\"glossblock\">serve</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "NEG",
@@ -1077,7 +1175,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "Ne",
@@ -1110,9 +1208,12 @@
         "coordination": "and",
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q96371490": "Adrian and Ritheus"
-        },
+        "entities": [
+            {
+                "label": "Adrian and Ritheus",
+                "wdid": "Q96371490"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þā</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">twēġen</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fēt</div>\n\t\t<div class=\"glossblock\">feet</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þā</div>\n\t\t<div class=\"glossblock\">DEM.ACC.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þēo</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sāwul</div>\n\t\t<div class=\"glossblock\">soul</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">habban</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sċeal</div>\n\t\t<div class=\"glossblock\">shall</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -1128,7 +1229,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "þā",
@@ -1157,9 +1258,12 @@
         "clength": 40,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q44258": "St. Basil"
-        },
+        "entities": [
+            {
+                "label": "St. Basil",
+                "wdid": "Q44258"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tō</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">his</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">āgenum</div>\n\t\t<div class=\"glossblock\">own</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ǣþele</div>\n\t\t<div class=\"glossblock\">country</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þe</div>\n\t\t<div class=\"glossblock\">PARTICLE</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">on</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ġeboren</div>\n\t\t<div class=\"glossblock\">born</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wæs</div>\n\t\t<div class=\"glossblock\">was</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "to",
@@ -1176,7 +1280,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "tō",
@@ -1212,10 +1316,16 @@
         "clength": 31,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q692467": "Homilies",
-            "Q9592": "Catholic"
-        },
+        "entities": [
+            {
+                "label": "Homilies",
+                "wdid": "Q692467"
+            },
+            {
+                "label": "Catholic",
+                "wdid": "Q9592"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Se</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">weig</div>\n\t\t<div class=\"glossblock\">way</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">DEM.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þe</div>\n\t\t<div class=\"glossblock\">PARTICLE</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lǣt</div>\n\t\t<div class=\"glossblock\">leads</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tō</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hēofonrīċe</div>\n\t\t<div class=\"glossblock\">heaven</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -1230,7 +1340,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "Se",
@@ -1258,7 +1368,7 @@
         "clength": 67,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ðā</div>\n\t\t<div class=\"glossblock\">when</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iċ</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ðā</div>\n\t\t<div class=\"glossblock\">then</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ðis</div>\n\t\t<div class=\"glossblock\">this</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eall</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ġemunde,</div>\n\t\t<div class=\"glossblock\">remembered</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ðā</div>\n\t\t<div class=\"glossblock\">then</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wundrade</div>\n\t\t<div class=\"glossblock\">marvelled</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iċ</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">swīðe</div>\n\t\t<div class=\"glossblock\">much</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ðāra</div>\n\t\t<div class=\"glossblock\">the.GEN.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gōdena</div>\n\t\t<div class=\"glossblock\">good.GEN.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wiotena</div>\n\t\t<div class=\"glossblock\">wise-men.GEN.PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "when",
@@ -1279,7 +1389,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "Ðā",
@@ -1311,10 +1421,16 @@
         "clength": 56,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q2155501": "God",
-            "Q3275583": "good thought"
-        },
+        "entities": [
+            {
+                "label": "God",
+                "wdid": "Q2155501"
+            },
+            {
+                "label": "good thought",
+                "wdid": "Q3275583"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Se</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">God</div>\n\t\t<div class=\"glossblock\">God</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þe</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mē</div>\n\t\t<div class=\"glossblock\">me</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">forġēaf</div>\n\t\t<div class=\"glossblock\">gave</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þis</div>\n\t\t<div class=\"glossblock\">this</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gōde</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ġeþanc,</div>\n\t\t<div class=\"glossblock\">thought</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wyle</div>\n\t\t<div class=\"glossblock\">will</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þē</div>\n\t\t<div class=\"glossblock\">you</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ġehȳran</div>\n\t\t<div class=\"glossblock\">hear</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -1334,7 +1450,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "Se",
@@ -1376,12 +1492,24 @@
         "coordination": "and",
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q259745": "sorcerer",
-            "Q302": "Christ",
-            "Q44613": "monastery",
-            "Q6498477": "lust"
-        },
+        "entities": [
+            {
+                "label": "sorcerer",
+                "wdid": "Q259745"
+            },
+            {
+                "label": "Christ",
+                "wdid": "Q302"
+            },
+            {
+                "label": "monastery",
+                "wdid": "Q44613"
+            },
+            {
+                "label": "lust",
+                "wdid": "Q6498477"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sum</div>\n\t\t<div class=\"glossblock\">an</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ārƿurþe</div>\n\t\t<div class=\"glossblock\">honourable</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þeġn</div>\n\t\t<div class=\"glossblock\">thane</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hæfde</div>\n\t\t<div class=\"glossblock\">had</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">āne</div>\n\t\t<div class=\"glossblock\">a-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dohter</div>\n\t\t<div class=\"glossblock\">daughter</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">·</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þā</div>\n\t\t<div class=\"glossblock\">when</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hē</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ƿolde</div>\n\t\t<div class=\"glossblock\">wanted</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ġebringan</div>\n\t\t<div class=\"glossblock\">bring-INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">·</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">binnan</div>\n\t\t<div class=\"glossblock\">within</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sumum</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mynstre</div>\n\t\t<div class=\"glossblock\">monastery</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">·</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">⁊</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">criste</div>\n\t\t<div class=\"glossblock\">Christ-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">be-tæcan</div>\n\t\t<div class=\"glossblock\">show-INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">·</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">to</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">his</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">clænan</div>\n\t\t<div class=\"glossblock\">pure</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þēoƿdome</div>\n\t\t<div class=\"glossblock\">servitude</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">·</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þā</div>\n\t\t<div class=\"glossblock\">then</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ƿearð</div>\n\t\t<div class=\"glossblock\">became</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">an</div>\n\t\t<div class=\"glossblock\">one</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">his</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cnapena</div>\n\t\t<div class=\"glossblock\">boy-GEN.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">·</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">to</div>\n\t\t<div class=\"glossblock\">tō</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cūð</div>\n\t\t<div class=\"glossblock\">known</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þām</div>\n\t\t<div class=\"glossblock\">the.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mǣdene</div>\n\t\t<div class=\"glossblock\">maiden-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">·</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">⁊</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þurh</div>\n\t\t<div class=\"glossblock\">through</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dēofles</div>\n\t\t<div class=\"glossblock\">devil-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tihtinge</div>\n\t\t<div class=\"glossblock\">persuasion</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">·</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hī</div>\n\t\t<div class=\"glossblock\">her.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dīgolliċe</div>\n\t\t<div class=\"glossblock\">secretly</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lufode</div>\n\t\t<div class=\"glossblock\">loved</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">·</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ac</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hē</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ne</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dorste</div>\n\t\t<div class=\"glossblock\">dared</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">āmeldian</div>\n\t\t<div class=\"glossblock\">make.known-INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">his</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">unġemetegodan</div>\n\t\t<div class=\"glossblock\">unmoderated</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lufe</div>\n\t\t<div class=\"glossblock\">love</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">·</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ēode</div>\n\t\t<div class=\"glossblock\">went</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þā</div>\n\t\t<div class=\"glossblock\">then</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">to</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anum</div>\n\t\t<div class=\"glossblock\">a-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">drymen</div>\n\t\t<div class=\"glossblock\">sorcerer-man.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þe</div>\n\t\t<div class=\"glossblock\">PARTICLE</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">deofles</div>\n\t\t<div class=\"glossblock\">dēvil-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cræft</div>\n\t\t<div class=\"glossblock\">power</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cūðe</div>\n\t\t<div class=\"glossblock\">knew</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">·</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">⁠⁊</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">behēt</div>\n\t\t<div class=\"glossblock\">promised</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">him</div>\n\t\t<div class=\"glossblock\">him</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sceattes</div>\n\t\t<div class=\"glossblock\">treasure-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">·</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ġif</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hē</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mid</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">his</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">scȳn-cræfte</div>\n\t\t<div class=\"glossblock\">illusion-power-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">him</div>\n\t\t<div class=\"glossblock\">him</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þæt</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mǣden</div>\n\t\t<div class=\"glossblock\">maiden</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mihte</div>\n\t\t<div class=\"glossblock\">might</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ġe-macian</div>\n\t\t<div class=\"glossblock\">make-INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">to</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ƿīfe</div>\n\t\t<div class=\"glossblock\">wife</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">·</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Þa</div>\n\t\t<div class=\"glossblock\">Then</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ge-brohte</div>\n\t\t<div class=\"glossblock\">brought</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">the.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dry-man</div>\n\t\t<div class=\"glossblock\">sorcerer-man.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">·</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þone</div>\n\t\t<div class=\"glossblock\">the.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cnapan</div>\n\t\t<div class=\"glossblock\">boy-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">·</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tō</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">his</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dēofle</div>\n\t\t<div class=\"glossblock\">devil-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">·</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">⁠⁊</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">the.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dēofol</div>\n\t\t<div class=\"glossblock\">devil.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">befrān</div>\n\t\t<div class=\"glossblock\">asked</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">·</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þone</div>\n\t\t<div class=\"glossblock\">the.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dƿeligendan</div>\n\t\t<div class=\"glossblock\">straying</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cnapan</div>\n\t\t<div class=\"glossblock\">boy-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">·</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ġif</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hē</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ƿolde</div>\n\t\t<div class=\"glossblock\">wanted</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">on</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hine</div>\n\t\t<div class=\"glossblock\">him</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gelȳfan</div>\n\t\t<div class=\"glossblock\">believe-INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">·</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">⁊</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">his</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hælende</div>\n\t\t<div class=\"glossblock\">saviour</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ƿiðsacen</div>\n\t\t<div class=\"glossblock\">deny-INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">·</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ƿið</div>\n\t\t<div class=\"glossblock\">against</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þā</div>\n\t\t<div class=\"glossblock\">DEM.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þe</div>\n\t\t<div class=\"glossblock\">PARTICLE</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hē</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ġefremode</div>\n\t\t<div class=\"glossblock\">achieved</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">his</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fūlan</div>\n\t\t<div class=\"glossblock\">foul</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gālnysse</div>\n\t\t<div class=\"glossblock\">lustiness</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">·</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "an",
@@ -1514,153 +1642,108 @@
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "modality": "volitive",
-        "parententities": {
-            "Q104127086": "memory",
-            "Q104493": "risk",
-            "Q1047113": "specialty",
-            "Q105889895": "religious site",
-            "Q105948247": "knowledge system",
-            "Q105952144": "information hazard",
-            "Q106865223": "technical system",
-            "Q108163": "proposition",
-            "Q10862449": "difference",
-            "Q11028": "information",
-            "Q110403031": "knowledge type",
-            "Q110910055": "region of space",
-            "Q1132455": "Hazard",
-            "Q1150070": "change",
-            "Q1150771": "output",
-            "Q1168263": "function",
-            "Q1190554": "occurrence",
-            "Q11908691": "artificial physical structure",
-            "Q1207505": "quality",
-            "Q12488383": "content",
-            "Q12558574": "point of view",
-            "Q13226383": "facility",
-            "Q13579947": "misinformation",
-            "Q1370598": "Place_of_worship",
-            "Q1412596": "simulacrum",
-            "Q1454986": "physical system",
-            "Q1497364": "building complex",
-            "Q1497375": "architectural ensemble",
-            "Q15401930": "artificial object",
-            "Q15621286": "intellectual work",
-            "Q15710813": "physical structure",
-            "Q15916540": "semantic unit",
-            "Q16686448": "artificial object",
-            "Q16877783": "meaning",
-            "Q16887380": "group",
-            "Q16889133": "class",
-            "Q1724915": "use",
-            "Q17334923": "physical location",
-            "Q17376908": "Languoid",
-            "Q1747121": "flaw",
-            "Q17537576": "creative work",
-            "Q1786828": "constituent",
-            "Q178934": "Occult",
-            "Q18247357": "group of structures or buildings",
-            "Q183046": "meaning",
-            "Q1858206": "White_magic",
-            "Q18603648": "contributing factor",
-            "Q188572": "fact",
-            "Q1914636": "activity",
-            "Q1920219": "social issue",
-            "Q19691007": "institutional complex",
-            "Q203066": "relation",
-            "Q20817253": "linguistic unit",
-            "Q20937557": "sequence",
-            "Q21029893": "religious_object",
-            "Q21146257": "type",
-            "Q21170479": "possibility",
-            "Q2145290": "mental representation",
-            "Q217594": "class",
-            "Q2221906": "geographic location",
-            "Q223557": "physical object",
-            "Q24398318": "religious_building",
-            "Q246672": "mathematical object",
-            "Q2684591": "statement",
-            "Q26907166": "temporal entity",
-            "Q27096213": "geographic entity",
-            "Q27096235": "artificial geographic entity",
-            "Q282250": "Qualia",
-            "Q28813620": "set",
-            "Q28954762": "non-science",
-            "Q29485": "error",
-            "Q29651519": "mental object",
-            "Q29896155": "difference",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q31464082": "source",
-            "Q3249551": "process",
-            "Q34394": "Belief",
-            "Q3505845": "state",
-            "Q35120": "entity",
-            "Q35145743": "artificial geographic object",
-            "Q35459920": "three-dimensional object",
-            "Q36161": "set",
-            "Q3769299": "human behavior",
-            "Q386724": "work",
-            "Q41176": "building",
-            "Q41796": "sentence",
-            "Q42848": "data",
-            "Q4393498": "representation",
-            "Q4406616": "concrete object",
-            "Q451967": "intentional human activity",
-            "Q474328": "declarative sentence",
-            "Q47461344": "written work",
-            "Q483247": "phenomenon",
-            "Q483677": "pseudoscience",
-            "Q488383": "object",
-            "Q49447": "world view",
-            "Q5371079": "emic unit",
-            "Q5390013": "belief system",
-            "Q5422048": "external risk",
-            "Q5469988": "formalization",
-            "Q54989186": "mental state",
-            "Q55091441": "operation result",
-            "Q56627913": "ceremonial_object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58416391": "spatial object",
-            "Q58778": "system",
-            "Q595523": "notion",
-            "Q61788060": "human activity",
-            "Q618123": "geographical feature",
-            "Q61961344": "group of physical objects",
-            "Q621184": "problem",
-            "Q628523": "Message",
-            "Q66661745": "group of artificial physical objects",
-            "Q6671777": "structure",
-            "Q67518978": "occurrent",
-            "Q690768": "Black_magic",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q71966963": "religion or world view",
-            "Q7254446": "pseudo-scholarship",
-            "Q775842": "Desire",
-            "Q781413": "mental process",
-            "Q8027727": "Wissenschaft",
-            "Q811430": "fixed construction",
-            "Q811979": "architectural structure",
-            "Q813912": "condition",
-            "Q81741": "Magic_(supernatural)",
-            "Q8205328": "artificial physical object",
-            "Q82794": "geographic region",
-            "Q849149": "deviation",
-            "Q864377": "multiset",
-            "Q86923152": "risk source",
-            "Q9081": "Knowledge",
-            "Q9198102": "sorcery",
-            "Q930933": "relation",
-            "Q9332": "behavior",
-            "Q937228": "property",
-            "Q9380010": "utterance",
-            "Q9415": "Emotion",
-            "Q98116669": "religious_complex",
-            "Q98119401": "group or class of physical objects",
-            "Q99018632": "geographic_locations_group",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Occult",
+                "wdid": "Q178934"
+            },
+            {
+                "label": "White_magic",
+                "wdid": "Q1858206"
+            },
+            {
+                "label": "Black_magic",
+                "wdid": "Q690768"
+            },
+            {
+                "label": "Magic_(supernatural)",
+                "wdid": "Q81741"
+            },
+            {
+                "label": "sorcery",
+                "wdid": "Q9198102"
+            },
+            {
+                "label": "religious site",
+                "wdid": "Q105889895"
+            },
+            {
+                "label": "Place_of_worship",
+                "wdid": "Q1370598"
+            },
+            {
+                "label": "building complex",
+                "wdid": "Q1497364"
+            },
+            {
+                "label": "architectural ensemble",
+                "wdid": "Q1497375"
+            },
+            {
+                "label": "group of structures or buildings",
+                "wdid": "Q18247357"
+            },
+            {
+                "label": "institutional complex",
+                "wdid": "Q19691007"
+            },
+            {
+                "label": "religious_object",
+                "wdid": "Q21029893"
+            },
+            {
+                "label": "geographic location",
+                "wdid": "Q2221906"
+            },
+            {
+                "label": "religious_building",
+                "wdid": "Q24398318"
+            },
+            {
+                "label": "geographic entity",
+                "wdid": "Q27096213"
+            },
+            {
+                "label": "artificial geographic entity",
+                "wdid": "Q27096235"
+            },
+            {
+                "label": "building",
+                "wdid": "Q41176"
+            },
+            {
+                "label": "ceremonial_object",
+                "wdid": "Q56627913"
+            },
+            {
+                "label": "geographical feature",
+                "wdid": "Q618123"
+            },
+            {
+                "label": "group of artificial physical objects",
+                "wdid": "Q66661745"
+            },
+            {
+                "label": "geographic region",
+                "wdid": "Q82794"
+            },
+            {
+                "label": "religious_complex",
+                "wdid": "Q98116669"
+            },
+            {
+                "label": "Languoid",
+                "wdid": "Q17376908"
+            },
+            {
+                "label": "Desire",
+                "wdid": "Q775842"
+            },
+            {
+                "label": "Emotion",
+                "wdid": "Q9415"
+            }
+        ],
         "polarity": "negative",
         "provider": "langsci",
         "srcwordsbare": [
@@ -1808,9 +1891,12 @@
         "clength": 52,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q48328": "Beowulf"
-        },
+        "entities": [
+            {
+                "label": "Beowulf",
+                "wdid": "Q48328"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þonne</div>\n\t\t<div class=\"glossblock\">then</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bið</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">on</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hreþre</div>\n\t\t<div class=\"glossblock\">heart.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">under</div>\n\t\t<div class=\"glossblock\">under</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">helm</div>\n\t\t<div class=\"glossblock\">helm.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">drepen</div>\n\t\t<div class=\"glossblock\">hit</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">biteran</div>\n\t\t<div class=\"glossblock\">bitter.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">strǣle</div>\n\t\t<div class=\"glossblock\">dart.DAT</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "then",
@@ -1827,7 +1913,7 @@
         "language_iso6393": "och",
         "language_name": "Old Chinese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "þonne",
@@ -1861,10 +1947,16 @@
         "clength": 53,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q181802": "iron hook",
-            "Q898574": "murky"
-        },
+        "entities": [
+            {
+                "label": "iron hook",
+                "wdid": "Q181802"
+            },
+            {
+                "label": "murky",
+                "wdid": "Q898574"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hē</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wǣre</div>\n\t\t<div class=\"glossblock\">was.SBJV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ġetogen</div>\n\t\t<div class=\"glossblock\">pulled</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mid</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þon</div>\n\t\t<div class=\"glossblock\">the.INST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">īsnan</div>\n\t\t<div class=\"glossblock\">iron</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hōce</div>\n\t\t<div class=\"glossblock\">hook</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">on</div>\n\t\t<div class=\"glossblock\">into</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þǣre</div>\n\t\t<div class=\"glossblock\">the.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">piċenan</div>\n\t\t<div class=\"glossblock\">pitchlike</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ēa</div>\n\t\t<div class=\"glossblock\">water</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "he",
@@ -1883,7 +1975,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "hē",
@@ -1915,9 +2007,12 @@
         "clength": 19,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q47253": "worm"
-        },
+        "entities": [
+            {
+                "label": "worm",
+                "wdid": "Q47253"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">drohtin</div>\n\t\t<div class=\"glossblock\">lord</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">uuerthe</div>\n\t\t<div class=\"glossblock\">become.SBJV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">so.</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "lord",
@@ -1928,7 +2023,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "drohtin",
@@ -1953,10 +2048,16 @@
         "coordination": "and",
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q1423355": "wergild",
-            "Q3860078": "man's wife"
-        },
+        "entities": [
+            {
+                "label": "wergild",
+                "wdid": "Q1423355"
+            },
+            {
+                "label": "man's wife",
+                "wdid": "Q3860078"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">31</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gif</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fri</div>\n\t\t<div class=\"glossblock\">free</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">man</div>\n\t\t<div class=\"glossblock\">man</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ƿið</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fries</div>\n\t\t<div class=\"glossblock\">free.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mannes</div>\n\t\t<div class=\"glossblock\">man.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ƿif</div>\n\t\t<div class=\"glossblock\">wife</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʒeliʒeþ</div>\n\t\t<div class=\"glossblock\">lies</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">·</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">his</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ƿerʒelde</div>\n\t\t<div class=\"glossblock\">wergild</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">abicʒe.</div>\n\t\t<div class=\"glossblock\">pay-off.SBJV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">⁊</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oðer</div>\n\t\t<div class=\"glossblock\">other</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ƿif</div>\n\t\t<div class=\"glossblock\">wife</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">his</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aʒenum</div>\n\t\t<div class=\"glossblock\">own.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">scætte</div>\n\t\t<div class=\"glossblock\">money.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">beʒete</div>\n\t\t<div class=\"glossblock\">get.SBJV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">·</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">⁊</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ðæm</div>\n\t\t<div class=\"glossblock\">the.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oðrum</div>\n\t\t<div class=\"glossblock\">other.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">æt</div>\n\t\t<div class=\"glossblock\">at</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þam</div>\n\t\t<div class=\"glossblock\">that.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʒebrenʒe·</div>\n\t\t<div class=\"glossblock\">bring.SBJV</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_",
@@ -1991,7 +2092,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "31",
@@ -2041,7 +2142,7 @@
         "clength": 56,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">32</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gif</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">man</div>\n\t\t<div class=\"glossblock\">man</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rihthamscyld</div>\n\t\t<div class=\"glossblock\">rihthamscyld</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þurh</div>\n\t\t<div class=\"glossblock\">through</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">stinð.</div>\n\t\t<div class=\"glossblock\">pierces</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mid</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ƿeorðe</div>\n\t\t<div class=\"glossblock\">worth.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">forʒelde·</div>\n\t\t<div class=\"glossblock\">pay.SBJV</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_",
@@ -2058,7 +2159,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "32",
@@ -2084,10 +2185,16 @@
         "clength": 44,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q1156800": "restitution",
-            "Q2723650": "sceattas"
-        },
+        "entities": [
+            {
+                "label": "restitution",
+                "wdid": "Q1156800"
+            },
+            {
+                "label": "sceattas",
+                "wdid": "Q2723650"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">33</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gif</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">feaxfanʒ</div>\n\t\t<div class=\"glossblock\">hair-grip</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʒeweorð.</div>\n\t\t<div class=\"glossblock\">happens</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">l.</div>\n\t\t<div class=\"glossblock\">50</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sceatta</div>\n\t\t<div class=\"glossblock\">sceattas</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">to</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bote·</div>\n\t\t<div class=\"glossblock\">restitution</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_",
@@ -2103,7 +2210,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "33",
@@ -2134,7 +2241,7 @@
         "clength": 51,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">34</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gif</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">banes</div>\n\t\t<div class=\"glossblock\">bone.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">blice</div>\n\t\t<div class=\"glossblock\">exposure</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ƿeorðeþ.</div>\n\t\t<div class=\"glossblock\">happens</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iii.</div>\n\t\t<div class=\"glossblock\">3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">scillinʒum</div>\n\t\t<div class=\"glossblock\">shillings</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʒebete·</div>\n\t\t<div class=\"glossblock\">pay.SBJV</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_",
@@ -2150,7 +2257,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "34",
@@ -2181,7 +2288,7 @@
         "clength": 49,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">35</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gif</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">banes</div>\n\t\t<div class=\"glossblock\">bone.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bite</div>\n\t\t<div class=\"glossblock\">bite</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ƿeorð.</div>\n\t\t<div class=\"glossblock\">happens</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">IIII.</div>\n\t\t<div class=\"glossblock\">4</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">scillinʒum</div>\n\t\t<div class=\"glossblock\">shillings</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʒebete·</div>\n\t\t<div class=\"glossblock\">pay.SBJV</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_",
@@ -2197,7 +2304,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "35",
@@ -2226,7 +2333,7 @@
         "clength": 62,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">36</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gif</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sio</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">uterre</div>\n\t\t<div class=\"glossblock\">outer</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hion</div>\n\t\t<div class=\"glossblock\">hion</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʒebrocen</div>\n\t\t<div class=\"glossblock\">broken</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ƿeorðeþ.</div>\n\t\t<div class=\"glossblock\">becomes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">x.</div>\n\t\t<div class=\"glossblock\">10</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">scillinʒum</div>\n\t\t<div class=\"glossblock\">shillings</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʒebete·</div>\n\t\t<div class=\"glossblock\">pay.SBJV</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_",
@@ -2244,7 +2351,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "36",
@@ -2275,7 +2382,7 @@
         "clength": 42,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">36.1</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gif</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">butu</div>\n\t\t<div class=\"glossblock\">both</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sien.</div>\n\t\t<div class=\"glossblock\">be.SBJV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xx.</div>\n\t\t<div class=\"glossblock\">20</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">scillinʒum</div>\n\t\t<div class=\"glossblock\">shillings</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʒebete·</div>\n\t\t<div class=\"glossblock\">pay.SBJV</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_",
@@ -2290,7 +2397,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "36.1",
@@ -2318,9 +2425,12 @@
         "clength": 48,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q17525374": "lamed"
-        },
+        "entities": [
+            {
+                "label": "lamed",
+                "wdid": "Q17525374"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">37</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gif</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eaxle</div>\n\t\t<div class=\"glossblock\">shoulder</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʒelæmed</div>\n\t\t<div class=\"glossblock\">lamed</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ƿeorþeð.</div>\n\t\t<div class=\"glossblock\">becomes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xxx.</div>\n\t\t<div class=\"glossblock\">30</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">scill</div>\n\t\t<div class=\"glossblock\">shillings</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʒebete·</div>\n\t\t<div class=\"glossblock\">pay.SBJV</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_",
@@ -2336,7 +2446,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "37",
@@ -2365,7 +2475,7 @@
         "clength": 51,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">38</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gif</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oþer</div>\n\t\t<div class=\"glossblock\">either</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eare</div>\n\t\t<div class=\"glossblock\">ear</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">naƿiht</div>\n\t\t<div class=\"glossblock\">nothing</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʒehereð.</div>\n\t\t<div class=\"glossblock\">hears</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xxv·</div>\n\t\t<div class=\"glossblock\">25</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">scill</div>\n\t\t<div class=\"glossblock\">shillings</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʒebete·</div>\n\t\t<div class=\"glossblock\">pay.SBJV</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_",
@@ -2382,7 +2492,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "38",
@@ -2412,7 +2522,7 @@
         "clength": 48,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">39</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gif</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eare</div>\n\t\t<div class=\"glossblock\">ear</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">of</div>\n\t\t<div class=\"glossblock\">off</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ƿeorð</div>\n\t\t<div class=\"glossblock\">becomes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aslaʒen.</div>\n\t\t<div class=\"glossblock\">cut</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xii.</div>\n\t\t<div class=\"glossblock\">12</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">scill</div>\n\t\t<div class=\"glossblock\">shillings</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʒebete·</div>\n\t\t<div class=\"glossblock\">pay.SBJV</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_",
@@ -2429,7 +2539,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "39",
@@ -2459,7 +2569,7 @@
         "clength": 45,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">40</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gif</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eare</div>\n\t\t<div class=\"glossblock\">ear</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þirel</div>\n\t\t<div class=\"glossblock\">pierced</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ƿeorðeþ·</div>\n\t\t<div class=\"glossblock\">becomes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iii·</div>\n\t\t<div class=\"glossblock\">3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">scill</div>\n\t\t<div class=\"glossblock\">shillings</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʒebete·</div>\n\t\t<div class=\"glossblock\">pay.SBJV</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_",
@@ -2475,7 +2585,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "40",
@@ -2504,9 +2614,12 @@
         "clength": 45,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q5526439": "gashed"
-        },
+        "entities": [
+            {
+                "label": "gashed",
+                "wdid": "Q5526439"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">41</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gif</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eare</div>\n\t\t<div class=\"glossblock\">ear</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sceard</div>\n\t\t<div class=\"glossblock\">gashed</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ƿeorðeþ·</div>\n\t\t<div class=\"glossblock\">becomes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vi·</div>\n\t\t<div class=\"glossblock\">6</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">scill</div>\n\t\t<div class=\"glossblock\">shillings</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʒebete·</div>\n\t\t<div class=\"glossblock\">pay.SBJV</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_",
@@ -2522,7 +2635,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "41",
@@ -2551,7 +2664,7 @@
         "clength": 43,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">42</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gif</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eaʒe</div>\n\t\t<div class=\"glossblock\">eye</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">of</div>\n\t\t<div class=\"glossblock\">off</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ƿeorð.</div>\n\t\t<div class=\"glossblock\">becomes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">l·</div>\n\t\t<div class=\"glossblock\">50</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">scillinʒum</div>\n\t\t<div class=\"glossblock\">shillings</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʒebete·</div>\n\t\t<div class=\"glossblock\">pay.SBJV</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_",
@@ -2567,7 +2680,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "42",
@@ -2597,7 +2710,7 @@
         "coordination": "or",
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">43</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gif</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">muð</div>\n\t\t<div class=\"glossblock\">mouth</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oþþe</div>\n\t\t<div class=\"glossblock\">or</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eaʒe</div>\n\t\t<div class=\"glossblock\">eye</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ƿoh</div>\n\t\t<div class=\"glossblock\">damaged</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ƿeorðeþ·</div>\n\t\t<div class=\"glossblock\">becomes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xii·</div>\n\t\t<div class=\"glossblock\">12</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">scill</div>\n\t\t<div class=\"glossblock\">shillings</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʒebete.</div>\n\t\t<div class=\"glossblock\">pay.SBJV</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_",
@@ -2615,7 +2728,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "43",
@@ -2646,7 +2759,7 @@
         "clength": 50,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">44</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gif</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nasu</div>\n\t\t<div class=\"glossblock\">nose</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ðyrel</div>\n\t\t<div class=\"glossblock\">pierced</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ƿeorð·</div>\n\t\t<div class=\"glossblock\">becomes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">viiii·</div>\n\t\t<div class=\"glossblock\">9</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">scillinʒum</div>\n\t\t<div class=\"glossblock\">shillings</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʒebete·</div>\n\t\t<div class=\"glossblock\">pay.SBJV</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_",
@@ -2662,7 +2775,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "44",
@@ -2693,7 +2806,7 @@
         "clength": 45,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">44.1</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gif</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hit</div>\n\t\t<div class=\"glossblock\">it</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sio</div>\n\t\t<div class=\"glossblock\">be.SBJV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">an</div>\n\t\t<div class=\"glossblock\">on</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hleore</div>\n\t\t<div class=\"glossblock\">cheek.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iii·</div>\n\t\t<div class=\"glossblock\">3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">scill</div>\n\t\t<div class=\"glossblock\">shillings</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʒebete.</div>\n\t\t<div class=\"glossblock\">pay.SBJV</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_",
@@ -2710,7 +2823,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "44.1",
@@ -2740,7 +2853,7 @@
         "clength": 44,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">44.2</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gif</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">butu</div>\n\t\t<div class=\"glossblock\">both</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ðyrele</div>\n\t\t<div class=\"glossblock\">pierced</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sien.</div>\n\t\t<div class=\"glossblock\">be.SBJV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vi.</div>\n\t\t<div class=\"glossblock\">6</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">scill</div>\n\t\t<div class=\"glossblock\">shillings</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʒebete·</div>\n\t\t<div class=\"glossblock\">pay.SBJV</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_",
@@ -2756,7 +2869,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "44.2",
@@ -2785,9 +2898,12 @@
         "clength": 57,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q5526439": "gashed"
-        },
+        "entities": [
+            {
+                "label": "gashed",
+                "wdid": "Q5526439"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">45</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gif</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nasu</div>\n\t\t<div class=\"glossblock\">nose</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ælcor</div>\n\t\t<div class=\"glossblock\">otherwise</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sceard</div>\n\t\t<div class=\"glossblock\">gashed</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ƿeorð</div>\n\t\t<div class=\"glossblock\">becomes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʒehwylc·</div>\n\t\t<div class=\"glossblock\">each</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vi·</div>\n\t\t<div class=\"glossblock\">6</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">scill</div>\n\t\t<div class=\"glossblock\">shillings</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʒebete·</div>\n\t\t<div class=\"glossblock\">pay.SBJV</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_",
@@ -2805,7 +2921,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "45",
@@ -2836,7 +2952,7 @@
         "clength": 37,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">46</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gif</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ðirel</div>\n\t\t<div class=\"glossblock\">pierced</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ƿeorþ·</div>\n\t\t<div class=\"glossblock\">becomes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vi·</div>\n\t\t<div class=\"glossblock\">6</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">scill</div>\n\t\t<div class=\"glossblock\">shillings</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʒebete·</div>\n\t\t<div class=\"glossblock\">pay.SBJV</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_",
@@ -2851,7 +2967,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "46",
@@ -2877,9 +2993,12 @@
         "clength": 54,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q16370": "jawbone"
-        },
+        "entities": [
+            {
+                "label": "jawbone",
+                "wdid": "Q16370"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">47</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Se</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þe</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cinban</div>\n\t\t<div class=\"glossblock\">chin-bone</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">forslæhð</div>\n\t\t<div class=\"glossblock\">breaks</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mid·</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xx·</div>\n\t\t<div class=\"glossblock\">20</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">scillinʒum</div>\n\t\t<div class=\"glossblock\">shillings</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">forʒelde.</div>\n\t\t<div class=\"glossblock\">pay.SBJV</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_",
@@ -2896,7 +3015,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "47",
@@ -2926,7 +3045,7 @@
         "clength": 61,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">48</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Æt</div>\n\t\t<div class=\"glossblock\">at</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þam</div>\n\t\t<div class=\"glossblock\">the.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">feoƿer</div>\n\t\t<div class=\"glossblock\">four</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">toðum</div>\n\t\t<div class=\"glossblock\">teeth.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fyrestum</div>\n\t\t<div class=\"glossblock\">first.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">æt</div>\n\t\t<div class=\"glossblock\">at</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʒehƿylcum·</div>\n\t\t<div class=\"glossblock\">each</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vi·</div>\n\t\t<div class=\"glossblock\">6</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">scillinʒas.</div>\n\t\t<div class=\"glossblock\">shillings</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_",
@@ -2944,7 +3063,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "48",
@@ -2971,7 +3090,7 @@
         "clength": 43,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">48.1</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Se</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">toþ</div>\n\t\t<div class=\"glossblock\">tooth</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þanne</div>\n\t\t<div class=\"glossblock\">then</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bi</div>\n\t\t<div class=\"glossblock\">by</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">standeþ·</div>\n\t\t<div class=\"glossblock\">stands</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iiii·</div>\n\t\t<div class=\"glossblock\">4</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sci·</div>\n\t\t<div class=\"glossblock\">shillings</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_",
@@ -2988,7 +3107,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "48.1",
@@ -3018,7 +3137,7 @@
         "clength": 44,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">48.2</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Se</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þe</div>\n\t\t<div class=\"glossblock\">which</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ðonne</div>\n\t\t<div class=\"glossblock\">then</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bi</div>\n\t\t<div class=\"glossblock\">by</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ðam</div>\n\t\t<div class=\"glossblock\">that.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">standeþ.</div>\n\t\t<div class=\"glossblock\">stands</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iii·</div>\n\t\t<div class=\"glossblock\">3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">scill.</div>\n\t\t<div class=\"glossblock\">shillings</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_",
@@ -3035,7 +3154,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "48.2",
@@ -3061,9 +3180,12 @@
         "clength": 37,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q213142": "shilling"
-        },
+        "entities": [
+            {
+                "label": "shilling",
+                "wdid": "Q213142"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">48.3</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">And</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þõn</div>\n\t\t<div class=\"glossblock\">then</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">siþþan</div>\n\t\t<div class=\"glossblock\">after</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʒehƿylc</div>\n\t\t<div class=\"glossblock\">each</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">scillinʒ·</div>\n\t\t<div class=\"glossblock\">shilling</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_",
@@ -3077,7 +3199,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "48.3",
@@ -3100,7 +3222,7 @@
         "clength": 42,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">49</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gif</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">spræc</div>\n\t\t<div class=\"glossblock\">speech</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aƿyrd</div>\n\t\t<div class=\"glossblock\">damaged</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ƿeorþ.</div>\n\t\t<div class=\"glossblock\">becomes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xii·</div>\n\t\t<div class=\"glossblock\">12</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">scillinʒas.</div>\n\t\t<div class=\"glossblock\">shillings</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_",
@@ -3115,7 +3237,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "49",
@@ -3149,10 +3271,16 @@
         "coordination": "and",
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {
-            "Q17683155": "Listen",
-            "Q777671": "sowed"
-        },
+        "entities": [
+            {
+                "label": "Listen",
+                "wdid": "Q17683155"
+            },
+            {
+                "label": "sowed",
+                "wdid": "Q777671"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jah</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qemun</div>\n\t\t<div class=\"glossblock\">came.3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fuglos</div>\n\t\t<div class=\"glossblock\">bird.NOM.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jah</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fretun</div>\n\t\t<div class=\"glossblock\">ate</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">þata.</div>\n\t\t<div class=\"glossblock\">that.ACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "and",
@@ -3166,7 +3294,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "jah",
@@ -3192,7 +3320,7 @@
         "clength": 40,
         "doc_ID": 346,
         "doc_URL": "https://langsci-press.org/catalog/book/346",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ek</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hlewagastiz:</div>\n\t\t<div class=\"glossblock\">Hlewagastiz</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">holtijaz:</div>\n\t\t<div class=\"glossblock\">Holtijaz</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">horna:</div>\n\t\t<div class=\"glossblock\">horn</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tawido:</div>\n\t\t<div class=\"glossblock\">made</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -3205,7 +3333,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "ek",

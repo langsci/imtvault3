@@ -32,7 +32,7 @@
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Na‘e",
@@ -78,7 +78,7 @@
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Na‘e",
@@ -107,9 +107,12 @@
         "coordination": "and",
         "doc_ID": 5467,
         "doc_URL": "https://www.glossa-journal.org/article/id/5467",
-        "entities": {
-            "Q503": "banana"
-        },
+        "entities": [
+            {
+                "label": "banana",
+                "wdid": "Q503"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Na’e</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha’u</div>\n\t\t<div class=\"glossblock\">come</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mele</div>\n\t\t<div class=\"glossblock\">Mele</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘o</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nej</div>\n\t\t<div class=\"glossblock\">3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaiha’asi</div>\n\t\t<div class=\"glossblock\">steal</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">DET</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">siaine.</div>\n\t\t<div class=\"glossblock\">banana</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PST",
@@ -127,88 +130,80 @@
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q10675206": "ingredient",
-            "Q107122728": "plant-based food",
-            "Q107122793": "plant product",
-            "Q107126067": "vegetarian food",
-            "Q11004": "Vegetable",
-            "Q1150771": "output",
-            "Q11879003": "environmental resource",
-            "Q1194058": "disposable product",
-            "Q1310239": "component",
-            "Q13184": "Berry_(botany)",
-            "Q1364": "Fruit",
-            "Q1454986": "physical system",
-            "Q1485500": "tangible good",
-            "Q15075845": "primary commodity",
-            "Q15197056": "fleshy fruit",
-            "Q15401930": "artificial object",
-            "Q1554231": "resource",
-            "Q15989253": "part",
-            "Q16686022": "natural physical object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q188460": "natural resource",
-            "Q20011319": "plant structure",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q223557": "physical object",
-            "Q23958946": "individual entity",
-            "Q24060707": "plant organ",
-            "Q2424752": "product",
-            "Q25403900": "food ingredient",
-            "Q25416091": "substance",
-            "Q26902770": "food products by OKPD2 (10)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q26988402": "",
-            "Q26988406": "Agricultural, hunting and forestry products",
-            "Q27043864": "fruit, vegetables and potatoes processed and preserved and services (OKPD2 10.3)",
-            "Q27043948": "material anatomical entity",
-            "Q27043950": "anatomical entity",
-            "Q27478161": "",
-            "Q27480917": "Perennial crops (CPA 2008)",
-            "Q27481006": "",
-            "Q27481647": "tropical and subtropical fruit",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28791169": "simple fruit",
-            "Q28845870": "biological component",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q28969293": "biological material",
-            "Q28969364": "plant material",
-            "Q2897903": "goods and services",
-            "Q29043258": "Other fruit and nuts",
-            "Q29651224": "natural object",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q31464082": "source",
-            "Q3314483": "fruit",
-            "Q337060": "perceptible physical object",
-            "Q3405827": "natural material",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q4936952": "anatomical structure",
-            "Q53617407": "material entity",
-            "Q53617489": "independent continuant",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q66394244": "physical anatomical entity",
-            "Q6671777": "structure",
-            "Q712378": "Organ_(biology)",
-            "Q7239": "Organism",
-            "Q756": "Plant",
-            "Q844144": "tropical_fruit",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "ingredient",
+                "wdid": "Q10675206"
+            },
+            {
+                "label": "plant product",
+                "wdid": "Q107122793"
+            },
+            {
+                "label": "vegetarian food",
+                "wdid": "Q107126067"
+            },
+            {
+                "label": "Vegetable",
+                "wdid": "Q11004"
+            },
+            {
+                "label": "environmental resource",
+                "wdid": "Q11879003"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Berry_(botany)",
+                "wdid": "Q13184"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fleshy fruit",
+                "wdid": "Q15197056"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "food ingredient",
+                "wdid": "Q25403900"
+            },
+            {
+                "label": "simple fruit",
+                "wdid": "Q28791169"
+            },
+            {
+                "label": "biological material",
+                "wdid": "Q28969293"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Plant",
+                "wdid": "Q756"
+            },
+            {
+                "label": "tropical_fruit",
+                "wdid": "Q844144"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Na’e",
@@ -242,7 +237,7 @@
         "clength": 25,
         "doc_ID": 5467,
         "doc_URL": "https://www.glossa-journal.org/article/id/5467",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">E</div>\n\t\t<div class=\"glossblock\">PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">leai</div>\n\t\t<div class=\"glossblock\">NEG.exist</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">DET</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mea</div>\n\t\t<div class=\"glossblock\">thing</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[na</div>\n\t\t<div class=\"glossblock\">[</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">totoe].</div>\n\t\t<div class=\"glossblock\">left]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PRS",
@@ -256,7 +251,7 @@
         "language_iso6393": "smo",
         "language_name": "Samoan",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "E",
@@ -282,9 +277,12 @@
         "clength": 46,
         "doc_ID": 5467,
         "doc_URL": "https://www.glossa-journal.org/article/id/5467",
-        "entities": {
-            "Q1465133": "overdue"
-        },
+        "entities": [
+            {
+                "label": "overdue",
+                "wdid": "Q1465133"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘Ua</div>\n\t\t<div class=\"glossblock\">PRF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">siliga</div>\n\t\t<div class=\"glossblock\">too.late</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ona</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(*sā/e/‘ā)</div>\n\t\t<div class=\"glossblock\">()</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">taunu‘u</div>\n\t\t<div class=\"glossblock\">arrive</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mai</div>\n\t\t<div class=\"glossblock\">DIR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">DET</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tama.</div>\n\t\t<div class=\"glossblock\">man</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PRF",
@@ -300,16 +298,12 @@
         "language_iso6393": "smo",
         "language_name": "Samoan",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q11028": "information",
-            "Q1151067": "rule",
-            "Q16686448": "artificial object",
-            "Q35120": "entity",
-            "Q488383": "object",
-            "Q628523": "Message",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity"
-        },
+        "parententities": [
+            {
+                "label": "rule",
+                "wdid": "Q1151067"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "‘Ua",
@@ -351,7 +345,7 @@
         "language_iso6393": "smo",
         "language_name": "Samoan",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -379,7 +373,7 @@
         "clength": 45,
         "doc_ID": 5467,
         "doc_URL": "https://www.glossa-journal.org/article/id/5467",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ko</div>\n\t\t<div class=\"glossblock\">TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">John</div>\n\t\t<div class=\"glossblock\">John</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fehili</div>\n\t\t<div class=\"glossblock\">ask</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mai</div>\n\t\t<div class=\"glossblock\">DIR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pe</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tunu</div>\n\t\t<div class=\"glossblock\">cook</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ai</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">te</div>\n\t\t<div class=\"glossblock\">DEF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ika.</div>\n\t\t<div class=\"glossblock\">fish</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "TOP",
@@ -399,7 +393,7 @@
         "language_iso6393": "tkl",
         "language_name": "Tokelau",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ko",
@@ -435,9 +429,12 @@
         "clength": 48,
         "doc_ID": 5467,
         "doc_URL": "https://www.glossa-journal.org/article/id/5467",
-        "entities": {
-            "Q2130974": "Rangi"
-        },
+        "entities": [
+            {
+                "label": "Rangi",
+                "wdid": "Q2130974"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ko</div>\n\t\t<div class=\"glossblock\">TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">John</div>\n\t\t<div class=\"glossblock\">John</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lea</div>\n\t\t<div class=\"glossblock\">say</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mai</div>\n\t\t<div class=\"glossblock\">DIR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pe</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ko</div>\n\t\t<div class=\"glossblock\">TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">te</div>\n\t\t<div class=\"glossblock\">DEF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ika</div>\n\t\t<div class=\"glossblock\">fish</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tunu</div>\n\t\t<div class=\"glossblock\">cook</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Rangi.</div>\n\t\t<div class=\"glossblock\">Rangi</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "TOP",
@@ -458,7 +455,7 @@
         "language_iso6393": "tkl",
         "language_name": "Tokelau",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ko",
@@ -494,7 +491,7 @@
         "clength": 46,
         "doc_ID": 5467,
         "doc_URL": "https://www.glossa-journal.org/article/id/5467",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">…</div>\n\t\t<div class=\"glossblock\">…</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fehili</div>\n\t\t<div class=\"glossblock\">ask</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mai</div>\n\t\t<div class=\"glossblock\">DIR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ki</div>\n\t\t<div class=\"glossblock\">TO</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a te</div>\n\t\t<div class=\"glossblock\">ART</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">au</div>\n\t\t<div class=\"glossblock\">1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pe</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ko</div>\n\t\t<div class=\"glossblock\">TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">au</div>\n\t\t<div class=\"glossblock\">1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hau</div>\n\t\t<div class=\"glossblock\">come</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fea.</div>\n\t\t<div class=\"glossblock\">where.</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "…",
@@ -515,7 +512,7 @@
         "language_iso6393": "tkl",
         "language_name": "Tokelau",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "…",
@@ -551,9 +548,12 @@
         "coordination": "or",
         "doc_ID": 5467,
         "doc_URL": "https://www.glossa-journal.org/article/id/5467",
-        "entities": {
-            "Q7535770": "skipjacks"
-        },
+        "entities": [
+            {
+                "label": "skipjacks",
+                "wdid": "Q7535770"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kāfai</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ko</div>\n\t\t<div class=\"glossblock\">TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nā</div>\n\t\t<div class=\"glossblock\">DEF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">atu</div>\n\t\t<div class=\"glossblock\">skipjack</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mua</div>\n\t\t<div class=\"glossblock\">first</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fai</div>\n\t\t<div class=\"glossblock\">do</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tamate</div>\n\t\t<div class=\"glossblock\">lose-overboard</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pe</div>\n\t\t<div class=\"glossblock\">or</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fai</div>\n\t\t<div class=\"glossblock\">do</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tiaki,</div>\n\t\t<div class=\"glossblock\">foul-hooked</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kua</div>\n\t\t<div class=\"glossblock\">PRF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fakahētonuga</div>\n\t\t<div class=\"glossblock\">be-heedless</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">loa</div>\n\t\t<div class=\"glossblock\">at-once</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">te</div>\n\t\t<div class=\"glossblock\">DEF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">taumanu</div>\n\t\t<div class=\"glossblock\">feeding-school</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">te</div>\n\t\t<div class=\"glossblock\">DEF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">taimi</div>\n\t\t<div class=\"glossblock\">time</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tēnā.</div>\n\t\t<div class=\"glossblock\">DEM</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -581,7 +581,7 @@
         "language_iso6393": "tkl",
         "language_name": "Tokelau",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Kāfai",
@@ -627,7 +627,7 @@
         "clength": 82,
         "doc_ID": 5467,
         "doc_URL": "https://www.glossa-journal.org/article/id/5467",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kae</div>\n\t\t<div class=\"glossblock\">CONJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kāfai</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">foki</div>\n\t\t<div class=\"glossblock\">too</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hē</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lava</div>\n\t\t<div class=\"glossblock\">sufficient</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tau</div>\n\t\t<div class=\"glossblock\">2SG.POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meakai.</div>\n\t\t<div class=\"glossblock\">food</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ka</div>\n\t\t<div class=\"glossblock\">FUT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lahi</div>\n\t\t<div class=\"glossblock\">many</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lele</div>\n\t\t<div class=\"glossblock\">INT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nā</div>\n\t\t<div class=\"glossblock\">DEF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mea</div>\n\t\t<div class=\"glossblock\">thing</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ka</div>\n\t\t<div class=\"glossblock\">FUT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tutupu</div>\n\t\t<div class=\"glossblock\">happen</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mai</div>\n\t\t<div class=\"glossblock\">DIR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kia</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">te</div>\n\t\t<div class=\"glossblock\">DEF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koe.</div>\n\t\t<div class=\"glossblock\">2SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "CONJ",
@@ -654,7 +654,7 @@
         "language_iso6393": "tkl",
         "language_name": "Tokelau",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Kae",
@@ -694,9 +694,12 @@
         "clength": 36,
         "doc_ID": 5467,
         "doc_URL": "https://www.glossa-journal.org/article/id/5467",
-        "entities": {
-            "Q171529": "canoe"
-        },
+        "entities": [
+            {
+                "label": "canoe",
+                "wdid": "Q171529"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kāfai</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">foki</div>\n\t\t<div class=\"glossblock\">too</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">luga</div>\n\t\t<div class=\"glossblock\">above</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ni</div>\n\t\t<div class=\"glossblock\">DEF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ika</div>\n\t\t<div class=\"glossblock\">fish</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tō</div>\n\t\t<div class=\"glossblock\">2SG.POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vaka</div>\n\t\t<div class=\"glossblock\">canoe</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -714,54 +717,48 @@
         "language_iso6393": "tkl",
         "language_name": "Tokelau",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q106839123": "means of transport",
-            "Q11019": "Machine",
-            "Q1150771": "output",
-            "Q1183543": "appliance",
-            "Q1195684": "rowing boat",
-            "Q1229765": "watercraft",
-            "Q1408229": "finished good",
-            "Q1454986": "physical system",
-            "Q1485500": "tangible good",
-            "Q1507442": "human-powered vehicle",
-            "Q15401930": "artificial object",
-            "Q16686448": "artificial object",
-            "Q16889133": "class",
-            "Q18458812": "consumer goods",
-            "Q19279121": "free-emissions vehicle",
-            "Q2120578": "zero-emissions vehicle",
-            "Q2184715": "durable good",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q35872": "Boat",
-            "Q386724": "work",
-            "Q39546": "Tool",
-            "Q41321608": "vehicle without engine",
-            "Q42889": "Vehicle",
-            "Q43399738": "rowing equipment",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q50380212": "floating_object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q768186": "sports equipment",
-            "Q8205328": "artificial physical object",
-            "Q9158768": "storage",
-            "Q987767": "Container",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Machine",
+                "wdid": "Q11019"
+            },
+            {
+                "label": "rowing boat",
+                "wdid": "Q1195684"
+            },
+            {
+                "label": "watercraft",
+                "wdid": "Q1229765"
+            },
+            {
+                "label": "Boat",
+                "wdid": "Q35872"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            },
+            {
+                "label": "vehicle without engine",
+                "wdid": "Q41321608"
+            },
+            {
+                "label": "Vehicle",
+                "wdid": "Q42889"
+            },
+            {
+                "label": "rowing equipment",
+                "wdid": "Q43399738"
+            },
+            {
+                "label": "floating_object",
+                "wdid": "Q50380212"
+            },
+            {
+                "label": "sports equipment",
+                "wdid": "Q768186"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Kāfai",
@@ -811,7 +808,7 @@
         "language_iso6393": "tkl",
         "language_name": "Tokelau",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Na",
@@ -857,7 +854,7 @@
         "language_iso6393": "tkl",
         "language_name": "Tokelau",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Na",
@@ -896,7 +893,7 @@
         "language_iso6393": "tkl",
         "language_name": "Tokelau",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Na",
@@ -923,7 +920,7 @@
         "clength": 59,
         "doc_ID": 5467,
         "doc_URL": "https://www.glossa-journal.org/article/id/5467",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ou</div>\n\t\t<div class=\"glossblock\">1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">te</div>\n\t\t<div class=\"glossblock\">TAM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iloa</div>\n\t\t<div class=\"glossblock\">know</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pe</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ua</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ou</div>\n\t\t<div class=\"glossblock\">1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">matau</div>\n\t\t<div class=\"glossblock\">observe</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">masei</div>\n\t\t<div class=\"glossblock\">mistake</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tele</div>\n\t\t<div class=\"glossblock\">much</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ea</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ona</div>\n\t\t<div class=\"glossblock\">because</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ua</div>\n\t\t<div class=\"glossblock\">PRF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ou</div>\n\t\t<div class=\"glossblock\">1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">matua.</div>\n\t\t<div class=\"glossblock\">old</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1SG",
@@ -946,7 +943,7 @@
         "language_iso6393": "smo",
         "language_name": "Samoan",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -982,7 +979,7 @@
         "clength": 43,
         "doc_ID": 5467,
         "doc_URL": "https://www.glossa-journal.org/article/id/5467",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sa</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">faanoanoa</div>\n\t\t<div class=\"glossblock\">be sad</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lava</div>\n\t\t<div class=\"glossblock\">EMPH</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Tavita</div>\n\t\t<div class=\"glossblock\">Tavita</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ina</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘ole‘ā</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">alu</div>\n\t\t<div class=\"glossblock\">go</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ese</div>\n\t\t<div class=\"glossblock\">away</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PST",
@@ -998,7 +995,7 @@
         "language_iso6393": "smo",
         "language_name": "Samoan",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "sa",
@@ -1039,7 +1036,7 @@
         "language_iso6393": "smo",
         "language_name": "Samoan",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "…",
@@ -1067,9 +1064,12 @@
         "coordination": "or",
         "doc_ID": 5467,
         "doc_URL": "https://www.glossa-journal.org/article/id/5467",
-        "entities": {
-            "Q10797504": "good or bad"
-        },
+        "entities": [
+            {
+                "label": "good or bad",
+                "wdid": "Q10797504"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘Oku</div>\n\t\t<div class=\"glossblock\">PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘ikai</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">te</div>\n\t\t<div class=\"glossblock\">FUT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘ilo</div>\n\t\t<div class=\"glossblock\">know</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pe</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘oku</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lelei</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pe</div>\n\t\t<div class=\"glossblock\">or</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kovi.</div>\n\t\t<div class=\"glossblock\">bad</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PRS",
@@ -1087,36 +1087,12 @@
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q108163": "proposition",
-            "Q11028": "information",
-            "Q15916540": "semantic unit",
-            "Q16877783": "meaning",
-            "Q16889133": "class",
-            "Q1786828": "constituent",
-            "Q183046": "meaning",
-            "Q188572": "fact",
-            "Q20817253": "linguistic unit",
-            "Q246672": "mathematical object",
-            "Q2684591": "statement",
-            "Q2920592": "Binary_opposition",
-            "Q29651519": "mental object",
-            "Q30060700": "scientific object",
-            "Q3505845": "state",
-            "Q35120": "entity",
-            "Q41796": "sentence",
-            "Q42848": "data",
-            "Q474328": "declarative sentence",
-            "Q483247": "phenomenon",
-            "Q488383": "object",
-            "Q5371079": "emic unit",
-            "Q628523": "Message",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q937228": "property",
-            "Q9380010": "utterance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Binary_opposition",
+                "wdid": "Q2920592"
+            }
+        ],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -1147,7 +1123,7 @@
         "clength": 26,
         "doc_ID": 5467,
         "doc_URL": "https://www.glossa-journal.org/article/id/5467",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kuo</div>\n\t\t<div class=\"glossblock\">PFV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pau</div>\n\t\t<div class=\"glossblock\">necessary</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ke</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘oua</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">te</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘alu.</div>\n\t\t<div class=\"glossblock\">go</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PFV",
@@ -1162,7 +1138,7 @@
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -1191,7 +1167,7 @@
         "clength": 48,
         "doc_ID": 5467,
         "doc_URL": "https://www.glossa-journal.org/article/id/5467",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ka</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nan</div>\n\t\t<div class=\"glossblock\">3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ka</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fehu’i</div>\n\t\t<div class=\"glossblock\">ask</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mai,</div>\n\t\t<div class=\"glossblock\">towards</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">te</div>\n\t\t<div class=\"glossblock\">FUT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tala</div>\n\t\t<div class=\"glossblock\">tell</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kiate</div>\n\t\t<div class=\"glossblock\">DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kinautolu.</div>\n\t\t<div class=\"glossblock\">3PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "if",
@@ -1209,7 +1185,7 @@
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ka",
@@ -1239,7 +1215,7 @@
         "clength": 36,
         "doc_ID": 5467,
         "doc_URL": "https://www.glossa-journal.org/article/id/5467",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ka</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ke</div>\n\t\t<div class=\"glossblock\">2SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ka</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha’u,</div>\n\t\t<div class=\"glossblock\">leave</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘oku</div>\n\t\t<div class=\"glossblock\">PROG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘atā</div>\n\t\t<div class=\"glossblock\">free</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">to’ohema</div>\n\t\t<div class=\"glossblock\">left</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "if",
@@ -1255,7 +1231,7 @@
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ka",
@@ -1296,7 +1272,7 @@
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "{‘Okú",
@@ -1322,9 +1298,12 @@
         "clength": 54,
         "doc_ID": 5467,
         "doc_URL": "https://www.glossa-journal.org/article/id/5467",
-        "entities": {
-            "Q2130974": "Rangi"
-        },
+        "entities": [
+            {
+                "label": "Rangi",
+                "wdid": "Q2130974"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ko</div>\n\t\t<div class=\"glossblock\">TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">John</div>\n\t\t<div class=\"glossblock\">John</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nae</div>\n\t\t<div class=\"glossblock\">TAM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fofou</div>\n\t\t<div class=\"glossblock\">want</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ke</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(*ka)</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tuki</div>\n\t\t<div class=\"glossblock\">hit</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Jess</div>\n\t\t<div class=\"glossblock\">Jess</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Rangi</div>\n\t\t<div class=\"glossblock\">Rangi</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tāeao.</div>\n\t\t<div class=\"glossblock\">tomorrow</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "TOP",
@@ -1345,7 +1324,7 @@
         "language_name": "Tokelau",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "modality": "volitive",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ko",
@@ -1378,7 +1357,7 @@
         "clength": 52,
         "doc_ID": 5467,
         "doc_URL": "https://www.glossa-journal.org/article/id/5467",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Na</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">taumafai</div>\n\t\t<div class=\"glossblock\">try</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">John</div>\n\t\t<div class=\"glossblock\">John</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ke</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(*na)</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hao</div>\n\t\t<div class=\"glossblock\">escape</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">te</div>\n\t\t<div class=\"glossblock\">DEF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vaka</div>\n\t\t<div class=\"glossblock\">boat</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mai</div>\n\t\t<div class=\"glossblock\">from</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">te</div>\n\t\t<div class=\"glossblock\">DEF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">afā.</div>\n\t\t<div class=\"glossblock\">hurricane</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PST",
@@ -1398,7 +1377,7 @@
         "language_iso6393": "tkl",
         "language_name": "Tokelau",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Na",
@@ -1432,7 +1411,7 @@
         "clength": 36,
         "doc_ID": 5467,
         "doc_URL": "https://www.glossa-journal.org/article/id/5467",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">E</div>\n\t\t<div class=\"glossblock\">TAM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mahani</div>\n\t\t<div class=\"glossblock\">usual</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oi</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(*e)</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">velo</div>\n\t\t<div class=\"glossblock\">spear</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">John</div>\n\t\t<div class=\"glossblock\">John</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ni</div>\n\t\t<div class=\"glossblock\">INDF.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ika.</div>\n\t\t<div class=\"glossblock\">fish</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "TAM",
@@ -1449,7 +1428,7 @@
         "language_iso6393": "tkl",
         "language_name": "Tokelau",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "E",
@@ -1479,7 +1458,7 @@
         "clength": 38,
         "doc_ID": 5467,
         "doc_URL": "https://www.glossa-journal.org/article/id/5467",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Na</div>\n\t\t<div class=\"glossblock\">TAM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kamata</div>\n\t\t<div class=\"glossblock\">begin</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oi</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(*na)</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fau</div>\n\t\t<div class=\"glossblock\">build</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">John</div>\n\t\t<div class=\"glossblock\">John</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">te</div>\n\t\t<div class=\"glossblock\">DEF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vaka.</div>\n\t\t<div class=\"glossblock\">boat</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "TAM",
@@ -1496,7 +1475,7 @@
         "language_iso6393": "tkl",
         "language_name": "Tokelau",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Na",
@@ -1527,7 +1506,7 @@
         "clength": 49,
         "doc_ID": 5467,
         "doc_URL": "https://www.glossa-journal.org/article/id/5467",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Na</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">taumafai</div>\n\t\t<div class=\"glossblock\">try</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">John</div>\n\t\t<div class=\"glossblock\">John</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ko</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">te</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vaka</div>\n\t\t<div class=\"glossblock\">boat</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ke</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hao</div>\n\t\t<div class=\"glossblock\">escape</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mai</div>\n\t\t<div class=\"glossblock\">from</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">te</div>\n\t\t<div class=\"glossblock\">DEF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">afā.</div>\n\t\t<div class=\"glossblock\">hurricane</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PST",
@@ -1547,7 +1526,7 @@
         "language_iso6393": "tkl",
         "language_name": "Tokelau",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Na",
@@ -1583,9 +1562,12 @@
         "clength": 47,
         "doc_ID": 5467,
         "doc_URL": "https://www.glossa-journal.org/article/id/5467",
-        "entities": {
-            "Q2130974": "Rangi"
-        },
+        "entities": [
+            {
+                "label": "Rangi",
+                "wdid": "Q2130974"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ko</div>\n\t\t<div class=\"glossblock\">TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">John</div>\n\t\t<div class=\"glossblock\">John</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nae</div>\n\t\t<div class=\"glossblock\">TAM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fofou</div>\n\t\t<div class=\"glossblock\">want</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ko</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Jess</div>\n\t\t<div class=\"glossblock\">Jess</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ke</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tukia</div>\n\t\t<div class=\"glossblock\">hit</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Rangi.</div>\n\t\t<div class=\"glossblock\">Rangi</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "TOP",
@@ -1605,7 +1587,7 @@
         "language_name": "Tokelau",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "modality": "volitive",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ko",
@@ -1637,9 +1619,12 @@
         "clength": 31,
         "doc_ID": 5467,
         "doc_URL": "https://www.glossa-journal.org/article/id/5467",
-        "entities": {
-            "Q2130974": "Rangi"
-        },
+        "entities": [
+            {
+                "label": "Rangi",
+                "wdid": "Q2130974"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">E</div>\n\t\t<div class=\"glossblock\">TAM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mafai</div>\n\t\t<div class=\"glossblock\">possible</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oi/ke</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kinei</div>\n\t\t<div class=\"glossblock\">here</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Rangi.</div>\n\t\t<div class=\"glossblock\">Rangi</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "TAM",
@@ -1654,7 +1639,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "E",
@@ -1682,7 +1667,7 @@
         "clength": 47,
         "doc_ID": 5467,
         "doc_URL": "https://www.glossa-journal.org/article/id/5467",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Na</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">taumafai</div>\n\t\t<div class=\"glossblock\">try</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ia</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">John</div>\n\t\t<div class=\"glossblock\">John</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hao</div>\n\t\t<div class=\"glossblock\">escape</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">te</div>\n\t\t<div class=\"glossblock\">DEF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vaka</div>\n\t\t<div class=\"glossblock\">boat</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mai</div>\n\t\t<div class=\"glossblock\">from</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">te</div>\n\t\t<div class=\"glossblock\">DEF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">afā.</div>\n\t\t<div class=\"glossblock\">hurricane</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PST",
@@ -1701,7 +1686,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Na",

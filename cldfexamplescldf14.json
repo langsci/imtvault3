@@ -26,7 +26,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "ka",
@@ -53,7 +53,7 @@
         "citation": "visser:21:1[XV000005]",
         "clength": 31,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">an</div>\n\t\t<div class=\"glossblock\">1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-ahutak</div>\n\t\t<div class=\"glossblock\">alone</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">owatko</div>\n\t\t<div class=\"glossblock\">F.DIST.LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">melalu</div>\n\t\t<div class=\"glossblock\">sit</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">reba</div>\n\t\t<div class=\"glossblock\">PROG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1SG",
@@ -67,7 +67,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "an",
@@ -104,7 +104,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "lenggalengga",
@@ -140,7 +140,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "ma",
@@ -163,7 +163,7 @@
         "citation": "visser:21:1[XV000040]",
         "clength": 21,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">o</div>\n\t\t<div class=\"glossblock\">EMPH</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">som</div>\n\t\t<div class=\"glossblock\">person</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yawe</div>\n\t\t<div class=\"glossblock\">down</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=ba</div>\n\t\t<div class=\"glossblock\">=FOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daruar</div>\n\t\t<div class=\"glossblock\">pull out</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "EMPH",
@@ -176,7 +176,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "o",
@@ -201,7 +201,7 @@
         "citation": "visser:21:1[XV000067]",
         "clength": 24,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ka</div>\n\t\t<div class=\"glossblock\">2SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bo</div>\n\t\t<div class=\"glossblock\">go</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-re</div>\n\t\t<div class=\"glossblock\">NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yuol</div>\n\t\t<div class=\"glossblock\">day</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wa</div>\n\t\t<div class=\"glossblock\">PROX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-bes</div>\n\t\t<div class=\"glossblock\">QNT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "2SG",
@@ -216,7 +216,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "ka",
@@ -242,9 +242,12 @@
         "citation": "visser:21:1[XV000082]",
         "clength": 39,
         "doc_ID": 0,
-        "entities": {
-            "Q8046351": "Yaban"
-        },
+        "entities": [
+            {
+                "label": "Yaban",
+                "wdid": "Q8046351"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mier</div>\n\t\t<div class=\"glossblock\">3DU</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Yaban</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">esun</div>\n\t\t<div class=\"glossblock\">father; adult man; uncle</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=bon</div>\n\t\t<div class=\"glossblock\">=COM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=a</div>\n\t\t<div class=\"glossblock\">=FOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">garung</div>\n\t\t<div class=\"glossblock\">talk together</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">garung</div>\n\t\t<div class=\"glossblock\">talk together</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3DU",
@@ -260,7 +263,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "mier",
@@ -286,7 +289,7 @@
         "citation": "visser:21:1[XV000098]",
         "clength": 37,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sor</div>\n\t\t<div class=\"glossblock\">fish</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-ca</div>\n\t\t<div class=\"glossblock\">2sg.poss</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">reidak</div>\n\t\t<div class=\"glossblock\">much</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">,</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">an</div>\n\t\t<div class=\"glossblock\">1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sor</div>\n\t\t<div class=\"glossblock\">fish</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-an</div>\n\t\t<div class=\"glossblock\">1SG.POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bolodak</div>\n\t\t<div class=\"glossblock\">just a little</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "fish",
@@ -303,7 +306,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "sor",
@@ -330,11 +333,20 @@
         "citation": "visser:21:1[XV000099]",
         "clength": 31,
         "doc_ID": 0,
-        "entities": {
-            "Q1323403": "Kei",
-            "Q1937191": "Gorom",
-            "Q3757": "Java"
-        },
+        "entities": [
+            {
+                "label": "Kei",
+                "wdid": "Q1323403"
+            },
+            {
+                "label": "Gorom",
+                "wdid": "Q1937191"
+            },
+            {
+                "label": "Java",
+                "wdid": "Q3757"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kei</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-ca</div>\n\t\t<div class=\"glossblock\">2sg.poss</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">,</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Jawa</div>\n\t\t<div class=\"glossblock\">Java; Javanese</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-ca</div>\n\t\t<div class=\"glossblock\">2sg.poss</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">,</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Walaka</div>\n\t\t<div class=\"glossblock\">Gorom</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-ca</div>\n\t\t<div class=\"glossblock\">2sg.poss</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -350,7 +362,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "Kei",
@@ -376,9 +388,12 @@
         "citation": "visser:21:1[XV000105]",
         "clength": 33,
         "doc_ID": 0,
-        "entities": {
-            "Q159532": "betel"
-        },
+        "entities": [
+            {
+                "label": "betel",
+                "wdid": "Q159532"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">buok</div>\n\t\t<div class=\"glossblock\">betel; betel nut</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-ce</div>\n\t\t<div class=\"glossblock\">2PL.POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bon</div>\n\t\t<div class=\"glossblock\">bring</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bara</div>\n\t\t<div class=\"glossblock\">descend</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*elak</div>\n\t\t<div class=\"glossblock\">bottom</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yawetko</div>\n\t\t<div class=\"glossblock\">down there</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "betel; betel nut",
@@ -393,7 +408,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "buok",
@@ -422,9 +437,12 @@
         "citation": "visser:21:1[XV000135]",
         "clength": 52,
         "doc_ID": 0,
-        "entities": {
-            "Q159532": "betel leaf"
-        },
+        "entities": [
+            {
+                "label": "betel leaf",
+                "wdid": "Q159532"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pulor</div>\n\t\t<div class=\"glossblock\">betel vine</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">opa</div>\n\t\t<div class=\"glossblock\">ANA</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ka</div>\n\t\t<div class=\"glossblock\">2SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tu</div>\n\t\t<div class=\"glossblock\">hit; pound</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-ra</div>\n\t\t<div class=\"glossblock\">NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">me</div>\n\t\t<div class=\"glossblock\">TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tama</div>\n\t\t<div class=\"glossblock\">q; which</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=ba</div>\n\t\t<div class=\"glossblock\">=FOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-dok</div>\n\t\t<div class=\"glossblock\">side</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">,</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">os</div>\n\t\t<div class=\"glossblock\">sand</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=ka</div>\n\t\t<div class=\"glossblock\">=LAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-dok</div>\n\t\t<div class=\"glossblock\">side</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "betel vine",
@@ -446,7 +464,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "pulor",
@@ -478,7 +496,7 @@
         "citation": "visser:21:1[XV000139]",
         "clength": 45,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">patin</div>\n\t\t<div class=\"glossblock\">sore</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-un</div>\n\t\t<div class=\"glossblock\">3POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">temun</div>\n\t\t<div class=\"glossblock\">big</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">,</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">don konkon</div>\n\t\t<div class=\"glossblock\">anything</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=nin</div>\n\t\t<div class=\"glossblock\">=NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">,</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bolodak</div>\n\t\t<div class=\"glossblock\">just a little</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "sore",
@@ -495,7 +513,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "patin",
@@ -536,7 +554,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "ror",
@@ -562,9 +580,12 @@
         "citation": "visser:21:1[XV000189]",
         "clength": 27,
         "doc_ID": 0,
-        "entities": {
-            "Q1393640": "Fakfak"
-        },
+        "entities": [
+            {
+                "label": "Fakfak",
+                "wdid": "Q1393640"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pakpa</div>\n\t\t<div class=\"glossblock\">Fakfak (town)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-et</div>\n\t\t<div class=\"glossblock\">person</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">opa</div>\n\t\t<div class=\"glossblock\">ANA</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">me</div>\n\t\t<div class=\"glossblock\">TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">iam</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bo</div>\n\t\t<div class=\"glossblock\">go</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-t</div>\n\t\t<div class=\"glossblock\">T</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Fakfak (town)",
@@ -580,7 +601,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "pakpa",
@@ -608,9 +629,12 @@
         "citation": "visser:21:1[XV000190]",
         "clength": 32,
         "doc_ID": 0,
-        "entities": {
-            "Q23834": "comb"
-        },
+        "entities": [
+            {
+                "label": "comb",
+                "wdid": "Q23834"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">an</div>\n\t\t<div class=\"glossblock\">1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tok</div>\n\t\t<div class=\"glossblock\">yet; still; first</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nakal</div>\n\t\t<div class=\"glossblock\">head</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-an</div>\n\t\t<div class=\"glossblock\">1SG.POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=at</div>\n\t\t<div class=\"glossblock\">=OBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sisir</div>\n\t\t<div class=\"glossblock\">comb</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=et</div>\n\t\t<div class=\"glossblock\">=IRR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1SG",
@@ -626,7 +650,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "an",
@@ -649,7 +673,7 @@
         "citation": "visser:21:1[XV000205]",
         "clength": 27,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bakul</div>\n\t\t<div class=\"glossblock\">basket</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">karuo</div>\n\t\t<div class=\"glossblock\">three</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-gan</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sor</div>\n\t\t<div class=\"glossblock\">fish</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">neko</div>\n\t\t<div class=\"glossblock\">inside</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "basket",
@@ -663,7 +687,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "bakul",
@@ -691,7 +715,7 @@
         "citation": "visser:21:1[XV000218]",
         "clength": 60,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">\"</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ka</div>\n\t\t<div class=\"glossblock\">2SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">neba</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=at</div>\n\t\t<div class=\"glossblock\">=OBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=a</div>\n\t\t<div class=\"glossblock\">=FOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">paruo</div>\n\t\t<div class=\"glossblock\">do; make</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-t</div>\n\t\t<div class=\"glossblock\">T</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=kin</div>\n\t\t<div class=\"glossblock\">=VOL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?\"</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">\"</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ge</div>\n\t\t<div class=\"glossblock\">not; no</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mera</div>\n\t\t<div class=\"glossblock\">then</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">an</div>\n\t\t<div class=\"glossblock\">1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">muap</div>\n\t\t<div class=\"glossblock\">eat</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=teba</div>\n\t\t<div class=\"glossblock\">=PROG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.\"</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -715,7 +739,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "\"",
@@ -749,7 +773,7 @@
         "citation": "visser:21:1[XV000238]",
         "clength": 33,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">an</div>\n\t\t<div class=\"glossblock\">1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">min</div>\n\t\t<div class=\"glossblock\">sleep</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-da</div>\n\t\t<div class=\"glossblock\">NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">go</div>\n\t\t<div class=\"glossblock\">condition</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dung</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=da</div>\n\t\t<div class=\"glossblock\">=NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">an</div>\n\t\t<div class=\"glossblock\">1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">parar</div>\n\t\t<div class=\"glossblock\">wake.up</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1SG",
@@ -766,7 +790,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "an",
@@ -792,10 +816,16 @@
         "citation": "visser:21:1[XV000239]",
         "clength": 29,
         "doc_ID": 0,
-        "entities": {
-            "Q2778154": "late afternoon",
-            "Q7925": "rained"
-        },
+        "entities": [
+            {
+                "label": "late afternoon",
+                "wdid": "Q2778154"
+            },
+            {
+                "label": "rained",
+                "wdid": "Q7925"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">go</div>\n\t\t<div class=\"glossblock\">condition</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ginggir</div>\n\t\t<div class=\"glossblock\">afternoon</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=ta</div>\n\t\t<div class=\"glossblock\">=NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kalis</div>\n\t\t<div class=\"glossblock\">rain</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">iam</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">our</div>\n\t\t<div class=\"glossblock\">fall</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "condition",
@@ -810,50 +840,40 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q108163": "proposition",
-            "Q11028": "information",
-            "Q1190554": "occurrence",
-            "Q12036439": "meteor",
-            "Q1207505": "quality",
-            "Q1322005": "natural phenomenon",
-            "Q1347367": "aptitude",
-            "Q151885": "concept",
-            "Q15916540": "semantic unit",
-            "Q16332653": "meteorological phenomenon",
-            "Q16877783": "meaning",
-            "Q16889133": "class",
-            "Q1786828": "constituent",
-            "Q183046": "meaning",
-            "Q188572": "fact",
-            "Q1972098": "hydrometeor",
-            "Q20817253": "linguistic unit",
-            "Q2145290": "mental representation",
-            "Q246672": "mathematical object",
-            "Q25257": "Precipitation",
-            "Q2684591": "statement",
-            "Q26907166": "temporal entity",
-            "Q29651519": "mental object",
-            "Q30060700": "scientific object",
-            "Q35120": "entity",
-            "Q4072190": "atmospheric phenomenon",
-            "Q41796": "sentence",
-            "Q42848": "data",
-            "Q4393498": "representation",
-            "Q474328": "declarative sentence",
-            "Q483247": "phenomenon",
-            "Q488383": "object",
-            "Q5371079": "emic unit",
-            "Q58415929": "spatio-temporal entity",
-            "Q58928516": "meteorological concept",
-            "Q628523": "Message",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q930933": "relation",
-            "Q937228": "property",
-            "Q9380010": "utterance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "meteor",
+                "wdid": "Q12036439"
+            },
+            {
+                "label": "natural phenomenon",
+                "wdid": "Q1322005"
+            },
+            {
+                "label": "aptitude",
+                "wdid": "Q1347367"
+            },
+            {
+                "label": "meteorological phenomenon",
+                "wdid": "Q16332653"
+            },
+            {
+                "label": "hydrometeor",
+                "wdid": "Q1972098"
+            },
+            {
+                "label": "Precipitation",
+                "wdid": "Q25257"
+            },
+            {
+                "label": "atmospheric phenomenon",
+                "wdid": "Q4072190"
+            },
+            {
+                "label": "meteorological concept",
+                "wdid": "Q58928516"
+            }
+        ],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "go",
@@ -882,7 +902,7 @@
         "citation": "visser:21:1[XV000240]",
         "clength": 47,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">an</div>\n\t\t<div class=\"glossblock\">1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dodon</div>\n\t\t<div class=\"glossblock\">things; clothes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=ar</div>\n\t\t<div class=\"glossblock\">=OBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=a</div>\n\t\t<div class=\"glossblock\">=FOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">masa</div>\n\t\t<div class=\"glossblock\">dry in the sun</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-t</div>\n\t\t<div class=\"glossblock\">T</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=kin</div>\n\t\t<div class=\"glossblock\">=VOL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ba</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">go</div>\n\t\t<div class=\"glossblock\">condition</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">git</div>\n\t\t<div class=\"glossblock\">shadow</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-[...]</div>\n\t\t<div class=\"glossblock\">RED</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1SG",
@@ -903,7 +923,7 @@
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "modality": "volitive",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "an",
@@ -932,7 +952,7 @@
         "citation": "visser:21:1[XV000241]",
         "clength": 26,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yuon</div>\n\t\t<div class=\"glossblock\">sun</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daruk</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=ta</div>\n\t\t<div class=\"glossblock\">=NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">go kerkap</div>\n\t\t<div class=\"glossblock\">dusk</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "sun",
@@ -945,7 +965,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "yuon",
@@ -968,7 +988,7 @@
         "citation": "visser:21:1[XV000242]",
         "clength": 26,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mu</div>\n\t\t<div class=\"glossblock\">3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bo</div>\n\t\t<div class=\"glossblock\">go</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">go</div>\n\t\t<div class=\"glossblock\">place</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">saerak</div>\n\t\t<div class=\"glossblock\">neg.ext; empty</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tua</div>\n\t\t<div class=\"glossblock\">live</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">reba</div>\n\t\t<div class=\"glossblock\">PROG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3PL",
@@ -983,7 +1003,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "mu",
@@ -1018,7 +1038,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "go",
@@ -1040,10 +1060,16 @@
         "citation": "visser:21:1[XV000244]",
         "clength": 37,
         "doc_ID": 0,
-        "entities": {
-            "Q202698": "Yesterday",
-            "Q7925": "rained"
-        },
+        "entities": [
+            {
+                "label": "Yesterday",
+                "wdid": "Q202698"
+            },
+            {
+                "label": "rained",
+                "wdid": "Q7925"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wis</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kalis</div>\n\t\t<div class=\"glossblock\">rain</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">our</div>\n\t\t<div class=\"glossblock\">fall</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=ta</div>\n\t\t<div class=\"glossblock\">=NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">,</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">opa yuwa</div>\n\t\t<div class=\"glossblock\">today</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">go</div>\n\t\t<div class=\"glossblock\">condition</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sir</div>\n\t\t<div class=\"glossblock\">clear</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday",
@@ -1060,50 +1086,40 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q108163": "proposition",
-            "Q11028": "information",
-            "Q1190554": "occurrence",
-            "Q12036439": "meteor",
-            "Q1207505": "quality",
-            "Q1322005": "natural phenomenon",
-            "Q1347367": "aptitude",
-            "Q151885": "concept",
-            "Q15916540": "semantic unit",
-            "Q16332653": "meteorological phenomenon",
-            "Q16877783": "meaning",
-            "Q16889133": "class",
-            "Q1786828": "constituent",
-            "Q183046": "meaning",
-            "Q188572": "fact",
-            "Q1972098": "hydrometeor",
-            "Q20817253": "linguistic unit",
-            "Q2145290": "mental representation",
-            "Q246672": "mathematical object",
-            "Q25257": "Precipitation",
-            "Q2684591": "statement",
-            "Q26907166": "temporal entity",
-            "Q29651519": "mental object",
-            "Q30060700": "scientific object",
-            "Q35120": "entity",
-            "Q4072190": "atmospheric phenomenon",
-            "Q41796": "sentence",
-            "Q42848": "data",
-            "Q4393498": "representation",
-            "Q474328": "declarative sentence",
-            "Q483247": "phenomenon",
-            "Q488383": "object",
-            "Q5371079": "emic unit",
-            "Q58415929": "spatio-temporal entity",
-            "Q58928516": "meteorological concept",
-            "Q628523": "Message",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q930933": "relation",
-            "Q937228": "property",
-            "Q9380010": "utterance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "meteor",
+                "wdid": "Q12036439"
+            },
+            {
+                "label": "natural phenomenon",
+                "wdid": "Q1322005"
+            },
+            {
+                "label": "aptitude",
+                "wdid": "Q1347367"
+            },
+            {
+                "label": "meteorological phenomenon",
+                "wdid": "Q16332653"
+            },
+            {
+                "label": "hydrometeor",
+                "wdid": "Q1972098"
+            },
+            {
+                "label": "Precipitation",
+                "wdid": "Q25257"
+            },
+            {
+                "label": "atmospheric phenomenon",
+                "wdid": "Q4072190"
+            },
+            {
+                "label": "meteorological concept",
+                "wdid": "Q58928516"
+            }
+        ],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "wis",
@@ -1131,7 +1147,7 @@
         "citation": "visser:21:1[XV000245]",
         "clength": 49,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ikon</div>\n\t\t<div class=\"glossblock\">some</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tok</div>\n\t\t<div class=\"glossblock\">yet; still; first</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">leng</div>\n\t\t<div class=\"glossblock\">village; place</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-go</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">,</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bo</div>\n\t\t<div class=\"glossblock\">go</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">go</div>\n\t\t<div class=\"glossblock\">condition</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yuol</div>\n\t\t<div class=\"glossblock\">day</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=te</div>\n\t\t<div class=\"glossblock\">=NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eba</div>\n\t\t<div class=\"glossblock\">then</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mu</div>\n\t\t<div class=\"glossblock\">3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yecie</div>\n\t\t<div class=\"glossblock\">return</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "some",
@@ -1152,7 +1168,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "ikon",
@@ -1199,7 +1215,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "ma",
@@ -1245,7 +1261,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "putkon",
@@ -1285,7 +1301,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "mun",
@@ -1313,9 +1329,12 @@
         "clength": 53,
         "coordination": "and",
         "doc_ID": 0,
-        "entities": {
-            "Q6088718": "Mustafa's mother"
-        },
+        "entities": [
+            {
+                "label": "Mustafa's mother",
+                "wdid": "Q6088718"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mustafa</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">emun</div>\n\t\t<div class=\"glossblock\">mother.3POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=bon</div>\n\t\t<div class=\"glossblock\">=COM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Abdula</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">emun</div>\n\t\t<div class=\"glossblock\">mother.3POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=bon</div>\n\t\t<div class=\"glossblock\">=COM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mu</div>\n\t\t<div class=\"glossblock\">3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-ier</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=a</div>\n\t\t<div class=\"glossblock\">=FOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bo</div>\n\t\t<div class=\"glossblock\">go</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-t</div>\n\t\t<div class=\"glossblock\">T</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -1335,7 +1354,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "mustafa",
@@ -1378,7 +1397,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "mu",
@@ -1401,7 +1420,7 @@
         "citation": "visser:21:1[XV000320]",
         "clength": 26,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mu</div>\n\t\t<div class=\"glossblock\">3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">iam</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kelak</div>\n\t\t<div class=\"glossblock\">mountain; mainland</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=ka</div>\n\t\t<div class=\"glossblock\">=LAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gonggung</div>\n\t\t<div class=\"glossblock\">call; call.out</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3PL",
@@ -1415,7 +1434,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "mu",
@@ -1443,7 +1462,7 @@
         "citation": "visser:21:1[XV000329]",
         "clength": 55,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">an</div>\n\t\t<div class=\"glossblock\">1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kewe</div>\n\t\t<div class=\"glossblock\">house</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-ngga</div>\n\t\t<div class=\"glossblock\">LAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-ra</div>\n\t\t<div class=\"glossblock\">NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yecie</div>\n\t\t<div class=\"glossblock\">return</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-t</div>\n\t\t<div class=\"glossblock\">T</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=kin</div>\n\t\t<div class=\"glossblock\">=VOL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">,</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kabor</div>\n\t\t<div class=\"glossblock\">stomach</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-an</div>\n\t\t<div class=\"glossblock\">1SG.POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">iam</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lalang</div>\n\t\t<div class=\"glossblock\">hot</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1SG",
@@ -1465,7 +1484,7 @@
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "modality": "volitive",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "an",
@@ -1495,7 +1514,7 @@
         "citation": "visser:21:1[XV000343]",
         "clength": 30,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">emumur</div>\n\t\t<div class=\"glossblock\">mother; aunt; adult woman</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Tamisen</div>\n\t\t<div class=\"glossblock\">Antalisa</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-kadok</div>\n\t\t<div class=\"glossblock\">side; part</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">toni</div>\n\t\t<div class=\"glossblock\">say; want; think</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">...</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "mother; aunt; adult woman",
@@ -1508,7 +1527,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "emumur",
@@ -1539,7 +1558,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "kalis",
@@ -1563,9 +1582,12 @@
         "citation": "visser:21:1[XV000425]",
         "clength": 51,
         "doc_ID": 0,
-        "entities": {
-            "Q1777874": "fishnet"
-        },
+        "entities": [
+            {
+                "label": "fishnet",
+                "wdid": "Q1777874"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hukat</div>\n\t\t<div class=\"glossblock\">fish net</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kon</div>\n\t\t<div class=\"glossblock\">one</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">anggon</div>\n\t\t<div class=\"glossblock\">1SG.POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yua</div>\n\t\t<div class=\"glossblock\">PROX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">me</div>\n\t\t<div class=\"glossblock\">TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">paruo</div>\n\t\t<div class=\"glossblock\">do; make</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dong</div>\n\t\t<div class=\"glossblock\">chewy; tense</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-[...]</div>\n\t\t<div class=\"glossblock\">RED</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-kaning</div>\n\t\t<div class=\"glossblock\">very</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "fish net",
@@ -1583,7 +1605,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "hukat",
@@ -1610,9 +1632,12 @@
         "citation": "visser:21:1[XV000432]",
         "clength": 32,
         "doc_ID": 0,
-        "entities": {
-            "Q1072946": "chili"
-        },
+        "entities": [
+            {
+                "label": "chili",
+                "wdid": "Q1072946"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ya</div>\n\t\t<div class=\"glossblock\">yes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">olun</div>\n\t\t<div class=\"glossblock\">leaf</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lenggalengga</div>\n\t\t<div class=\"glossblock\">chilli</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=in</div>\n\t\t<div class=\"glossblock\">=poss</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-ggap</div>\n\t\t<div class=\"glossblock\">SIM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yes",
@@ -1626,7 +1651,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "ya",
@@ -1652,10 +1677,16 @@
         "citation": "visser:21:1[XV000530]",
         "clength": 53,
         "doc_ID": 0,
-        "entities": {
-            "Q406790": "planing",
-            "Q582062": "keel"
-        },
+        "entities": [
+            {
+                "label": "planing",
+                "wdid": "Q406790"
+            },
+            {
+                "label": "keel",
+                "wdid": "Q582062"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">desil</div>\n\t\t<div class=\"glossblock\">plane</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=i</div>\n\t\t<div class=\"glossblock\">=PLNK</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koyet</div>\n\t\t<div class=\"glossblock\">finish</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">an</div>\n\t\t<div class=\"glossblock\">1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koi</div>\n\t\t<div class=\"glossblock\">again</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">panggut</div>\n\t\t<div class=\"glossblock\">wood tool</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=ki</div>\n\t\t<div class=\"glossblock\">=INS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tenaun</div>\n\t\t<div class=\"glossblock\">keel</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=at</div>\n\t\t<div class=\"glossblock\">=OBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tawara</div>\n\t\t<div class=\"glossblock\">chop</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "plane",
@@ -1674,7 +1705,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "desil",
@@ -1720,7 +1751,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "in",
@@ -1743,9 +1774,12 @@
         "citation": "visser:21:1[XV000558]",
         "clength": 15,
         "doc_ID": 0,
-        "entities": {
-            "Q171529": "canoe"
-        },
+        "entities": [
+            {
+                "label": "canoe",
+                "wdid": "Q171529"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et</div>\n\t\t<div class=\"glossblock\">canoe</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sabar</div>\n\t\t<div class=\"glossblock\">front (of a boat)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=kin</div>\n\t\t<div class=\"glossblock\">=pw</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "canoe",
@@ -1757,54 +1791,48 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q106839123": "means of transport",
-            "Q11019": "Machine",
-            "Q1150771": "output",
-            "Q1183543": "appliance",
-            "Q1195684": "rowing boat",
-            "Q1229765": "watercraft",
-            "Q1408229": "finished good",
-            "Q1454986": "physical system",
-            "Q1485500": "tangible good",
-            "Q1507442": "human-powered vehicle",
-            "Q15401930": "artificial object",
-            "Q16686448": "artificial object",
-            "Q16889133": "class",
-            "Q18458812": "consumer goods",
-            "Q19279121": "free-emissions vehicle",
-            "Q2120578": "zero-emissions vehicle",
-            "Q2184715": "durable good",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q35872": "Boat",
-            "Q386724": "work",
-            "Q39546": "Tool",
-            "Q41321608": "vehicle without engine",
-            "Q42889": "Vehicle",
-            "Q43399738": "rowing equipment",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q50380212": "floating_object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q768186": "sports equipment",
-            "Q8205328": "artificial physical object",
-            "Q9158768": "storage",
-            "Q987767": "Container",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Machine",
+                "wdid": "Q11019"
+            },
+            {
+                "label": "rowing boat",
+                "wdid": "Q1195684"
+            },
+            {
+                "label": "watercraft",
+                "wdid": "Q1229765"
+            },
+            {
+                "label": "Boat",
+                "wdid": "Q35872"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            },
+            {
+                "label": "vehicle without engine",
+                "wdid": "Q41321608"
+            },
+            {
+                "label": "Vehicle",
+                "wdid": "Q42889"
+            },
+            {
+                "label": "rowing equipment",
+                "wdid": "Q43399738"
+            },
+            {
+                "label": "floating_object",
+                "wdid": "Q50380212"
+            },
+            {
+                "label": "sports equipment",
+                "wdid": "Q768186"
+            }
+        ],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "et",
@@ -1827,7 +1855,7 @@
         "citation": "visser:21:1[XV000559]",
         "clength": 25,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">an</div>\n\t\t<div class=\"glossblock\">1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kona</div>\n\t\t<div class=\"glossblock\">think</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma</div>\n\t\t<div class=\"glossblock\">3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rou</div>\n\t\t<div class=\"glossblock\">fall over</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-in</div>\n\t\t<div class=\"glossblock\">VOL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">deba</div>\n\t\t<div class=\"glossblock\">PROG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1SG",
@@ -1842,7 +1870,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "an",
@@ -1868,9 +1896,12 @@
         "citation": "visser:21:1[XV000572]",
         "clength": 30,
         "doc_ID": 0,
-        "entities": {
-            "Q1433693": "whip"
-        },
+        "entities": [
+            {
+                "label": "whip",
+                "wdid": "Q1433693"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mier</div>\n\t\t<div class=\"glossblock\">3DU</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">waranggeit</div>\n\t\t<div class=\"glossblock\">k.o.coral</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ko=</div>\n\t\t<div class=\"glossblock\">APPL=</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ar</div>\n\t\t<div class=\"glossblock\">dive</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=teba</div>\n\t\t<div class=\"glossblock\">=PROG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3DU",
@@ -1884,7 +1915,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "mier",
@@ -1921,7 +1952,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "ma",
@@ -1943,7 +1974,7 @@
         "citation": "visser:21:1[XV000622]",
         "clength": 35,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">luas</div>\n\t\t<div class=\"glossblock\">wide</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-un</div>\n\t\t<div class=\"glossblock\"> NMLZ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">me</div>\n\t\t<div class=\"glossblock\">TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mungkin</div>\n\t\t<div class=\"glossblock\">maybe</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meter</div>\n\t\t<div class=\"glossblock\">metre</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ap</div>\n\t\t<div class=\"glossblock\">five</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-kon</div>\n\t\t<div class=\"glossblock\">approximately</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "wide",
@@ -1959,7 +1990,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "luas",
@@ -1988,7 +2019,7 @@
         "citation": "visser:21:1[XV000630]",
         "clength": 31,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">an</div>\n\t\t<div class=\"glossblock\">1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wele</div>\n\t\t<div class=\"glossblock\">vegetables</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=at</div>\n\t\t<div class=\"glossblock\">=OBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma</div>\n\t\t<div class=\"glossblock\">3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-ongga</div>\n\t\t<div class=\"glossblock\">AN.LAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-ra</div>\n\t\t<div class=\"glossblock\">NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jie</div>\n\t\t<div class=\"glossblock\">get; buy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1SG",
@@ -2004,7 +2035,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "an",
@@ -2032,7 +2063,7 @@
         "clength": 52,
         "coordination": "or",
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ikon</div>\n\t\t<div class=\"glossblock\">some</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-i</div>\n\t\t<div class=\"glossblock\">QNT.OBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">an</div>\n\t\t<div class=\"glossblock\">1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">iam</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">parair</div>\n\t\t<div class=\"glossblock\">split; break</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mungkin</div>\n\t\t<div class=\"glossblock\">maybe</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*et</div>\n\t\t<div class=\"glossblock\">clf.an</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">purir</div>\n\t\t<div class=\"glossblock\">twenty</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-konggap</div>\n\t\t<div class=\"glossblock\">approximately</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ye</div>\n\t\t<div class=\"glossblock\">or</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "some",
@@ -2051,7 +2082,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "ikon",
@@ -2081,9 +2112,12 @@
         "citation": "visser:21:1[XV000634]",
         "clength": 39,
         "doc_ID": 0,
-        "entities": {
-            "Q167918": "grandparent"
-        },
+        "entities": [
+            {
+                "label": "grandparent",
+                "wdid": "Q167918"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mu</div>\n\t\t<div class=\"glossblock\">3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tok</div>\n\t\t<div class=\"glossblock\">yet; still; first</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">osie</div>\n\t\t<div class=\"glossblock\">rest</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">usinona</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">taraun</div>\n\t\t<div class=\"glossblock\">grandparent/child.3sg</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mu</div>\n\t\t<div class=\"glossblock\">3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=konggo</div>\n\t\t<div class=\"glossblock\">=AN.LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3PL",
@@ -2099,61 +2133,48 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q103940464": "continuant",
-            "Q106110777": "predecessor",
-            "Q106559804": "person or organization",
-            "Q108163": "proposition",
-            "Q11028": "information",
-            "Q12758374": "kin",
-            "Q15916540": "semantic unit",
-            "Q16334295": "group of humans",
-            "Q16334298": "group of living things",
-            "Q16877783": "meaning",
-            "Q16889133": "class",
-            "Q171318": "Kinship",
-            "Q1786828": "constituent",
-            "Q183046": "meaning",
-            "Q18336849": "",
-            "Q188572": "fact",
-            "Q20817253": "linguistic unit",
-            "Q215627": "person",
-            "Q2198779": "unit",
-            "Q23958946": "individual entity",
-            "Q24229398": "agent",
-            "Q246672": "mathematical object",
-            "Q24882651": "Second-degree_relative",
-            "Q26720107": "personal law",
-            "Q2684591": "statement",
-            "Q29651519": "mental object",
-            "Q30060700": "scientific object",
-            "Q35120": "entity",
-            "Q3778211": "legal person",
-            "Q402152": "Ancestor",
-            "Q41796": "sentence",
-            "Q42848": "data",
-            "Q4330518": "object of study",
-            "Q474328": "declarative sentence",
-            "Q483247": "phenomenon",
-            "Q488383": "object",
-            "Q5371079": "emic unit",
-            "Q58778": "system",
-            "Q602884": "social phenomenon",
-            "Q61961344": "group of physical objects",
-            "Q628523": "Message",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q7887142": "unit of analysis",
-            "Q795052": "individual",
-            "Q830077": "subject",
-            "Q853725": "social relation",
-            "Q874405": "human social group",
-            "Q930933": "relation",
-            "Q9380010": "utterance",
-            "Q98119401": "group or class of physical objects",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "predecessor",
+                "wdid": "Q106110777"
+            },
+            {
+                "label": "kin",
+                "wdid": "Q12758374"
+            },
+            {
+                "label": "group of humans",
+                "wdid": "Q16334295"
+            },
+            {
+                "label": "Kinship",
+                "wdid": "Q171318"
+            },
+            {
+                "label": "person",
+                "wdid": "Q215627"
+            },
+            {
+                "label": "unit",
+                "wdid": "Q2198779"
+            },
+            {
+                "label": "Second-degree_relative",
+                "wdid": "Q24882651"
+            },
+            {
+                "label": "Ancestor",
+                "wdid": "Q402152"
+            },
+            {
+                "label": "social relation",
+                "wdid": "Q853725"
+            },
+            {
+                "label": "human social group",
+                "wdid": "Q874405"
+            }
+        ],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "mu",
@@ -2179,7 +2200,7 @@
         "citation": "visser:21:1[XV000748]",
         "clength": 24,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">leng</div>\n\t\t<div class=\"glossblock\">village; place</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dek</div>\n\t\t<div class=\"glossblock\">dangle</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=ta</div>\n\t\t<div class=\"glossblock\">=NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">an</div>\n\t\t<div class=\"glossblock\">1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">narasa</div>\n\t\t<div class=\"glossblock\">taste</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "village; place",
@@ -2193,7 +2214,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "leng",
@@ -2237,7 +2258,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "an",
@@ -2268,7 +2289,7 @@
         "citation": "visser:21:1[XV000780]",
         "clength": 74,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tumtum</div>\n\t\t<div class=\"glossblock\">child</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eir</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">naras</div>\n\t\t<div class=\"glossblock\">fight</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=ta</div>\n\t\t<div class=\"glossblock\">=NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ema</div>\n\t\t<div class=\"glossblock\">mother; aunt; adult woman</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-un</div>\n\t\t<div class=\"glossblock\">3POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">toni</div>\n\t\t<div class=\"glossblock\">say; want; think</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">:</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">\"</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma</div>\n\t\t<div class=\"glossblock\">3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">iam</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">me</div>\n\t\t<div class=\"glossblock\">TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">,</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ki</div>\n\t\t<div class=\"glossblock\">2PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-mun</div>\n\t\t<div class=\"glossblock\">PROH</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">iam</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">naras</div>\n\t\t<div class=\"glossblock\">fight</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=in</div>\n\t\t<div class=\"glossblock\">=PROH</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.\"</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "child",
@@ -2296,7 +2317,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "tumtum",
@@ -2336,7 +2357,7 @@
         "citation": "visser:21:1[XV000784]",
         "clength": 35,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sontum</div>\n\t\t<div class=\"glossblock\">person</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mu</div>\n\t\t<div class=\"glossblock\">3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-mahap</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">owangga</div>\n\t\t<div class=\"glossblock\">F.DIST.LAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ra</div>\n\t\t<div class=\"glossblock\">move.path; install; become</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rapat</div>\n\t\t<div class=\"glossblock\">meet</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "person",
@@ -2351,7 +2372,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "sontum",
@@ -2380,7 +2401,7 @@
         "citation": "visser:21:1[XV000846]",
         "clength": 22,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pi</div>\n\t\t<div class=\"glossblock\">1PL.IN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wa</div>\n\t\t<div class=\"glossblock\">PROX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">me</div>\n\t\t<div class=\"glossblock\">TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sou</div>\n\t\t<div class=\"glossblock\">slide</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=i</div>\n\t\t<div class=\"glossblock\">=PLNK</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">reba</div>\n\t\t<div class=\"glossblock\">PROG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1PL.IN",
@@ -2395,7 +2416,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "pi",
@@ -2433,7 +2454,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "ka",
@@ -2458,7 +2479,7 @@
         "citation": "visser:21:1[XV000908]",
         "clength": 32,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">in</div>\n\t\t<div class=\"glossblock\">1PL.EX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*tara</div>\n\t\t<div class=\"glossblock\">grandchild; grandparent</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-mur</div>\n\t\t<div class=\"glossblock\">PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pang</div>\n\t\t<div class=\"glossblock\">summit</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-ga</div>\n\t\t<div class=\"glossblock\">LAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">era</div>\n\t\t<div class=\"glossblock\">move.up</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-re</div>\n\t\t<div class=\"glossblock\">NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1PL.EX",
@@ -2474,7 +2495,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "in",
@@ -2502,7 +2523,7 @@
         "citation": "visser:21:1[XV000915]",
         "clength": 25,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pi</div>\n\t\t<div class=\"glossblock\">1PL.IN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">timun</div>\n\t\t<div class=\"glossblock\">edge; tip</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=at</div>\n\t\t<div class=\"glossblock\">=OBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kowarma</div>\n\t\t<div class=\"glossblock\">break; fold</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-n</div>\n\t\t<div class=\"glossblock\">N</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1PL.IN",
@@ -2516,7 +2537,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "pi",
@@ -2543,7 +2564,7 @@
         "citation": "visser:21:1[XV000916]",
         "clength": 34,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ketan</div>\n\t\t<div class=\"glossblock\">parent in law; child in law</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-an</div>\n\t\t<div class=\"glossblock\">1SG.POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=a</div>\n\t\t<div class=\"glossblock\">=FOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wa</div>\n\t\t<div class=\"glossblock\">PROX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">esa</div>\n\t\t<div class=\"glossblock\">father; adult man; uncle</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-n</div>\n\t\t<div class=\"glossblock\">N</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-an</div>\n\t\t<div class=\"glossblock\">1SG.POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=a</div>\n\t\t<div class=\"glossblock\">=FOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wa</div>\n\t\t<div class=\"glossblock\">PROX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "parent in law; child in law",
@@ -2561,7 +2582,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "ketan",
@@ -2591,7 +2612,7 @@
         "citation": "visser:21:1[XV000920]",
         "clength": 43,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nabestai</div>\n\t\t<div class=\"glossblock\">well</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bo</div>\n\t\t<div class=\"glossblock\">go</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-t</div>\n\t\t<div class=\"glossblock\">T</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eh</div>\n\t\t<div class=\"glossblock\">tag</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">,</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kirim</div>\n\t\t<div class=\"glossblock\">send</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">salam</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mu</div>\n\t\t<div class=\"glossblock\">3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-onggo</div>\n\t\t<div class=\"glossblock\">AN.LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">!</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "well",
@@ -2609,7 +2630,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "nabestai",
@@ -2638,9 +2659,12 @@
         "citation": "visser:21:1[XV000947]",
         "clength": 28,
         "doc_ID": 0,
-        "entities": {
-            "Q1393640": "Fakfak"
-        },
+        "entities": [
+            {
+                "label": "Fakfak",
+                "wdid": "Q1393640"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bobi</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-nan</div>\n\t\t<div class=\"glossblock\">too</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pakpak</div>\n\t\t<div class=\"glossblock\">Fakfak (town)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=ka</div>\n\t\t<div class=\"glossblock\">=LAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bo</div>\n\t\t<div class=\"glossblock\">go</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-t</div>\n\t\t<div class=\"glossblock\">T</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -2655,7 +2679,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "bobi",
@@ -2682,7 +2706,7 @@
         "citation": "visser:21:1[XV000949]",
         "clength": 38,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pi</div>\n\t\t<div class=\"glossblock\">1PL.IN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-aninggan</div>\n\t\t<div class=\"glossblock\">[quantifying pronominal suffix]; all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=a</div>\n\t\t<div class=\"glossblock\">=FOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">iam</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yonsong</div>\n\t\t<div class=\"glossblock\">motor boat</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=at</div>\n\t\t<div class=\"glossblock\">=OBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koluk</div>\n\t\t<div class=\"glossblock\">find; meet</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1PL.IN",
@@ -2698,7 +2722,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "pi",
@@ -2734,7 +2758,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "nauwar",
@@ -2759,7 +2783,7 @@
         "citation": "visser:21:1[XV000998]",
         "clength": 34,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">marain</div>\n\t\t<div class=\"glossblock\">3SG.alone</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kewe</div>\n\t\t<div class=\"glossblock\">house</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-un</div>\n\t\t<div class=\"glossblock\">3POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">osa</div>\n\t\t<div class=\"glossblock\">up</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-ne</div>\n\t\t<div class=\"glossblock\">DEM.SUF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nawanona</div>\n\t\t<div class=\"glossblock\">tidy; balance; clean.wood</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3SG.alone",
@@ -2774,7 +2798,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "marain",
@@ -2800,7 +2824,7 @@
         "citation": "visser:21:1[XV001002]",
         "clength": 30,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">neba</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=at</div>\n\t\t<div class=\"glossblock\">=OBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=a</div>\n\t\t<div class=\"glossblock\">=FOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">paruo</div>\n\t\t<div class=\"glossblock\">do; make</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ge</div>\n\t\t<div class=\"glossblock\">not; no</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">,</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">o</div>\n\t\t<div class=\"glossblock\">EMPH</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">...</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "what",
@@ -2817,7 +2841,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "neba",
@@ -2862,7 +2886,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "an",
@@ -2890,9 +2914,12 @@
         "citation": "visser:21:1[XV001023]",
         "clength": 57,
         "doc_ID": 0,
-        "entities": {
-            "Q723673": "small stones"
-        },
+        "entities": [
+            {
+                "label": "small stones",
+                "wdid": "Q723673"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yar</div>\n\t\t<div class=\"glossblock\">stone</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kinkin</div>\n\t\t<div class=\"glossblock\">small</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=bon</div>\n\t\t<div class=\"glossblock\">=COM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">supaya</div>\n\t\t<div class=\"glossblock\">so.that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kalis</div>\n\t\t<div class=\"glossblock\">rain</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=ero</div>\n\t\t<div class=\"glossblock\">=COND</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">me</div>\n\t\t<div class=\"glossblock\">TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mamun</div>\n\t\t<div class=\"glossblock\">leave</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rapar</div>\n\t\t<div class=\"glossblock\">tight</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=in</div>\n\t\t<div class=\"glossblock\">=PROH</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">to</div>\n\t\t<div class=\"glossblock\">right</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "stone",
@@ -2912,7 +2939,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "yar",
@@ -2950,7 +2977,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "pak",
@@ -2968,7 +2995,7 @@
         "citation": "visser:21:1[XV001111]",
         "clength": 32,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">\"</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ur</div>\n\t\t<div class=\"glossblock\">wind</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">temun</div>\n\t\t<div class=\"glossblock\">big</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?\"</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">\"</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ge</div>\n\t\t<div class=\"glossblock\">not; no</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">,</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pasier</div>\n\t\t<div class=\"glossblock\">sea</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">up</div>\n\t\t<div class=\"glossblock\">calm</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">\"</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -2986,7 +3013,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "\"",
@@ -3027,7 +3054,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "tumtum",
@@ -3051,7 +3078,7 @@
         "citation": "visser:21:1[XV001133]",
         "clength": 32,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">penyakit</div>\n\t\t<div class=\"glossblock\">illness; curse</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ka</div>\n\t\t<div class=\"glossblock\">2SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=at</div>\n\t\t<div class=\"glossblock\">=OBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na</div>\n\t\t<div class=\"glossblock\">consume</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-n</div>\n\t\t<div class=\"glossblock\">N</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=et</div>\n\t\t<div class=\"glossblock\">=IRR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-kon</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">!</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "illness; curse",
@@ -3067,7 +3094,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "penyakit",
@@ -3098,7 +3125,7 @@
         "citation": "visser:21:1[XV001151]",
         "clength": 52,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">os</div>\n\t\t<div class=\"glossblock\">sand</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">me</div>\n\t\t<div class=\"glossblock\">DIST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=at</div>\n\t\t<div class=\"glossblock\">=OBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">di=</div>\n\t\t<div class=\"glossblock\">CAUS=</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tawir</div>\n\t\t<div class=\"glossblock\">side</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-pis</div>\n\t\t<div class=\"glossblock\">side</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">metko</div>\n\t\t<div class=\"glossblock\">DIST.LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-ra</div>\n\t\t<div class=\"glossblock\">NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">merengguen</div>\n\t\t<div class=\"glossblock\">heap; gather</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-dar</div>\n\t\t<div class=\"glossblock\">PL.IMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "sand",
@@ -3117,7 +3144,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "os",
@@ -3146,7 +3173,7 @@
         "citation": "visser:21:1[XV001202]",
         "clength": 23,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ki</div>\n\t\t<div class=\"glossblock\">2PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bo</div>\n\t\t<div class=\"glossblock\">go</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ra</div>\n\t\t<div class=\"glossblock\">move.path; install; become</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ba</div>\n\t\t<div class=\"glossblock\">then</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wuorma</div>\n\t\t<div class=\"glossblock\">cut down a tree; cut</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=r</div>\n\t\t<div class=\"glossblock\">=PL.IMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">!</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "2PL",
@@ -3161,7 +3188,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "ki",
@@ -3187,9 +3214,12 @@
         "citation": "visser:21:1[XV001228]",
         "clength": 31,
         "doc_ID": 0,
-        "entities": {
-            "Q771415": "squirrelfish"
-        },
+        "entities": [
+            {
+                "label": "squirrelfish",
+                "wdid": "Q771415"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sasep</div>\n\t\t<div class=\"glossblock\">squirrelfish or soldierfish or cardinalfish</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">temun</div>\n\t\t<div class=\"glossblock\">big</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kon</div>\n\t\t<div class=\"glossblock\">one</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=a</div>\n\t\t<div class=\"glossblock\">=FOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wa</div>\n\t\t<div class=\"glossblock\">PROX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-rip</div>\n\t\t<div class=\"glossblock\">DGR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ye</div>\n\t\t<div class=\"glossblock\">or</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "squirrelfish or soldierfish or cardinalfish",
@@ -3205,7 +3235,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "sasep",
@@ -3233,7 +3263,7 @@
         "clength": 45,
         "coordination": "and",
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">binkur</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">esa</div>\n\t\t<div class=\"glossblock\">father; adult man; uncle</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-un</div>\n\t\t<div class=\"glossblock\">3POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mu</div>\n\t\t<div class=\"glossblock\">3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bak</div>\n\t\t<div class=\"glossblock\">container</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=at</div>\n\t\t<div class=\"glossblock\">=OBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">paruo</div>\n\t\t<div class=\"glossblock\">do; make</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ba</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">iam</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koyet</div>\n\t\t<div class=\"glossblock\">finish</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -3252,7 +3282,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "binkur",
@@ -3281,7 +3311,7 @@
         "citation": "visser:21:1[XV001354]",
         "clength": 19,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kieun</div>\n\t\t<div class=\"glossblock\">his wife</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yie</div>\n\t\t<div class=\"glossblock\">swim</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wa</div>\n\t\t<div class=\"glossblock\">PROX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-sen</div>\n\t\t<div class=\"glossblock\">DGR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "his wife",
@@ -3294,7 +3324,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "kieun",
@@ -3319,7 +3349,7 @@
         "citation": "visser:21:1[XV001425]",
         "clength": 43,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">selagur wadan</div>\n\t\t<div class=\"glossblock\">Selagur Wadan</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">suka</div>\n\t\t<div class=\"glossblock\">like; want</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-un</div>\n\t\t<div class=\"glossblock\">3POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ge</div>\n\t\t<div class=\"glossblock\">not; no</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">:</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">\"</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ka</div>\n\t\t<div class=\"glossblock\">2SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">borarei</div>\n\t\t<div class=\"glossblock\">front</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">!\"</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Selagur Wadan",
@@ -3337,7 +3367,7 @@
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "modality": "volitive",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "selagur wadan",
@@ -3365,10 +3395,16 @@
         "clength": 18,
         "coordination": "and",
         "doc_ID": 0,
-        "entities": {
-            "Q1905026": "Madi",
-            "Q772989": "family leave"
-        },
+        "entities": [
+            {
+                "label": "Madi",
+                "wdid": "Q1905026"
+            },
+            {
+                "label": "family leave",
+                "wdid": "Q772989"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">madi</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mu</div>\n\t\t<div class=\"glossblock\">3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">iam</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bo</div>\n\t\t<div class=\"glossblock\">go</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-t</div>\n\t\t<div class=\"glossblock\">T</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -3382,7 +3418,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "madi",
@@ -3421,7 +3457,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "toman",
@@ -3448,9 +3484,12 @@
         "citation": "visser:21:1[XV001441]",
         "clength": 42,
         "doc_ID": 0,
-        "entities": {
-            "Q3892546": "Temi"
-        },
+        "entities": [
+            {
+                "label": "Temi",
+                "wdid": "Q3892546"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">in</div>\n\t\t<div class=\"glossblock\">1PL.EX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Timi Nepnep</div>\n\t\t<div class=\"glossblock\">beach.name</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=i</div>\n\t\t<div class=\"glossblock\">=PLNK</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaluar</div>\n\t\t<div class=\"glossblock\">go.out</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ta</div>\n\t\t<div class=\"glossblock\">NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">me</div>\n\t\t<div class=\"glossblock\">TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ur</div>\n\t\t<div class=\"glossblock\">wind</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mendak</div>\n\t\t<div class=\"glossblock\">like that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1PL.EX",
@@ -3467,7 +3506,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "in",
@@ -3495,10 +3534,16 @@
         "citation": "visser:21:1[XV001456]",
         "clength": 40,
         "doc_ID": 0,
-        "entities": {
-            "Q184395": "sea water",
-            "Q85803353": "touches"
-        },
+        "entities": [
+            {
+                "label": "sea water",
+                "wdid": "Q184395"
+            },
+            {
+                "label": "touches",
+                "wdid": "Q85803353"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pasier</div>\n\t\t<div class=\"glossblock\">sea</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=at</div>\n\t\t<div class=\"glossblock\">=OBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma</div>\n\t\t<div class=\"glossblock\">3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=at</div>\n\t\t<div class=\"glossblock\">=OBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kosara</div>\n\t\t<div class=\"glossblock\">hit; touch</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-n</div>\n\t\t<div class=\"glossblock\">N</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-daero</div>\n\t\t<div class=\"glossblock\">even if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bes</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "sea",
@@ -3515,27 +3560,28 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q12882296": "homogeneous mixture",
-            "Q1454986": "physical system",
-            "Q169336": "mixture",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q30060700": "scientific object",
-            "Q35120": "entity",
-            "Q35758": "matter",
-            "Q378078": "substance",
-            "Q43460564": "chemical entity",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q496805": "saline water",
-            "Q5447188": "solution",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q79529": "chemical substance",
-            "Q906356": "aqueous solution",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "homogeneous mixture",
+                "wdid": "Q12882296"
+            },
+            {
+                "label": "mixture",
+                "wdid": "Q169336"
+            },
+            {
+                "label": "saline water",
+                "wdid": "Q496805"
+            },
+            {
+                "label": "solution",
+                "wdid": "Q5447188"
+            },
+            {
+                "label": "aqueous solution",
+                "wdid": "Q906356"
+            }
+        ],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "pasier",
@@ -3562,7 +3608,7 @@
         "citation": "visser:21:1[XV001464]",
         "clength": 36,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lepir</div>\n\t\t<div class=\"glossblock\">rafter</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tai-</div>\n\t\t<div class=\"glossblock\">side</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kibis</div>\n\t\t<div class=\"glossblock\">shore, land, inland</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-kado</div>\n\t\t<div class=\"glossblock\">side; part</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=a</div>\n\t\t<div class=\"glossblock\">=FOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">paku</div>\n\t\t<div class=\"glossblock\">nail</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-re</div>\n\t\t<div class=\"glossblock\">IMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">!</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "rafter",
@@ -3578,7 +3624,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "lepir",
@@ -3606,7 +3652,7 @@
         "citation": "visser:21:1[XV001466]",
         "clength": 30,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">an</div>\n\t\t<div class=\"glossblock\">1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-dain</div>\n\t\t<div class=\"glossblock\">alone</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ladan</div>\n\t\t<div class=\"glossblock\">blouze; shirt</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-an</div>\n\t\t<div class=\"glossblock\">1SG.POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">me</div>\n\t\t<div class=\"glossblock\">DIST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=at</div>\n\t\t<div class=\"glossblock\">=OBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma</div>\n\t\t<div class=\"glossblock\">3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1SG",
@@ -3622,7 +3668,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "an",
@@ -3656,7 +3702,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "putkansuor",
@@ -3691,7 +3737,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "pawan",
@@ -3715,10 +3761,16 @@
         "citation": "visser:21:1[XV001535]",
         "clength": 38,
         "doc_ID": 0,
-        "entities": {
-            "Q107428": "kilo",
-            "Q41588": "rupiah"
-        },
+        "entities": [
+            {
+                "label": "kilo",
+                "wdid": "Q107428"
+            },
+            {
+                "label": "rupiah",
+                "wdid": "Q41588"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma</div>\n\t\t<div class=\"glossblock\">3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jie</div>\n\t\t<div class=\"glossblock\">get; buy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-re</div>\n\t\t<div class=\"glossblock\">NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kilo</div>\n\t\t<div class=\"glossblock\">kilo</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kon</div>\n\t\t<div class=\"glossblock\">one</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-de</div>\n\t\t<div class=\"glossblock\">DISTR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ripi</div>\n\t\t<div class=\"glossblock\">thousand</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">puraman</div>\n\t\t<div class=\"glossblock\">how many</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3SG",
@@ -3735,7 +3787,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "ma",
@@ -3765,7 +3817,7 @@
         "clength": 35,
         "coordination": "and",
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mu</div>\n\t\t<div class=\"glossblock\">3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">iam</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma</div>\n\t\t<div class=\"glossblock\">3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=at</div>\n\t\t<div class=\"glossblock\">=OBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tangkap</div>\n\t\t<div class=\"glossblock\">record; catch</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=te</div>\n\t\t<div class=\"glossblock\">=NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kuru</div>\n\t\t<div class=\"glossblock\">bring</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mia</div>\n\t\t<div class=\"glossblock\">come</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3PL",
@@ -3782,7 +3834,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "mu",
@@ -3811,7 +3863,7 @@
         "citation": "visser:21:1[XV001537]",
         "clength": 18,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ka</div>\n\t\t<div class=\"glossblock\">2SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">me</div>\n\t\t<div class=\"glossblock\">TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">or</div>\n\t\t<div class=\"glossblock\">back; tail</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=ko</div>\n\t\t<div class=\"glossblock\">=LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-re</div>\n\t\t<div class=\"glossblock\">IMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">!</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "2SG",
@@ -3825,7 +3877,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "ka",
@@ -3861,7 +3913,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "ka",
@@ -3905,7 +3957,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "muap",
@@ -3936,7 +3988,7 @@
         "citation": "visser:21:1[XV001559]",
         "clength": 53,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sontum</div>\n\t\t<div class=\"glossblock\">person</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sor</div>\n\t\t<div class=\"glossblock\">fish</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=at</div>\n\t\t<div class=\"glossblock\">=OBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sanggara</div>\n\t\t<div class=\"glossblock\">search</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-t</div>\n\t\t<div class=\"glossblock\">T</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-n</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-den</div>\n\t\t<div class=\"glossblock\">TEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pitis</div>\n\t\t<div class=\"glossblock\">money</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-un</div>\n\t\t<div class=\"glossblock\">3POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">saerak</div>\n\t\t<div class=\"glossblock\">neg.ext; empty</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "person",
@@ -3955,7 +4007,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "sontum",
@@ -3984,7 +4036,7 @@
         "citation": "visser:21:1[XV001593]",
         "clength": 19,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lek</div>\n\t\t<div class=\"glossblock\">goat</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma</div>\n\t\t<div class=\"glossblock\">3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">me</div>\n\t\t<div class=\"glossblock\">TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tok</div>\n\t\t<div class=\"glossblock\">yet; still; first</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bes</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "goat",
@@ -3998,7 +4050,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "lek",
@@ -4023,7 +4075,7 @@
         "citation": "visser:21:1[XV001594]",
         "clength": 30,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tok</div>\n\t\t<div class=\"glossblock\">yet; still; first</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tok</div>\n\t\t<div class=\"glossblock\">yet; still; first</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">,</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pi</div>\n\t\t<div class=\"glossblock\">1PL.IN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tok</div>\n\t\t<div class=\"glossblock\">yet; still; first</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">masarur</div>\n\t\t<div class=\"glossblock\">tear</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=et</div>\n\t\t<div class=\"glossblock\">=IRR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yet; still; first",
@@ -4039,7 +4091,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "tok",
@@ -4068,7 +4120,7 @@
         "citation": "visser:21:1[XV001597]",
         "clength": 27,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tok</div>\n\t\t<div class=\"glossblock\">yet; still; first</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=ta</div>\n\t\t<div class=\"glossblock\">=NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">me</div>\n\t\t<div class=\"glossblock\">TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mena</div>\n\t\t<div class=\"glossblock\">later</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pi</div>\n\t\t<div class=\"glossblock\">1PL.IN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bo</div>\n\t\t<div class=\"glossblock\">go</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=et</div>\n\t\t<div class=\"glossblock\">=IRR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yet; still; first",
@@ -4084,7 +4136,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "tok",
@@ -4122,7 +4174,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "ma",
@@ -4146,9 +4198,12 @@
         "citation": "visser:21:1[XV001642]",
         "clength": 32,
         "doc_ID": 0,
-        "entities": {
-            "Q83376": "rum"
-        },
+        "entities": [
+            {
+                "label": "rum",
+                "wdid": "Q83376"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma</div>\n\t\t<div class=\"glossblock\">3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rum</div>\n\t\t<div class=\"glossblock\">k.o. fish</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-un</div>\n\t\t<div class=\"glossblock\">3POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*et</div>\n\t\t<div class=\"glossblock\">clf.an</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-taman</div>\n\t\t<div class=\"glossblock\">few</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-i</div>\n\t\t<div class=\"glossblock\">QNT.OBJ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ramie</div>\n\t\t<div class=\"glossblock\">pull; drag</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3SG",
@@ -4164,7 +4219,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "ma",
@@ -4203,7 +4258,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "tumtum",
@@ -4227,7 +4282,7 @@
         "citation": "visser:21:1[XV001655]",
         "clength": 27,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">in</div>\n\t\t<div class=\"glossblock\">1PL.EX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bo</div>\n\t\t<div class=\"glossblock\">go</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-t</div>\n\t\t<div class=\"glossblock\">T</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=kin</div>\n\t\t<div class=\"glossblock\">=VOL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ba</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ur</div>\n\t\t<div class=\"glossblock\">wind</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">temun</div>\n\t\t<div class=\"glossblock\">big</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1PL.EX",
@@ -4244,7 +4299,7 @@
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "modality": "volitive",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "in",
@@ -4267,7 +4322,7 @@
         "citation": "visser:21:1[XV001689]",
         "clength": 28,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">warkin</div>\n\t\t<div class=\"glossblock\">tide</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">iam</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bo</div>\n\t\t<div class=\"glossblock\">go</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">garos</div>\n\t\t<div class=\"glossblock\">low</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gosomin</div>\n\t\t<div class=\"glossblock\">disappeared</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "tide",
@@ -4281,7 +4336,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "warkin",
@@ -4305,11 +4360,20 @@
         "citation": "visser:21:1[XV001690]",
         "clength": 49,
         "doc_ID": 0,
-        "entities": {
-            "Q1905026": "Madi",
-            "Q23384": "low tide",
-            "Q25368": "clams"
-        },
+        "entities": [
+            {
+                "label": "Madi",
+                "wdid": "Q1905026"
+            },
+            {
+                "label": "low tide",
+                "wdid": "Q23384"
+            },
+            {
+                "label": "clams",
+                "wdid": "Q25368"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">warkin</div>\n\t\t<div class=\"glossblock\">tide</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kararak</div>\n\t\t<div class=\"glossblock\">dry</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=ta</div>\n\t\t<div class=\"glossblock\">=NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Madi</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ema</div>\n\t\t<div class=\"glossblock\">mother; aunt; adult woman</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-un</div>\n\t\t<div class=\"glossblock\">3POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bo</div>\n\t\t<div class=\"glossblock\">go</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabuon</div>\n\t\t<div class=\"glossblock\">small clam; sea snail</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kajie</div>\n\t\t<div class=\"glossblock\">pick; weave</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "tide",
@@ -4327,28 +4391,24 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q1150070": "change",
-            "Q1190554": "occurrence",
-            "Q1293220": "physical phenomenon",
-            "Q16722960": "phenomenon",
-            "Q16887380": "group",
-            "Q170475": "oscillation",
-            "Q17320256": "physical process",
-            "Q17988854": "active motion",
-            "Q1914636": "activity",
-            "Q20937557": "sequence",
-            "Q26907166": "temporal entity",
-            "Q28195494": "fluid flow",
-            "Q28813620": "set",
-            "Q3249551": "process",
-            "Q35120": "entity",
-            "Q58415929": "spatio-temporal entity",
-            "Q67518978": "occurrent",
-            "Q79782": "motion",
-            "Q9332": "behavior",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "phenomenon",
+                "wdid": "Q16722960"
+            },
+            {
+                "label": "oscillation",
+                "wdid": "Q170475"
+            },
+            {
+                "label": "active motion",
+                "wdid": "Q17988854"
+            },
+            {
+                "label": "fluid flow",
+                "wdid": "Q28195494"
+            }
+        ],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "warkin",
@@ -4373,11 +4433,20 @@
         "citation": "visser:21:1[XV001691]",
         "clength": 27,
         "doc_ID": 0,
-        "entities": {
-            "Q171529": "canoes",
-            "Q23384": "high tide",
-            "Q6497624": "float"
-        },
+        "entities": [
+            {
+                "label": "canoes",
+                "wdid": "Q171529"
+            },
+            {
+                "label": "high tide",
+                "wdid": "Q23384"
+            },
+            {
+                "label": "float",
+                "wdid": "Q6497624"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">warkin</div>\n\t\t<div class=\"glossblock\">tide</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">iam</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">laur</div>\n\t\t<div class=\"glossblock\">rising tide</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et</div>\n\t\t<div class=\"glossblock\">canoe</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">iam</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pouk</div>\n\t\t<div class=\"glossblock\">float</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "tide",
@@ -4392,71 +4461,64 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q106839123": "means of transport",
-            "Q11019": "Machine",
-            "Q1150070": "change",
-            "Q1150771": "output",
-            "Q1183543": "appliance",
-            "Q1190554": "occurrence",
-            "Q1195684": "rowing boat",
-            "Q1229765": "watercraft",
-            "Q1293220": "physical phenomenon",
-            "Q1408229": "finished good",
-            "Q1454986": "physical system",
-            "Q1485500": "tangible good",
-            "Q1507442": "human-powered vehicle",
-            "Q15401930": "artificial object",
-            "Q16686448": "artificial object",
-            "Q16722960": "phenomenon",
-            "Q16887380": "group",
-            "Q16889133": "class",
-            "Q170475": "oscillation",
-            "Q17320256": "physical process",
-            "Q17988854": "active motion",
-            "Q18458812": "consumer goods",
-            "Q1914636": "activity",
-            "Q19279121": "free-emissions vehicle",
-            "Q20937557": "sequence",
-            "Q2120578": "zero-emissions vehicle",
-            "Q2184715": "durable good",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q26907166": "temporal entity",
-            "Q28195494": "fluid flow",
-            "Q28813620": "set",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q3249551": "process",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q35872": "Boat",
-            "Q386724": "work",
-            "Q39546": "Tool",
-            "Q41321608": "vehicle without engine",
-            "Q42889": "Vehicle",
-            "Q43399738": "rowing equipment",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q50380212": "floating_object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q67518978": "occurrent",
-            "Q768186": "sports equipment",
-            "Q79782": "motion",
-            "Q8205328": "artificial physical object",
-            "Q9158768": "storage",
-            "Q9332": "behavior",
-            "Q987767": "Container",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Machine",
+                "wdid": "Q11019"
+            },
+            {
+                "label": "rowing boat",
+                "wdid": "Q1195684"
+            },
+            {
+                "label": "watercraft",
+                "wdid": "Q1229765"
+            },
+            {
+                "label": "Boat",
+                "wdid": "Q35872"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            },
+            {
+                "label": "vehicle without engine",
+                "wdid": "Q41321608"
+            },
+            {
+                "label": "Vehicle",
+                "wdid": "Q42889"
+            },
+            {
+                "label": "rowing equipment",
+                "wdid": "Q43399738"
+            },
+            {
+                "label": "floating_object",
+                "wdid": "Q50380212"
+            },
+            {
+                "label": "sports equipment",
+                "wdid": "Q768186"
+            },
+            {
+                "label": "phenomenon",
+                "wdid": "Q16722960"
+            },
+            {
+                "label": "oscillation",
+                "wdid": "Q170475"
+            },
+            {
+                "label": "active motion",
+                "wdid": "Q17988854"
+            },
+            {
+                "label": "fluid flow",
+                "wdid": "Q28195494"
+            }
+        ],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "warkin",
@@ -4481,9 +4543,12 @@
         "citation": "visser:21:1[XV001692]",
         "clength": 31,
         "doc_ID": 0,
-        "entities": {
-            "Q129711": "tide is high"
-        },
+        "entities": [
+            {
+                "label": "tide is high",
+                "wdid": "Q129711"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">go</div>\n\t\t<div class=\"glossblock\">condition</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">saun</div>\n\t\t<div class=\"glossblock\">night</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=et</div>\n\t\t<div class=\"glossblock\">=IRR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">me</div>\n\t\t<div class=\"glossblock\">TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">warkin</div>\n\t\t<div class=\"glossblock\">tide</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nasesak</div>\n\t\t<div class=\"glossblock\">high.tide</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "condition",
@@ -4498,7 +4563,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "go",
@@ -4524,9 +4589,12 @@
         "citation": "visser:21:1[XV001693]",
         "clength": 42,
         "doc_ID": 0,
-        "entities": {
-            "Q168182": "midday"
-        },
+        "entities": [
+            {
+                "label": "midday",
+                "wdid": "Q168182"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">go</div>\n\t\t<div class=\"glossblock\">condition</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">iam</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yuol</div>\n\t\t<div class=\"glossblock\">day</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=et</div>\n\t\t<div class=\"glossblock\">=IRR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=kap</div>\n\t\t<div class=\"glossblock\">=SIM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">me</div>\n\t\t<div class=\"glossblock\">TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">warkin</div>\n\t\t<div class=\"glossblock\">tide</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">iam</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tararup</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "condition",
@@ -4544,7 +4612,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "go",
@@ -4573,7 +4641,7 @@
         "citation": "visser:21:1[XV001745]",
         "clength": 26,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma</div>\n\t\t<div class=\"glossblock\">3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">taruo</div>\n\t\t<div class=\"glossblock\">say</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wilak</div>\n\t\t<div class=\"glossblock\">sea</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yu-</div>\n\t\t<div class=\"glossblock\">dem prefix</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">watko</div>\n\t\t<div class=\"glossblock\">PROX.LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3SG",
@@ -4587,7 +4655,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "ma",
@@ -4615,7 +4683,7 @@
         "citation": "visser:21:1[XV001752]",
         "clength": 45,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aduh</div>\n\t\t<div class=\"glossblock\">INT.MLY</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tuhan</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">o</div>\n\t\t<div class=\"glossblock\">EMPH</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yuon</div>\n\t\t<div class=\"glossblock\">sun</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=ba</div>\n\t\t<div class=\"glossblock\">=FOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">min</div>\n\t\t<div class=\"glossblock\">throat</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tolma</div>\n\t\t<div class=\"glossblock\">cut.string; take a shortcut</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-r</div>\n\t\t<div class=\"glossblock\">T</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">=et</div>\n\t\t<div class=\"glossblock\">=IRR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-kon</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">!</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "INT.MLY",
@@ -4634,7 +4702,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "aduh",
@@ -4665,7 +4733,7 @@
         "citation": "visser:21:1[XV001756]",
         "clength": 31,
         "doc_ID": 0,
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">in</div>\n\t\t<div class=\"glossblock\">1PL.EX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">min</div>\n\t\t<div class=\"glossblock\">sleep</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-da</div>\n\t\t<div class=\"glossblock\">NFIN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">me</div>\n\t\t<div class=\"glossblock\">TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">iam</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yuon</div>\n\t\t<div class=\"glossblock\">sun</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">iam</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sara</div>\n\t\t<div class=\"glossblock\">ascend; climb</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1PL.EX",
@@ -4682,7 +4750,7 @@
         "language_iso6393": "kgv",
         "language_name": "Kalamang",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "dictionariakalamang",
         "srcwordsbare": [
             "in",

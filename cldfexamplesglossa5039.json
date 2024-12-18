@@ -31,7 +31,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Quel",
@@ -56,10 +56,16 @@
         "clength": 37,
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {
-            "Q42716": "St. Etienne",
-            "Q483020": "Paris St. Germain"
-        },
+        "entities": [
+            {
+                "label": "St. Etienne",
+                "wdid": "Q42716"
+            },
+            {
+                "label": "Paris St. Germain",
+                "wdid": "Q483020"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Paris</div>\n\t\t<div class=\"glossblock\">Paris</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">St.</div>\n\t\t<div class=\"glossblock\">St.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Germain</div>\n\t\t<div class=\"glossblock\">Germain</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">un,</div>\n\t\t<div class=\"glossblock\">one</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">St.</div>\n\t\t<div class=\"glossblock\">St.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Etienne</div>\n\t\t<div class=\"glossblock\">Etienne</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">un.</div>\n\t\t<div class=\"glossblock\">one</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Paris",
@@ -74,7 +80,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Paris",
@@ -112,7 +118,7 @@
         "clength": 27,
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">J’-ai</div>\n\t\t<div class=\"glossblock\">1SG.NOM-have.1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fait</div>\n\t\t<div class=\"glossblock\">do.PST.PTCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tout</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">DEF.SG.M</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">travail.</div>\n\t\t<div class=\"glossblock\">work</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1SG.NOM-have.1SG",
@@ -125,7 +131,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "J’-ai",
@@ -172,7 +178,7 @@
         "clength": 49,
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Tu</div>\n\t\t<div class=\"glossblock\">2SG.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">veux</div>\n\t\t<div class=\"glossblock\">want.2SG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dire</div>\n\t\t<div class=\"glossblock\">say.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">que</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ta</div>\n\t\t<div class=\"glossblock\">SG.F.POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">soeur</div>\n\t\t<div class=\"glossblock\">sister</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">have.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fait</div>\n\t\t<div class=\"glossblock\">do.PST.PTCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tout</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">DEF.SG.M</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">travail.</div>\n\t\t<div class=\"glossblock\">work</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "2SG.NOM",
@@ -191,7 +197,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Tu",
@@ -223,10 +229,16 @@
         "clength": 47,
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {
-            "Q42716": "St. Etienne",
-            "Q483020": "Paris St. Germain"
-        },
+        "entities": [
+            {
+                "label": "St. Etienne",
+                "wdid": "Q42716"
+            },
+            {
+                "label": "Paris St. Germain",
+                "wdid": "Q483020"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*~₁[PARIS</div>\n\t\t<div class=\"glossblock\">Paris</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ST. GERMAIN</div>\n\t\t<div class=\"glossblock\">St. Germain</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">un],</div>\n\t\t<div class=\"glossblock\">one</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">~₂</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[ST.</div>\n\t\t<div class=\"glossblock\">St.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ETIENNE</div>\n\t\t<div class=\"glossblock\">Etienne</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">un].</div>\n\t\t<div class=\"glossblock\">one</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Paris",
@@ -241,7 +253,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*~₁[PARIS",
@@ -276,7 +288,7 @@
         "clength": 54,
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">~[Tu</div>\n\t\t<div class=\"glossblock\">2SG.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">veux</div>\n\t\t<div class=\"glossblock\">want.2SG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dire</div>\n\t\t<div class=\"glossblock\">say.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">que</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[TA</div>\n\t\t<div class=\"glossblock\">2SG.F.POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">SOEUR]</div>\n\t\t<div class=\"glossblock\">sister</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">have.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fait</div>\n\t\t<div class=\"glossblock\">do.PST.PTCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tout</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">DEF.SG.M</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">travail].</div>\n\t\t<div class=\"glossblock\">work</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "2SG.NOM",
@@ -295,7 +307,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "~[Tu",
@@ -331,9 +343,12 @@
         "clength": 79,
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {
-            "Q506294": "picnic"
-        },
+        "entities": [
+            {
+                "label": "picnic",
+                "wdid": "Q506294"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pour</div>\n\t\t<div class=\"glossblock\">for</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">DEF.SG.M</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pique-nique</div>\n\t\t<div class=\"glossblock\">picnic</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cet</div>\n\t\t<div class=\"glossblock\">DEM.SG.M</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">après-midi,</div>\n\t\t<div class=\"glossblock\">afternoon</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Guillaume</div>\n\t\t<div class=\"glossblock\">Guillaume</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">va</div>\n\t\t<div class=\"glossblock\">go.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">apporter</div>\n\t\t<div class=\"glossblock\">bring.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">INDF.SG.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">salade</div>\n\t\t<div class=\"glossblock\">salad</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">froide.</div>\n\t\t<div class=\"glossblock\">cold.SG.F</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "for",
@@ -353,7 +368,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Pour",
@@ -386,9 +401,12 @@
         "clength": 40,
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {
-            "Q41415": "cold soup"
-        },
+        "entities": [
+            {
+                "label": "cold soup",
+                "wdid": "Q41415"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Non,</div>\n\t\t<div class=\"glossblock\">no</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">~[il</div>\n\t\t<div class=\"glossblock\">3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">va</div>\n\t\t<div class=\"glossblock\">go.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">apporter</div>\n\t\t<div class=\"glossblock\">bring.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">INDF.SG.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">SOUPE</div>\n\t\t<div class=\"glossblock\">soup</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">froide].</div>\n\t\t<div class=\"glossblock\">cold.SG.F</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "no",
@@ -403,49 +421,40 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q102205": "Fluid",
-            "Q11435": "Liquid",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1454986": "physical system",
-            "Q14915034": "Course_(food)",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q1704572": "continuum",
-            "Q2095": "Food",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q25416091": "substance",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q378078": "substance",
-            "Q43460564": "chemical entity",
-            "Q4406616": "concrete object",
-            "Q4437984": "continuum",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q66591980": "Foundational Model of Anatomy attribute entity",
-            "Q66591990": "physical state",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q746549": "Dish_(food)",
-            "Q79529": "chemical substance",
-            "Q8205328": "artificial physical object",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Fluid",
+                "wdid": "Q102205"
+            },
+            {
+                "label": "Liquid",
+                "wdid": "Q11435"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Course_(food)",
+                "wdid": "Q14915034"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "physical state",
+                "wdid": "Q66591990"
+            },
+            {
+                "label": "Dish_(food)",
+                "wdid": "Q746549"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Non,",
@@ -480,9 +489,12 @@
         "clength": 48,
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {
-            "Q41415": "cold soup"
-        },
+        "entities": [
+            {
+                "label": "cold soup",
+                "wdid": "Q41415"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">C’-est</div>\n\t\t<div class=\"glossblock\">3-be.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vrai?</div>\n\t\t<div class=\"glossblock\">true</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Marie</div>\n\t\t<div class=\"glossblock\">Marie</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">va</div>\n\t\t<div class=\"glossblock\">go.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">apporter</div>\n\t\t<div class=\"glossblock\">bring.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">INDF.SG.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">soupe</div>\n\t\t<div class=\"glossblock\">soup</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">froide.</div>\n\t\t<div class=\"glossblock\">cold.SG.F</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3-be.3SG",
@@ -498,49 +510,40 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q102205": "Fluid",
-            "Q11435": "Liquid",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1454986": "physical system",
-            "Q14915034": "Course_(food)",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q1704572": "continuum",
-            "Q2095": "Food",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q25416091": "substance",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q378078": "substance",
-            "Q43460564": "chemical entity",
-            "Q4406616": "concrete object",
-            "Q4437984": "continuum",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q66591980": "Foundational Model of Anatomy attribute entity",
-            "Q66591990": "physical state",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q746549": "Dish_(food)",
-            "Q79529": "chemical substance",
-            "Q8205328": "artificial physical object",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Fluid",
+                "wdid": "Q102205"
+            },
+            {
+                "label": "Liquid",
+                "wdid": "Q11435"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Course_(food)",
+                "wdid": "Q14915034"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "physical state",
+                "wdid": "Q66591990"
+            },
+            {
+                "label": "Dish_(food)",
+                "wdid": "Q746549"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "C’-est",
@@ -575,9 +578,12 @@
         "clength": 56,
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {
-            "Q506294": "picnic"
-        },
+        "entities": [
+            {
+                "label": "picnic",
+                "wdid": "Q506294"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">J’-ai</div>\n\t\t<div class=\"glossblock\">1SG-have.1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">entendu</div>\n\t\t<div class=\"glossblock\">hear.PST.PTCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dire</div>\n\t\t<div class=\"glossblock\">say.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">que</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Guillaume</div>\n\t\t<div class=\"glossblock\">Guillaume</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">irait</div>\n\t\t<div class=\"glossblock\">go.3SG.FUT.IPFV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">à</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">un</div>\n\t\t<div class=\"glossblock\">INDF.SG.M</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pique-nique.</div>\n\t\t<div class=\"glossblock\">picnic</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1SG-have.1SG",
@@ -594,7 +600,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "J’-ai",
@@ -631,9 +637,12 @@
         "coordination": "and",
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {
-            "Q41415": "cold soup"
-        },
+        "entities": [
+            {
+                "label": "cold soup",
+                "wdid": "Q41415"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ouais,</div>\n\t\t<div class=\"glossblock\">yes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">il</div>\n\t\t<div class=\"glossblock\">3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">va</div>\n\t\t<div class=\"glossblock\">go.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">apporter</div>\n\t\t<div class=\"glossblock\">bring.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">INDF.SG.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">salade</div>\n\t\t<div class=\"glossblock\">salad</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">froide</div>\n\t\t<div class=\"glossblock\">cold.SG.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">INDF.SG.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">soupe</div>\n\t\t<div class=\"glossblock\">soup</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">froide.</div>\n\t\t<div class=\"glossblock\">cold.SG.F</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yes",
@@ -652,49 +661,40 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q102205": "Fluid",
-            "Q11435": "Liquid",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1454986": "physical system",
-            "Q14915034": "Course_(food)",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q1704572": "continuum",
-            "Q2095": "Food",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q25416091": "substance",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q378078": "substance",
-            "Q43460564": "chemical entity",
-            "Q4406616": "concrete object",
-            "Q4437984": "continuum",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q66591980": "Foundational Model of Anatomy attribute entity",
-            "Q66591990": "physical state",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q746549": "Dish_(food)",
-            "Q79529": "chemical substance",
-            "Q8205328": "artificial physical object",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Fluid",
+                "wdid": "Q102205"
+            },
+            {
+                "label": "Liquid",
+                "wdid": "Q11435"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Course_(food)",
+                "wdid": "Q14915034"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "physical state",
+                "wdid": "Q66591990"
+            },
+            {
+                "label": "Dish_(food)",
+                "wdid": "Q746549"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Ouais,",
@@ -728,9 +728,12 @@
         "clength": 51,
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {
-            "Q41415": "cold soup"
-        },
+        "entities": [
+            {
+                "label": "cold soup",
+                "wdid": "Q41415"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Non,</div>\n\t\t<div class=\"glossblock\">no</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">~[c’-est</div>\n\t\t<div class=\"glossblock\">3-be.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">INDF.SG.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">SOUPE</div>\n\t\t<div class=\"glossblock\">soup</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">froide</div>\n\t\t<div class=\"glossblock\">cold.SG.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qu’-il</div>\n\t\t<div class=\"glossblock\">OBJ.REL-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">va</div>\n\t\t<div class=\"glossblock\">go.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">apporter].</div>\n\t\t<div class=\"glossblock\">bring.INF</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "no",
@@ -746,49 +749,40 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q102205": "Fluid",
-            "Q11435": "Liquid",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1454986": "physical system",
-            "Q14915034": "Course_(food)",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q1704572": "continuum",
-            "Q2095": "Food",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q25416091": "substance",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q378078": "substance",
-            "Q43460564": "chemical entity",
-            "Q4406616": "concrete object",
-            "Q4437984": "continuum",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q66591980": "Foundational Model of Anatomy attribute entity",
-            "Q66591990": "physical state",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q746549": "Dish_(food)",
-            "Q79529": "chemical substance",
-            "Q8205328": "artificial physical object",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Fluid",
+                "wdid": "Q102205"
+            },
+            {
+                "label": "Liquid",
+                "wdid": "Q11435"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Course_(food)",
+                "wdid": "Q14915034"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "physical state",
+                "wdid": "Q66591990"
+            },
+            {
+                "label": "Dish_(food)",
+                "wdid": "Q746549"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Non,",
@@ -818,9 +812,12 @@
         "clength": 31,
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {
-            "Q506294": "picnic"
-        },
+        "entities": [
+            {
+                "label": "picnic",
+                "wdid": "Q506294"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Guillaume</div>\n\t\t<div class=\"glossblock\">Guillaume</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ira</div>\n\t\t<div class=\"glossblock\">go.3SG.FUT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">à</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">un</div>\n\t\t<div class=\"glossblock\">INDF.SG.M</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pique-nique.</div>\n\t\t<div class=\"glossblock\">picnic</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Guillaume",
@@ -833,7 +830,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Guillaume",
@@ -865,9 +862,12 @@
         "clength": 39,
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {
-            "Q41415": "cold soup"
-        },
+        "entities": [
+            {
+                "label": "cold soup",
+                "wdid": "Q41415"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ouais,</div>\n\t\t<div class=\"glossblock\">yes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">il</div>\n\t\t<div class=\"glossblock\">3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">va</div>\n\t\t<div class=\"glossblock\">go.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">apporter</div>\n\t\t<div class=\"glossblock\">bring.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">INDF.SG.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">soupe</div>\n\t\t<div class=\"glossblock\">soup</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">froide.</div>\n\t\t<div class=\"glossblock\">cold.SG.F</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yes",
@@ -882,49 +882,40 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q102205": "Fluid",
-            "Q11435": "Liquid",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1454986": "physical system",
-            "Q14915034": "Course_(food)",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q1704572": "continuum",
-            "Q2095": "Food",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q25416091": "substance",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q378078": "substance",
-            "Q43460564": "chemical entity",
-            "Q4406616": "concrete object",
-            "Q4437984": "continuum",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q66591980": "Foundational Model of Anatomy attribute entity",
-            "Q66591990": "physical state",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q746549": "Dish_(food)",
-            "Q79529": "chemical substance",
-            "Q8205328": "artificial physical object",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Fluid",
+                "wdid": "Q102205"
+            },
+            {
+                "label": "Liquid",
+                "wdid": "Q11435"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Course_(food)",
+                "wdid": "Q14915034"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "physical state",
+                "wdid": "Q66591990"
+            },
+            {
+                "label": "Dish_(food)",
+                "wdid": "Q746549"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Ouais,",
@@ -961,7 +952,7 @@
         "clength": 45,
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hier</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">soir,</div>\n\t\t<div class=\"glossblock\">evening</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Natalie</div>\n\t\t<div class=\"glossblock\">Natalie</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">have.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nettoyé</div>\n\t\t<div class=\"glossblock\">clean.PST.PTCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">DEF.SG.M</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">plafond</div>\n\t\t<div class=\"glossblock\">ceiling</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bleu.</div>\n\t\t<div class=\"glossblock\">blue.SG.M</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday",
@@ -977,7 +968,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Hier",
@@ -1017,7 +1008,7 @@
         "clength": 35,
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Non,</div>\n\t\t<div class=\"glossblock\">no</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">elle</div>\n\t\t<div class=\"glossblock\">3SG.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">have.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nettoyé</div>\n\t\t<div class=\"glossblock\">clean.PST.PTCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">les</div>\n\t\t<div class=\"glossblock\">DEF.PL.M</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">murs</div>\n\t\t<div class=\"glossblock\">wall.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bleus.</div>\n\t\t<div class=\"glossblock\">blue.PL.M</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "no",
@@ -1032,7 +1023,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Non,",
@@ -1069,9 +1060,12 @@
         "clength": 42,
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {
-            "Q202698": "Yesterday"
-        },
+        "entities": [
+            {
+                "label": "Yesterday",
+                "wdid": "Q202698"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hier,</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Lisette</div>\n\t\t<div class=\"glossblock\">Lisette</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">have.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">acheté</div>\n\t\t<div class=\"glossblock\">buy.PST.PTCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">INDF.SG.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">veste</div>\n\t\t<div class=\"glossblock\">coat</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mignonne.</div>\n\t\t<div class=\"glossblock\">cute.SG.F</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday",
@@ -1086,7 +1080,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Hier,",
@@ -1122,9 +1116,12 @@
         "clength": 37,
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {
-            "Q2160801": "skirt"
-        },
+        "entities": [
+            {
+                "label": "skirt",
+                "wdid": "Q2160801"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Non,</div>\n\t\t<div class=\"glossblock\">no</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">elle</div>\n\t\t<div class=\"glossblock\">3SG.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">have.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">acheté</div>\n\t\t<div class=\"glossblock\">buy.PST.PTCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">INDF.SG.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jupe</div>\n\t\t<div class=\"glossblock\">skirt</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mignonne.</div>\n\t\t<div class=\"glossblock\">cute.SG.F</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "no",
@@ -1139,29 +1136,12 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q11460": "Clothing",
-            "Q1150771": "output",
-            "Q1454986": "physical system",
-            "Q15401930": "artificial object",
-            "Q16686448": "artificial object",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q386724": "work",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Clothing",
+                "wdid": "Q11460"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Non,",
@@ -1197,7 +1177,7 @@
         "clength": 45,
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hier</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">soir,</div>\n\t\t<div class=\"glossblock\">evening</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Martin</div>\n\t\t<div class=\"glossblock\">Martin</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">have.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">joué</div>\n\t\t<div class=\"glossblock\">play.PST.PTCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">avec</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">son</div>\n\t\t<div class=\"glossblock\">SG.M.POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vieux</div>\n\t\t<div class=\"glossblock\">old.SG.M</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">chat.</div>\n\t\t<div class=\"glossblock\">cat</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday",
@@ -1214,7 +1194,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Hier",
@@ -1253,7 +1233,7 @@
         "clength": 48,
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">C’-est</div>\n\t\t<div class=\"glossblock\">3-be.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vrai?</div>\n\t\t<div class=\"glossblock\">true</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gabriel</div>\n\t\t<div class=\"glossblock\">Gabriel</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">have.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">joué</div>\n\t\t<div class=\"glossblock\">play.PST.PTCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">avec</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">son</div>\n\t\t<div class=\"glossblock\">SG.M.POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jeune</div>\n\t\t<div class=\"glossblock\">young.SG.M</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">chat.</div>\n\t\t<div class=\"glossblock\">cat</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3-be.3SG",
@@ -1270,7 +1250,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "C’-est",
@@ -1300,9 +1280,12 @@
         "clength": 48,
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {
-            "Q41415": "cold soup"
-        },
+        "entities": [
+            {
+                "label": "cold soup",
+                "wdid": "Q41415"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">No,</div>\n\t\t<div class=\"glossblock\">no</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">~[(assert)</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">il</div>\n\t\t<div class=\"glossblock\">3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">va</div>\n\t\t<div class=\"glossblock\">go.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">apporter</div>\n\t\t<div class=\"glossblock\">bring.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">INDF.SG.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">SOUPE</div>\n\t\t<div class=\"glossblock\">soup</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">froide].</div>\n\t\t<div class=\"glossblock\">cold.SG.F</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "no",
@@ -1318,49 +1301,40 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q102205": "Fluid",
-            "Q11435": "Liquid",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1454986": "physical system",
-            "Q14915034": "Course_(food)",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q1704572": "continuum",
-            "Q2095": "Food",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q25416091": "substance",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q378078": "substance",
-            "Q43460564": "chemical entity",
-            "Q4406616": "concrete object",
-            "Q4437984": "continuum",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q66591980": "Foundational Model of Anatomy attribute entity",
-            "Q66591990": "physical state",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q746549": "Dish_(food)",
-            "Q79529": "chemical substance",
-            "Q8205328": "artificial physical object",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Fluid",
+                "wdid": "Q102205"
+            },
+            {
+                "label": "Liquid",
+                "wdid": "Q11435"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Course_(food)",
+                "wdid": "Q14915034"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "physical state",
+                "wdid": "Q66591990"
+            },
+            {
+                "label": "Dish_(food)",
+                "wdid": "Q746549"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "No,",
@@ -1390,9 +1364,12 @@
         "coordination": "and",
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {
-            "Q41415": "cold soup"
-        },
+        "entities": [
+            {
+                "label": "cold soup",
+                "wdid": "Q41415"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Ouais,</div>\n\t\t<div class=\"glossblock\">yes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">il</div>\n\t\t<div class=\"glossblock\">3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">va</div>\n\t\t<div class=\"glossblock\">go.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">apporter</div>\n\t\t<div class=\"glossblock\">bring.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">~₁[une</div>\n\t\t<div class=\"glossblock\">INDF.SG.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">SALADE</div>\n\t\t<div class=\"glossblock\">salad</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">froide]</div>\n\t\t<div class=\"glossblock\">cold.SG.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">~₂[une</div>\n\t\t<div class=\"glossblock\">INDF.SG.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">SOUPE</div>\n\t\t<div class=\"glossblock\">soup</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">froide].</div>\n\t\t<div class=\"glossblock\">cold.SG.F</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yes",
@@ -1411,49 +1388,40 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q102205": "Fluid",
-            "Q11435": "Liquid",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1454986": "physical system",
-            "Q14915034": "Course_(food)",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q1704572": "continuum",
-            "Q2095": "Food",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q25416091": "substance",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q378078": "substance",
-            "Q43460564": "chemical entity",
-            "Q4406616": "concrete object",
-            "Q4437984": "continuum",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q66591980": "Foundational Model of Anatomy attribute entity",
-            "Q66591990": "physical state",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q746549": "Dish_(food)",
-            "Q79529": "chemical substance",
-            "Q8205328": "artificial physical object",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Fluid",
+                "wdid": "Q102205"
+            },
+            {
+                "label": "Liquid",
+                "wdid": "Q11435"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Course_(food)",
+                "wdid": "Q14915034"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "physical state",
+                "wdid": "Q66591990"
+            },
+            {
+                "label": "Dish_(food)",
+                "wdid": "Q746549"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "*Ouais,",
@@ -1486,9 +1454,12 @@
         "clength": 39,
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {
-            "Q41415": "cold soup"
-        },
+        "entities": [
+            {
+                "label": "cold soup",
+                "wdid": "Q41415"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Marie</div>\n\t\t<div class=\"glossblock\">Marie</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">va</div>\n\t\t<div class=\"glossblock\">go.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">apporter</div>\n\t\t<div class=\"glossblock\">bring.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">~[une</div>\n\t\t<div class=\"glossblock\">INDF.SG.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">SOUPE</div>\n\t\t<div class=\"glossblock\">soup</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">froide].</div>\n\t\t<div class=\"glossblock\">cold.SG.F</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Marie",
@@ -1502,49 +1473,40 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q102205": "Fluid",
-            "Q11435": "Liquid",
-            "Q1150771": "output",
-            "Q1194058": "disposable product",
-            "Q1454986": "physical system",
-            "Q14915034": "Course_(food)",
-            "Q15401930": "artificial object",
-            "Q15989253": "part",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q1704572": "continuum",
-            "Q2095": "Food",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q25416091": "substance",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q378078": "substance",
-            "Q43460564": "chemical entity",
-            "Q4406616": "concrete object",
-            "Q4437984": "continuum",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q66591980": "Foundational Model of Anatomy attribute entity",
-            "Q66591990": "physical state",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q746549": "Dish_(food)",
-            "Q79529": "chemical substance",
-            "Q8205328": "artificial physical object",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Fluid",
+                "wdid": "Q102205"
+            },
+            {
+                "label": "Liquid",
+                "wdid": "Q11435"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Course_(food)",
+                "wdid": "Q14915034"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "physical state",
+                "wdid": "Q66591990"
+            },
+            {
+                "label": "Dish_(food)",
+                "wdid": "Q746549"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "*Marie",
@@ -1578,7 +1540,7 @@
         "clength": 35,
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">François</div>\n\t\t<div class=\"glossblock\">François</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">trouve</div>\n\t\t<div class=\"glossblock\">find.3SG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">que</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Lori</div>\n\t\t<div class=\"glossblock\">Lori</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">be.3SG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jolie.</div>\n\t\t<div class=\"glossblock\">pretty.SG.F</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "François",
@@ -1592,7 +1554,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "François",
@@ -1628,7 +1590,7 @@
         "clength": 36,
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Non,</div>\n\t\t<div class=\"glossblock\">No,</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Jean</div>\n\t\t<div class=\"glossblock\">Jean</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">trouve</div>\n\t\t<div class=\"glossblock\">find.3SG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">que</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Lori</div>\n\t\t<div class=\"glossblock\">Lori</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">be.3SG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jolie.</div>\n\t\t<div class=\"glossblock\">pretty.SG.F</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "No,",
@@ -1643,7 +1605,7 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Non,",
@@ -1674,7 +1636,7 @@
         "coordination": "and",
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">~₁[FRANÇOIS</div>\n\t\t<div class=\"glossblock\">François</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">trouve</div>\n\t\t<div class=\"glossblock\">find.3SG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">que</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Lori</div>\n\t\t<div class=\"glossblock\">Lori</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">be.3SG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jolie]</div>\n\t\t<div class=\"glossblock\">pretty.SG.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">~₂[JEAN</div>\n\t\t<div class=\"glossblock\">Jean</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">trouve</div>\n\t\t<div class=\"glossblock\">find.3SG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">que</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Lori</div>\n\t\t<div class=\"glossblock\">Lori</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">be.3SG.PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jolie].</div>\n\t\t<div class=\"glossblock\">pretty.SG.F</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "François",
@@ -1695,7 +1657,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "~₁[FRANÇOIS",
@@ -1744,9 +1706,12 @@
         "clength": 53,
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {
-            "Q83364": "vegetarian"
-        },
+        "entities": [
+            {
+                "label": "vegetarian",
+                "wdid": "Q83364"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Émilie</div>\n\t\t<div class=\"glossblock\">Émilie</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">have.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rencontré</div>\n\t\t<div class=\"glossblock\">meet.PST.PTCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">un</div>\n\t\t<div class=\"glossblock\">INDF.SG.M</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Brésilien</div>\n\t\t<div class=\"glossblock\">Brazilian</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qui</div>\n\t\t<div class=\"glossblock\">SUBJ.REL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">était</div>\n\t\t<div class=\"glossblock\">be.3SG.IPFV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">végétarien.</div>\n\t\t<div class=\"glossblock\">vegetarian</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Émilie",
@@ -1762,71 +1727,44 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q108163": "proposition",
-            "Q11028": "information",
-            "Q1190554": "occurrence",
-            "Q12558574": "point of view",
-            "Q1283504": "Social_engagement",
-            "Q15916540": "semantic unit",
-            "Q16334295": "group of humans",
-            "Q16334298": "group of living things",
-            "Q16877783": "meaning",
-            "Q16887380": "group",
-            "Q16889133": "class",
-            "Q1773152": "Public_participation_(decision_making)",
-            "Q1786828": "constituent",
-            "Q183046": "meaning",
-            "Q188572": "fact",
-            "Q1914636": "activity",
-            "Q203764": "Activism",
-            "Q20817253": "linguistic unit",
-            "Q20937557": "sequence",
-            "Q2145290": "mental representation",
-            "Q24034076": "way_of_life",
-            "Q246672": "mathematical object",
-            "Q2684591": "statement",
-            "Q26907166": "temporal entity",
-            "Q28813620": "set",
-            "Q29651519": "mental object",
-            "Q30060700": "scientific object",
-            "Q32090": "Lifestyle_(social_sciences)",
-            "Q34394": "Belief",
-            "Q3505845": "state",
-            "Q35120": "entity",
-            "Q3533467": "Group_action_(sociology)",
-            "Q3769299": "human behavior",
-            "Q4026292": "action",
-            "Q41796": "sentence",
-            "Q42848": "data",
-            "Q4393498": "representation",
-            "Q474328": "declarative sentence",
-            "Q483247": "phenomenon",
-            "Q488383": "object",
-            "Q49447": "world view",
-            "Q49773": "Social_movement",
-            "Q5371079": "emic unit",
-            "Q5390013": "belief system",
-            "Q54989186": "mental state",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q595523": "notion",
-            "Q602884": "social phenomenon",
-            "Q61961344": "group of physical objects",
-            "Q628523": "Message",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q71966963": "religion or world view",
-            "Q769620": "Social_actions",
-            "Q813912": "condition",
-            "Q930933": "relation",
-            "Q9332": "behavior",
-            "Q937228": "property",
-            "Q9380010": "utterance",
-            "Q98119401": "group or class of physical objects",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Social_engagement",
+                "wdid": "Q1283504"
+            },
+            {
+                "label": "group of humans",
+                "wdid": "Q16334295"
+            },
+            {
+                "label": "Public_participation_(decision_making)",
+                "wdid": "Q1773152"
+            },
+            {
+                "label": "Activism",
+                "wdid": "Q203764"
+            },
+            {
+                "label": "way_of_life",
+                "wdid": "Q24034076"
+            },
+            {
+                "label": "Lifestyle_(social_sciences)",
+                "wdid": "Q32090"
+            },
+            {
+                "label": "Group_action_(sociology)",
+                "wdid": "Q3533467"
+            },
+            {
+                "label": "Social_movement",
+                "wdid": "Q49773"
+            },
+            {
+                "label": "Social_actions",
+                "wdid": "Q769620"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Émilie",
@@ -1870,10 +1808,16 @@
         "clength": 52,
         "doc_ID": 5039,
         "doc_URL": "https://www.glossa-journal.org/article/id/5039",
-        "entities": {
-            "Q7737": "Russian",
-            "Q83364": "vegetarian"
-        },
+        "entities": [
+            {
+                "label": "Russian",
+                "wdid": "Q7737"
+            },
+            {
+                "label": "vegetarian",
+                "wdid": "Q83364"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Non,</div>\n\t\t<div class=\"glossblock\">no</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">elle</div>\n\t\t<div class=\"glossblock\">3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">have.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rencontré</div>\n\t\t<div class=\"glossblock\">meet.PST.PTCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">un</div>\n\t\t<div class=\"glossblock\">INDF.SG.M</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Russe</div>\n\t\t<div class=\"glossblock\">Russian</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qui</div>\n\t\t<div class=\"glossblock\">SUBJ.REL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">était</div>\n\t\t<div class=\"glossblock\">be.3SG.IPFV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">végétarien.</div>\n\t\t<div class=\"glossblock\">vegetarian</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "no",
@@ -1890,71 +1834,44 @@
         "language_iso6393": "fra",
         "language_name": "French",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q108163": "proposition",
-            "Q11028": "information",
-            "Q1190554": "occurrence",
-            "Q12558574": "point of view",
-            "Q1283504": "Social_engagement",
-            "Q15916540": "semantic unit",
-            "Q16334295": "group of humans",
-            "Q16334298": "group of living things",
-            "Q16877783": "meaning",
-            "Q16887380": "group",
-            "Q16889133": "class",
-            "Q1773152": "Public_participation_(decision_making)",
-            "Q1786828": "constituent",
-            "Q183046": "meaning",
-            "Q188572": "fact",
-            "Q1914636": "activity",
-            "Q203764": "Activism",
-            "Q20817253": "linguistic unit",
-            "Q20937557": "sequence",
-            "Q2145290": "mental representation",
-            "Q24034076": "way_of_life",
-            "Q246672": "mathematical object",
-            "Q2684591": "statement",
-            "Q26907166": "temporal entity",
-            "Q28813620": "set",
-            "Q29651519": "mental object",
-            "Q30060700": "scientific object",
-            "Q32090": "Lifestyle_(social_sciences)",
-            "Q34394": "Belief",
-            "Q3505845": "state",
-            "Q35120": "entity",
-            "Q3533467": "Group_action_(sociology)",
-            "Q3769299": "human behavior",
-            "Q4026292": "action",
-            "Q41796": "sentence",
-            "Q42848": "data",
-            "Q4393498": "representation",
-            "Q474328": "declarative sentence",
-            "Q483247": "phenomenon",
-            "Q488383": "object",
-            "Q49447": "world view",
-            "Q49773": "Social_movement",
-            "Q5371079": "emic unit",
-            "Q5390013": "belief system",
-            "Q54989186": "mental state",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q595523": "notion",
-            "Q602884": "social phenomenon",
-            "Q61961344": "group of physical objects",
-            "Q628523": "Message",
-            "Q6671777": "structure",
-            "Q7048977": "abstract entity",
-            "Q7184903": "abstract entity",
-            "Q71966963": "religion or world view",
-            "Q769620": "Social_actions",
-            "Q813912": "condition",
-            "Q930933": "relation",
-            "Q9332": "behavior",
-            "Q937228": "property",
-            "Q9380010": "utterance",
-            "Q98119401": "group or class of physical objects",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Social_engagement",
+                "wdid": "Q1283504"
+            },
+            {
+                "label": "group of humans",
+                "wdid": "Q16334295"
+            },
+            {
+                "label": "Public_participation_(decision_making)",
+                "wdid": "Q1773152"
+            },
+            {
+                "label": "Activism",
+                "wdid": "Q203764"
+            },
+            {
+                "label": "way_of_life",
+                "wdid": "Q24034076"
+            },
+            {
+                "label": "Lifestyle_(social_sciences)",
+                "wdid": "Q32090"
+            },
+            {
+                "label": "Group_action_(sociology)",
+                "wdid": "Q3533467"
+            },
+            {
+                "label": "Social_movement",
+                "wdid": "Q49773"
+            },
+            {
+                "label": "Social_actions",
+                "wdid": "Q769620"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Non,",

@@ -15,9 +15,12 @@
         "clength": 29,
         "doc_ID": 51,
         "doc_URL": "https://langsci-press.org/catalog/book/51",
-        "entities": {
-            "Q35600": "Urals"
-        },
+        "entities": [
+            {
+                "label": "Urals",
+                "wdid": "Q35600"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Na</div>\n\t\t<div class=\"glossblock\">On</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Urale</div>\n\t\t<div class=\"glossblock\">Ural-LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mnogo</div>\n\t\t<div class=\"glossblock\">many</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">krasnyh</div>\n\t\t<div class=\"glossblock\">red-PL.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">korov.</div>\n\t\t<div class=\"glossblock\">cows-GEN</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "On",
@@ -30,7 +33,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "Na",

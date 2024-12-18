@@ -32,7 +32,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Sva",
@@ -78,7 +78,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Sva",
@@ -110,7 +110,7 @@
         "coordination": "and",
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sva</div>\n\t\t<div class=\"glossblock\">[All</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">odela</div>\n\t\t<div class=\"glossblock\">suits.NPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sve</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">haljine</div>\n\t\t<div class=\"glossblock\">dresses.]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">prodate.</div>\n\t\t<div class=\"glossblock\">sold.</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "[All",
@@ -126,7 +126,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Sva",
@@ -173,7 +173,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Juče",
@@ -218,7 +218,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Juče",
@@ -249,7 +249,7 @@
         "coordination": "and",
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">prodate</div>\n\t\t<div class=\"glossblock\">sold.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sva</div>\n\t\t<div class=\"glossblock\">[all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">odela</div>\n\t\t<div class=\"glossblock\">suits.NPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sve</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">haljine.</div>\n\t\t<div class=\"glossblock\">dresses.]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday",
@@ -265,7 +265,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Juče",
@@ -295,10 +295,16 @@
         "coordination": "and",
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {
-            "Q231204": "Sabers",
-            "Q2489216": "spears"
-        },
+        "entities": [
+            {
+                "label": "Sabers",
+                "wdid": "Q231204"
+            },
+            {
+                "label": "spears",
+                "wdid": "Q2489216"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sablje</div>\n\t\t<div class=\"glossblock\">sabers.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudarile/*sudarili/*sudarila</div>\n\t\t<div class=\"glossblock\">collided.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\">t</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja]</div>\n\t\t<div class=\"glossblock\">spears.NPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bici.</div>\n\t\t<div class=\"glossblock\">battle</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "sabers.",
@@ -317,41 +323,52 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q1150771": "output",
-            "Q12791": "Sword",
-            "Q1454986": "physical system",
-            "Q1514280": "stabbing_weapon",
-            "Q15401930": "artificial object",
-            "Q15407649": "edged and bladed weapon",
-            "Q1617400": "slashing_weapon",
-            "Q16686448": "artificial object",
-            "Q18643213": "military equipment",
-            "Q222405": "Cold_weapon",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q28692583": "bladed object",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q39546": "Tool",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q5581528": "Melee_weapon",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q728": "Weapon",
-            "Q8205328": "artificial physical object",
-            "Q9180322": "piercing-cutting_weapon",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Sword",
+                "wdid": "Q12791"
+            },
+            {
+                "label": "stabbing_weapon",
+                "wdid": "Q1514280"
+            },
+            {
+                "label": "edged and bladed weapon",
+                "wdid": "Q15407649"
+            },
+            {
+                "label": "slashing_weapon",
+                "wdid": "Q1617400"
+            },
+            {
+                "label": "military equipment",
+                "wdid": "Q18643213"
+            },
+            {
+                "label": "Cold_weapon",
+                "wdid": "Q222405"
+            },
+            {
+                "label": "bladed object",
+                "wdid": "Q28692583"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            },
+            {
+                "label": "Melee_weapon",
+                "wdid": "Q5581528"
+            },
+            {
+                "label": "Weapon",
+                "wdid": "Q728"
+            },
+            {
+                "label": "piercing-cutting_weapon",
+                "wdid": "Q9180322"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Sablje",
@@ -390,12 +407,24 @@
         "coordination": "and",
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {
-            "Q2935": "calves",
-            "Q3239189": "grazing",
-            "Q3520438": "Cows",
-            "Q3710554": "Marušič"
-        },
+        "entities": [
+            {
+                "label": "calves",
+                "wdid": "Q2935"
+            },
+            {
+                "label": "grazing",
+                "wdid": "Q3239189"
+            },
+            {
+                "label": "Cows",
+                "wdid": "Q3520438"
+            },
+            {
+                "label": "Marušič",
+                "wdid": "Q3710554"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[Krave</div>\n\t\t<div class=\"glossblock\">cow.FPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">in</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">teleta]</div>\n\t\t<div class=\"glossblock\">calf.NPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">so</div>\n\t\t<div class=\"glossblock\">AUX.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">odšli/odšla/odšle</div>\n\t\t<div class=\"glossblock\">went.MPL/NPL/FPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na</div>\n\t\t<div class=\"glossblock\">on</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pašo.</div>\n\t\t<div class=\"glossblock\">graze</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "cow.FPL",
@@ -410,7 +439,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "[Krave",
@@ -445,12 +474,24 @@
         "coordination": "and",
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {
-            "Q202698": "Yesterday",
-            "Q2935": "calves",
-            "Q3239189": "grazing",
-            "Q3710554": "Marušič"
-        },
+        "entities": [
+            {
+                "label": "Yesterday",
+                "wdid": "Q202698"
+            },
+            {
+                "label": "calves",
+                "wdid": "Q2935"
+            },
+            {
+                "label": "grazing",
+                "wdid": "Q3239189"
+            },
+            {
+                "label": "Marušič",
+                "wdid": "Q3710554"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Včeraj</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">so</div>\n\t\t<div class=\"glossblock\">AUX.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">odšli/*odšla/odšle/</div>\n\t\t<div class=\"glossblock\">went.MPL/*NPL/FPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[krave</div>\n\t\t<div class=\"glossblock\">cow.FPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">in</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">teleta]</div>\n\t\t<div class=\"glossblock\">calf.NPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na</div>\n\t\t<div class=\"glossblock\">on</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pašo</div>\n\t\t<div class=\"glossblock\">graze</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday",
@@ -466,7 +507,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Včeraj",
@@ -497,9 +538,12 @@
         "coordination": "and",
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {
-            "Q895447": "BCS"
-        },
+        "entities": [
+            {
+                "label": "BCS",
+                "wdid": "Q895447"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[Sve</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">haljine</div>\n\t\t<div class=\"glossblock\">dress.FPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sva</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">odela]</div>\n\t\t<div class=\"glossblock\">suit.NPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">are</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">prodata.</div>\n\t\t<div class=\"glossblock\">sell.NPL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "all",
@@ -515,7 +559,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "[Sve",
@@ -542,9 +586,12 @@
         "coordination": "and",
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {
-            "Q310757": "Bošković"
-        },
+        "entities": [
+            {
+                "label": "Bošković",
+                "wdid": "Q310757"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?Knjige</div>\n\t\t<div class=\"glossblock\">books</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Marko</div>\n\t\t<div class=\"glossblock\">Marko</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[</div>\n\t\t<div class=\"glossblock\">[</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">filmove]</div>\n\t\t<div class=\"glossblock\">movies]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kupio.</div>\n\t\t<div class=\"glossblock\">bought</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "books",
@@ -560,7 +607,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "?Knjige",
@@ -597,11 +644,20 @@
         "coordination": "and",
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {
-            "Q231204": "Sabers",
-            "Q2489216": "spears",
-            "Q55092468": "Arsenijević"
-        },
+        "entities": [
+            {
+                "label": "Sabers",
+                "wdid": "Q231204"
+            },
+            {
+                "label": "spears",
+                "wdid": "Q2489216"
+            },
+            {
+                "label": "Arsenijević",
+                "wdid": "Q55092468"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudarile/sudarili/*sudarila</div>\n\t\t<div class=\"glossblock\">collided.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sablje</div>\n\t\t<div class=\"glossblock\">sabers.FPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja</div>\n\t\t<div class=\"glossblock\">spears.NPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bici.</div>\n\t\t<div class=\"glossblock\">battle</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday",
@@ -618,41 +674,52 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q1150771": "output",
-            "Q12791": "Sword",
-            "Q1454986": "physical system",
-            "Q1514280": "stabbing_weapon",
-            "Q15401930": "artificial object",
-            "Q15407649": "edged and bladed weapon",
-            "Q1617400": "slashing_weapon",
-            "Q16686448": "artificial object",
-            "Q18643213": "military equipment",
-            "Q222405": "Cold_weapon",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q28692583": "bladed object",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q39546": "Tool",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q5581528": "Melee_weapon",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q728": "Weapon",
-            "Q8205328": "artificial physical object",
-            "Q9180322": "piercing-cutting_weapon",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Sword",
+                "wdid": "Q12791"
+            },
+            {
+                "label": "stabbing_weapon",
+                "wdid": "Q1514280"
+            },
+            {
+                "label": "edged and bladed weapon",
+                "wdid": "Q15407649"
+            },
+            {
+                "label": "slashing_weapon",
+                "wdid": "Q1617400"
+            },
+            {
+                "label": "military equipment",
+                "wdid": "Q18643213"
+            },
+            {
+                "label": "Cold_weapon",
+                "wdid": "Q222405"
+            },
+            {
+                "label": "bladed object",
+                "wdid": "Q28692583"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            },
+            {
+                "label": "Melee_weapon",
+                "wdid": "Q5581528"
+            },
+            {
+                "label": "Weapon",
+                "wdid": "Q728"
+            },
+            {
+                "label": "piercing-cutting_weapon",
+                "wdid": "Q9180322"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Juče",
@@ -690,11 +757,20 @@
         "coordination": "and",
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {
-            "Q231204": "Sabers",
-            "Q2489216": "spears",
-            "Q55092468": "Arsenijević"
-        },
+        "entities": [
+            {
+                "label": "Sabers",
+                "wdid": "Q231204"
+            },
+            {
+                "label": "spears",
+                "wdid": "Q2489216"
+            },
+            {
+                "label": "Arsenijević",
+                "wdid": "Q55092468"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sablje</div>\n\t\t<div class=\"glossblock\">sabers.FPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudarile/sudarili/sudarila</div>\n\t\t<div class=\"glossblock\">collided.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[</div>\n\t\t<div class=\"glossblock\">t</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja]</div>\n\t\t<div class=\"glossblock\">spears.NPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bici.</div>\n\t\t<div class=\"glossblock\">battle</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "sabers.FPL",
@@ -712,41 +788,52 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q1150771": "output",
-            "Q12791": "Sword",
-            "Q1454986": "physical system",
-            "Q1514280": "stabbing_weapon",
-            "Q15401930": "artificial object",
-            "Q15407649": "edged and bladed weapon",
-            "Q1617400": "slashing_weapon",
-            "Q16686448": "artificial object",
-            "Q18643213": "military equipment",
-            "Q222405": "Cold_weapon",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q28692583": "bladed object",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q39546": "Tool",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q5581528": "Melee_weapon",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q728": "Weapon",
-            "Q8205328": "artificial physical object",
-            "Q9180322": "piercing-cutting_weapon",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Sword",
+                "wdid": "Q12791"
+            },
+            {
+                "label": "stabbing_weapon",
+                "wdid": "Q1514280"
+            },
+            {
+                "label": "edged and bladed weapon",
+                "wdid": "Q15407649"
+            },
+            {
+                "label": "slashing_weapon",
+                "wdid": "Q1617400"
+            },
+            {
+                "label": "military equipment",
+                "wdid": "Q18643213"
+            },
+            {
+                "label": "Cold_weapon",
+                "wdid": "Q222405"
+            },
+            {
+                "label": "bladed object",
+                "wdid": "Q28692583"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            },
+            {
+                "label": "Melee_weapon",
+                "wdid": "Q5581528"
+            },
+            {
+                "label": "Weapon",
+                "wdid": "Q728"
+            },
+            {
+                "label": "piercing-cutting_weapon",
+                "wdid": "Q9180322"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Sablje",
@@ -785,12 +872,24 @@
         "coordination": "and",
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {
-            "Q1469424": "w/o",
-            "Q231204": "Sabers",
-            "Q2489216": "spears",
-            "Q4866666": "baseline"
-        },
+        "entities": [
+            {
+                "label": "w/o",
+                "wdid": "Q1469424"
+            },
+            {
+                "label": "Sabers",
+                "wdid": "Q231204"
+            },
+            {
+                "label": "spears",
+                "wdid": "Q2489216"
+            },
+            {
+                "label": "baseline",
+                "wdid": "Q4866666"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Danas</div>\n\t\t<div class=\"glossblock\">today</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudaraju</div>\n\t\t<div class=\"glossblock\">collide.3PL.PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sablje</div>\n\t\t<div class=\"glossblock\">sabers.FPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja</div>\n\t\t<div class=\"glossblock\">spears.NPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bici.</div>\n\t\t<div class=\"glossblock\">battle</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "today",
@@ -806,41 +905,52 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q1150771": "output",
-            "Q12791": "Sword",
-            "Q1454986": "physical system",
-            "Q1514280": "stabbing_weapon",
-            "Q15401930": "artificial object",
-            "Q15407649": "edged and bladed weapon",
-            "Q1617400": "slashing_weapon",
-            "Q16686448": "artificial object",
-            "Q18643213": "military equipment",
-            "Q222405": "Cold_weapon",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q28692583": "bladed object",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q39546": "Tool",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q5581528": "Melee_weapon",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q728": "Weapon",
-            "Q8205328": "artificial physical object",
-            "Q9180322": "piercing-cutting_weapon",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Sword",
+                "wdid": "Q12791"
+            },
+            {
+                "label": "stabbing_weapon",
+                "wdid": "Q1514280"
+            },
+            {
+                "label": "edged and bladed weapon",
+                "wdid": "Q15407649"
+            },
+            {
+                "label": "slashing_weapon",
+                "wdid": "Q1617400"
+            },
+            {
+                "label": "military equipment",
+                "wdid": "Q18643213"
+            },
+            {
+                "label": "Cold_weapon",
+                "wdid": "Q222405"
+            },
+            {
+                "label": "bladed object",
+                "wdid": "Q28692583"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            },
+            {
+                "label": "Melee_weapon",
+                "wdid": "Q5581528"
+            },
+            {
+                "label": "Weapon",
+                "wdid": "Q728"
+            },
+            {
+                "label": "piercing-cutting_weapon",
+                "wdid": "Q9180322"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Danas",
@@ -871,11 +981,20 @@
         "coordination": "and",
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {
-            "Q1913973": "scrambling",
-            "Q231204": "Sabers",
-            "Q2489216": "spears"
-        },
+        "entities": [
+            {
+                "label": "scrambling",
+                "wdid": "Q1913973"
+            },
+            {
+                "label": "Sabers",
+                "wdid": "Q231204"
+            },
+            {
+                "label": "spears",
+                "wdid": "Q2489216"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sablje₁</div>\n\t\t<div class=\"glossblock\">sabers.FPL₁</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">danas</div>\n\t\t<div class=\"glossblock\">today</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t₁</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja</div>\n\t\t<div class=\"glossblock\">spears.NPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudaraju</div>\n\t\t<div class=\"glossblock\">collide.3PL.PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bici.</div>\n\t\t<div class=\"glossblock\">battle</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "sabers.FPL₁",
@@ -892,41 +1011,52 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q1150771": "output",
-            "Q12791": "Sword",
-            "Q1454986": "physical system",
-            "Q1514280": "stabbing_weapon",
-            "Q15401930": "artificial object",
-            "Q15407649": "edged and bladed weapon",
-            "Q1617400": "slashing_weapon",
-            "Q16686448": "artificial object",
-            "Q18643213": "military equipment",
-            "Q222405": "Cold_weapon",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q28692583": "bladed object",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q39546": "Tool",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q5581528": "Melee_weapon",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q728": "Weapon",
-            "Q8205328": "artificial physical object",
-            "Q9180322": "piercing-cutting_weapon",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Sword",
+                "wdid": "Q12791"
+            },
+            {
+                "label": "stabbing_weapon",
+                "wdid": "Q1514280"
+            },
+            {
+                "label": "edged and bladed weapon",
+                "wdid": "Q15407649"
+            },
+            {
+                "label": "slashing_weapon",
+                "wdid": "Q1617400"
+            },
+            {
+                "label": "military equipment",
+                "wdid": "Q18643213"
+            },
+            {
+                "label": "Cold_weapon",
+                "wdid": "Q222405"
+            },
+            {
+                "label": "bladed object",
+                "wdid": "Q28692583"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            },
+            {
+                "label": "Melee_weapon",
+                "wdid": "Q5581528"
+            },
+            {
+                "label": "Weapon",
+                "wdid": "Q728"
+            },
+            {
+                "label": "piercing-cutting_weapon",
+                "wdid": "Q9180322"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Sablje₁",
@@ -957,9 +1087,12 @@
         "coordination": "and",
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {
-            "Q2658424": "wh-movement"
-        },
+        "entities": [
+            {
+                "label": "wh-movement",
+                "wdid": "Q2658424"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Šta₁</div>\n\t\t<div class=\"glossblock\">what₁</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">danas</div>\n\t\t<div class=\"glossblock\">today</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t₁</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja</div>\n\t\t<div class=\"glossblock\">spears.NPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudaraju</div>\n\t\t<div class=\"glossblock\">collide.3PL.PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bici?</div>\n\t\t<div class=\"glossblock\">battle?</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "what₁",
@@ -976,7 +1109,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Šta₁",
@@ -1023,7 +1156,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Njegovi",
@@ -1054,9 +1187,12 @@
         "coordination": "and",
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {
-            "Q935944": "Bound variable"
-        },
+        "entities": [
+            {
+                "label": "Bound variable",
+                "wdid": "Q935944"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Svakog</div>\n\t\t<div class=\"glossblock\">every.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">generala</div>\n\t\t<div class=\"glossblock\">general.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">njegovi</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vojnici</div>\n\t\t<div class=\"glossblock\">soldiers.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vole</div>\n\t\t<div class=\"glossblock\">love</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t₁</div>\n\t\t<div class=\"glossblock\">t</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">svoju</div>\n\t\t<div class=\"glossblock\">self’s</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zemlju.</div>\n\t\t<div class=\"glossblock\">country.ACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "every.",
@@ -1073,7 +1209,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Svakog",
@@ -1108,7 +1244,7 @@
         "clength": 43,
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudarile</div>\n\t\t<div class=\"glossblock\">collided.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sablje</div>\n\t\t<div class=\"glossblock\">sabers.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja</div>\n\t\t<div class=\"glossblock\">spears.NPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bici.</div>\n\t\t<div class=\"glossblock\">battle</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday",
@@ -1125,7 +1261,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Juče",
@@ -1162,9 +1298,12 @@
         "clength": 43,
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {
-            "Q5713428": "4.3"
-        },
+        "entities": [
+            {
+                "label": "4.3",
+                "wdid": "Q5713428"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudarili</div>\n\t\t<div class=\"glossblock\">collided.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sablje</div>\n\t\t<div class=\"glossblock\">sabers.FPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja</div>\n\t\t<div class=\"glossblock\">spears.NPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bici.</div>\n\t\t<div class=\"glossblock\">battle</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday",
@@ -1181,7 +1320,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Juče",
@@ -1217,9 +1356,12 @@
         "coordination": "and",
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {
-            "Q20026889": "2.03"
-        },
+        "entities": [
+            {
+                "label": "2.03",
+                "wdid": "Q20026889"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudarila</div>\n\t\t<div class=\"glossblock\">collided.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sablje</div>\n\t\t<div class=\"glossblock\">sabers.FPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja</div>\n\t\t<div class=\"glossblock\">spears.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bici.</div>\n\t\t<div class=\"glossblock\">battle</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday",
@@ -1236,7 +1378,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Juče",
@@ -1266,7 +1408,7 @@
         "clength": 46,
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sablje</div>\n\t\t<div class=\"glossblock\">sabers.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudarile</div>\n\t\t<div class=\"glossblock\">collided.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja]</div>\n\t\t<div class=\"glossblock\">spears.NPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bici.</div>\n\t\t<div class=\"glossblock\">battle</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "sabers.",
@@ -1284,7 +1426,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Sablje",
@@ -1316,7 +1458,7 @@
         "clength": 46,
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sablje</div>\n\t\t<div class=\"glossblock\">sabers.FPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudarili</div>\n\t\t<div class=\"glossblock\">collided.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja]</div>\n\t\t<div class=\"glossblock\">spears.NPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bici.</div>\n\t\t<div class=\"glossblock\">battle</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "sabers.FPL",
@@ -1334,7 +1476,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Sablje",
@@ -1366,10 +1508,16 @@
         "coordination": "and",
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {
-            "Q231204": "Sabers",
-            "Q2489216": "spears"
-        },
+        "entities": [
+            {
+                "label": "Sabers",
+                "wdid": "Q231204"
+            },
+            {
+                "label": "spears",
+                "wdid": "Q2489216"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sablje</div>\n\t\t<div class=\"glossblock\">sabers.FPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudarila</div>\n\t\t<div class=\"glossblock\">collided.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja]</div>\n\t\t<div class=\"glossblock\">spears.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bici.</div>\n\t\t<div class=\"glossblock\">battle</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "sabers.FPL",
@@ -1387,41 +1535,52 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q1150771": "output",
-            "Q12791": "Sword",
-            "Q1454986": "physical system",
-            "Q1514280": "stabbing_weapon",
-            "Q15401930": "artificial object",
-            "Q15407649": "edged and bladed weapon",
-            "Q1617400": "slashing_weapon",
-            "Q16686448": "artificial object",
-            "Q18643213": "military equipment",
-            "Q222405": "Cold_weapon",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q28692583": "bladed object",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q39546": "Tool",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q5581528": "Melee_weapon",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q728": "Weapon",
-            "Q8205328": "artificial physical object",
-            "Q9180322": "piercing-cutting_weapon",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Sword",
+                "wdid": "Q12791"
+            },
+            {
+                "label": "stabbing_weapon",
+                "wdid": "Q1514280"
+            },
+            {
+                "label": "edged and bladed weapon",
+                "wdid": "Q15407649"
+            },
+            {
+                "label": "slashing_weapon",
+                "wdid": "Q1617400"
+            },
+            {
+                "label": "military equipment",
+                "wdid": "Q18643213"
+            },
+            {
+                "label": "Cold_weapon",
+                "wdid": "Q222405"
+            },
+            {
+                "label": "bladed object",
+                "wdid": "Q28692583"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            },
+            {
+                "label": "Melee_weapon",
+                "wdid": "Q5581528"
+            },
+            {
+                "label": "Weapon",
+                "wdid": "Q728"
+            },
+            {
+                "label": "piercing-cutting_weapon",
+                "wdid": "Q9180322"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Sablje",
@@ -1458,7 +1617,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Sablje₁",
@@ -1506,7 +1665,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "[Sablje",
@@ -1545,10 +1704,16 @@
         "coordination": "and",
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {
-            "Q231204": "Sabers",
-            "Q2489216": "spears"
-        },
+        "entities": [
+            {
+                "label": "Sabers",
+                "wdid": "Q231204"
+            },
+            {
+                "label": "spears",
+                "wdid": "Q2489216"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sablje</div>\n\t\t<div class=\"glossblock\">Sabers.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudarile</div>\n\t\t<div class=\"glossblock\">collided.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t₁</div>\n\t\t<div class=\"glossblock\">t₁</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja</div>\n\t\t<div class=\"glossblock\">spears.NPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bici.</div>\n\t\t<div class=\"glossblock\">battle</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Sabers.",
@@ -1566,41 +1731,52 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q1150771": "output",
-            "Q12791": "Sword",
-            "Q1454986": "physical system",
-            "Q1514280": "stabbing_weapon",
-            "Q15401930": "artificial object",
-            "Q15407649": "edged and bladed weapon",
-            "Q1617400": "slashing_weapon",
-            "Q16686448": "artificial object",
-            "Q18643213": "military equipment",
-            "Q222405": "Cold_weapon",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q28692583": "bladed object",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q39546": "Tool",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q5581528": "Melee_weapon",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q728": "Weapon",
-            "Q8205328": "artificial physical object",
-            "Q9180322": "piercing-cutting_weapon",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Sword",
+                "wdid": "Q12791"
+            },
+            {
+                "label": "stabbing_weapon",
+                "wdid": "Q1514280"
+            },
+            {
+                "label": "edged and bladed weapon",
+                "wdid": "Q15407649"
+            },
+            {
+                "label": "slashing_weapon",
+                "wdid": "Q1617400"
+            },
+            {
+                "label": "military equipment",
+                "wdid": "Q18643213"
+            },
+            {
+                "label": "Cold_weapon",
+                "wdid": "Q222405"
+            },
+            {
+                "label": "bladed object",
+                "wdid": "Q28692583"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            },
+            {
+                "label": "Melee_weapon",
+                "wdid": "Q5581528"
+            },
+            {
+                "label": "Weapon",
+                "wdid": "Q728"
+            },
+            {
+                "label": "piercing-cutting_weapon",
+                "wdid": "Q9180322"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Sablje",
@@ -1636,10 +1812,16 @@
         "coordination": "and",
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {
-            "Q231204": "Sabers",
-            "Q2489216": "spears"
-        },
+        "entities": [
+            {
+                "label": "Sabers",
+                "wdid": "Q231204"
+            },
+            {
+                "label": "spears",
+                "wdid": "Q2489216"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sablje</div>\n\t\t<div class=\"glossblock\">Sabers.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">danas</div>\n\t\t<div class=\"glossblock\">today</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">stavljene</div>\n\t\t<div class=\"glossblock\">put.PASSIVE.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t₁</div>\n\t\t<div class=\"glossblock\">t₁</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja</div>\n\t\t<div class=\"glossblock\">spears.NPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">3</div>\n\t\t<div class=\"glossblock\">three</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kutije …</div>\n\t\t<div class=\"glossblock\">boxes</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Sabers.",
@@ -1657,41 +1839,52 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q1150771": "output",
-            "Q12791": "Sword",
-            "Q1454986": "physical system",
-            "Q1514280": "stabbing_weapon",
-            "Q15401930": "artificial object",
-            "Q15407649": "edged and bladed weapon",
-            "Q1617400": "slashing_weapon",
-            "Q16686448": "artificial object",
-            "Q18643213": "military equipment",
-            "Q222405": "Cold_weapon",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q28692583": "bladed object",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q39546": "Tool",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q5581528": "Melee_weapon",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q728": "Weapon",
-            "Q8205328": "artificial physical object",
-            "Q9180322": "piercing-cutting_weapon",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Sword",
+                "wdid": "Q12791"
+            },
+            {
+                "label": "stabbing_weapon",
+                "wdid": "Q1514280"
+            },
+            {
+                "label": "edged and bladed weapon",
+                "wdid": "Q15407649"
+            },
+            {
+                "label": "slashing_weapon",
+                "wdid": "Q1617400"
+            },
+            {
+                "label": "military equipment",
+                "wdid": "Q18643213"
+            },
+            {
+                "label": "Cold_weapon",
+                "wdid": "Q222405"
+            },
+            {
+                "label": "bladed object",
+                "wdid": "Q28692583"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            },
+            {
+                "label": "Melee_weapon",
+                "wdid": "Q5581528"
+            },
+            {
+                "label": "Weapon",
+                "wdid": "Q728"
+            },
+            {
+                "label": "piercing-cutting_weapon",
+                "wdid": "Q9180322"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Sablje",
@@ -1725,10 +1918,16 @@
         "coordination": "and",
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {
-            "Q231204": "Sabers",
-            "Q2489216": "spears"
-        },
+        "entities": [
+            {
+                "label": "Sabers",
+                "wdid": "Q231204"
+            },
+            {
+                "label": "spears",
+                "wdid": "Q2489216"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sablje</div>\n\t\t<div class=\"glossblock\">Sabers.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">danas</div>\n\t\t<div class=\"glossblock\">today</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">stavljene</div>\n\t\t<div class=\"glossblock\">put.PASSIVE.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t₁</div>\n\t\t<div class=\"glossblock\">t₁</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja</div>\n\t\t<div class=\"glossblock\">spears</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">različite</div>\n\t\t<div class=\"glossblock\">different</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kutije.</div>\n\t\t<div class=\"glossblock\">boxes</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Sabers.",
@@ -1746,41 +1945,52 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q1150771": "output",
-            "Q12791": "Sword",
-            "Q1454986": "physical system",
-            "Q1514280": "stabbing_weapon",
-            "Q15401930": "artificial object",
-            "Q15407649": "edged and bladed weapon",
-            "Q1617400": "slashing_weapon",
-            "Q16686448": "artificial object",
-            "Q18643213": "military equipment",
-            "Q222405": "Cold_weapon",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q28692583": "bladed object",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q39546": "Tool",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q5581528": "Melee_weapon",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q728": "Weapon",
-            "Q8205328": "artificial physical object",
-            "Q9180322": "piercing-cutting_weapon",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Sword",
+                "wdid": "Q12791"
+            },
+            {
+                "label": "stabbing_weapon",
+                "wdid": "Q1514280"
+            },
+            {
+                "label": "edged and bladed weapon",
+                "wdid": "Q15407649"
+            },
+            {
+                "label": "slashing_weapon",
+                "wdid": "Q1617400"
+            },
+            {
+                "label": "military equipment",
+                "wdid": "Q18643213"
+            },
+            {
+                "label": "Cold_weapon",
+                "wdid": "Q222405"
+            },
+            {
+                "label": "bladed object",
+                "wdid": "Q28692583"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            },
+            {
+                "label": "Melee_weapon",
+                "wdid": "Q5581528"
+            },
+            {
+                "label": "Weapon",
+                "wdid": "Q728"
+            },
+            {
+                "label": "piercing-cutting_weapon",
+                "wdid": "Q9180322"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Sablje",
@@ -1814,7 +2024,7 @@
         "clength": 45,
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sablje</div>\n\t\t<div class=\"glossblock\">sabers.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudarile</div>\n\t\t<div class=\"glossblock\">collided.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t</div>\n\t\t<div class=\"glossblock\">t</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja</div>\n\t\t<div class=\"glossblock\">spears.NPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bici.</div>\n\t\t<div class=\"glossblock\">battle</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday",
@@ -1832,7 +2042,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Juče",
@@ -1866,7 +2076,7 @@
         "clength": 45,
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sablje</div>\n\t\t<div class=\"glossblock\">sabers.FPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudarili</div>\n\t\t<div class=\"glossblock\">collided.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t</div>\n\t\t<div class=\"glossblock\">t</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja</div>\n\t\t<div class=\"glossblock\">spears.npl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bici.</div>\n\t\t<div class=\"glossblock\">battle</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday",
@@ -1884,7 +2094,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Juče",
@@ -1919,10 +2129,16 @@
         "coordination": "and",
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {
-            "Q231204": "Sabers",
-            "Q2489216": "spears"
-        },
+        "entities": [
+            {
+                "label": "Sabers",
+                "wdid": "Q231204"
+            },
+            {
+                "label": "spears",
+                "wdid": "Q2489216"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sablje</div>\n\t\t<div class=\"glossblock\">sabers.FPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudarila</div>\n\t\t<div class=\"glossblock\">collided.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t</div>\n\t\t<div class=\"glossblock\">t</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja</div>\n\t\t<div class=\"glossblock\">spears.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bici.</div>\n\t\t<div class=\"glossblock\">battle</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday",
@@ -1940,41 +2156,52 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q1150771": "output",
-            "Q12791": "Sword",
-            "Q1454986": "physical system",
-            "Q1514280": "stabbing_weapon",
-            "Q15401930": "artificial object",
-            "Q15407649": "edged and bladed weapon",
-            "Q1617400": "slashing_weapon",
-            "Q16686448": "artificial object",
-            "Q18643213": "military equipment",
-            "Q222405": "Cold_weapon",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q28692583": "bladed object",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q39546": "Tool",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q5581528": "Melee_weapon",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q728": "Weapon",
-            "Q8205328": "artificial physical object",
-            "Q9180322": "piercing-cutting_weapon",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Sword",
+                "wdid": "Q12791"
+            },
+            {
+                "label": "stabbing_weapon",
+                "wdid": "Q1514280"
+            },
+            {
+                "label": "edged and bladed weapon",
+                "wdid": "Q15407649"
+            },
+            {
+                "label": "slashing_weapon",
+                "wdid": "Q1617400"
+            },
+            {
+                "label": "military equipment",
+                "wdid": "Q18643213"
+            },
+            {
+                "label": "Cold_weapon",
+                "wdid": "Q222405"
+            },
+            {
+                "label": "bladed object",
+                "wdid": "Q28692583"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            },
+            {
+                "label": "Melee_weapon",
+                "wdid": "Q5581528"
+            },
+            {
+                "label": "Weapon",
+                "wdid": "Q728"
+            },
+            {
+                "label": "piercing-cutting_weapon",
+                "wdid": "Q9180322"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Juče",
@@ -2008,7 +2235,7 @@
         "clength": 45,
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sablje</div>\n\t\t<div class=\"glossblock\">sabers.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t</div>\n\t\t<div class=\"glossblock\">t</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja</div>\n\t\t<div class=\"glossblock\">spears.NPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudarile</div>\n\t\t<div class=\"glossblock\">collided.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bici.</div>\n\t\t<div class=\"glossblock\">battle</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "sabers.",
@@ -2026,7 +2253,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Sablje",
@@ -2062,7 +2289,7 @@
         "clength": 45,
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sablje</div>\n\t\t<div class=\"glossblock\">sabers.FPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t</div>\n\t\t<div class=\"glossblock\">t</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja</div>\n\t\t<div class=\"glossblock\">spears.NPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudarili</div>\n\t\t<div class=\"glossblock\">collided.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bici.</div>\n\t\t<div class=\"glossblock\">battle</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "sabers.FPL",
@@ -2080,7 +2307,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Sablje",
@@ -2115,9 +2342,12 @@
         "coordination": "and",
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {
-            "Q288596": "2.7"
-        },
+        "entities": [
+            {
+                "label": "2.7",
+                "wdid": "Q288596"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sablje</div>\n\t\t<div class=\"glossblock\">sabers.FPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t</div>\n\t\t<div class=\"glossblock\">t</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja</div>\n\t\t<div class=\"glossblock\">spears.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudarila</div>\n\t\t<div class=\"glossblock\">collided.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bici.</div>\n\t\t<div class=\"glossblock\">battle</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "sabers.FPL",
@@ -2135,7 +2365,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Sablje",
@@ -2169,7 +2399,7 @@
         "clength": 44,
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudarila</div>\n\t\t<div class=\"glossblock\">collided.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja,</div>\n\t\t<div class=\"glossblock\">spears.,</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sekire</div>\n\t\t<div class=\"glossblock\">axes.FPL,</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sablje.</div>\n\t\t<div class=\"glossblock\">sabers.FPL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday",
@@ -2185,7 +2415,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Juče",
@@ -2218,7 +2448,7 @@
         "clength": 44,
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudarili</div>\n\t\t<div class=\"glossblock\">collided.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja,</div>\n\t\t<div class=\"glossblock\">spears.NPL,</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sekire</div>\n\t\t<div class=\"glossblock\">axes.FPL,</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sablje.</div>\n\t\t<div class=\"glossblock\">sabers.FPL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday",
@@ -2234,7 +2464,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Juče",
@@ -2268,10 +2498,16 @@
         "coordination": "and",
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {
-            "Q231204": "sabers",
-            "Q288596": "2.7"
-        },
+        "entities": [
+            {
+                "label": "sabers",
+                "wdid": "Q231204"
+            },
+            {
+                "label": "2.7",
+                "wdid": "Q288596"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudarile</div>\n\t\t<div class=\"glossblock\">collided.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja,</div>\n\t\t<div class=\"glossblock\">spears.NPL,</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sekire</div>\n\t\t<div class=\"glossblock\">axes.,</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sablje.</div>\n\t\t<div class=\"glossblock\">sabers.FPL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday",
@@ -2287,41 +2523,52 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q1150771": "output",
-            "Q12791": "Sword",
-            "Q1454986": "physical system",
-            "Q1514280": "stabbing_weapon",
-            "Q15401930": "artificial object",
-            "Q15407649": "edged and bladed weapon",
-            "Q1617400": "slashing_weapon",
-            "Q16686448": "artificial object",
-            "Q18643213": "military equipment",
-            "Q222405": "Cold_weapon",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q28692583": "bladed object",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q39546": "Tool",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q5581528": "Melee_weapon",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q728": "Weapon",
-            "Q8205328": "artificial physical object",
-            "Q9180322": "piercing-cutting_weapon",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Sword",
+                "wdid": "Q12791"
+            },
+            {
+                "label": "stabbing_weapon",
+                "wdid": "Q1514280"
+            },
+            {
+                "label": "edged and bladed weapon",
+                "wdid": "Q15407649"
+            },
+            {
+                "label": "slashing_weapon",
+                "wdid": "Q1617400"
+            },
+            {
+                "label": "military equipment",
+                "wdid": "Q18643213"
+            },
+            {
+                "label": "Cold_weapon",
+                "wdid": "Q222405"
+            },
+            {
+                "label": "bladed object",
+                "wdid": "Q28692583"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            },
+            {
+                "label": "Melee_weapon",
+                "wdid": "Q5581528"
+            },
+            {
+                "label": "Weapon",
+                "wdid": "Q728"
+            },
+            {
+                "label": "piercing-cutting_weapon",
+                "wdid": "Q9180322"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Juče",
@@ -2353,7 +2600,7 @@
         "clength": 53,
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja</div>\n\t\t<div class=\"glossblock\">spears.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudarila,</div>\n\t\t<div class=\"glossblock\">collided.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t</div>\n\t\t<div class=\"glossblock\">t</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sekire</div>\n\t\t<div class=\"glossblock\">axes.FPL,</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sablje</div>\n\t\t<div class=\"glossblock\">sabers.FPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bici.</div>\n\t\t<div class=\"glossblock\">battle</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday",
@@ -2372,7 +2619,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Juče",
@@ -2409,7 +2656,7 @@
         "clength": 53,
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja</div>\n\t\t<div class=\"glossblock\">spears.NPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudarili,</div>\n\t\t<div class=\"glossblock\">collided.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t</div>\n\t\t<div class=\"glossblock\">t</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sekire</div>\n\t\t<div class=\"glossblock\">axes.FPL,</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sablje</div>\n\t\t<div class=\"glossblock\">sabers.FPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bici.</div>\n\t\t<div class=\"glossblock\">battle</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday",
@@ -2428,7 +2675,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Juče",
@@ -2466,9 +2713,12 @@
         "coordination": "and",
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {
-            "Q231204": "sabers"
-        },
+        "entities": [
+            {
+                "label": "sabers",
+                "wdid": "Q231204"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koplja</div>\n\t\t<div class=\"glossblock\">spears.NPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudarile,</div>\n\t\t<div class=\"glossblock\">collided.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t</div>\n\t\t<div class=\"glossblock\">t</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sekire</div>\n\t\t<div class=\"glossblock\">axes.,</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sablje</div>\n\t\t<div class=\"glossblock\">sabers.FPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bici.</div>\n\t\t<div class=\"glossblock\">battle</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "yesterday",
@@ -2487,41 +2737,52 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q1150771": "output",
-            "Q12791": "Sword",
-            "Q1454986": "physical system",
-            "Q1514280": "stabbing_weapon",
-            "Q15401930": "artificial object",
-            "Q15407649": "edged and bladed weapon",
-            "Q1617400": "slashing_weapon",
-            "Q16686448": "artificial object",
-            "Q18643213": "military equipment",
-            "Q222405": "Cold_weapon",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q28692583": "bladed object",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q39546": "Tool",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q5581528": "Melee_weapon",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q728": "Weapon",
-            "Q8205328": "artificial physical object",
-            "Q9180322": "piercing-cutting_weapon",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Sword",
+                "wdid": "Q12791"
+            },
+            {
+                "label": "stabbing_weapon",
+                "wdid": "Q1514280"
+            },
+            {
+                "label": "edged and bladed weapon",
+                "wdid": "Q15407649"
+            },
+            {
+                "label": "slashing_weapon",
+                "wdid": "Q1617400"
+            },
+            {
+                "label": "military equipment",
+                "wdid": "Q18643213"
+            },
+            {
+                "label": "Cold_weapon",
+                "wdid": "Q222405"
+            },
+            {
+                "label": "bladed object",
+                "wdid": "Q28692583"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            },
+            {
+                "label": "Melee_weapon",
+                "wdid": "Q5581528"
+            },
+            {
+                "label": "Weapon",
+                "wdid": "Q728"
+            },
+            {
+                "label": "piercing-cutting_weapon",
+                "wdid": "Q9180322"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Juče",
@@ -2549,9 +2810,12 @@
         "coordination": "and",
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {
-            "Q55092468": "Arsenijević"
-        },
+        "entities": [
+            {
+                "label": "Arsenijević",
+                "wdid": "Q55092468"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[Direktor</div>\n\t\t<div class=\"glossblock\">manager</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">će</div>\n\t\t<div class=\"glossblock\">will</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">njegov</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tajnik]</div>\n\t\t<div class=\"glossblock\">secretary</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zakasniti</div>\n\t\t<div class=\"glossblock\">come.late</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "manager",
@@ -2565,7 +2829,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "[Direktor",
@@ -2608,7 +2872,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Haljine₁",
@@ -2654,7 +2918,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Haljine",
@@ -2683,7 +2947,7 @@
         "coordination": "and",
         "doc_ID": 6382,
         "doc_URL": "https://www.glossa-journal.org/article/id/6382",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Haljine</div>\n\t\t<div class=\"glossblock\">dresses.FPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">juče</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">prodata</div>\n\t\t<div class=\"glossblock\">sold.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t₁</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">odela</div>\n\t\t<div class=\"glossblock\">suits.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">suknje.</div>\n\t\t<div class=\"glossblock\">skirts.FPL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(1.2/7)</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "dresses.FPL",
@@ -2700,7 +2964,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Haljine",

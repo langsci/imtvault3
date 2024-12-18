@@ -20,7 +20,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "a.",
@@ -51,7 +51,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "a.",
@@ -77,7 +77,7 @@
         "clength": 19,
         "doc_ID": 5786,
         "doc_URL": "https://www.glossa-journal.org/article/id/5786",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">huzing=su</div>\n\t\t<div class=\"glossblock\">dog=2SG.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kani,</div>\n\t\t<div class=\"glossblock\">this</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hu?</div>\n\t\t<div class=\"glossblock\">PRT</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "dog=2SG.GEN",
@@ -88,7 +88,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "huzing=su",
@@ -115,9 +115,12 @@
         "clength": 18,
         "doc_ID": 5786,
         "doc_URL": "https://www.glossa-journal.org/article/id/5786",
-        "entities": {
-            "Q255189": "Paraphrase"
-        },
+        "entities": [
+            {
+                "label": "Paraphrase",
+                "wdid": "Q255189"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">huzing=su</div>\n\t\t<div class=\"glossblock\">dog=2SG.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kani</div>\n\t\t<div class=\"glossblock\">this</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pi?</div>\n\t\t<div class=\"glossblock\">PRT</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "dog=2SG.GEN",
@@ -128,7 +131,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -154,10 +157,16 @@
         "clength": 25,
         "doc_ID": 5786,
         "doc_URL": "https://www.glossa-journal.org/article/id/5786",
-        "entities": {
-            "Q5348553": "eh?",
-            "Q5582808": "good movie"
-        },
+        "entities": [
+            {
+                "label": "eh?",
+                "wdid": "Q5348553"
+            },
+            {
+                "label": "good movie",
+                "wdid": "Q5582808"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lay</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tax-an</div>\n\t\t<div class=\"glossblock\">watch-LV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yiga’</div>\n\t\t<div class=\"glossblock\">movie</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hani</div>\n\t\t<div class=\"glossblock\">this</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ra?</div>\n\t\t<div class=\"glossblock\">PRT</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "good",
@@ -170,7 +179,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "lay",
@@ -202,11 +211,20 @@
         "coordination": "and",
         "doc_ID": 5786,
         "doc_URL": "https://www.glossa-journal.org/article/id/5786",
-        "entities": {
-            "Q220888": "refute",
-            "Q33659": "People",
-            "Q836453": "Shiwei"
-        },
+        "entities": [
+            {
+                "label": "refute",
+                "wdid": "Q220888"
+            },
+            {
+                "label": "People",
+                "wdid": "Q33659"
+            },
+            {
+                "label": "Shiwei",
+                "wdid": "Q836453"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kyang</div>\n\t\t<div class=\"glossblock\">exist</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">huzing=mu</div>\n\t\t<div class=\"glossblock\">dog=1SG.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">COS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ki</div>\n\t\t<div class=\"glossblock\">PRT</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "exist",
@@ -218,7 +236,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "kyang",
@@ -257,7 +275,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "na,",
@@ -280,7 +298,7 @@
         "clength": 17,
         "doc_ID": 5786,
         "doc_URL": "https://www.glossa-journal.org/article/id/5786",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cha</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sa-ss-ta-ko-↓</div>\n\t\t<div class=\"glossblock\">buy-PAST-DECL-COMP</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "car",
@@ -290,7 +308,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "cha",
@@ -313,7 +331,7 @@
         "clength": 14,
         "doc_ID": 5786,
         "doc_URL": "https://www.glossa-journal.org/article/id/5786",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cha</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sa-ss-ta-y</div>\n\t\t<div class=\"glossblock\">buy-PAST-DECL-COMP-HEARSAY</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "car",
@@ -323,7 +341,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "cha",
@@ -355,7 +373,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "swul",
@@ -379,7 +397,7 @@
         "clength": 14,
         "doc_ID": 5786,
         "doc_URL": "https://www.glossa-journal.org/article/id/5786",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">swul</div>\n\t\t<div class=\"glossblock\">alcohol</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sa-la-ko↓</div>\n\t\t<div class=\"glossblock\">buy-IMP-COMP</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "alcohol",
@@ -389,7 +407,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "swul",
@@ -413,7 +431,7 @@
         "clength": 12,
         "doc_ID": 5786,
         "doc_URL": "https://www.glossa-journal.org/article/id/5786",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">swul</div>\n\t\t<div class=\"glossblock\">alcohol</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sa-la-y</div>\n\t\t<div class=\"glossblock\">buy-IMP-HEARSAY</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "alcohol",
@@ -423,7 +441,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "swul",
@@ -453,7 +471,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "a.",
@@ -483,7 +501,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "a.",
@@ -515,7 +533,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "a.",

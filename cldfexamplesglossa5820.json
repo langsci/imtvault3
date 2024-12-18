@@ -13,9 +13,12 @@
         "coordination": "and",
         "doc_ID": 5820,
         "doc_URL": "https://www.glossa-journal.org/article/id/5820",
-        "entities": {
-            "Q58701": "man and the woman"
-        },
+        "entities": [
+            {
+                "label": "man and the woman",
+                "wdid": "Q58701"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">k’ats-sa</div>\n\t\t<div class=\"glossblock\">man-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kal-s</div>\n\t\t<div class=\"glossblock\">woman-DAT</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "man-DAT",
@@ -26,7 +29,7 @@
         "language_iso6393": "kat",
         "language_name": "Georgian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "k’ats-sa",
@@ -54,10 +57,16 @@
         "coordination": "and",
         "doc_ID": 5820,
         "doc_URL": "https://www.glossa-journal.org/article/id/5820",
-        "entities": {
-            "Q172415": "Kutaisi",
-            "Q994": "Tbilisi"
-        },
+        "entities": [
+            {
+                "label": "Kutaisi",
+                "wdid": "Q172415"
+            },
+            {
+                "label": "Tbilisi",
+                "wdid": "Q994"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tbilis-isa</div>\n\t\t<div class=\"glossblock\">Tbilisi-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kutais-is</div>\n\t\t<div class=\"glossblock\">Kutaisi-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">silamaze</div>\n\t\t<div class=\"glossblock\">beauty(NOM)</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Tbilisi-GEN",
@@ -69,7 +78,7 @@
         "language_iso6393": "kat",
         "language_name": "Georgian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "tbilis-isa",
@@ -106,7 +115,7 @@
         "language_iso6393": "kat",
         "language_name": "Georgian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "silamaze",
@@ -135,7 +144,7 @@
         "language_iso6393": "kat",
         "language_name": "Georgian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Principle of Locality:"

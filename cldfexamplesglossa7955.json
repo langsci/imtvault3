@@ -14,9 +14,12 @@
         "clength": 22,
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": {
-            "Q475018": "living room"
-        },
+        "entities": [
+            {
+                "label": "living room",
+                "wdid": "Q475018"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ra'i-ti</div>\n\t\t<div class=\"glossblock\">saw-1</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et=ha=sa'lon ‖</div>\n\t\t<div class=\"glossblock\">ACC=DEF=living.room</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "saw-1",
@@ -26,45 +29,44 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q106865223": "technical system",
-            "Q1150771": "output",
-            "Q11908691": "artificial physical structure",
-            "Q1299240": "interior space",
-            "Q13226383": "facility",
-            "Q1454986": "physical system",
-            "Q15401930": "artificial object",
-            "Q15710813": "physical structure",
-            "Q15989253": "part",
-            "Q16686448": "artificial object",
-            "Q17334923": "physical location",
-            "Q180516": "Room",
-            "Q2133296": "space",
-            "Q2221906": "geographic location",
-            "Q223557": "physical object",
-            "Q27096213": "geographic entity",
-            "Q27096235": "artificial geographic entity",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35145743": "artificial geographic object",
-            "Q35459920": "three-dimensional object",
-            "Q386724": "work",
-            "Q41176": "building",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q56052926": "building division",
-            "Q58415929": "spatio-temporal entity",
-            "Q58416391": "spatial object",
-            "Q58778": "system",
-            "Q618123": "geographical feature",
-            "Q6671777": "structure",
-            "Q811430": "fixed construction",
-            "Q811979": "architectural structure",
-            "Q8205328": "artificial physical object",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "interior space",
+                "wdid": "Q1299240"
+            },
+            {
+                "label": "Room",
+                "wdid": "Q180516"
+            },
+            {
+                "label": "space",
+                "wdid": "Q2133296"
+            },
+            {
+                "label": "geographic location",
+                "wdid": "Q2221906"
+            },
+            {
+                "label": "geographic entity",
+                "wdid": "Q27096213"
+            },
+            {
+                "label": "artificial geographic entity",
+                "wdid": "Q27096235"
+            },
+            {
+                "label": "building",
+                "wdid": "Q41176"
+            },
+            {
+                "label": "building division",
+                "wdid": "Q56052926"
+            },
+            {
+                "label": "geographical feature",
+                "wdid": "Q618123"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "ra'i-ti",
@@ -88,7 +90,7 @@
         "clength": 35,
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'si-nu</div>\n\t\t<div class=\"glossblock\">did-1</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et=ze</div>\n\t\t<div class=\"glossblock\">ACC=DEM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">be=ʦu'ra mesu'deret ‖</div>\n\t\t<div class=\"glossblock\">in=shape organized</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "did-1",
@@ -99,7 +101,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "a'si-nu",
@@ -118,7 +120,7 @@
         "clength": 24,
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'vad-ta</div>\n\t\t<div class=\"glossblock\">worked-2</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">be=bet.ma'lon /</div>\n\t\t<div class=\"glossblock\">in=hotel</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "worked-2",
@@ -128,7 +130,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "a'vad-ta",
@@ -156,7 +158,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "a'mar-t",
@@ -179,7 +181,7 @@
         "coordination": "and",
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha'ji-tem</div>\n\t\t<div class=\"glossblock\">was-2</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">b=a=ʦafon</div>\n\t\t<div class=\"glossblock\">in=DEF=place</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ve</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">b=a=merkaz ‖</div>\n\t\t<div class=\"glossblock\">in=DEF=center</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "was-2",
@@ -191,7 +193,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ha'ji-tem",
@@ -230,7 +232,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "a'ni",
@@ -256,7 +258,7 @@
         "clength": 38,
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'val</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'naχnu</div>\n\t\t<div class=\"glossblock\">1</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'si-nu</div>\n\t\t<div class=\"glossblock\">did-1</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et=ze</div>\n\t\t<div class=\"glossblock\">ACC=DEM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">be'jaχad ‖</div>\n\t\t<div class=\"glossblock\">together</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "but",
@@ -269,7 +271,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "a'val",
@@ -290,7 +292,7 @@
         "clength": 32,
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'ta</div>\n\t\t<div class=\"glossblock\">1</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'vad-ta</div>\n\t\t<div class=\"glossblock\">worked-2</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tov</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">| kmo</div>\n\t\t<div class=\"glossblock\">like</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ta'mid ‖</div>\n\t\t<div class=\"glossblock\">always</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1",
@@ -303,7 +305,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "a'ta",
@@ -337,7 +339,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "at",
@@ -372,7 +374,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -393,7 +395,7 @@
         "clength": 18,
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hu</div>\n\t\t<div class=\"glossblock\">3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'sa-Ø</div>\n\t\t<div class=\"glossblock\">did-3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʃam ‖</div>\n\t\t<div class=\"glossblock\">there</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "what",
@@ -405,7 +407,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ma",
@@ -429,7 +431,7 @@
         "clength": 15,
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hi</div>\n\t\t<div class=\"glossblock\">3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lo</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bik'ʃ-a ‖</div>\n\t\t<div class=\"glossblock\">asked-3</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3",
@@ -440,7 +442,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "hi",
@@ -461,9 +463,12 @@
         "clength": 52,
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": {
-            "Q1507298": "low quality"
-        },
+        "entities": [
+            {
+                "label": "low quality",
+                "wdid": "Q1507298"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hem</div>\n\t\t<div class=\"glossblock\">3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pa'ʃut</div>\n\t\t<div class=\"glossblock\">just</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">|</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hit'χil-u</div>\n\t\t<div class=\"glossblock\">started-3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lik'not |</div>\n\t\t<div class=\"glossblock\">to.buy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na'gid</div>\n\t\t<div class=\"glossblock\">let’s.say</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sug 'gimel ‖</div>\n\t\t<div class=\"glossblock\">type C</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3",
@@ -478,7 +483,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "hem",
@@ -507,7 +512,7 @@
         "clength": 42,
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">az</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hitka'shar-ti</div>\n\t\t<div class=\"glossblock\">called-1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">li'ʃol</div>\n\t\t<div class=\"glossblock\">to.ask</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">o't=o</div>\n\t\t<div class=\"glossblock\">ACC=3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daa't=o ‖</div>\n\t\t<div class=\"glossblock\">opinion=3</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "so",
@@ -521,7 +526,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "az",
@@ -553,7 +558,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ma",
@@ -583,7 +588,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "efo",
@@ -615,7 +620,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "lo",
@@ -648,7 +653,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "jeʃ",
@@ -671,9 +676,12 @@
         "clength": 27,
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": {
-            "Q475018": "living room"
-        },
+        "entities": [
+            {
+                "label": "living room",
+                "wdid": "Q475018"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pa'ʃut</div>\n\t\t<div class=\"glossblock\">just</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a's-u</div>\n\t\t<div class=\"glossblock\">did-3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mi=ze</div>\n\t\t<div class=\"glossblock\">from=DEM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sa'lon ‖</div>\n\t\t<div class=\"glossblock\">living.room</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "just",
@@ -685,45 +693,44 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q106865223": "technical system",
-            "Q1150771": "output",
-            "Q11908691": "artificial physical structure",
-            "Q1299240": "interior space",
-            "Q13226383": "facility",
-            "Q1454986": "physical system",
-            "Q15401930": "artificial object",
-            "Q15710813": "physical structure",
-            "Q15989253": "part",
-            "Q16686448": "artificial object",
-            "Q17334923": "physical location",
-            "Q180516": "Room",
-            "Q2133296": "space",
-            "Q2221906": "geographic location",
-            "Q223557": "physical object",
-            "Q27096213": "geographic entity",
-            "Q27096235": "artificial geographic entity",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q35120": "entity",
-            "Q35145743": "artificial geographic object",
-            "Q35459920": "three-dimensional object",
-            "Q386724": "work",
-            "Q41176": "building",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q56052926": "building division",
-            "Q58415929": "spatio-temporal entity",
-            "Q58416391": "spatial object",
-            "Q58778": "system",
-            "Q618123": "geographical feature",
-            "Q6671777": "structure",
-            "Q811430": "fixed construction",
-            "Q811979": "architectural structure",
-            "Q8205328": "artificial physical object",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "interior space",
+                "wdid": "Q1299240"
+            },
+            {
+                "label": "Room",
+                "wdid": "Q180516"
+            },
+            {
+                "label": "space",
+                "wdid": "Q2133296"
+            },
+            {
+                "label": "geographic location",
+                "wdid": "Q2221906"
+            },
+            {
+                "label": "geographic entity",
+                "wdid": "Q27096213"
+            },
+            {
+                "label": "artificial geographic entity",
+                "wdid": "Q27096235"
+            },
+            {
+                "label": "building",
+                "wdid": "Q41176"
+            },
+            {
+                "label": "building division",
+                "wdid": "Q56052926"
+            },
+            {
+                "label": "geographical feature",
+                "wdid": "Q618123"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "pa'ʃut",
@@ -752,7 +759,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ka'tav-ti."
@@ -778,7 +785,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ka'tav-ta."
@@ -805,7 +812,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "hi",
@@ -833,7 +840,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "a'ni",
@@ -861,7 +868,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "a'ta",
@@ -888,7 +895,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "kat'v-a."
@@ -909,7 +916,7 @@
         "clength": 21,
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">'ani</div>\n\t\t<div class=\"glossblock\">1</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ø-eχa'ke</div>\n\t\t<div class=\"glossblock\">1-will.wait</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">im=ze ‖</div>\n\t\t<div class=\"glossblock\">with=DEM</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1",
@@ -920,7 +927,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "'ani",
@@ -939,7 +946,7 @@
         "clength": 30,
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tov</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'naχnu</div>\n\t\t<div class=\"glossblock\">1</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">n-eda'ber</div>\n\t\t<div class=\"glossblock\">1-will.talk</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma'χar ‖</div>\n\t\t<div class=\"glossblock\">tomorrow</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "good",
@@ -951,7 +958,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "tov",
@@ -974,7 +981,7 @@
         "clength": 34,
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">be=jom.ri'ʃon</div>\n\t\t<div class=\"glossblock\">in=Sunday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'ta</div>\n\t\t<div class=\"glossblock\">2</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t-i'ʃan</div>\n\t\t<div class=\"glossblock\">2-will.sleep</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eʦ'li |</div>\n\t\t<div class=\"glossblock\">at=1SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "in=Sunday",
@@ -986,7 +993,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "be=jom.ri'ʃon",
@@ -1017,7 +1024,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "at",
@@ -1038,9 +1045,12 @@
         "clength": 30,
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": {
-            "Q1283": "Dolomites"
-        },
+        "entities": [
+            {
+                "label": "Dolomites",
+                "wdid": "Q1283"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'tem</div>\n\t\t<div class=\"glossblock\">2</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t-ih'j-u</div>\n\t\t<div class=\"glossblock\">2-will.be-</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ba=dolo'mitim /</div>\n\t\t<div class=\"glossblock\">in.the=Dolomites</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "2",
@@ -1051,7 +1061,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "a'tem",
@@ -1070,7 +1080,7 @@
         "clength": 30,
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">od.me'at</div>\n\t\t<div class=\"glossblock\">soon</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hu</div>\n\t\t<div class=\"glossblock\">3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">j-ih'je</div>\n\t\t<div class=\"glossblock\">3-will.be</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mena'hel ‖</div>\n\t\t<div class=\"glossblock\">manager</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "soon",
@@ -1082,7 +1092,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "od.me'at",
@@ -1113,7 +1123,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "hi",
@@ -1143,7 +1153,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "hem",
@@ -1162,7 +1172,7 @@
         "clength": 31,
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">az</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t-a'vo</div>\n\t\t<div class=\"glossblock\">2-will.buy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">li'ʃon</div>\n\t\t<div class=\"glossblock\">to.sleep</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eʦ'li</div>\n\t\t<div class=\"glossblock\">at.me</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma'χar ‖</div>\n\t\t<div class=\"glossblock\">tomorrow</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "so",
@@ -1175,7 +1185,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "az",
@@ -1199,7 +1209,7 @@
         "clength": 29,
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t-imʦe-'i</div>\n\t\t<div class=\"glossblock\">2-will.see-</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">li</div>\n\t\t<div class=\"glossblock\">to.me</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">o'to</div>\n\t\t<div class=\"glossblock\">ACC.3SGM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bevaka'ʃa ‖</div>\n\t\t<div class=\"glossblock\">please</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "2-will.see-",
@@ -1211,7 +1221,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "t-imʦe-'i",
@@ -1233,7 +1243,7 @@
         "clength": 29,
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t-a'vo-u</div>\n\t\t<div class=\"glossblock\">2-will.come-</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">laχ'tom</div>\n\t\t<div class=\"glossblock\">to.sign</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">b=a=jo'man ‖</div>\n\t\t<div class=\"glossblock\">in=DEF=diary</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "2-will.come-",
@@ -1244,7 +1254,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "t-a'vo-u",
@@ -1267,9 +1277,12 @@
         "clength": 25,
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": {
-            "Q13188": "pomegranate"
-        },
+        "entities": [
+            {
+                "label": "pomegranate",
+                "wdid": "Q13188"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʃe</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">j-a'vi</div>\n\t\t<div class=\"glossblock\">3-will.bring</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">li</div>\n\t\t<div class=\"glossblock\">to.me</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">l=a='χeder ‖</div>\n\t\t<div class=\"glossblock\">to=DEF=room</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "that",
@@ -1281,7 +1294,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ʃe",
@@ -1311,7 +1324,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ʃe",
@@ -1335,7 +1348,7 @@
         "clength": 26,
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʃe=lo</div>\n\t\t<div class=\"glossblock\">that=NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t-a'ki</div>\n\t\t<div class=\"glossblock\">2-will.throw.up</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">li</div>\n\t\t<div class=\"glossblock\">to.me</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">b=a='oto ‖</div>\n\t\t<div class=\"glossblock\">in=DEF=car</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "that=NEG",
@@ -1347,7 +1360,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ʃe=lo",
@@ -1384,7 +1397,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "az",
@@ -1418,7 +1431,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "bo-Ø",
@@ -1444,7 +1457,7 @@
         "clength": 35,
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">j-aa'le</div>\n\t\t<div class=\"glossblock\">3-will.elevate</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">o'tanu</div>\n\t\t<div class=\"glossblock\">us</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">b=a=mχir</div>\n\t\t<div class=\"glossblock\">in=DEF=price</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʃel=ha=ze ‖</div>\n\t\t<div class=\"glossblock\">of=DEF=DEM</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3-will.elevate",
@@ -1456,7 +1469,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "j-aa'le",
@@ -1476,7 +1489,7 @@
         "clength": 41,
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">az</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t-aa'se</div>\n\t\t<div class=\"glossblock\">3-will do</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‖</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">az</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t-am'ʃiχ</div>\n\t\t<div class=\"glossblock\">3-will.continue</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la'ʦet</div>\n\t\t<div class=\"glossblock\">to.go.out</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i'to /</div>\n\t\t<div class=\"glossblock\">with.him</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "so",
@@ -1492,7 +1505,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "az",
@@ -1525,7 +1538,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "t-iχtov"
@@ -1552,7 +1565,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ata",
@@ -1580,7 +1593,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ʃe",
@@ -1608,7 +1621,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "hu",
@@ -1637,7 +1650,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "ʃe",
@@ -1665,7 +1678,7 @@
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "y-iχtov"

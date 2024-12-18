@@ -8,7 +8,7 @@
         "clength": 19,
         "doc_ID": 5013,
         "doc_URL": "https://www.glossa-journal.org/article/id/5013",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Txabïu</div>\n\t\t<div class=\"glossblock\">three</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pïza</div>\n\t\t<div class=\"glossblock\">canoe</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dju wï.</div>\n\t\t<div class=\"glossblock\">bring</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "three",
@@ -19,7 +19,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Txabïu",
@@ -38,7 +38,7 @@
         "clength": 20,
         "doc_ID": 5013,
         "doc_URL": "https://www.glossa-journal.org/article/id/5013",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Txabïu</div>\n\t\t<div class=\"glossblock\">three</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">apeta</div>\n\t\t<div class=\"glossblock\">blood</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dju wï.</div>\n\t\t<div class=\"glossblock\">bring</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "three",
@@ -49,7 +49,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Txabïu",
@@ -68,9 +68,12 @@
         "clength": 30,
         "doc_ID": 5013,
         "doc_URL": "https://www.glossa-journal.org/article/id/5013",
-        "entities": {
-            "Q36465": "flour"
-        },
+        "entities": [
+            {
+                "label": "flour",
+                "wdid": "Q36465"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Txabïu</div>\n\t\t<div class=\"glossblock\">three</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">asa</div>\n\t\t<div class=\"glossblock\">flour</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wï</div>\n\t\t<div class=\"glossblock\">bank</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[saku</div>\n\t\t<div class=\"glossblock\">bag</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he]</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">au.</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "three",
@@ -85,54 +88,44 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q1150771": "output",
-            "Q1155083": "granular material",
-            "Q1194058": "disposable product",
-            "Q1359395": "Bulk_cargo",
-            "Q1454986": "physical system",
-            "Q15401930": "artificial object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q1704572": "continuum",
-            "Q18458812": "consumer goods",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q2184715": "durable good",
-            "Q223557": "physical object",
-            "Q2259909": "dry bulk cargo",
-            "Q2424752": "product",
-            "Q2449671": "transportable goods",
-            "Q25416091": "substance",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q2908004": "Powder",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q319224": "cargo",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q378078": "substance",
-            "Q43460564": "chemical entity",
-            "Q4406616": "concrete object",
-            "Q4437984": "continuum",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q6671777": "structure",
-            "Q736427": "staple food",
-            "Q7493597": "shelf-stable food",
-            "Q79529": "chemical substance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "granular material",
+                "wdid": "Q1155083"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Bulk_cargo",
+                "wdid": "Q1359395"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "dry bulk cargo",
+                "wdid": "Q2259909"
+            },
+            {
+                "label": "Powder",
+                "wdid": "Q2908004"
+            },
+            {
+                "label": "cargo",
+                "wdid": "Q319224"
+            },
+            {
+                "label": "staple food",
+                "wdid": "Q736427"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Txabïu",
@@ -166,7 +159,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Itxïbï",
@@ -185,11 +178,20 @@
         "clength": 24,
         "doc_ID": 5013,
         "doc_URL": "https://www.glossa-journal.org/article/id/5013",
-        "entities": {
-            "Q183605": "blood for transfusion",
-            "Q3574371": "tubes",
-            "Q473420": "quantities"
-        },
+        "entities": [
+            {
+                "label": "blood for transfusion",
+                "wdid": "Q183605"
+            },
+            {
+                "label": "tubes",
+                "wdid": "Q3574371"
+            },
+            {
+                "label": "quantities",
+                "wdid": "Q473420"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Itxïbï</div>\n\t\t<div class=\"glossblock\">many</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">uda</div>\n\t\t<div class=\"glossblock\">someone</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">apeta</div>\n\t\t<div class=\"glossblock\">blood</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dju wï.</div>\n\t\t<div class=\"glossblock\">bring</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "many",
@@ -201,7 +203,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Itxïbï",
@@ -228,9 +230,12 @@
         "clength": 32,
         "doc_ID": 5013,
         "doc_URL": "https://www.glossa-journal.org/article/id/5013",
-        "entities": {
-            "Q36465": "flour"
-        },
+        "entities": [
+            {
+                "label": "flour",
+                "wdid": "Q36465"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Bitu</div>\n\t\t<div class=\"glossblock\">more</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na</div>\n\t\t<div class=\"glossblock\">1S</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">asa</div>\n\t\t<div class=\"glossblock\">flour</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">upadjihu</div>\n\t\t<div class=\"glossblock\">half</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yahã</div>\n\t\t<div class=\"glossblock\">NMLZ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">want</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hae.</div>\n\t\t<div class=\"glossblock\">ASP</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "more",
@@ -246,54 +251,44 @@
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "modality": "volitive",
-        "parententities": {
-            "Q1150771": "output",
-            "Q1155083": "granular material",
-            "Q1194058": "disposable product",
-            "Q1359395": "Bulk_cargo",
-            "Q1454986": "physical system",
-            "Q15401930": "artificial object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q1704572": "continuum",
-            "Q18458812": "consumer goods",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q2184715": "durable good",
-            "Q223557": "physical object",
-            "Q2259909": "dry bulk cargo",
-            "Q2424752": "product",
-            "Q2449671": "transportable goods",
-            "Q25416091": "substance",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q2908004": "Powder",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q319224": "cargo",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q378078": "substance",
-            "Q43460564": "chemical entity",
-            "Q4406616": "concrete object",
-            "Q4437984": "continuum",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q6671777": "structure",
-            "Q736427": "staple food",
-            "Q7493597": "shelf-stable food",
-            "Q79529": "chemical substance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "granular material",
+                "wdid": "Q1155083"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Bulk_cargo",
+                "wdid": "Q1359395"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "dry bulk cargo",
+                "wdid": "Q2259909"
+            },
+            {
+                "label": "Powder",
+                "wdid": "Q2908004"
+            },
+            {
+                "label": "cargo",
+                "wdid": "Q319224"
+            },
+            {
+                "label": "staple food",
+                "wdid": "Q736427"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Bitu",
@@ -321,7 +316,7 @@
         "clength": 31,
         "doc_ID": 5013,
         "doc_URL": "https://www.glossa-journal.org/article/id/5013",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Suzi,</div>\n\t\t<div class=\"glossblock\">Suzi</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">au</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bitu</div>\n\t\t<div class=\"glossblock\">more</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">taba</div>\n\t\t<div class=\"glossblock\">hair</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pïdïkaha.</div>\n\t\t<div class=\"glossblock\">clip</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Suzi",
@@ -335,7 +330,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Suzi,",
@@ -359,7 +354,7 @@
         "clength": 22,
         "doc_ID": 5013,
         "doc_URL": "https://www.glossa-journal.org/article/id/5013",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Eu</div>\n\t\t<div class=\"glossblock\">1S</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vi</div>\n\t\t<div class=\"glossblock\">saw</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cachorro</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na</div>\n\t\t<div class=\"glossblock\">in.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rua.</div>\n\t\t<div class=\"glossblock\">street</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1S",
@@ -372,7 +367,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Eu",
@@ -405,7 +400,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Quem",
@@ -437,7 +432,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Quem",
@@ -469,7 +464,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Quem",
@@ -493,7 +488,7 @@
         "clength": 16,
         "doc_ID": 5013,
         "doc_URL": "https://www.glossa-journal.org/article/id/5013",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Yi</div>\n\t\t<div class=\"glossblock\">one</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">big</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ping</div>\n\t\t<div class=\"glossblock\">CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shui.</div>\n\t\t<div class=\"glossblock\">water</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "one",
@@ -505,7 +500,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Yi",
@@ -525,9 +520,12 @@
         "clength": 25,
         "doc_ID": 5013,
         "doc_URL": "https://www.glossa-journal.org/article/id/5013",
-        "entities": {
-            "Q36465": "flour"
-        },
+        "entities": [
+            {
+                "label": "flour",
+                "wdid": "Q36465"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ma de</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">itxïbï</div>\n\t\t<div class=\"glossblock\">many</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">asa</div>\n\t\t<div class=\"glossblock\">flour</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dju a’u?</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "who",
@@ -539,54 +537,44 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q1150771": "output",
-            "Q1155083": "granular material",
-            "Q1194058": "disposable product",
-            "Q1359395": "Bulk_cargo",
-            "Q1454986": "physical system",
-            "Q15401930": "artificial object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q1704572": "continuum",
-            "Q18458812": "consumer goods",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q2184715": "durable good",
-            "Q223557": "physical object",
-            "Q2259909": "dry bulk cargo",
-            "Q2424752": "product",
-            "Q2449671": "transportable goods",
-            "Q25416091": "substance",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q2908004": "Powder",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q319224": "cargo",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q378078": "substance",
-            "Q43460564": "chemical entity",
-            "Q4406616": "concrete object",
-            "Q4437984": "continuum",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q6671777": "structure",
-            "Q736427": "staple food",
-            "Q7493597": "shelf-stable food",
-            "Q79529": "chemical substance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "granular material",
+                "wdid": "Q1155083"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Bulk_cargo",
+                "wdid": "Q1359395"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "dry bulk cargo",
+                "wdid": "Q2259909"
+            },
+            {
+                "label": "Powder",
+                "wdid": "Q2908004"
+            },
+            {
+                "label": "cargo",
+                "wdid": "Q319224"
+            },
+            {
+                "label": "staple food",
+                "wdid": "Q736427"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Ma de",
@@ -606,9 +594,12 @@
         "clength": 24,
         "doc_ID": 5013,
         "doc_URL": "https://www.glossa-journal.org/article/id/5013",
-        "entities": {
-            "Q36465": "flour"
-        },
+        "entities": [
+            {
+                "label": "flour",
+                "wdid": "Q36465"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ma de</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">urahu</div>\n\t\t<div class=\"glossblock\">big</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">asa</div>\n\t\t<div class=\"glossblock\">flour</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dju a’u?</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "who",
@@ -620,54 +611,44 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q1150771": "output",
-            "Q1155083": "granular material",
-            "Q1194058": "disposable product",
-            "Q1359395": "Bulk_cargo",
-            "Q1454986": "physical system",
-            "Q15401930": "artificial object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q1704572": "continuum",
-            "Q18458812": "consumer goods",
-            "Q2095": "Food",
-            "Q214609": "material",
-            "Q2184715": "durable good",
-            "Q223557": "physical object",
-            "Q2259909": "dry bulk cargo",
-            "Q2424752": "product",
-            "Q2449671": "transportable goods",
-            "Q25416091": "substance",
-            "Q28555911": "ordinary matter",
-            "Q28728771": "matter",
-            "Q28732711": "physical substance",
-            "Q28877": "goods",
-            "Q28921572": "common matter",
-            "Q2897903": "goods and services",
-            "Q2908004": "Powder",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q319224": "cargo",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35758": "matter",
-            "Q378078": "substance",
-            "Q43460564": "chemical entity",
-            "Q4406616": "concrete object",
-            "Q4437984": "continuum",
-            "Q488383": "object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6005984": "baryonic matter",
-            "Q6671777": "structure",
-            "Q736427": "staple food",
-            "Q7493597": "shelf-stable food",
-            "Q79529": "chemical substance",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "granular material",
+                "wdid": "Q1155083"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "Bulk_cargo",
+                "wdid": "Q1359395"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "dry bulk cargo",
+                "wdid": "Q2259909"
+            },
+            {
+                "label": "Powder",
+                "wdid": "Q2908004"
+            },
+            {
+                "label": "cargo",
+                "wdid": "Q319224"
+            },
+            {
+                "label": "staple food",
+                "wdid": "Q736427"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Ma de",
@@ -699,7 +680,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ma de",
@@ -719,7 +700,7 @@
         "clength": 24,
         "doc_ID": 5013,
         "doc_URL": "https://www.glossa-journal.org/article/id/5013",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ma de</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">urahu</div>\n\t\t<div class=\"glossblock\">big</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xãã</div>\n\t\t<div class=\"glossblock\">bowl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dju a’u?</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "who",
@@ -731,7 +712,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ma de",
@@ -751,7 +732,7 @@
         "clength": 28,
         "doc_ID": 5013,
         "doc_URL": "https://www.glossa-journal.org/article/id/5013",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ma de</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">itxïbï</div>\n\t\t<div class=\"glossblock\">many</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">abeata</div>\n\t\t<div class=\"glossblock\">clothes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dju a’u?</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "who",
@@ -763,7 +744,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ma de",
@@ -783,7 +764,7 @@
         "clength": 27,
         "doc_ID": 5013,
         "doc_URL": "https://www.glossa-journal.org/article/id/5013",
-        "entities": {},
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ma de</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">urahu</div>\n\t\t<div class=\"glossblock\">big</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">abeata</div>\n\t\t<div class=\"glossblock\">clothes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dju a’u?</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "who",
@@ -795,7 +776,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ma de",
@@ -820,10 +801,16 @@
         "clength": 40,
         "doc_ID": 5013,
         "doc_URL": "https://www.glossa-journal.org/article/id/5013",
-        "entities": {
-            "Q171529": "canoe",
-            "Q186817": "porridge"
-        },
+        "entities": [
+            {
+                "label": "canoe",
+                "wdid": "Q171529"
+            },
+            {
+                "label": "porridge",
+                "wdid": "Q186817"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Yakuha</div>\n\t\t<div class=\"glossblock\">Porridge</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xãã</div>\n\t\t<div class=\"glossblock\">bowl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yahã</div>\n\t\t<div class=\"glossblock\">NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">upïide</div>\n\t\t<div class=\"glossblock\">more</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pïza</div>\n\t\t<div class=\"glossblock\">canoe</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">urahu.</div>\n\t\t<div class=\"glossblock\">big</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Porridge",
@@ -839,64 +826,68 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {
-            "Q10273457": "equipment",
-            "Q106839123": "means of transport",
-            "Q11019": "Machine",
-            "Q1150771": "output",
-            "Q1183543": "appliance",
-            "Q1194058": "disposable product",
-            "Q1195684": "rowing boat",
-            "Q1229765": "watercraft",
-            "Q1408229": "finished good",
-            "Q1454986": "physical system",
-            "Q1485500": "tangible good",
-            "Q1507442": "human-powered vehicle",
-            "Q15401930": "artificial object",
-            "Q16686448": "artificial object",
-            "Q1681365": "consumables",
-            "Q16889133": "class",
-            "Q18458812": "consumer goods",
-            "Q19279121": "free-emissions vehicle",
-            "Q2095": "Food",
-            "Q2120578": "zero-emissions vehicle",
-            "Q2134742": "real good",
-            "Q2184715": "durable good",
-            "Q223557": "physical object",
-            "Q2424752": "product",
-            "Q26902699": "food products, beverages and tobacco products (OKPD, subsection DA)",
-            "Q26902962": "products of manufacturing industries by OKPD and CPA 2002 (D), OKPD2 AND CPA 2008 (C)",
-            "Q28877": "goods",
-            "Q2897903": "goods and services",
-            "Q2995644": "result",
-            "Q30060700": "scientific object",
-            "Q30241068": "observable entity",
-            "Q337060": "perceptible physical object",
-            "Q35120": "entity",
-            "Q35459920": "three-dimensional object",
-            "Q35825432": "converter",
-            "Q35872": "Boat",
-            "Q386724": "work",
-            "Q39546": "Tool",
-            "Q41321608": "vehicle without engine",
-            "Q42889": "Vehicle",
-            "Q43399738": "rowing equipment",
-            "Q4406616": "concrete object",
-            "Q488383": "object",
-            "Q50380212": "floating_object",
-            "Q58415929": "spatio-temporal entity",
-            "Q58778": "system",
-            "Q6671777": "structure",
-            "Q746549": "Dish_(food)",
-            "Q768186": "sports equipment",
-            "Q8195619": "human_food",
-            "Q8205328": "artificial physical object",
-            "Q868404": "final good",
-            "Q9158768": "storage",
-            "Q951964": "food product",
-            "Q987767": "Container",
-            "Q99527517": "collective entity"
-        },
+        "parententities": [
+            {
+                "label": "Machine",
+                "wdid": "Q11019"
+            },
+            {
+                "label": "rowing boat",
+                "wdid": "Q1195684"
+            },
+            {
+                "label": "watercraft",
+                "wdid": "Q1229765"
+            },
+            {
+                "label": "Boat",
+                "wdid": "Q35872"
+            },
+            {
+                "label": "Tool",
+                "wdid": "Q39546"
+            },
+            {
+                "label": "vehicle without engine",
+                "wdid": "Q41321608"
+            },
+            {
+                "label": "Vehicle",
+                "wdid": "Q42889"
+            },
+            {
+                "label": "rowing equipment",
+                "wdid": "Q43399738"
+            },
+            {
+                "label": "floating_object",
+                "wdid": "Q50380212"
+            },
+            {
+                "label": "sports equipment",
+                "wdid": "Q768186"
+            },
+            {
+                "label": "disposable product",
+                "wdid": "Q1194058"
+            },
+            {
+                "label": "consumables",
+                "wdid": "Q1681365"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "Dish_(food)",
+                "wdid": "Q746549"
+            },
+            {
+                "label": "human_food",
+                "wdid": "Q8195619"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Yakuha",
@@ -926,9 +917,12 @@
         "clength": 23,
         "doc_ID": 5013,
         "doc_URL": "https://www.glossa-journal.org/article/id/5013",
-        "entities": {
-            "Q3509639": "Yaba"
-        },
+        "entities": [
+            {
+                "label": "Yaba",
+                "wdid": "Q3509639"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Yaba</div>\n\t\t<div class=\"glossblock\">Yaba</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Karin</div>\n\t\t<div class=\"glossblock\">Karin</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">upïde</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">urahu.</div>\n\t\t<div class=\"glossblock\">big</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Yaba",
@@ -940,7 +934,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Yaba",
@@ -968,9 +962,12 @@
         "clength": 35,
         "doc_ID": 5013,
         "doc_URL": "https://www.glossa-journal.org/article/id/5013",
-        "entities": {
-            "Q3509639": "Yaba"
-        },
+        "entities": [
+            {
+                "label": "Yaba",
+                "wdid": "Q3509639"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Yaba</div>\n\t\t<div class=\"glossblock\">Yaba</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Karin</div>\n\t\t<div class=\"glossblock\">Karin</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yauda</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">du-wa</div>\n\t\t<div class=\"glossblock\">POSS-finger</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ã</div>\n\t\t<div class=\"glossblock\">measure</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kara</div>\n\t\t<div class=\"glossblock\">pass</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yahã.</div>\n\t\t<div class=\"glossblock\">NMLZ</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Yaba",
@@ -985,7 +982,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": {},
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Yaba",
