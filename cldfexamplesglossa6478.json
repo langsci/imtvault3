@@ -162,12 +162,7 @@
         "coordination": "or",
         "doc_ID": 6478,
         "doc_URL": "https://www.glossa-journal.org/article/id/6478",
-        "entities": [
-            {
-                "label": "read a book",
-                "wdid": "Q4940353"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">J’</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ai</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">un</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">livre</div>\n\t\t<div class=\"glossblock\">book</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">à</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lire.</div>\n\t\t<div class=\"glossblock\">read</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -911,6 +906,30 @@
             {
                 "label": "preschool",
                 "wdid": "Q1076052"
+            },
+            {
+                "label": "provider",
+                "wdid": "Q13420330"
+            },
+            {
+                "label": "economic agent",
+                "wdid": "Q1415187"
+            },
+            {
+                "label": "Child_care",
+                "wdid": "Q1455871"
+            },
+            {
+                "label": "care",
+                "wdid": "Q2421951"
+            },
+            {
+                "label": "School",
+                "wdid": "Q3914"
+            },
+            {
+                "label": "Care_work",
+                "wdid": "Q5038877"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">les</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">différentes</div>\n\t\t<div class=\"glossblock\">different</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">compétences</div>\n\t\t<div class=\"glossblock\">skills</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">à</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">faire</div>\n\t\t<div class=\"glossblock\">make</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">acquérir</div>\n\t\t<div class=\"glossblock\">acquire</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aux</div>\n\t\t<div class=\"glossblock\">to the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">élèves</div>\n\t\t<div class=\"glossblock\">students</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cycle</div>\n\t\t<div class=\"glossblock\">cycle</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">1</div>\n\t\t<div class=\"glossblock\">1</div>\n\t</div>\n</div>\n",
@@ -947,18 +966,6 @@
             {
                 "label": "care",
                 "wdid": "Q2421951"
-            },
-            {
-                "label": "undifferentiated service-producing activities of private households for own use",
-                "wdid": "Q29584148"
-            },
-            {
-                "label": "activities of households as employers; undifferentiated goods- and services-producing activities of households for own use",
-                "wdid": "Q29584238"
-            },
-            {
-                "label": "undifferentiated goods- and services-producing activities of private households for own use",
-                "wdid": "Q29584383"
             },
             {
                 "label": "School",
@@ -1424,6 +1431,122 @@
             {
                 "label": "blog posts",
                 "wdid": "Q30849"
+            },
+            {
+                "label": "Periodical_literature",
+                "wdid": "Q1002697"
+            },
+            {
+                "label": "digital media",
+                "wdid": "Q1076968"
+            },
+            {
+                "label": "integrating resource",
+                "wdid": "Q108637623"
+            },
+            {
+                "label": "electronic media",
+                "wdid": "Q1209283"
+            },
+            {
+                "label": "middleware",
+                "wdid": "Q146768"
+            },
+            {
+                "label": "middleware of distributed system",
+                "wdid": "Q146923"
+            },
+            {
+                "label": "publication by electronic means",
+                "wdid": "Q15938550"
+            },
+            {
+                "label": "network service",
+                "wdid": "Q1640628"
+            },
+            {
+                "label": "service on Internet",
+                "wdid": "Q1668024"
+            },
+            {
+                "label": "online publication",
+                "wdid": "Q1714118"
+            },
+            {
+                "label": "group of works",
+                "wdid": "Q17489659"
+            },
+            {
+                "label": "online service",
+                "wdid": "Q19967801"
+            },
+            {
+                "label": "Social_media",
+                "wdid": "Q202833"
+            },
+            {
+                "label": "information services",
+                "wdid": "Q21044027"
+            },
+            {
+                "label": "serial",
+                "wdid": "Q2217301"
+            },
+            {
+                "label": "text",
+                "wdid": "Q234460"
+            },
+            {
+                "label": "digital distribution",
+                "wdid": "Q269415"
+            },
+            {
+                "label": "technique",
+                "wdid": "Q2695280"
+            },
+            {
+                "label": "recurring entity",
+                "wdid": "Q28314507"
+            },
+            {
+                "label": "media",
+                "wdid": "Q340169"
+            },
+            {
+                "label": "Website",
+                "wdid": "Q35127"
+            },
+            {
+                "label": "system software",
+                "wdid": "Q676202"
+            },
+            {
+                "label": "Publication",
+                "wdid": "Q732577"
+            },
+            {
+                "label": "Software",
+                "wdid": "Q7397"
+            },
+            {
+                "label": "service",
+                "wdid": "Q7406919"
+            },
+            {
+                "label": "series of creative works",
+                "wdid": "Q7725310"
+            },
+            {
+                "label": "industrial sector",
+                "wdid": "Q8148"
+            },
+            {
+                "label": "product distribution method",
+                "wdid": "Q81941037"
+            },
+            {
+                "label": "product distribution",
+                "wdid": "Q867147"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">J’</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ai</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aussi</div>\n\t\t<div class=\"glossblock\">also</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">trois</div>\n\t\t<div class=\"glossblock\">three</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tonnes</div>\n\t\t<div class=\"glossblock\">tons</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">billets</div>\n\t\t<div class=\"glossblock\">blog posts</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">à</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">finir</div>\n\t\t<div class=\"glossblock\">finish</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">d’</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">écrire</div>\n\t\t<div class=\"glossblock\">write</div>\n\t</div>\n</div>\n",
@@ -1649,10 +1772,6 @@
                 "wdid": "Q2005"
             },
             {
-                "label": "php",
-                "wdid": "Q59"
-            },
-            {
                 "label": "retrieved",
                 "wdid": "Q816826"
             },
@@ -1800,6 +1919,54 @@
             {
                 "label": "easiest",
                 "wdid": "Q26269989"
+            },
+            {
+                "label": "rule",
+                "wdid": "Q1151067"
+            },
+            {
+                "label": "Measurement",
+                "wdid": "Q12453"
+            },
+            {
+                "label": "Evaluation",
+                "wdid": "Q1379672"
+            },
+            {
+                "label": "Model",
+                "wdid": "Q1979154"
+            },
+            {
+                "label": "technique",
+                "wdid": "Q2695280"
+            },
+            {
+                "label": "rating_system",
+                "wdid": "Q28873665"
+            },
+            {
+                "label": "premise",
+                "wdid": "Q321703"
+            },
+            {
+                "label": "media",
+                "wdid": "Q340169"
+            },
+            {
+                "label": "acquisition",
+                "wdid": "Q3604747"
+            },
+            {
+                "label": "finding",
+                "wdid": "Q37112258"
+            },
+            {
+                "label": "hypothesis",
+                "wdid": "Q41719"
+            },
+            {
+                "label": "classification scheme",
+                "wdid": "Q5962346"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">C’</div>\n\t\t<div class=\"glossblock\">It</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">plus</div>\n\t\t<div class=\"glossblock\">most</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aisé</div>\n\t\t<div class=\"glossblock\">easy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">à</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">apprendre</div>\n\t\t<div class=\"glossblock\">learn</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">à</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">utiliser</div>\n\t\t<div class=\"glossblock\">use</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pour</div>\n\t\t<div class=\"glossblock\">for</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mise en page</div>\n\t\t<div class=\"glossblock\">formatting</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">c’</div>\n\t\t<div class=\"glossblock\">it</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nettement</div>\n\t\t<div class=\"glossblock\">clearly</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">plus</div>\n\t\t<div class=\"glossblock\">more</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pratique</div>\n\t\t<div class=\"glossblock\">practical</div>\n\t</div>\n</div>\n",
@@ -1875,10 +2042,6 @@
             {
                 "label": "classification scheme",
                 "wdid": "Q5962346"
-            },
-            {
-                "label": "knowledge organization system",
-                "wdid": "Q6423319"
             }
         ],
         "provider": "glossa",
@@ -2414,6 +2577,14 @@
             {
                 "label": "tolerated",
                 "wdid": "Q7814214"
+            },
+            {
+                "label": "Fluid",
+                "wdid": "Q102205"
+            },
+            {
+                "label": "Viscus",
+                "wdid": "Q546191"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ces</div>\n\t\t<div class=\"glossblock\">these</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mélanges</div>\n\t\t<div class=\"glossblock\">mixes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se présentent</div>\n\t\t<div class=\"glossblock\">present</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sous</div>\n\t\t<div class=\"glossblock\">under</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">forme</div>\n\t\t<div class=\"glossblock\">form</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">liquide,</div>\n\t\t<div class=\"glossblock\">liquid</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">facile</div>\n\t\t<div class=\"glossblock\">easy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">à</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">assimiler</div>\n\t\t<div class=\"glossblock\">assimilate</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">par</div>\n\t\t<div class=\"glossblock\">by</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">l’</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">intestin,</div>\n\t\t<div class=\"glossblock\">intestine</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bien</div>\n\t\t<div class=\"glossblock\">well</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tolérés</div>\n\t\t<div class=\"glossblock\">tolerated</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">par</div>\n\t\t<div class=\"glossblock\">by</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">l’</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">estomac.</div>\n\t\t<div class=\"glossblock\">stomach</div>\n\t</div>\n</div>\n",
@@ -2446,10 +2617,6 @@
             {
                 "label": "Fluid",
                 "wdid": "Q102205"
-            },
-            {
-                "label": "physical state",
-                "wdid": "Q66591990"
             },
             {
                 "label": "Viscus",
