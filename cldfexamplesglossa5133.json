@@ -514,8 +514,16 @@
                 "wdid": "Q1415187"
             },
             {
+                "label": "educational institution",
+                "wdid": "Q2385804"
+            },
+            {
                 "label": "School",
                 "wdid": "Q3914"
+            },
+            {
+                "label": "educational organization",
+                "wdid": "Q5341295"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ka</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tid</div>\n\t\t<div class=\"glossblock\">time</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">du</div>\n\t\t<div class=\"glossblock\">you</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gikk</div>\n\t\t<div class=\"glossblock\">went</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ut</div>\n\t\t<div class=\"glossblock\">out</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">av</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ungdomsskolen?</div>\n\t\t<div class=\"glossblock\">secondary.school.DEF</div>\n\t</div>\n</div>\n",
@@ -542,8 +550,16 @@
                 "wdid": "Q1415187"
             },
             {
+                "label": "educational institution",
+                "wdid": "Q2385804"
+            },
+            {
                 "label": "School",
                 "wdid": "Q3914"
+            },
+            {
+                "label": "educational organization",
+                "wdid": "Q5341295"
             }
         ],
         "provider": "glossa",
@@ -578,6 +594,10 @@
             {
                 "label": "fishing gear",
                 "wdid": "Q2604618"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kem</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">som</div>\n\t\t<div class=\"glossblock\">SOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sæll</div>\n\t\t<div class=\"glossblock\">sells</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fiskeutstyr</div>\n\t\t<div class=\"glossblock\">fishing.gear</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">her</div>\n\t\t<div class=\"glossblock\">here</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bygda?</div>\n\t\t<div class=\"glossblock\">village.DEF</div>\n\t</div>\n</div>\n",
@@ -594,7 +614,12 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [],
+        "parententities": [
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Kem",

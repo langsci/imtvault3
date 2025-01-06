@@ -627,6 +627,10 @@
             {
                 "label": "armour",
                 "wdid": "Q20793164"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">do</div>\n\t\t<div class=\"glossblock\">there</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kam</div>\n\t\t<div class=\"glossblock\">came</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ain</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">grosser</div>\n\t\t<div class=\"glossblock\">big</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ludem</div>\n\t\t<div class=\"glossblock\">noise</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vnd</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gerumppel,</div>\n\t\t<div class=\"glossblock\">rumbling</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">als</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vil</div>\n\t\t<div class=\"glossblock\">many</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mit</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">harnasch</div>\n\t\t<div class=\"glossblock\">armour</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">an</div>\n\t\t<div class=\"glossblock\">at</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tuer</div>\n\t\t<div class=\"glossblock\">door</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wëren]</div>\n\t\t<div class=\"glossblock\">were</div>\n\t</div>\n</div>\n",
@@ -652,7 +656,12 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [],
+        "parententities": [
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "do",
@@ -1654,6 +1663,30 @@
             {
                 "label": "coughing",
                 "wdid": "Q975803"
+            },
+            {
+                "label": "Hazard",
+                "wdid": "Q1132455"
+            },
+            {
+                "label": "possibility",
+                "wdid": "Q21170479"
+            },
+            {
+                "label": "respiratory_signs_and_symptoms",
+                "wdid": "Q42183538"
+            },
+            {
+                "label": "human activity",
+                "wdid": "Q61788060"
+            },
+            {
+                "label": "physiological condition",
+                "wdid": "Q7189713"
+            },
+            {
+                "label": "risk source",
+                "wdid": "Q86923152"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hanno</div>\n\t\t<div class=\"glossblock\">Hanno</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hustet,</div>\n\t\t<div class=\"glossblock\">coughes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wie</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wenn</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ein</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hofhund</div>\n\t\t<div class=\"glossblock\">watchdog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bellt.</div>\n\t\t<div class=\"glossblock\">barks</div>\n\t</div>\n</div>\n",
@@ -1670,7 +1703,32 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [],
+        "parententities": [
+            {
+                "label": "Hazard",
+                "wdid": "Q1132455"
+            },
+            {
+                "label": "possibility",
+                "wdid": "Q21170479"
+            },
+            {
+                "label": "respiratory_signs_and_symptoms",
+                "wdid": "Q42183538"
+            },
+            {
+                "label": "human activity",
+                "wdid": "Q61788060"
+            },
+            {
+                "label": "physiological condition",
+                "wdid": "Q7189713"
+            },
+            {
+                "label": "risk source",
+                "wdid": "Q86923152"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Hanno",
@@ -4570,24 +4628,7 @@
         "clength": 47,
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
-        "entities": [
-            {
-                "label": "demeanour",
-                "wdid": "Q921513"
-            },
-            {
-                "label": "natural process",
-                "wdid": "Q13878858"
-            },
-            {
-                "label": "multi-organism process",
-                "wdid": "Q22269697"
-            },
-            {
-                "label": "animal behavior",
-                "wdid": "Q2990593"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">in</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">elliu</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">diu</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">und</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">er</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tete,</div>\n\t\t<div class=\"glossblock\">did</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">so</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hête</div>\n\t\t<div class=\"glossblock\">had</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">er</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gůte</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">site.</div>\n\t\t<div class=\"glossblock\">demeanour</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "in",
@@ -4606,20 +4647,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "natural process",
-                "wdid": "Q13878858"
-            },
-            {
-                "label": "multi-organism process",
-                "wdid": "Q22269697"
-            },
-            {
-                "label": "animal behavior",
-                "wdid": "Q2990593"
-            }
-        ],
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "in",
@@ -6292,6 +6320,10 @@
                 "wdid": "Q25900"
             },
             {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
+            },
+            {
                 "label": "captive mammal",
                 "wdid": "Q57812611"
             },
@@ -6338,6 +6370,10 @@
             {
                 "label": "Leporidae",
                 "wdid": "Q25900"
+            },
+            {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
             },
             {
                 "label": "captive mammal",
@@ -6402,6 +6438,10 @@
                 "wdid": "Q25900"
             },
             {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
+            },
+            {
                 "label": "captive mammal",
                 "wdid": "Q57812611"
             },
@@ -6447,6 +6487,10 @@
             {
                 "label": "Leporidae",
                 "wdid": "Q25900"
+            },
+            {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
             },
             {
                 "label": "captive mammal",

@@ -363,10 +363,6 @@
         "doc_URL": "https://langsci-press.org/catalog/book/270",
         "entities": [
             {
-                "label": "winged words",
-                "wdid": "Q2708515"
-            },
-            {
                 "label": "Odyssey",
                 "wdid": "Q35160"
             },
@@ -377,22 +373,6 @@
             {
                 "label": "Homer",
                 "wdid": "Q79441"
-            },
-            {
-                "label": "Reference",
-                "wdid": "Q121769"
-            },
-            {
-                "label": "Quotation",
-                "wdid": "Q206287"
-            },
-            {
-                "label": "text",
-                "wdid": "Q234460"
-            },
-            {
-                "label": "reference",
-                "wdid": "Q96622155"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaí</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">min</div>\n\t\t<div class=\"glossblock\">3.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">phōnḗsas</div>\n\t\t<div class=\"glossblock\">produce-a-sound.PTCP.AOR.M.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">épea</div>\n\t\t<div class=\"glossblock\">word.ACC.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pteróenta</div>\n\t\t<div class=\"glossblock\">winged.N.ACC.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">prosēúda</div>\n\t\t<div class=\"glossblock\">address.3SG.IMP</div>\n\t</div>\n</div>\n",
@@ -408,24 +388,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "Reference",
-                "wdid": "Q121769"
-            },
-            {
-                "label": "Quotation",
-                "wdid": "Q206287"
-            },
-            {
-                "label": "text",
-                "wdid": "Q234460"
-            },
-            {
-                "label": "reference",
-                "wdid": "Q96622155"
-            }
-        ],
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "kaí",
@@ -738,8 +701,16 @@
                 "wdid": "Q952173"
             },
             {
+                "label": "memory",
+                "wdid": "Q104127086"
+            },
+            {
                 "label": "land use",
                 "wdid": "Q1165944"
+            },
+            {
+                "label": "facility",
+                "wdid": "Q13226383"
             },
             {
                 "label": "spatial planning",
@@ -750,8 +721,20 @@
                 "wdid": "Q1496967"
             },
             {
+                "label": "physical structure",
+                "wdid": "Q15710813"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
                 "label": "venue",
                 "wdid": "Q17350442"
+            },
+            {
+                "label": "skill",
+                "wdid": "Q205961"
             },
             {
                 "label": "geographic location",
@@ -774,16 +757,20 @@
                 "wdid": "Q41176"
             },
             {
-                "label": "geographical feature",
-                "wdid": "Q618123"
-            },
-            {
                 "label": "commercial building",
                 "wdid": "Q655686"
             },
             {
+                "label": "architectural structure",
+                "wdid": "Q811979"
+            },
+            {
                 "label": "geographic region",
                 "wdid": "Q82794"
+            },
+            {
+                "label": "Knowledge",
+                "wdid": "Q9081"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hoi</div>\n\t\t<div class=\"glossblock\">the.M.NOM.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gár</div>\n\t\t<div class=\"glossblock\">for</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">min</div>\n\t\t<div class=\"glossblock\">3.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Selinoúsioi</div>\n\t\t<div class=\"glossblock\">Selinusian.NOM.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">epanastántes</div>\n\t\t<div class=\"glossblock\">rise.PTCP.AOR.M.NOM.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">apékteinan</div>\n\t\t<div class=\"glossblock\">kill.3SG.AOR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kataphugónta</div>\n\t\t<div class=\"glossblock\">fleeing.PTCP.AOR.M.ACC.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">epì</div>\n\t\t<div class=\"glossblock\">upon</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Diòs</div>\n\t\t<div class=\"glossblock\">Zeus.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">agoraíou</div>\n\t\t<div class=\"glossblock\">market.GEN.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bōmón</div>\n\t\t<div class=\"glossblock\">altar.ACC.SG</div>\n\t</div>\n</div>\n",
@@ -806,8 +793,16 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [
             {
+                "label": "memory",
+                "wdid": "Q104127086"
+            },
+            {
                 "label": "land use",
                 "wdid": "Q1165944"
+            },
+            {
+                "label": "facility",
+                "wdid": "Q13226383"
             },
             {
                 "label": "spatial planning",
@@ -818,8 +813,20 @@
                 "wdid": "Q1496967"
             },
             {
+                "label": "physical structure",
+                "wdid": "Q15710813"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
                 "label": "venue",
                 "wdid": "Q17350442"
+            },
+            {
+                "label": "skill",
+                "wdid": "Q205961"
             },
             {
                 "label": "geographic location",
@@ -842,16 +849,20 @@
                 "wdid": "Q41176"
             },
             {
-                "label": "geographical feature",
-                "wdid": "Q618123"
-            },
-            {
                 "label": "commercial building",
                 "wdid": "Q655686"
             },
             {
+                "label": "architectural structure",
+                "wdid": "Q811979"
+            },
+            {
                 "label": "geographic region",
                 "wdid": "Q82794"
+            },
+            {
+                "label": "Knowledge",
+                "wdid": "Q9081"
             }
         ],
         "provider": "langsci",
@@ -3180,36 +3191,36 @@
                 "wdid": "Q5296244"
             },
             {
-                "label": "ingredient",
-                "wdid": "Q10675206"
-            },
-            {
-                "label": "disposable product",
-                "wdid": "Q1194058"
-            },
-            {
                 "label": "Cereal",
                 "wdid": "Q12117"
             },
             {
-                "label": "consumables",
-                "wdid": "Q1681365"
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
+                "label": "plant structure",
+                "wdid": "Q20011319"
             },
             {
                 "label": "Food",
                 "wdid": "Q2095"
             },
             {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
                 "label": "Crop",
                 "wdid": "Q235352"
             },
             {
-                "label": "food ingredient",
-                "wdid": "Q25403900"
-            },
-            {
                 "label": "cereals and pseudocereals",
                 "wdid": "Q2643145"
+            },
+            {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
             },
             {
                 "label": "Grain",
@@ -3243,36 +3254,36 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [
             {
-                "label": "ingredient",
-                "wdid": "Q10675206"
-            },
-            {
-                "label": "disposable product",
-                "wdid": "Q1194058"
-            },
-            {
                 "label": "Cereal",
                 "wdid": "Q12117"
             },
             {
-                "label": "consumables",
-                "wdid": "Q1681365"
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
+                "label": "plant structure",
+                "wdid": "Q20011319"
             },
             {
                 "label": "Food",
                 "wdid": "Q2095"
             },
             {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
                 "label": "Crop",
                 "wdid": "Q235352"
             },
             {
-                "label": "food ingredient",
-                "wdid": "Q25403900"
-            },
-            {
                 "label": "cereals and pseudocereals",
                 "wdid": "Q2643145"
+            },
+            {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
             },
             {
                 "label": "Grain",
@@ -4444,10 +4455,6 @@
                 "wdid": "Q34201"
             },
             {
-                "label": "IG",
-                "wdid": "Q4273151"
-            },
-            {
                 "label": "Idomeneus",
                 "wdid": "Q570434"
             }
@@ -4870,32 +4877,12 @@
         "doc_URL": "https://langsci-press.org/catalog/book/270",
         "entities": [
             {
-                "label": "winged words",
-                "wdid": "Q2708515"
-            },
-            {
                 "label": "Homer",
                 "wdid": "Q7810"
             },
             {
                 "label": "Iliad",
                 "wdid": "Q8275"
-            },
-            {
-                "label": "Reference",
-                "wdid": "Q121769"
-            },
-            {
-                "label": "Quotation",
-                "wdid": "Q206287"
-            },
-            {
-                "label": "text",
-                "wdid": "Q234460"
-            },
-            {
-                "label": "reference",
-                "wdid": "Q96622155"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaí</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">spheas</div>\n\t\t<div class=\"glossblock\">them.ACC.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">phōnḗsas</div>\n\t\t<div class=\"glossblock\">produce-a-sound.PTCP.AOR.M.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">épea</div>\n\t\t<div class=\"glossblock\">word.ACC.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pteróenta</div>\n\t\t<div class=\"glossblock\">flying.N.ACC.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">prosēúda</div>\n\t\t<div class=\"glossblock\">address.3SG.IMP</div>\n\t</div>\n</div>\n",
@@ -4911,24 +4898,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "Reference",
-                "wdid": "Q121769"
-            },
-            {
-                "label": "Quotation",
-                "wdid": "Q206287"
-            },
-            {
-                "label": "text",
-                "wdid": "Q234460"
-            },
-            {
-                "label": "reference",
-                "wdid": "Q96622155"
-            }
-        ],
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "kaí",
@@ -7321,12 +7291,8 @@
                 "wdid": "Q484692"
             },
             {
-                "label": "human communication",
-                "wdid": "Q1066689"
-            },
-            {
-                "label": "communication",
-                "wdid": "Q11024"
+                "label": "memory",
+                "wdid": "Q104127086"
             },
             {
                 "label": "mechanical wave",
@@ -7341,16 +7307,20 @@
                 "wdid": "Q1318295"
             },
             {
-                "label": "natural process",
-                "wdid": "Q13878858"
+                "label": "intellectual work",
+                "wdid": "Q15621286"
             },
             {
-                "label": "oscillation",
-                "wdid": "Q170475"
+                "label": "artificial object",
+                "wdid": "Q16686448"
             },
             {
                 "label": "entertainment",
                 "wdid": "Q173799"
+            },
+            {
+                "label": "creative work",
+                "wdid": "Q17537576"
             },
             {
                 "label": "active motion",
@@ -7359,10 +7329,6 @@
             {
                 "label": "recreation",
                 "wdid": "Q184872"
-            },
-            {
-                "label": "verbal_communication",
-                "wdid": "Q1875737"
             },
             {
                 "label": "brugstekst",
@@ -7381,16 +7347,8 @@
                 "wdid": "Q2188189"
             },
             {
-                "label": "multi-organism process",
-                "wdid": "Q22269697"
-            },
-            {
                 "label": "gift exchange",
                 "wdid": "Q23009552"
-            },
-            {
-                "label": "transfer",
-                "wdid": "Q23009675"
             },
             {
                 "label": "utility_poetry",
@@ -7399,10 +7357,6 @@
             {
                 "label": "animal behavior",
                 "wdid": "Q2990593"
-            },
-            {
-                "label": "interpersonal communication",
-                "wdid": "Q3685487"
             },
             {
                 "label": "oral_communication",
@@ -7427,6 +7381,10 @@
             {
                 "label": "information exchange",
                 "wdid": "Q6031064"
+            },
+            {
+                "label": "human activity",
+                "wdid": "Q61788060"
             },
             {
                 "label": "Music",
@@ -7461,8 +7419,8 @@
                 "wdid": "Q838948"
             },
             {
-                "label": "social behavior",
-                "wdid": "Q921513"
+                "label": "Knowledge",
+                "wdid": "Q9081"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Bákkhōi</div>\n\t\t<div class=\"glossblock\">Bacchus.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">m[e]</div>\n\t\t<div class=\"glossblock\">me.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Bákkhon</div>\n\t\t<div class=\"glossblock\">Bacchus.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaì</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">prosumnaíāi</div>\n\t\t<div class=\"glossblock\">Prosymnian.F.DAT.sg</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">theôi</div>\n\t\t<div class=\"glossblock\">goddess.DAT.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">stásanto</div>\n\t\t<div class=\"glossblock\">set-up.3PL.AOR.MID</div>\n\t</div>\n</div>\n",
@@ -7481,12 +7439,8 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [
             {
-                "label": "human communication",
-                "wdid": "Q1066689"
-            },
-            {
-                "label": "communication",
-                "wdid": "Q11024"
+                "label": "memory",
+                "wdid": "Q104127086"
             },
             {
                 "label": "mechanical wave",
@@ -7501,16 +7455,20 @@
                 "wdid": "Q1318295"
             },
             {
-                "label": "natural process",
-                "wdid": "Q13878858"
+                "label": "intellectual work",
+                "wdid": "Q15621286"
             },
             {
-                "label": "oscillation",
-                "wdid": "Q170475"
+                "label": "artificial object",
+                "wdid": "Q16686448"
             },
             {
                 "label": "entertainment",
                 "wdid": "Q173799"
+            },
+            {
+                "label": "creative work",
+                "wdid": "Q17537576"
             },
             {
                 "label": "active motion",
@@ -7519,10 +7477,6 @@
             {
                 "label": "recreation",
                 "wdid": "Q184872"
-            },
-            {
-                "label": "verbal_communication",
-                "wdid": "Q1875737"
             },
             {
                 "label": "brugstekst",
@@ -7541,16 +7495,8 @@
                 "wdid": "Q2188189"
             },
             {
-                "label": "multi-organism process",
-                "wdid": "Q22269697"
-            },
-            {
                 "label": "gift exchange",
                 "wdid": "Q23009552"
-            },
-            {
-                "label": "transfer",
-                "wdid": "Q23009675"
             },
             {
                 "label": "utility_poetry",
@@ -7559,10 +7505,6 @@
             {
                 "label": "animal behavior",
                 "wdid": "Q2990593"
-            },
-            {
-                "label": "interpersonal communication",
-                "wdid": "Q3685487"
             },
             {
                 "label": "oral_communication",
@@ -7587,6 +7529,10 @@
             {
                 "label": "information exchange",
                 "wdid": "Q6031064"
+            },
+            {
+                "label": "human activity",
+                "wdid": "Q61788060"
             },
             {
                 "label": "Music",
@@ -7621,8 +7567,8 @@
                 "wdid": "Q838948"
             },
             {
-                "label": "social behavior",
-                "wdid": "Q921513"
+                "label": "Knowledge",
+                "wdid": "Q9081"
             }
         ],
         "provider": "langsci",
@@ -8520,12 +8466,16 @@
                 "wdid": "Q134267"
             },
             {
+                "label": "plant structure",
+                "wdid": "Q20011319"
+            },
+            {
                 "label": "plant organ",
                 "wdid": "Q24060707"
             },
             {
-                "label": "vegetative_organ",
-                "wdid": "Q2668103"
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
             },
             {
                 "label": "mammal",
@@ -8538,6 +8488,10 @@
             {
                 "label": "Wild_animal",
                 "wdid": "Q16390140"
+            },
+            {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
             },
             {
                 "label": "captive mammal",
@@ -8577,12 +8531,16 @@
                 "wdid": "Q134267"
             },
             {
+                "label": "plant structure",
+                "wdid": "Q20011319"
+            },
+            {
                 "label": "plant organ",
                 "wdid": "Q24060707"
             },
             {
-                "label": "vegetative_organ",
-                "wdid": "Q2668103"
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
             },
             {
                 "label": "mammal",
@@ -8595,6 +8553,10 @@
             {
                 "label": "Wild_animal",
                 "wdid": "Q16390140"
+            },
+            {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
             },
             {
                 "label": "captive mammal",
@@ -9081,8 +9043,12 @@
                 "wdid": "Q40861"
             },
             {
-                "label": "environmental resource",
-                "wdid": "Q11879003"
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
             },
             {
                 "label": "Metamorphic_rock",
@@ -9112,8 +9078,12 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [
             {
-                "label": "environmental resource",
-                "wdid": "Q11879003"
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
             },
             {
                 "label": "Metamorphic_rock",
@@ -11513,6 +11483,10 @@
                 "wdid": "Q1379672"
             },
             {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
                 "label": "Model",
                 "wdid": "Q1979154"
             },
@@ -11529,10 +11503,6 @@
                 "wdid": "Q28873665"
             },
             {
-                "label": "premise",
-                "wdid": "Q321703"
-            },
-            {
                 "label": "media",
                 "wdid": "Q340169"
             },
@@ -11543,10 +11513,6 @@
             {
                 "label": "finding",
                 "wdid": "Q37112258"
-            },
-            {
-                "label": "hypothesis",
-                "wdid": "Q41719"
             },
             {
                 "label": "classification scheme",
@@ -11586,6 +11552,10 @@
                 "wdid": "Q1379672"
             },
             {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
                 "label": "Model",
                 "wdid": "Q1979154"
             },
@@ -11602,10 +11572,6 @@
                 "wdid": "Q28873665"
             },
             {
-                "label": "premise",
-                "wdid": "Q321703"
-            },
-            {
                 "label": "media",
                 "wdid": "Q340169"
             },
@@ -11616,10 +11582,6 @@
             {
                 "label": "finding",
                 "wdid": "Q37112258"
-            },
-            {
-                "label": "hypothesis",
-                "wdid": "Q41719"
             },
             {
                 "label": "classification scheme",
@@ -13464,28 +13426,16 @@
                 "wdid": "Q1516282"
             },
             {
-                "label": "natural person",
-                "wdid": "Q154954"
-            },
-            {
-                "label": "heterotroph",
-                "wdid": "Q159344"
-            },
-            {
                 "label": "group of humans",
                 "wdid": "Q16334295"
             },
             {
-                "label": "omnivore",
-                "wdid": "Q164509"
-            },
-            {
-                "label": "person",
-                "wdid": "Q215627"
-            },
-            {
                 "label": "unit",
                 "wdid": "Q2198779"
+            },
+            {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
             },
             {
                 "label": "human",
@@ -13539,28 +13489,16 @@
                 "wdid": "Q1516282"
             },
             {
-                "label": "natural person",
-                "wdid": "Q154954"
-            },
-            {
-                "label": "heterotroph",
-                "wdid": "Q159344"
-            },
-            {
                 "label": "group of humans",
                 "wdid": "Q16334295"
             },
             {
-                "label": "omnivore",
-                "wdid": "Q164509"
-            },
-            {
-                "label": "person",
-                "wdid": "Q215627"
-            },
-            {
                 "label": "unit",
                 "wdid": "Q2198779"
+            },
+            {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
             },
             {
                 "label": "human",
@@ -14625,10 +14563,6 @@
                 "wdid": "Q16334295"
             },
             {
-                "label": "person",
-                "wdid": "Q215627"
-            },
-            {
                 "label": "unit",
                 "wdid": "Q2198779"
             },
@@ -14665,10 +14599,6 @@
             {
                 "label": "group of humans",
                 "wdid": "Q16334295"
-            },
-            {
-                "label": "person",
-                "wdid": "Q215627"
             },
             {
                 "label": "unit",
@@ -16691,12 +16621,12 @@
                 "wdid": "Q131512"
             },
             {
-                "label": "person",
-                "wdid": "Q215627"
-            },
-            {
                 "label": "Worker",
                 "wdid": "Q327055"
+            },
+            {
+                "label": "professional",
+                "wdid": "Q702269"
             },
             {
                 "label": "employee",
@@ -16735,12 +16665,12 @@
                 "wdid": "Q131512"
             },
             {
-                "label": "person",
-                "wdid": "Q215627"
-            },
-            {
                 "label": "Worker",
                 "wdid": "Q327055"
+            },
+            {
+                "label": "professional",
+                "wdid": "Q702269"
             },
             {
                 "label": "employee",
@@ -17700,6 +17630,10 @@
                 "wdid": "Q1665268"
             },
             {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
                 "label": "prohibition",
                 "wdid": "Q1751943"
             },
@@ -17739,6 +17673,10 @@
             {
                 "label": "command",
                 "wdid": "Q1665268"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
             },
             {
                 "label": "prohibition",
@@ -19655,6 +19593,18 @@
                 "wdid": "Q859"
             },
             {
+                "label": "intellectual work",
+                "wdid": "Q15621286"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
+                "label": "creative work",
+                "wdid": "Q17537576"
+            },
+            {
                 "label": "fictional character",
                 "wdid": "Q95074"
             }
@@ -19673,6 +19623,18 @@
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [
+            {
+                "label": "intellectual work",
+                "wdid": "Q15621286"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
+                "label": "creative work",
+                "wdid": "Q17537576"
+            },
             {
                 "label": "fictional character",
                 "wdid": "Q95074"
@@ -19910,10 +19872,6 @@
             {
                 "label": "maidens",
                 "wdid": "Q1210093"
-            },
-            {
-                "label": "26.1",
-                "wdid": "Q211561"
             },
             {
                 "label": "Alcman",
@@ -21273,12 +21231,24 @@
                 "wdid": "Q1318295"
             },
             {
-                "label": "حسن_إسماعيل_أحمد_الاسلمي_العسيري",
-                "wdid": "Q15706467"
+                "label": "intellectual work",
+                "wdid": "Q15621286"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
+                "label": "creative work",
+                "wdid": "Q17537576"
             },
             {
                 "label": "Religious_text",
                 "wdid": "Q179461"
+            },
+            {
+                "label": "string",
+                "wdid": "Q184754"
             },
             {
                 "label": "literary_non-fiction",
@@ -21295,10 +21265,6 @@
             {
                 "label": "Biography",
                 "wdid": "Q36279"
-            },
-            {
-                "label": "information resource",
-                "wdid": "Q37866906"
             },
             {
                 "label": "Document",
@@ -21335,12 +21301,24 @@
                 "wdid": "Q1318295"
             },
             {
-                "label": "حسن_إسماعيل_أحمد_الاسلمي_العسيري",
-                "wdid": "Q15706467"
+                "label": "intellectual work",
+                "wdid": "Q15621286"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
+                "label": "creative work",
+                "wdid": "Q17537576"
             },
             {
                 "label": "Religious_text",
                 "wdid": "Q179461"
+            },
+            {
+                "label": "string",
+                "wdid": "Q184754"
             },
             {
                 "label": "literary_non-fiction",
@@ -21357,10 +21335,6 @@
             {
                 "label": "Biography",
                 "wdid": "Q36279"
-            },
-            {
-                "label": "information resource",
-                "wdid": "Q37866906"
             },
             {
                 "label": "Document",
@@ -21905,8 +21879,8 @@
                 "wdid": "Q16748867"
             },
             {
-                "label": "Languoid",
-                "wdid": "Q17376908"
+                "label": "human activity",
+                "wdid": "Q61788060"
             },
             {
                 "label": "Emotion",
@@ -21931,8 +21905,8 @@
                 "wdid": "Q16748867"
             },
             {
-                "label": "Languoid",
-                "wdid": "Q17376908"
+                "label": "human activity",
+                "wdid": "Q61788060"
             },
             {
                 "label": "Emotion",
@@ -22347,6 +22321,18 @@
                 "wdid": "Q1318295"
             },
             {
+                "label": "intellectual work",
+                "wdid": "Q15621286"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
+                "label": "creative work",
+                "wdid": "Q17537576"
+            },
+            {
                 "label": "Folklore",
                 "wdid": "Q36192"
             }
@@ -22368,6 +22354,18 @@
             {
                 "label": "Narrative",
                 "wdid": "Q1318295"
+            },
+            {
+                "label": "intellectual work",
+                "wdid": "Q15621286"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
+                "label": "creative work",
+                "wdid": "Q17537576"
             },
             {
                 "label": "Folklore",
@@ -23237,6 +23235,10 @@
                 "wdid": "Q16390140"
             },
             {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
+            },
+            {
                 "label": "captive mammal",
                 "wdid": "Q57812611"
             },
@@ -23278,6 +23280,10 @@
             {
                 "label": "Wild_animal",
                 "wdid": "Q16390140"
+            },
+            {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
             },
             {
                 "label": "captive mammal",
@@ -23485,8 +23491,48 @@
                 "wdid": "Q81741"
             },
             {
+                "label": "memory",
+                "wdid": "Q104127086"
+            },
+            {
+                "label": "Hazard",
+                "wdid": "Q1132455"
+            },
+            {
+                "label": "intellectual work",
+                "wdid": "Q15621286"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
+                "label": "creative work",
+                "wdid": "Q17537576"
+            },
+            {
                 "label": "Occult",
                 "wdid": "Q178934"
+            },
+            {
+                "label": "possibility",
+                "wdid": "Q21170479"
+            },
+            {
+                "label": "belief system",
+                "wdid": "Q5390013"
+            },
+            {
+                "label": "religion or world view",
+                "wdid": "Q71966963"
+            },
+            {
+                "label": "risk source",
+                "wdid": "Q86923152"
+            },
+            {
+                "label": "Knowledge",
+                "wdid": "Q9081"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ho</div>\n\t\t<div class=\"glossblock\">the.M.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dé</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">moi</div>\n\t\t<div class=\"glossblock\">me.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mágos</div>\n\t\t<div class=\"glossblock\">magus.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">taûta</div>\n\t\t<div class=\"glossblock\">this.N.ACC.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eneteílato</div>\n\t\t<div class=\"glossblock\">command.3SG.AOR.MID</div>\n\t</div>\n</div>\n",
@@ -23504,8 +23550,48 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [
             {
+                "label": "memory",
+                "wdid": "Q104127086"
+            },
+            {
+                "label": "Hazard",
+                "wdid": "Q1132455"
+            },
+            {
+                "label": "intellectual work",
+                "wdid": "Q15621286"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
+                "label": "creative work",
+                "wdid": "Q17537576"
+            },
+            {
                 "label": "Occult",
                 "wdid": "Q178934"
+            },
+            {
+                "label": "possibility",
+                "wdid": "Q21170479"
+            },
+            {
+                "label": "belief system",
+                "wdid": "Q5390013"
+            },
+            {
+                "label": "religion or world view",
+                "wdid": "Q71966963"
+            },
+            {
+                "label": "risk source",
+                "wdid": "Q86923152"
+            },
+            {
+                "label": "Knowledge",
+                "wdid": "Q9081"
             }
         ],
         "provider": "langsci",
@@ -23754,10 +23840,6 @@
         "doc_ID": 270,
         "doc_URL": "https://langsci-press.org/catalog/book/270",
         "entities": [
-            {
-                "label": "cf",
-                "wdid": "Q1048501"
-            },
             {
                 "label": "Theocritus",
                 "wdid": "Q219484"
@@ -26228,12 +26310,20 @@
                 "wdid": "Q7810"
             },
             {
+                "label": "intellectual work",
+                "wdid": "Q15621286"
+            },
+            {
                 "label": "fictional_human",
                 "wdid": "Q15632617"
             },
             {
-                "label": "fictional_creature",
-                "wdid": "Q2593744"
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
+                "label": "creative work",
+                "wdid": "Q17537576"
             },
             {
                 "label": "fictional_mammal",
@@ -26242,14 +26332,6 @@
             {
                 "label": "fictional_humanoid",
                 "wdid": "Q28020127"
-            },
-            {
-                "label": "fictional_organism",
-                "wdid": "Q30017383"
-            },
-            {
-                "label": "fictional_animal_character",
-                "wdid": "Q3542731"
             },
             {
                 "label": "literary character",
@@ -26262,10 +26344,6 @@
             {
                 "label": "fictional_primate",
                 "wdid": "Q96789464"
-            },
-            {
-                "label": "fictional_person",
-                "wdid": "Q97498056"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ê</div>\n\t\t<div class=\"glossblock\">in.truth</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mḗ</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tís</div>\n\t\t<div class=\"glossblock\">some.M.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">seu</div>\n\t\t<div class=\"glossblock\">you.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mêla</div>\n\t\t<div class=\"glossblock\">sheep.ACC.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">brotôn</div>\n\t\t<div class=\"glossblock\">mortal.GEN.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aékontos</div>\n\t\t<div class=\"glossblock\">unwilling.M.GEN.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">elaúnei</div>\n\t\t<div class=\"glossblock\">drive.3SG.PRS</div>\n\t</div>\n</div>\n",
@@ -26285,12 +26363,20 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [
             {
+                "label": "intellectual work",
+                "wdid": "Q15621286"
+            },
+            {
                 "label": "fictional_human",
                 "wdid": "Q15632617"
             },
             {
-                "label": "fictional_creature",
-                "wdid": "Q2593744"
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
+                "label": "creative work",
+                "wdid": "Q17537576"
             },
             {
                 "label": "fictional_mammal",
@@ -26299,14 +26385,6 @@
             {
                 "label": "fictional_humanoid",
                 "wdid": "Q28020127"
-            },
-            {
-                "label": "fictional_organism",
-                "wdid": "Q30017383"
-            },
-            {
-                "label": "fictional_animal_character",
-                "wdid": "Q3542731"
             },
             {
                 "label": "literary character",
@@ -26319,10 +26397,6 @@
             {
                 "label": "fictional_primate",
                 "wdid": "Q96789464"
-            },
-            {
-                "label": "fictional_person",
-                "wdid": "Q97498056"
             }
         ],
         "provider": "langsci",
@@ -28025,6 +28099,10 @@
                 "wdid": "Q1379672"
             },
             {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
                 "label": "Model",
                 "wdid": "Q1979154"
             },
@@ -28041,10 +28119,6 @@
                 "wdid": "Q28873665"
             },
             {
-                "label": "premise",
-                "wdid": "Q321703"
-            },
-            {
                 "label": "media",
                 "wdid": "Q340169"
             },
@@ -28055,10 +28129,6 @@
             {
                 "label": "finding",
                 "wdid": "Q37112258"
-            },
-            {
-                "label": "hypothesis",
-                "wdid": "Q41719"
             },
             {
                 "label": "classification scheme",
@@ -28093,6 +28163,10 @@
                 "wdid": "Q1379672"
             },
             {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
                 "label": "Model",
                 "wdid": "Q1979154"
             },
@@ -28109,10 +28183,6 @@
                 "wdid": "Q28873665"
             },
             {
-                "label": "premise",
-                "wdid": "Q321703"
-            },
-            {
                 "label": "media",
                 "wdid": "Q340169"
             },
@@ -28123,10 +28193,6 @@
             {
                 "label": "finding",
                 "wdid": "Q37112258"
-            },
-            {
-                "label": "hypothesis",
-                "wdid": "Q41719"
             },
             {
                 "label": "classification scheme",
@@ -28302,6 +28368,10 @@
             {
                 "label": "Clothing",
                 "wdid": "Q11460"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tí</div>\n\t\t<div class=\"glossblock\">what.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meu</div>\n\t\t<div class=\"glossblock\">me.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tò</div>\n\t\t<div class=\"glossblock\">the.N.ACC.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">khitṓnion</div>\n\t\t<div class=\"glossblock\">frock.ACC.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">árdeis</div>\n\t\t<div class=\"glossblock\">water.2SG.PRS</div>\n\t</div>\n</div>\n",
@@ -28320,6 +28390,10 @@
             {
                 "label": "Clothing",
                 "wdid": "Q11460"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
             }
         ],
         "provider": "langsci",
@@ -28518,6 +28592,10 @@
                 "wdid": "Q16390140"
             },
             {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
+            },
+            {
                 "label": "captive mammal",
                 "wdid": "Q57812611"
             },
@@ -28564,6 +28642,10 @@
             {
                 "label": "Wild_animal",
                 "wdid": "Q16390140"
+            },
+            {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
             },
             {
                 "label": "captive mammal",
@@ -28661,6 +28743,30 @@
             {
                 "label": "cardinal body part",
                 "wdid": "Q17781690"
+            },
+            {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
+            },
+            {
+                "label": "Hazard",
+                "wdid": "Q1132455"
+            },
+            {
+                "label": "possibility",
+                "wdid": "Q21170479"
+            },
+            {
+                "label": "human activity",
+                "wdid": "Q61788060"
+            },
+            {
+                "label": "physiological condition",
+                "wdid": "Q7189713"
+            },
+            {
+                "label": "risk source",
+                "wdid": "Q86923152"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">allá</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">seu</div>\n\t\t<div class=\"glossblock\">you.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ḕ</div>\n\t\t<div class=\"glossblock\">or</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kámatos</div>\n\t\t<div class=\"glossblock\">weariness.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">poluâïx</div>\n\t\t<div class=\"glossblock\">much.rushing.M.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">guîa</div>\n\t\t<div class=\"glossblock\">limb.ACC.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">déduken</div>\n\t\t<div class=\"glossblock\">enter.3SG.PRF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ḗ</div>\n\t\t<div class=\"glossblock\">or</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nú</div>\n\t\t<div class=\"glossblock\">now</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sé</div>\n\t\t<div class=\"glossblock\">you.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pou</div>\n\t\t<div class=\"glossblock\">somewhere</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">déos</div>\n\t\t<div class=\"glossblock\">fear.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ískhei</div>\n\t\t<div class=\"glossblock\">hold.3SG.PRS</div>\n\t</div>\n</div>\n",
@@ -28691,6 +28797,30 @@
             {
                 "label": "cardinal body part",
                 "wdid": "Q17781690"
+            },
+            {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
+            },
+            {
+                "label": "Hazard",
+                "wdid": "Q1132455"
+            },
+            {
+                "label": "possibility",
+                "wdid": "Q21170479"
+            },
+            {
+                "label": "human activity",
+                "wdid": "Q61788060"
+            },
+            {
+                "label": "physiological condition",
+                "wdid": "Q7189713"
+            },
+            {
+                "label": "risk source",
+                "wdid": "Q86923152"
             }
         ],
         "provider": "langsci",
@@ -29500,6 +29630,10 @@
             {
                 "label": "animal structure",
                 "wdid": "Q25570959"
+            },
+            {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eíthe</div>\n\t\t<div class=\"glossblock\">if.only</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sou</div>\n\t\t<div class=\"glossblock\">you.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eînai</div>\n\t\t<div class=\"glossblock\">be.PRS.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ṓphelen,</div>\n\t\t<div class=\"glossblock\">owe.3SG.AOR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ô</div>\n\t\t<div class=\"glossblock\">O</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lazṓn,</div>\n\t\t<div class=\"glossblock\">kick.PTCP.PRS.M.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">houtōsì</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">thermòs</div>\n\t\t<div class=\"glossblock\">hot.M.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ho</div>\n\t\t<div class=\"glossblock\">the.M.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pleumōn</div>\n\t\t<div class=\"glossblock\">lung.NOM.SG</div>\n\t</div>\n</div>\n",
@@ -29527,6 +29661,10 @@
             {
                 "label": "animal structure",
                 "wdid": "Q25570959"
+            },
+            {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
             }
         ],
         "provider": "langsci",
@@ -30232,6 +30370,10 @@
                 "wdid": "Q16390140"
             },
             {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
+            },
+            {
                 "label": "captive mammal",
                 "wdid": "Q57812611"
             },
@@ -30274,6 +30416,10 @@
             {
                 "label": "Wild_animal",
                 "wdid": "Q16390140"
+            },
+            {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
             },
             {
                 "label": "captive mammal",
@@ -30358,8 +30504,16 @@
                 "wdid": "Q4686351"
             },
             {
+                "label": "memory",
+                "wdid": "Q104127086"
+            },
+            {
                 "label": "Medicine",
                 "wdid": "Q11190"
+            },
+            {
+                "label": "Hazard",
+                "wdid": "Q1132455"
             },
             {
                 "label": "sex differences in humans",
@@ -30370,12 +30524,8 @@
                 "wdid": "Q12136"
             },
             {
-                "label": "natural process",
-                "wdid": "Q13878858"
-            },
-            {
-                "label": "personalized medicine",
-                "wdid": "Q2072214"
+                "label": "possibility",
+                "wdid": "Q21170479"
             },
             {
                 "label": "difference",
@@ -30402,8 +30552,16 @@
                 "wdid": "Q54927807"
             },
             {
+                "label": "human activity",
+                "wdid": "Q61788060"
+            },
+            {
                 "label": "maternal_age",
                 "wdid": "Q64705665"
+            },
+            {
+                "label": "physiological condition",
+                "wdid": "Q7189713"
             },
             {
                 "label": "reproductive system disease",
@@ -30412,6 +30570,14 @@
             {
                 "label": "health sciences",
                 "wdid": "Q843601"
+            },
+            {
+                "label": "risk source",
+                "wdid": "Q86923152"
+            },
+            {
+                "label": "Knowledge",
+                "wdid": "Q9081"
             },
             {
                 "label": "Rare_disease",
@@ -30444,8 +30610,16 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [
             {
+                "label": "memory",
+                "wdid": "Q104127086"
+            },
+            {
                 "label": "Medicine",
                 "wdid": "Q11190"
+            },
+            {
+                "label": "Hazard",
+                "wdid": "Q1132455"
             },
             {
                 "label": "sex differences in humans",
@@ -30456,12 +30630,8 @@
                 "wdid": "Q12136"
             },
             {
-                "label": "natural process",
-                "wdid": "Q13878858"
-            },
-            {
-                "label": "personalized medicine",
-                "wdid": "Q2072214"
+                "label": "possibility",
+                "wdid": "Q21170479"
             },
             {
                 "label": "difference",
@@ -30488,8 +30658,16 @@
                 "wdid": "Q54927807"
             },
             {
+                "label": "human activity",
+                "wdid": "Q61788060"
+            },
+            {
                 "label": "maternal_age",
                 "wdid": "Q64705665"
+            },
+            {
+                "label": "physiological condition",
+                "wdid": "Q7189713"
             },
             {
                 "label": "reproductive system disease",
@@ -30498,6 +30676,14 @@
             {
                 "label": "health sciences",
                 "wdid": "Q843601"
+            },
+            {
+                "label": "risk source",
+                "wdid": "Q86923152"
+            },
+            {
+                "label": "Knowledge",
+                "wdid": "Q9081"
             },
             {
                 "label": "Rare_disease",
@@ -30877,6 +31063,10 @@
                 "wdid": "Q1379672"
             },
             {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
                 "label": "Model",
                 "wdid": "Q1979154"
             },
@@ -30893,10 +31083,6 @@
                 "wdid": "Q28873665"
             },
             {
-                "label": "premise",
-                "wdid": "Q321703"
-            },
-            {
                 "label": "media",
                 "wdid": "Q340169"
             },
@@ -30907,10 +31093,6 @@
             {
                 "label": "finding",
                 "wdid": "Q37112258"
-            },
-            {
-                "label": "hypothesis",
-                "wdid": "Q41719"
             },
             {
                 "label": "classification scheme",
@@ -30943,6 +31125,10 @@
                 "wdid": "Q1379672"
             },
             {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
                 "label": "Model",
                 "wdid": "Q1979154"
             },
@@ -30959,10 +31145,6 @@
                 "wdid": "Q28873665"
             },
             {
-                "label": "premise",
-                "wdid": "Q321703"
-            },
-            {
                 "label": "media",
                 "wdid": "Q340169"
             },
@@ -30973,10 +31155,6 @@
             {
                 "label": "finding",
                 "wdid": "Q37112258"
-            },
-            {
-                "label": "hypothesis",
-                "wdid": "Q41719"
             },
             {
                 "label": "classification scheme",
@@ -32072,6 +32250,10 @@
             {
                 "label": "Homer",
                 "wdid": "Q7810"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hōs</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">humeîs</div>\n\t\t<div class=\"glossblock\">you.NOM.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">par'</div>\n\t\t<div class=\"glossblock\">from</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">emeîo</div>\n\t\t<div class=\"glossblock\">me.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">thoḕn</div>\n\t\t<div class=\"glossblock\">swift.F.ACC.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">epì</div>\n\t\t<div class=\"glossblock\">upon</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nêa</div>\n\t\t<div class=\"glossblock\">ship.ACC.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kíoite</div>\n\t\t<div class=\"glossblock\">go.2PL.PRS.OPT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hṓs</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">té</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">teu</div>\n\t\t<div class=\"glossblock\">someone.M.GEN.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ḕ</div>\n\t\t<div class=\"glossblock\">or</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">parà</div>\n\t\t<div class=\"glossblock\">from</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pámpan</div>\n\t\t<div class=\"glossblock\">altogether</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aneímonos</div>\n\t\t<div class=\"glossblock\">unclad.M.GEN.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ēè</div>\n\t\t<div class=\"glossblock\">or</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">penikhroû</div>\n\t\t<div class=\"glossblock\">poor.M.GEN.SG</div>\n\t</div>\n</div>\n",
@@ -32098,7 +32280,12 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [],
+        "parententities": [
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            }
+        ],
         "provider": "langsci",
         "srcwordsbare": [
             "hōs",
@@ -33339,8 +33526,48 @@
                 "wdid": "Q859"
             },
             {
+                "label": "memory",
+                "wdid": "Q104127086"
+            },
+            {
+                "label": "Hazard",
+                "wdid": "Q1132455"
+            },
+            {
+                "label": "intellectual work",
+                "wdid": "Q15621286"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
+                "label": "creative work",
+                "wdid": "Q17537576"
+            },
+            {
                 "label": "Occult",
                 "wdid": "Q178934"
+            },
+            {
+                "label": "possibility",
+                "wdid": "Q21170479"
+            },
+            {
+                "label": "belief system",
+                "wdid": "Q5390013"
+            },
+            {
+                "label": "religion or world view",
+                "wdid": "Q71966963"
+            },
+            {
+                "label": "risk source",
+                "wdid": "Q86923152"
+            },
+            {
+                "label": "Knowledge",
+                "wdid": "Q9081"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mḗ</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tis</div>\n\t\t<div class=\"glossblock\">some.F.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hēmîn</div>\n\t\t<div class=\"glossblock\">us.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">baskanía</div>\n\t\t<div class=\"glossblock\">sorcery.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">peritrépsēi</div>\n\t\t<div class=\"glossblock\">divert.3SG.AOR.SBJV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tòn</div>\n\t\t<div class=\"glossblock\">the.M.ACC.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lógon</div>\n\t\t<div class=\"glossblock\">account.ACC.SG</div>\n\t</div>\n</div>\n",
@@ -33359,8 +33586,48 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [
             {
+                "label": "memory",
+                "wdid": "Q104127086"
+            },
+            {
+                "label": "Hazard",
+                "wdid": "Q1132455"
+            },
+            {
+                "label": "intellectual work",
+                "wdid": "Q15621286"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
+                "label": "creative work",
+                "wdid": "Q17537576"
+            },
+            {
                 "label": "Occult",
                 "wdid": "Q178934"
+            },
+            {
+                "label": "possibility",
+                "wdid": "Q21170479"
+            },
+            {
+                "label": "belief system",
+                "wdid": "Q5390013"
+            },
+            {
+                "label": "religion or world view",
+                "wdid": "Q71966963"
+            },
+            {
+                "label": "risk source",
+                "wdid": "Q86923152"
+            },
+            {
+                "label": "Knowledge",
+                "wdid": "Q9081"
             }
         ],
         "provider": "langsci",
@@ -33798,16 +34065,8 @@
                 "wdid": "Q504986"
             },
             {
-                "label": "natural process",
-                "wdid": "Q13878858"
-            },
-            {
                 "label": "Conflict_(process)",
                 "wdid": "Q180684"
-            },
-            {
-                "label": "multi-organism process",
-                "wdid": "Q22269697"
             },
             {
                 "label": "animal behavior",
@@ -33826,16 +34085,16 @@
                 "wdid": "Q609298"
             },
             {
+                "label": "human activity",
+                "wdid": "Q61788060"
+            },
+            {
                 "label": null,
                 "wdid": "Q71266556"
             },
             {
                 "label": "Group_dynamics",
                 "wdid": "Q839578"
-            },
-            {
-                "label": "social behavior",
-                "wdid": "Q921513"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">allá</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tis</div>\n\t\t<div class=\"glossblock\">some.F.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ên</div>\n\t\t<div class=\"glossblock\">be.3SG.IMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ákritos</div>\n\t\t<div class=\"glossblock\">indiscriminate.F.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaì</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">parà</div>\n\t\t<div class=\"glossblock\">from</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">toútois</div>\n\t\t<div class=\"glossblock\">this.N.DAT.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaì</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">parà</div>\n\t\t<div class=\"glossblock\">from</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">toîs</div>\n\t\t<div class=\"glossblock\">the.N.DAT.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">állois</div>\n\t\t<div class=\"glossblock\">other.N.DAT.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">éris</div>\n\t\t<div class=\"glossblock\">strife.NOM.SG</div>\n\t</div>\n</div>\n",
@@ -33859,16 +34118,8 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [
             {
-                "label": "natural process",
-                "wdid": "Q13878858"
-            },
-            {
                 "label": "Conflict_(process)",
                 "wdid": "Q180684"
-            },
-            {
-                "label": "multi-organism process",
-                "wdid": "Q22269697"
             },
             {
                 "label": "animal behavior",
@@ -33887,16 +34138,16 @@
                 "wdid": "Q609298"
             },
             {
+                "label": "human activity",
+                "wdid": "Q61788060"
+            },
+            {
                 "label": null,
                 "wdid": "Q71266556"
             },
             {
                 "label": "Group_dynamics",
                 "wdid": "Q839578"
-            },
-            {
-                "label": "social behavior",
-                "wdid": "Q921513"
             }
         ],
         "provider": "langsci",
@@ -35902,6 +36153,14 @@
             {
                 "label": "Iliad",
                 "wdid": "Q8275"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mḗ</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">poú</div>\n\t\t<div class=\"glossblock\">somewhere</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tis</div>\n\t\t<div class=\"glossblock\">someone.M.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">huperphiálōs</div>\n\t\t<div class=\"glossblock\">excessively</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nemesḗsēi</div>\n\t\t<div class=\"glossblock\">resent.3SG.AOR.SBJV</div>\n\t</div>\n</div>\n",
@@ -35916,7 +36175,16 @@
         "language_iso6393": "grc",
         "language_name": "Ancient Greek",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [],
+        "parententities": [
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            }
+        ],
         "provider": "langsci",
         "srcwordsbare": [
             "mḗ",
@@ -36534,6 +36802,10 @@
                 "wdid": "Q16390140"
             },
             {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
+            },
+            {
                 "label": "captive mammal",
                 "wdid": "Q57812611"
             },
@@ -36576,6 +36848,10 @@
             {
                 "label": "Wild_animal",
                 "wdid": "Q16390140"
+            },
+            {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
             },
             {
                 "label": "captive mammal",
@@ -41506,6 +41782,10 @@
             {
                 "label": "rule",
                 "wdid": "Q1151067"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kḕ</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tḕ</div>\n\t\t<div class=\"glossblock\">the.F.NOM.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">houperameríē</div>\n\t\t<div class=\"glossblock\">default.NOM.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ákourú</div>\n\t\t<div class=\"glossblock\">invalid.F.NOM.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nu</div>\n\t\t<div class=\"glossblock\">now</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">énthō</div>\n\t\t<div class=\"glossblock\">be.3PL.PRS.IMPER</div>\n\t</div>\n</div>\n",
@@ -41525,6 +41805,10 @@
             {
                 "label": "rule",
                 "wdid": "Q1151067"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
             }
         ],
         "provider": "langsci",
@@ -41695,6 +41979,10 @@
                 "wdid": "Q1665268"
             },
             {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
                 "label": "prohibition",
                 "wdid": "Q1751943"
             },
@@ -41734,6 +42022,10 @@
             {
                 "label": "command",
                 "wdid": "Q1665268"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
             },
             {
                 "label": "prohibition",
@@ -42612,10 +42904,6 @@
             {
                 "label": "Agamemnon",
                 "wdid": "Q15059087"
-            },
-            {
-                "label": "revere",
-                "wdid": "Q192914"
             },
             {
                 "label": "Zeus",
@@ -43538,8 +43826,16 @@
                 "wdid": "Q36956"
             },
             {
+                "label": "memory",
+                "wdid": "Q104127086"
+            },
+            {
                 "label": "Medicine",
                 "wdid": "Q11190"
+            },
+            {
+                "label": "Hazard",
+                "wdid": "Q1132455"
             },
             {
                 "label": "sex differences in humans",
@@ -43552,10 +43848,6 @@
             {
                 "label": "tropical disease",
                 "wdid": "Q1345671"
-            },
-            {
-                "label": "natural process",
-                "wdid": "Q13878858"
             },
             {
                 "label": "infectious disease",
@@ -43590,8 +43882,8 @@
                 "wdid": "Q19597369"
             },
             {
-                "label": "personalized medicine",
-                "wdid": "Q2072214"
+                "label": "possibility",
+                "wdid": "Q21170479"
             },
             {
                 "label": "exogenous disease",
@@ -43642,8 +43934,16 @@
                 "wdid": "Q55286823"
             },
             {
+                "label": "human activity",
+                "wdid": "Q61788060"
+            },
+            {
                 "label": "male reproductive system disease",
                 "wdid": "Q6742925"
+            },
+            {
+                "label": "physiological condition",
+                "wdid": "Q7189713"
             },
             {
                 "label": "bacterial infectious disease",
@@ -43662,12 +43962,16 @@
                 "wdid": "Q843601"
             },
             {
-                "label": "neglected tropical disease",
-                "wdid": "Q929451"
+                "label": "risk source",
+                "wdid": "Q86923152"
             },
             {
-                "label": "organ-specific disease",
-                "wdid": "Q93176349"
+                "label": "Knowledge",
+                "wdid": "Q9081"
+            },
+            {
+                "label": "neglected tropical disease",
+                "wdid": "Q929451"
             },
             {
                 "label": "peripheral neuropathy",
@@ -43690,8 +43994,16 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [
             {
+                "label": "memory",
+                "wdid": "Q104127086"
+            },
+            {
                 "label": "Medicine",
                 "wdid": "Q11190"
+            },
+            {
+                "label": "Hazard",
+                "wdid": "Q1132455"
             },
             {
                 "label": "sex differences in humans",
@@ -43704,10 +44016,6 @@
             {
                 "label": "tropical disease",
                 "wdid": "Q1345671"
-            },
-            {
-                "label": "natural process",
-                "wdid": "Q13878858"
             },
             {
                 "label": "infectious disease",
@@ -43742,8 +44050,8 @@
                 "wdid": "Q19597369"
             },
             {
-                "label": "personalized medicine",
-                "wdid": "Q2072214"
+                "label": "possibility",
+                "wdid": "Q21170479"
             },
             {
                 "label": "exogenous disease",
@@ -43794,8 +44102,16 @@
                 "wdid": "Q55286823"
             },
             {
+                "label": "human activity",
+                "wdid": "Q61788060"
+            },
+            {
                 "label": "male reproductive system disease",
                 "wdid": "Q6742925"
+            },
+            {
+                "label": "physiological condition",
+                "wdid": "Q7189713"
             },
             {
                 "label": "bacterial infectious disease",
@@ -43814,12 +44130,16 @@
                 "wdid": "Q843601"
             },
             {
-                "label": "neglected tropical disease",
-                "wdid": "Q929451"
+                "label": "risk source",
+                "wdid": "Q86923152"
             },
             {
-                "label": "organ-specific disease",
-                "wdid": "Q93176349"
+                "label": "Knowledge",
+                "wdid": "Q9081"
+            },
+            {
+                "label": "neglected tropical disease",
+                "wdid": "Q929451"
             },
             {
                 "label": "peripheral neuropathy",
@@ -44153,6 +44473,10 @@
                 "wdid": "Q5505297"
             },
             {
+                "label": "Hazard",
+                "wdid": "Q1132455"
+            },
+            {
                 "label": "Cancer",
                 "wdid": "Q12078"
             },
@@ -44169,20 +44493,12 @@
                 "wdid": "Q133212"
             },
             {
-                "label": "natural process",
-                "wdid": "Q13878858"
-            },
-            {
-                "label": "organ_system_cancer",
-                "wdid": "Q18553400"
-            },
-            {
                 "label": "disease of cellular proliferation",
                 "wdid": "Q18554796"
             },
             {
-                "label": "head_and_neck_neoplasms",
-                "wdid": "Q18975915"
+                "label": "possibility",
+                "wdid": "Q21170479"
             },
             {
                 "label": "respiratory disease",
@@ -44197,20 +44513,24 @@
                 "wdid": "Q54927859"
             },
             {
-                "label": "cancer_by_anatomical_entity",
-                "wdid": "Q55013728"
-            },
-            {
-                "label": "head_and_neck_disease",
-                "wdid": "Q55789477"
-            },
-            {
                 "label": "respiratory_tract_neoplasm",
                 "wdid": "Q58833963"
             },
             {
+                "label": "human activity",
+                "wdid": "Q61788060"
+            },
+            {
+                "label": "physiological condition",
+                "wdid": "Q7189713"
+            },
+            {
                 "label": "Respiratory_tract_neoplasm",
                 "wdid": "Q7315926"
+            },
+            {
+                "label": "risk source",
+                "wdid": "Q86923152"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hopóson</div>\n\t\t<div class=\"glossblock\">as.much</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hē</div>\n\t\t<div class=\"glossblock\">the.F.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">phárunx</div>\n\t\t<div class=\"glossblock\">throat.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">àn</div>\n\t\t<div class=\"glossblock\">IRR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hēmôn</div>\n\t\t<div class=\"glossblock\">us.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">khandánēi</div>\n\t\t<div class=\"glossblock\">contain.3SG.PRS.SBJV</div>\n\t</div>\n</div>\n",
@@ -44228,6 +44548,10 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [
             {
+                "label": "Hazard",
+                "wdid": "Q1132455"
+            },
+            {
                 "label": "Cancer",
                 "wdid": "Q12078"
             },
@@ -44244,20 +44568,12 @@
                 "wdid": "Q133212"
             },
             {
-                "label": "natural process",
-                "wdid": "Q13878858"
-            },
-            {
-                "label": "organ_system_cancer",
-                "wdid": "Q18553400"
-            },
-            {
                 "label": "disease of cellular proliferation",
                 "wdid": "Q18554796"
             },
             {
-                "label": "head_and_neck_neoplasms",
-                "wdid": "Q18975915"
+                "label": "possibility",
+                "wdid": "Q21170479"
             },
             {
                 "label": "respiratory disease",
@@ -44272,20 +44588,24 @@
                 "wdid": "Q54927859"
             },
             {
-                "label": "cancer_by_anatomical_entity",
-                "wdid": "Q55013728"
-            },
-            {
-                "label": "head_and_neck_disease",
-                "wdid": "Q55789477"
-            },
-            {
                 "label": "respiratory_tract_neoplasm",
                 "wdid": "Q58833963"
             },
             {
+                "label": "human activity",
+                "wdid": "Q61788060"
+            },
+            {
+                "label": "physiological condition",
+                "wdid": "Q7189713"
+            },
+            {
                 "label": "Respiratory_tract_neoplasm",
                 "wdid": "Q7315926"
+            },
+            {
+                "label": "risk source",
+                "wdid": "Q86923152"
             }
         ],
         "provider": "langsci",
@@ -45477,10 +45797,6 @@
         "doc_ID": 270,
         "doc_URL": "https://langsci-press.org/catalog/book/270",
         "entities": [
-            {
-                "label": "cf",
-                "wdid": "Q1048501"
-            },
             {
                 "label": "Herodotus",
                 "wdid": "Q26825"
@@ -46679,10 +46995,6 @@
                 "wdid": "Q129772"
             },
             {
-                "label": "7.2",
-                "wdid": "Q211565"
-            },
-            {
                 "label": "Symposium",
                 "wdid": "Q486727"
             }
@@ -47449,10 +47761,6 @@
             {
                 "label": "Xenophon",
                 "wdid": "Q129772"
-            },
-            {
-                "label": "7.2",
-                "wdid": "Q211565"
             },
             {
                 "label": "Anabasis",
@@ -48984,20 +49292,8 @@
                 "wdid": "Q110551902"
             },
             {
-                "label": "natural person",
-                "wdid": "Q154954"
-            },
-            {
-                "label": "heterotroph",
-                "wdid": "Q159344"
-            },
-            {
-                "label": "omnivore",
-                "wdid": "Q164509"
-            },
-            {
-                "label": "person",
-                "wdid": "Q215627"
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
             },
             {
                 "label": "human",
@@ -49033,20 +49329,8 @@
                 "wdid": "Q110551902"
             },
             {
-                "label": "natural person",
-                "wdid": "Q154954"
-            },
-            {
-                "label": "heterotroph",
-                "wdid": "Q159344"
-            },
-            {
-                "label": "omnivore",
-                "wdid": "Q164509"
-            },
-            {
-                "label": "person",
-                "wdid": "Q215627"
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
             },
             {
                 "label": "human",
@@ -49928,6 +50212,10 @@
                 "wdid": "Q1379672"
             },
             {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
                 "label": "Model",
                 "wdid": "Q1979154"
             },
@@ -49944,10 +50232,6 @@
                 "wdid": "Q28873665"
             },
             {
-                "label": "premise",
-                "wdid": "Q321703"
-            },
-            {
                 "label": "media",
                 "wdid": "Q340169"
             },
@@ -49958,10 +50242,6 @@
             {
                 "label": "finding",
                 "wdid": "Q37112258"
-            },
-            {
-                "label": "hypothesis",
-                "wdid": "Q41719"
             },
             {
                 "label": "classification scheme",
@@ -49999,6 +50279,10 @@
                 "wdid": "Q1379672"
             },
             {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
                 "label": "Model",
                 "wdid": "Q1979154"
             },
@@ -50015,10 +50299,6 @@
                 "wdid": "Q28873665"
             },
             {
-                "label": "premise",
-                "wdid": "Q321703"
-            },
-            {
                 "label": "media",
                 "wdid": "Q340169"
             },
@@ -50029,10 +50309,6 @@
             {
                 "label": "finding",
                 "wdid": "Q37112258"
-            },
-            {
-                "label": "hypothesis",
-                "wdid": "Q41719"
             },
             {
                 "label": "classification scheme",
@@ -50113,12 +50389,12 @@
                 "wdid": "Q82955"
             },
             {
-                "label": "person",
-                "wdid": "Q215627"
-            },
-            {
                 "label": "Worker",
                 "wdid": "Q327055"
+            },
+            {
+                "label": "professional",
+                "wdid": "Q702269"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eí</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">soi</div>\n\t\t<div class=\"glossblock\">you.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">peísaimi</div>\n\t\t<div class=\"glossblock\">persuade.1SG.AOR.OPT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(epitrépein)</div>\n\t\t<div class=\"glossblock\">entrust.PRS.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tḕn</div>\n\t\t<div class=\"glossblock\">the.F.ACC.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pólin</div>\n\t\t<div class=\"glossblock\">city.ACC.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pseudómenos,</div>\n\t\t<div class=\"glossblock\">lie.PTCP.PRS.PASS.M.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hōs</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">àn</div>\n\t\t<div class=\"glossblock\">IRR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">stratēgikôi</div>\n\t\t<div class=\"glossblock\">military.M.DAT.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">te</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaì</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dikastikôi</div>\n\t\t<div class=\"glossblock\">juridical.M.DAT.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaì</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">politikôi</div>\n\t\t<div class=\"glossblock\">political.M.DAT.SG</div>\n\t</div>\n</div>\n",
@@ -50145,12 +50421,12 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [
             {
-                "label": "person",
-                "wdid": "Q215627"
-            },
-            {
                 "label": "Worker",
                 "wdid": "Q327055"
+            },
+            {
+                "label": "professional",
+                "wdid": "Q702269"
             }
         ],
         "provider": "langsci",
@@ -53044,10 +53320,6 @@
         "doc_ID": 270,
         "doc_URL": "https://langsci-press.org/catalog/book/270",
         "entities": [
-            {
-                "label": "cf",
-                "wdid": "Q1048501"
-            },
             {
                 "label": "Heracleidae",
                 "wdid": "Q1233203"
@@ -57004,6 +57276,10 @@
                 "wdid": "Q1379672"
             },
             {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
                 "label": "Model",
                 "wdid": "Q1979154"
             },
@@ -57020,10 +57296,6 @@
                 "wdid": "Q28873665"
             },
             {
-                "label": "premise",
-                "wdid": "Q321703"
-            },
-            {
                 "label": "media",
                 "wdid": "Q340169"
             },
@@ -57034,10 +57306,6 @@
             {
                 "label": "finding",
                 "wdid": "Q37112258"
-            },
-            {
-                "label": "hypothesis",
-                "wdid": "Q41719"
             },
             {
                 "label": "classification scheme",
@@ -57072,6 +57340,10 @@
                 "wdid": "Q1379672"
             },
             {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
                 "label": "Model",
                 "wdid": "Q1979154"
             },
@@ -57088,10 +57360,6 @@
                 "wdid": "Q28873665"
             },
             {
-                "label": "premise",
-                "wdid": "Q321703"
-            },
-            {
                 "label": "media",
                 "wdid": "Q340169"
             },
@@ -57102,10 +57370,6 @@
             {
                 "label": "finding",
                 "wdid": "Q37112258"
-            },
-            {
-                "label": "hypothesis",
-                "wdid": "Q41719"
             },
             {
                 "label": "classification scheme",
@@ -58162,6 +58426,10 @@
                 "wdid": "Q1379672"
             },
             {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
                 "label": "Model",
                 "wdid": "Q1979154"
             },
@@ -58178,10 +58446,6 @@
                 "wdid": "Q28873665"
             },
             {
-                "label": "premise",
-                "wdid": "Q321703"
-            },
-            {
                 "label": "media",
                 "wdid": "Q340169"
             },
@@ -58192,10 +58456,6 @@
             {
                 "label": "finding",
                 "wdid": "Q37112258"
-            },
-            {
-                "label": "hypothesis",
-                "wdid": "Q41719"
             },
             {
                 "label": "classification scheme",
@@ -58233,6 +58493,10 @@
                 "wdid": "Q1379672"
             },
             {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
                 "label": "Model",
                 "wdid": "Q1979154"
             },
@@ -58249,10 +58513,6 @@
                 "wdid": "Q28873665"
             },
             {
-                "label": "premise",
-                "wdid": "Q321703"
-            },
-            {
                 "label": "media",
                 "wdid": "Q340169"
             },
@@ -58263,10 +58523,6 @@
             {
                 "label": "finding",
                 "wdid": "Q37112258"
-            },
-            {
-                "label": "hypothesis",
-                "wdid": "Q41719"
             },
             {
                 "label": "classification scheme",
@@ -61575,6 +61831,10 @@
                 "wdid": "Q206060"
             },
             {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
+            },
+            {
                 "label": "tissue",
                 "wdid": "Q40397"
             },
@@ -61589,14 +61849,6 @@
             {
                 "label": "subdivision_of_trunk",
                 "wdid": "Q66516387"
-            },
-            {
-                "label": "subdivision_of_body_proper",
-                "wdid": "Q66596064"
-            },
-            {
-                "label": "subdivision_of_trunk_proper",
-                "wdid": "Q66600683"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ēleípsato</div>\n\t\t<div class=\"glossblock\">anoint.3SG.AOR.MID</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">d'</div>\n\t\t<div class=\"glossblock\">then</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">àn</div>\n\t\t<div class=\"glossblock\">IRR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">toumphaloû</div>\n\t\t<div class=\"glossblock\">the=navel.GEN.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oudeìs</div>\n\t\t<div class=\"glossblock\">none.M.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">paîs</div>\n\t\t<div class=\"glossblock\">child.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hupénerthen</div>\n\t\t<div class=\"glossblock\">beneath</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tót'</div>\n\t\t<div class=\"glossblock\">then</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">án</div>\n\t\t<div class=\"glossblock\">IRR</div>\n\t</div>\n</div>\n",
@@ -61621,6 +61873,10 @@
                 "wdid": "Q206060"
             },
             {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
+            },
+            {
                 "label": "tissue",
                 "wdid": "Q40397"
             },
@@ -61635,14 +61891,6 @@
             {
                 "label": "subdivision_of_trunk",
                 "wdid": "Q66516387"
-            },
-            {
-                "label": "subdivision_of_body_proper",
-                "wdid": "Q66596064"
-            },
-            {
-                "label": "subdivision_of_trunk_proper",
-                "wdid": "Q66600683"
             }
         ],
         "provider": "langsci",
@@ -63007,10 +63255,6 @@
                 "wdid": "Q19829125"
             },
             {
-                "label": "Surjective_relation",
-                "wdid": "Q19833078"
-            },
-            {
                 "label": "geometric concept",
                 "wdid": "Q21550639"
             },
@@ -63090,10 +63334,6 @@
             {
                 "label": "absence",
                 "wdid": "Q19829125"
-            },
-            {
-                "label": "Surjective_relation",
-                "wdid": "Q19833078"
             },
             {
                 "label": "geometric concept",
@@ -64473,6 +64713,10 @@
                 "wdid": "Q484937"
             },
             {
+                "label": "human activity",
+                "wdid": "Q61788060"
+            },
+            {
                 "label": "motion",
                 "wdid": "Q6666023"
             },
@@ -64522,6 +64766,10 @@
             {
                 "label": "recreational sport",
                 "wdid": "Q484937"
+            },
+            {
+                "label": "human activity",
+                "wdid": "Q61788060"
             },
             {
                 "label": "motion",
@@ -65197,6 +65445,10 @@
             {
                 "label": "Persians",
                 "wdid": "Q389688"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">egṑ</div>\n\t\t<div class=\"glossblock\">I.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">án,</div>\n\t\t<div class=\"glossblock\">IRR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ei</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ékhoimi,</div>\n\t\t<div class=\"glossblock\">have.1SG.PRS.OPT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hōs</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tákhista</div>\n\t\t<div class=\"glossblock\">fastest</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hópla</div>\n\t\t<div class=\"glossblock\">armour.ACC.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">epoioúmēn</div>\n\t\t<div class=\"glossblock\">make.1SG.IMP.PASS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">toîs</div>\n\t\t<div class=\"glossblock\">the.M.DAT.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pérsais</div>\n\t\t<div class=\"glossblock\">Persian.DAT.PL</div>\n\t</div>\n</div>\n",
@@ -65216,7 +65468,12 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [],
+        "parententities": [
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            }
+        ],
         "provider": "langsci",
         "srcwordsbare": [
             "egṑ",
@@ -65750,16 +66007,8 @@
                 "wdid": "Q6710250"
             },
             {
-                "label": "chemical compound",
-                "wdid": "Q11173"
-            },
-            {
                 "label": "molecule",
                 "wdid": "Q11369"
-            },
-            {
-                "label": "environmental resource",
-                "wdid": "Q11879003"
             },
             {
                 "label": "Natural_fiber",
@@ -65774,16 +66023,16 @@
                 "wdid": "Q1621273"
             },
             {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
                 "label": "mixture",
                 "wdid": "Q169336"
             },
             {
                 "label": "peptide",
                 "wdid": "Q172847"
-            },
-            {
-                "label": "organic compound",
-                "wdid": "Q174211"
             },
             {
                 "label": "macromolecule",
@@ -65798,16 +66047,16 @@
                 "wdid": "Q192355"
             },
             {
-                "label": "oxo compound",
-                "wdid": "Q19885597"
-            },
-            {
                 "label": "biomolecule",
                 "wdid": "Q206229"
             },
             {
-                "label": "carbon compound",
-                "wdid": "Q2901852"
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
             },
             {
                 "label": "polypeptide",
@@ -65816,10 +66065,6 @@
             {
                 "label": "carboxamides",
                 "wdid": "Q355679"
-            },
-            {
-                "label": "nitrogen compound",
-                "wdid": "Q3685323"
             },
             {
                 "label": "biopolymer",
@@ -65836,14 +66081,6 @@
             {
                 "label": "biological macromolecule",
                 "wdid": "Q66560214"
-            },
-            {
-                "label": "organooxygen compound",
-                "wdid": "Q71574018"
-            },
-            {
-                "label": "pnictogen compound",
-                "wdid": "Q71782942"
             },
             {
                 "label": "Protein",
@@ -65864,10 +66101,6 @@
             {
                 "label": "bound state",
                 "wdid": "Q908049"
-            },
-            {
-                "label": "carbonyl compound",
-                "wdid": "Q9392635"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kán,</div>\n\t\t<div class=\"glossblock\">and=IRR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">humîn</div>\n\t\t<div class=\"glossblock\">you.DAT.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eí</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tis</div>\n\t\t<div class=\"glossblock\">someone.M.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">enên</div>\n\t\t<div class=\"glossblock\">spin.3SG.IMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">noûs,</div>\n\t\t<div class=\"glossblock\">mind.ACC.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ek</div>\n\t\t<div class=\"glossblock\">out</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tôn</div>\n\t\t<div class=\"glossblock\">the.N.GEN.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eríōn</div>\n\t\t<div class=\"glossblock\">wool.GEN.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tôn</div>\n\t\t<div class=\"glossblock\">the.N.GEN.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hēmetérōn</div>\n\t\t<div class=\"glossblock\">our.N.GEN.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">epoliteúesth'</div>\n\t\t<div class=\"glossblock\">be.citizen.2PL.IMP.PASS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">àn</div>\n\t\t<div class=\"glossblock\">IRR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hápanta</div>\n\t\t<div class=\"glossblock\">quite.all.N.ACC.PL</div>\n\t</div>\n</div>\n",
@@ -65893,16 +66126,8 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [
             {
-                "label": "chemical compound",
-                "wdid": "Q11173"
-            },
-            {
                 "label": "molecule",
                 "wdid": "Q11369"
-            },
-            {
-                "label": "environmental resource",
-                "wdid": "Q11879003"
             },
             {
                 "label": "Natural_fiber",
@@ -65917,16 +66142,16 @@
                 "wdid": "Q1621273"
             },
             {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
                 "label": "mixture",
                 "wdid": "Q169336"
             },
             {
                 "label": "peptide",
                 "wdid": "Q172847"
-            },
-            {
-                "label": "organic compound",
-                "wdid": "Q174211"
             },
             {
                 "label": "macromolecule",
@@ -65941,16 +66166,16 @@
                 "wdid": "Q192355"
             },
             {
-                "label": "oxo compound",
-                "wdid": "Q19885597"
-            },
-            {
                 "label": "biomolecule",
                 "wdid": "Q206229"
             },
             {
-                "label": "carbon compound",
-                "wdid": "Q2901852"
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
             },
             {
                 "label": "polypeptide",
@@ -65959,10 +66184,6 @@
             {
                 "label": "carboxamides",
                 "wdid": "Q355679"
-            },
-            {
-                "label": "nitrogen compound",
-                "wdid": "Q3685323"
             },
             {
                 "label": "biopolymer",
@@ -65979,14 +66200,6 @@
             {
                 "label": "biological macromolecule",
                 "wdid": "Q66560214"
-            },
-            {
-                "label": "organooxygen compound",
-                "wdid": "Q71574018"
-            },
-            {
-                "label": "pnictogen compound",
-                "wdid": "Q71782942"
             },
             {
                 "label": "Protein",
@@ -66007,10 +66220,6 @@
             {
                 "label": "bound state",
                 "wdid": "Q908049"
-            },
-            {
-                "label": "carbonyl compound",
-                "wdid": "Q9392635"
             }
         ],
         "provider": "langsci",
@@ -66215,20 +66424,16 @@
                 "wdid": "Q178885"
             },
             {
-                "label": "person",
-                "wdid": "Q215627"
-            },
-            {
-                "label": "mythical_entity",
-                "wdid": "Q24334685"
-            },
-            {
                 "label": "supernatural_being",
                 "wdid": "Q28855038"
             },
             {
                 "label": "mythical character",
                 "wdid": "Q4271324"
+            },
+            {
+                "label": "Creator_deity",
+                "wdid": "Q635155"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tákha</div>\n\t\t<div class=\"glossblock\">quickly</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">d'</div>\n\t\t<div class=\"glossblock\">then</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">án,</div>\n\t\t<div class=\"glossblock\">IRR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ei</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">theòs</div>\n\t\t<div class=\"glossblock\">god.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ethéloi,</div>\n\t\t<div class=\"glossblock\">want.3SG.PRS.OPT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kàn</div>\n\t\t<div class=\"glossblock\">also=IRR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">duoîn</div>\n\t\t<div class=\"glossblock\">two.N.GEN.DU</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">thátera</div>\n\t\t<div class=\"glossblock\">the=other.N.ACC.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">biasaímetha</div>\n\t\t<div class=\"glossblock\">force.1PL.AOR.OPT.MID</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">perì</div>\n\t\t<div class=\"glossblock\">about</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">erōtikôn</div>\n\t\t<div class=\"glossblock\">erotic.N.GEN.PL</div>\n\t</div>\n</div>\n",
@@ -66260,20 +66465,16 @@
                 "wdid": "Q178885"
             },
             {
-                "label": "person",
-                "wdid": "Q215627"
-            },
-            {
-                "label": "mythical_entity",
-                "wdid": "Q24334685"
-            },
-            {
                 "label": "supernatural_being",
                 "wdid": "Q28855038"
             },
             {
                 "label": "mythical character",
                 "wdid": "Q4271324"
+            },
+            {
+                "label": "Creator_deity",
+                "wdid": "Q635155"
             }
         ],
         "provider": "langsci",
@@ -68062,20 +68263,8 @@
                 "wdid": "Q110551902"
             },
             {
-                "label": "natural person",
-                "wdid": "Q154954"
-            },
-            {
-                "label": "heterotroph",
-                "wdid": "Q159344"
-            },
-            {
-                "label": "omnivore",
-                "wdid": "Q164509"
-            },
-            {
-                "label": "person",
-                "wdid": "Q215627"
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
             },
             {
                 "label": "Animal",
@@ -68107,20 +68296,8 @@
                 "wdid": "Q110551902"
             },
             {
-                "label": "natural person",
-                "wdid": "Q154954"
-            },
-            {
-                "label": "heterotroph",
-                "wdid": "Q159344"
-            },
-            {
-                "label": "omnivore",
-                "wdid": "Q164509"
-            },
-            {
-                "label": "person",
-                "wdid": "Q215627"
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
             },
             {
                 "label": "Animal",
@@ -70591,6 +70768,10 @@
                 "wdid": "Q8242"
             },
             {
+                "label": "memory",
+                "wdid": "Q104127086"
+            },
+            {
                 "label": "recreation",
                 "wdid": "Q184872"
             },
@@ -70599,12 +70780,20 @@
                 "wdid": "Q2018526"
             },
             {
+                "label": "human activity",
+                "wdid": "Q61788060"
+            },
+            {
                 "label": "Art",
                 "wdid": "Q735"
             },
             {
                 "label": "humanities",
                 "wdid": "Q80083"
+            },
+            {
+                "label": "Knowledge",
+                "wdid": "Q9081"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tí</div>\n\t\t<div class=\"glossblock\">what.N.ACC.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">àn</div>\n\t\t<div class=\"glossblock\">IRR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eipṑn</div>\n\t\t<div class=\"glossblock\">say.PTCP.AOR.M.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mḗth'</div>\n\t\t<div class=\"glossblock\">nor</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hamarteîn</div>\n\t\t<div class=\"glossblock\">miss.AOR.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dokoíēn</div>\n\t\t<div class=\"glossblock\">seem.1SG.PRS.OPT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mḗte</div>\n\t\t<div class=\"glossblock\">nor</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pseusaímēn</div>\n\t\t<div class=\"glossblock\">lie.1SG.AOR.OPT.MID</div>\n\t</div>\n</div>\n",
@@ -70624,6 +70813,10 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [
             {
+                "label": "memory",
+                "wdid": "Q104127086"
+            },
+            {
                 "label": "recreation",
                 "wdid": "Q184872"
             },
@@ -70632,12 +70825,20 @@
                 "wdid": "Q2018526"
             },
             {
+                "label": "human activity",
+                "wdid": "Q61788060"
+            },
+            {
                 "label": "Art",
                 "wdid": "Q735"
             },
             {
                 "label": "humanities",
                 "wdid": "Q80083"
+            },
+            {
+                "label": "Knowledge",
+                "wdid": "Q9081"
             }
         ],
         "provider": "langsci",
@@ -72314,10 +72515,6 @@
                 "wdid": "Q27096213"
             },
             {
-                "label": "geographical feature",
-                "wdid": "Q618123"
-            },
-            {
                 "label": "geographic region",
                 "wdid": "Q82794"
             }
@@ -72367,10 +72564,6 @@
             {
                 "label": "geographic entity",
                 "wdid": "Q27096213"
-            },
-            {
-                "label": "geographical feature",
-                "wdid": "Q618123"
             },
             {
                 "label": "geographic region",
@@ -72471,10 +72664,6 @@
                 "wdid": "Q27096213"
             },
             {
-                "label": "geographical feature",
-                "wdid": "Q618123"
-            },
-            {
                 "label": "geographic region",
                 "wdid": "Q82794"
             }
@@ -72522,10 +72711,6 @@
             {
                 "label": "geographic entity",
                 "wdid": "Q27096213"
-            },
-            {
-                "label": "geographical feature",
-                "wdid": "Q618123"
             },
             {
                 "label": "geographic region",
@@ -73095,10 +73280,6 @@
         "doc_ID": 270,
         "doc_URL": "https://langsci-press.org/catalog/book/270",
         "entities": [
-            {
-                "label": "cf",
-                "wdid": "Q1048501"
-            },
             {
                 "label": "Heracleidae",
                 "wdid": "Q1233203"
@@ -76366,10 +76547,6 @@
         "doc_URL": "https://langsci-press.org/catalog/book/270",
         "entities": [
             {
-                "label": "cf",
-                "wdid": "Q1048501"
-            },
-            {
                 "label": "Aristotle, Poetics",
                 "wdid": "Q264714"
             }
@@ -78537,8 +78714,8 @@
                 "wdid": "Q16748867"
             },
             {
-                "label": "Languoid",
-                "wdid": "Q17376908"
+                "label": "human activity",
+                "wdid": "Q61788060"
             },
             {
                 "label": "Emotion",
@@ -78564,8 +78741,8 @@
                 "wdid": "Q16748867"
             },
             {
-                "label": "Languoid",
-                "wdid": "Q17376908"
+                "label": "human activity",
+                "wdid": "Q61788060"
             },
             {
                 "label": "Emotion",
@@ -79177,8 +79354,16 @@
                 "wdid": "Q1539016"
             },
             {
+                "label": "intellectual work",
+                "wdid": "Q15621286"
+            },
+            {
                 "label": "event",
                 "wdid": "Q1656682"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
             },
             {
                 "label": "Spirituality",
@@ -79189,8 +79374,12 @@
                 "wdid": "Q172331"
             },
             {
-                "label": "Languoid",
-                "wdid": "Q17376908"
+                "label": "creative work",
+                "wdid": "Q17537576"
+            },
+            {
+                "label": "string",
+                "wdid": "Q184754"
             },
             {
                 "label": "Ritual",
@@ -79231,6 +79420,10 @@
             {
                 "label": "prayer",
                 "wdid": "Q40953"
+            },
+            {
+                "label": "human activity",
+                "wdid": "Q61788060"
             },
             {
                 "label": "tradition",
@@ -79268,8 +79461,16 @@
                 "wdid": "Q1539016"
             },
             {
+                "label": "intellectual work",
+                "wdid": "Q15621286"
+            },
+            {
                 "label": "event",
                 "wdid": "Q1656682"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
             },
             {
                 "label": "Spirituality",
@@ -79280,8 +79481,12 @@
                 "wdid": "Q172331"
             },
             {
-                "label": "Languoid",
-                "wdid": "Q17376908"
+                "label": "creative work",
+                "wdid": "Q17537576"
+            },
+            {
+                "label": "string",
+                "wdid": "Q184754"
             },
             {
                 "label": "Ritual",
@@ -79322,6 +79527,10 @@
             {
                 "label": "prayer",
                 "wdid": "Q40953"
+            },
+            {
+                "label": "human activity",
+                "wdid": "Q61788060"
             },
             {
                 "label": "tradition",
@@ -83089,16 +83298,12 @@
                 "wdid": "Q17988854"
             },
             {
-                "label": "Outline_of_animal-powered_transport",
-                "wdid": "Q2328809"
-            },
-            {
-                "label": "energy flow",
-                "wdid": "Q3074541"
-            },
-            {
                 "label": "material flow",
                 "wdid": "Q4284762"
+            },
+            {
+                "label": "human activity",
+                "wdid": "Q61788060"
             },
             {
                 "label": "no title",
@@ -83133,16 +83338,12 @@
                 "wdid": "Q17988854"
             },
             {
-                "label": "Outline_of_animal-powered_transport",
-                "wdid": "Q2328809"
-            },
-            {
-                "label": "energy flow",
-                "wdid": "Q3074541"
-            },
-            {
                 "label": "material flow",
                 "wdid": "Q4284762"
+            },
+            {
+                "label": "human activity",
+                "wdid": "Q61788060"
             },
             {
                 "label": "no title",
@@ -83777,6 +83978,10 @@
                 "wdid": "Q1379672"
             },
             {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
                 "label": "Model",
                 "wdid": "Q1979154"
             },
@@ -83793,10 +83998,6 @@
                 "wdid": "Q28873665"
             },
             {
-                "label": "premise",
-                "wdid": "Q321703"
-            },
-            {
                 "label": "media",
                 "wdid": "Q340169"
             },
@@ -83807,10 +84008,6 @@
             {
                 "label": "finding",
                 "wdid": "Q37112258"
-            },
-            {
-                "label": "hypothesis",
-                "wdid": "Q41719"
             },
             {
                 "label": "classification scheme",
@@ -83852,6 +84049,10 @@
                 "wdid": "Q1379672"
             },
             {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
                 "label": "Model",
                 "wdid": "Q1979154"
             },
@@ -83868,10 +84069,6 @@
                 "wdid": "Q28873665"
             },
             {
-                "label": "premise",
-                "wdid": "Q321703"
-            },
-            {
                 "label": "media",
                 "wdid": "Q340169"
             },
@@ -83882,10 +84079,6 @@
             {
                 "label": "finding",
                 "wdid": "Q37112258"
-            },
-            {
-                "label": "hypothesis",
-                "wdid": "Q41719"
             },
             {
                 "label": "classification scheme",
@@ -84091,20 +84284,16 @@
                 "wdid": "Q2155501"
             },
             {
-                "label": "person",
-                "wdid": "Q215627"
-            },
-            {
-                "label": "mythical_entity",
-                "wdid": "Q24334685"
-            },
-            {
                 "label": "supernatural_being",
                 "wdid": "Q28855038"
             },
             {
                 "label": "mythical character",
                 "wdid": "Q4271324"
+            },
+            {
+                "label": "Creator_deity",
+                "wdid": "Q635155"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ne</div>\n\t\t<div class=\"glossblock\">indeed</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ille</div>\n\t\t<div class=\"glossblock\">that.NOM.SG.M</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mediusfidius</div>\n\t\t<div class=\"glossblock\">by.God</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vir</div>\n\t\t<div class=\"glossblock\">man.NOM.SG.M</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sapiens</div>\n\t\t<div class=\"glossblock\">wise.NOM.SG.M</div>\n\t</div>\n</div>\n",
@@ -84141,20 +84330,16 @@
                 "wdid": "Q2155501"
             },
             {
-                "label": "person",
-                "wdid": "Q215627"
-            },
-            {
-                "label": "mythical_entity",
-                "wdid": "Q24334685"
-            },
-            {
                 "label": "supernatural_being",
                 "wdid": "Q28855038"
             },
             {
                 "label": "mythical character",
                 "wdid": "Q4271324"
+            },
+            {
+                "label": "Creator_deity",
+                "wdid": "Q635155"
             }
         ],
         "provider": "langsci",
@@ -84226,20 +84411,16 @@
                 "wdid": "Q2155501"
             },
             {
-                "label": "person",
-                "wdid": "Q215627"
-            },
-            {
-                "label": "mythical_entity",
-                "wdid": "Q24334685"
-            },
-            {
                 "label": "supernatural_being",
                 "wdid": "Q28855038"
             },
             {
                 "label": "mythical character",
                 "wdid": "Q4271324"
+            },
+            {
+                "label": "Creator_deity",
+                "wdid": "Q635155"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mediusfidius,</div>\n\t\t<div class=\"glossblock\">by.God</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ne</div>\n\t\t<div class=\"glossblock\">indeed</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tu</div>\n\t\t<div class=\"glossblock\">you.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">emisti</div>\n\t\t<div class=\"glossblock\">buy.PRF.2SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">locum</div>\n\t\t<div class=\"glossblock\">place.ACC.SG.M</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">preclarum</div>\n\t\t<div class=\"glossblock\">excellent.ACC.SG.M</div>\n\t</div>\n</div>\n",
@@ -84277,20 +84458,16 @@
                 "wdid": "Q2155501"
             },
             {
-                "label": "person",
-                "wdid": "Q215627"
-            },
-            {
-                "label": "mythical_entity",
-                "wdid": "Q24334685"
-            },
-            {
                 "label": "supernatural_being",
                 "wdid": "Q28855038"
             },
             {
                 "label": "mythical character",
                 "wdid": "Q4271324"
+            },
+            {
+                "label": "Creator_deity",
+                "wdid": "Q635155"
             }
         ],
         "provider": "langsci",
@@ -85703,28 +85880,20 @@
                 "wdid": "Q544948"
             },
             {
-                "label": "communication",
-                "wdid": "Q11024"
-            },
-            {
-                "label": "natural process",
-                "wdid": "Q13878858"
+                "label": "Hazard",
+                "wdid": "Q1132455"
             },
             {
                 "label": "active motion",
                 "wdid": "Q17988854"
             },
             {
-                "label": "multi-organism process",
-                "wdid": "Q22269697"
+                "label": "possibility",
+                "wdid": "Q21170479"
             },
             {
                 "label": "gift exchange",
                 "wdid": "Q23009552"
-            },
-            {
-                "label": "transfer",
-                "wdid": "Q23009675"
             },
             {
                 "label": "animal behavior",
@@ -85743,8 +85912,8 @@
                 "wdid": "Q6031064"
             },
             {
-                "label": "social behavior",
-                "wdid": "Q921513"
+                "label": "risk source",
+                "wdid": "Q86923152"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ne</div>\n\t\t<div class=\"glossblock\">that.not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qua</div>\n\t\t<div class=\"glossblock\">any.NOM.SG.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aut</div>\n\t\t<div class=\"glossblock\">or</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">largitionibus</div>\n\t\t<div class=\"glossblock\">bribery.ABL.PL.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aut</div>\n\t\t<div class=\"glossblock\">or</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">animi</div>\n\t\t<div class=\"glossblock\">courage.GEN.SG.M</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">confirmatione</div>\n\t\t<div class=\"glossblock\">affirmation.ABL.SG.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aut</div>\n\t\t<div class=\"glossblock\">or</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">falsis</div>\n\t\t<div class=\"glossblock\">false.ABL.PL.M</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nuntiis</div>\n\t\t<div class=\"glossblock\">message.ABL.PL.M</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">commutatio</div>\n\t\t<div class=\"glossblock\">change.NOM.SG.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fieret</div>\n\t\t<div class=\"glossblock\">make.INF.PRES.PASS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">voluntatis</div>\n\t\t<div class=\"glossblock\">will.GEN.SG.F</div>\n\t</div>\n</div>\n",
@@ -85769,28 +85938,20 @@
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [
             {
-                "label": "communication",
-                "wdid": "Q11024"
-            },
-            {
-                "label": "natural process",
-                "wdid": "Q13878858"
+                "label": "Hazard",
+                "wdid": "Q1132455"
             },
             {
                 "label": "active motion",
                 "wdid": "Q17988854"
             },
             {
-                "label": "multi-organism process",
-                "wdid": "Q22269697"
+                "label": "possibility",
+                "wdid": "Q21170479"
             },
             {
                 "label": "gift exchange",
                 "wdid": "Q23009552"
-            },
-            {
-                "label": "transfer",
-                "wdid": "Q23009675"
             },
             {
                 "label": "animal behavior",
@@ -85809,8 +85970,8 @@
                 "wdid": "Q6031064"
             },
             {
-                "label": "social behavior",
-                "wdid": "Q921513"
+                "label": "risk source",
+                "wdid": "Q86923152"
             }
         ],
         "polarity": "negative",
@@ -86734,8 +86895,16 @@
                 "wdid": "Q1539016"
             },
             {
+                "label": "intellectual work",
+                "wdid": "Q15621286"
+            },
+            {
                 "label": "event",
                 "wdid": "Q1656682"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
             },
             {
                 "label": "Spirituality",
@@ -86746,8 +86915,12 @@
                 "wdid": "Q172331"
             },
             {
-                "label": "Languoid",
-                "wdid": "Q17376908"
+                "label": "creative work",
+                "wdid": "Q17537576"
+            },
+            {
+                "label": "string",
+                "wdid": "Q184754"
             },
             {
                 "label": "Ritual",
@@ -86788,6 +86961,10 @@
             {
                 "label": "prayer",
                 "wdid": "Q40953"
+            },
+            {
+                "label": "human activity",
+                "wdid": "Q61788060"
             },
             {
                 "label": "tradition",
@@ -86823,8 +87000,16 @@
                 "wdid": "Q1539016"
             },
             {
+                "label": "intellectual work",
+                "wdid": "Q15621286"
+            },
+            {
                 "label": "event",
                 "wdid": "Q1656682"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
             },
             {
                 "label": "Spirituality",
@@ -86835,8 +87020,12 @@
                 "wdid": "Q172331"
             },
             {
-                "label": "Languoid",
-                "wdid": "Q17376908"
+                "label": "creative work",
+                "wdid": "Q17537576"
+            },
+            {
+                "label": "string",
+                "wdid": "Q184754"
             },
             {
                 "label": "Ritual",
@@ -86877,6 +87066,10 @@
             {
                 "label": "prayer",
                 "wdid": "Q40953"
+            },
+            {
+                "label": "human activity",
+                "wdid": "Q61788060"
             },
             {
                 "label": "tradition",
@@ -89307,10 +89500,6 @@
         "doc_URL": "https://langsci-press.org/catalog/book/270",
         "entities": [
             {
-                "label": "lascivious",
-                "wdid": "Q440587"
-            },
-            {
                 "label": "Plautus",
                 "wdid": "Q47160"
             },
@@ -89401,6 +89590,10 @@
                 "wdid": "Q5054191"
             },
             {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
                 "label": "rowing equipment",
                 "wdid": "Q43399738"
             },
@@ -89429,6 +89622,10 @@
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
             {
                 "label": "rowing equipment",
                 "wdid": "Q43399738"

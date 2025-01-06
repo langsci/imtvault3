@@ -313,10 +313,6 @@
                 "wdid": "Q27096213"
             },
             {
-                "label": "geographical feature",
-                "wdid": "Q618123"
-            },
-            {
                 "label": "geographic region",
                 "wdid": "Q82794"
             }
@@ -360,10 +356,6 @@
             {
                 "label": "geographic entity",
                 "wdid": "Q27096213"
-            },
-            {
-                "label": "geographical feature",
-                "wdid": "Q618123"
             },
             {
                 "label": "geographic region",
@@ -550,6 +542,26 @@
             {
                 "label": "vomiting",
                 "wdid": "Q127076"
+            },
+            {
+                "label": "Hazard",
+                "wdid": "Q1132455"
+            },
+            {
+                "label": "possibility",
+                "wdid": "Q21170479"
+            },
+            {
+                "label": "human activity",
+                "wdid": "Q61788060"
+            },
+            {
+                "label": "physiological condition",
+                "wdid": "Q7189713"
+            },
+            {
+                "label": "risk source",
+                "wdid": "Q86923152"
             }
         ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">man</div>\n\t\t<div class=\"glossblock\">somebody</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hat</div>\n\t\t<div class=\"glossblock\">has</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[ [</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">schon</div>\n\t\t<div class=\"glossblock\">already</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pferde</div>\n\t\t<div class=\"glossblock\">horses</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vor</div>\n\t\t<div class=\"glossblock\">in_front_of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">apotheke</div>\n\t\t<div class=\"glossblock\">pharmacy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kotzen ]</div>\n\t\t<div class=\"glossblock\">vomit(INF)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sehen]</div>\n\t\t<div class=\"glossblock\">see(INF)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t ].</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
@@ -571,7 +583,28 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [],
+        "parententities": [
+            {
+                "label": "Hazard",
+                "wdid": "Q1132455"
+            },
+            {
+                "label": "possibility",
+                "wdid": "Q21170479"
+            },
+            {
+                "label": "human activity",
+                "wdid": "Q61788060"
+            },
+            {
+                "label": "physiological condition",
+                "wdid": "Q7189713"
+            },
+            {
+                "label": "risk source",
+                "wdid": "Q86923152"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "man",
