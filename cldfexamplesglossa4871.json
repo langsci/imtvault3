@@ -2,90 +2,93 @@
     {
         "ID": "glossa4871-1",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "ital1284",
+                "label": "Italic"
+            },
+            {
+                "id": "lati1262",
+                "label": "Latino-Faliscan"
+            },
+            {
+                "id": "lati1263",
+                "label": "Latinic"
+            },
+            {
+                "id": "impe1234",
+                "label": "Imperial Latin"
+            },
+            {
+                "id": "roma1334",
+                "label": "Romance"
+            },
+            {
+                "id": "ital1285",
+                "label": "Italo-Western Romance"
+            },
+            {
+                "id": "ital1286",
+                "label": "Italo-Dalmatian"
+            },
+            {
+                "id": "ital1287",
+                "label": "Italian Romance"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "arosio:panzeri:etal:17[3]",
         "clength": 37,
-        "doc_ID": 4871,
-        "doc_URL": "https://www.glossa-journal.org/article/id/4871",
-        "entities": [
+        "coords": [
+            12.6489,
+            43.0464
+        ],
+        "countries": [
             {
-                "label": "dwarf",
-                "wdid": "Q194101"
+                "ISO3166": "AT",
+                "label": "Austria"
             },
             {
-                "label": "witches",
-                "wdid": "Q259745"
+                "ISO3166": "CH",
+                "label": "Switzerland"
             },
             {
-                "label": "Phenotype_(clinical_medicine)",
-                "wdid": "Q25203551"
+                "ISO3166": "FR",
+                "label": "France"
             },
             {
-                "label": "growth_disorder",
-                "wdid": "Q2538477"
+                "ISO3166": "HR",
+                "label": "Croatia"
             },
             {
-                "label": "memory",
-                "wdid": "Q104127086"
+                "ISO3166": "IT",
+                "label": "Italy"
             },
             {
-                "label": "Hazard",
-                "wdid": "Q1132455"
+                "ISO3166": "SI",
+                "label": "Slovenia"
             },
             {
-                "label": "intellectual work",
-                "wdid": "Q15621286"
+                "ISO3166": "SM",
+                "label": "San Marino"
             },
             {
-                "label": "artificial object",
-                "wdid": "Q16686448"
-            },
-            {
-                "label": "creative work",
-                "wdid": "Q17537576"
-            },
-            {
-                "label": "Occult",
-                "wdid": "Q178934"
-            },
-            {
-                "label": "White_magic",
-                "wdid": "Q1858206"
-            },
-            {
-                "label": "possibility",
-                "wdid": "Q21170479"
-            },
-            {
-                "label": "belief system",
-                "wdid": "Q5390013"
-            },
-            {
-                "label": "Black_magic",
-                "wdid": "Q690768"
-            },
-            {
-                "label": "religion or world view",
-                "wdid": "Q71966963"
-            },
-            {
-                "label": "Magic_(supernatural)",
-                "wdid": "Q81741"
-            },
-            {
-                "label": "risk source",
-                "wdid": "Q86923152"
-            },
-            {
-                "label": "Knowledge",
-                "wdid": "Q9081"
-            },
-            {
-                "label": "sorcery",
-                "wdid": "Q9198102"
+                "ISO3166": "VA",
+                "label": "Holy See (Vatican City State)"
             }
         ],
+        "doc_ID": 4871,
+        "doc_URL": "https://www.glossa-journal.org/article/id/4871",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lo</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gnomo</div>\n\t\t<div class=\"glossblock\">dwarf</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">che</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">insegue</div>\n\t\t<div class=\"glossblock\">chases</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">streghe</div>\n\t\t<div class=\"glossblock\">witches</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">SRC</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -102,76 +105,7 @@
         "language_iso6393": "ita",
         "language_name": "Italian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "Phenotype_(clinical_medicine)",
-                "wdid": "Q25203551"
-            },
-            {
-                "label": "growth_disorder",
-                "wdid": "Q2538477"
-            },
-            {
-                "label": "memory",
-                "wdid": "Q104127086"
-            },
-            {
-                "label": "Hazard",
-                "wdid": "Q1132455"
-            },
-            {
-                "label": "intellectual work",
-                "wdid": "Q15621286"
-            },
-            {
-                "label": "artificial object",
-                "wdid": "Q16686448"
-            },
-            {
-                "label": "creative work",
-                "wdid": "Q17537576"
-            },
-            {
-                "label": "Occult",
-                "wdid": "Q178934"
-            },
-            {
-                "label": "White_magic",
-                "wdid": "Q1858206"
-            },
-            {
-                "label": "possibility",
-                "wdid": "Q21170479"
-            },
-            {
-                "label": "belief system",
-                "wdid": "Q5390013"
-            },
-            {
-                "label": "Black_magic",
-                "wdid": "Q690768"
-            },
-            {
-                "label": "religion or world view",
-                "wdid": "Q71966963"
-            },
-            {
-                "label": "Magic_(supernatural)",
-                "wdid": "Q81741"
-            },
-            {
-                "label": "risk source",
-                "wdid": "Q86923152"
-            },
-            {
-                "label": "Knowledge",
-                "wdid": "Q9081"
-            },
-            {
-                "label": "sorcery",
-                "wdid": "Q9198102"
-            }
-        ],
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "lo",
@@ -190,26 +124,93 @@
     {
         "ID": "glossa4871-2",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "ital1284",
+                "label": "Italic"
+            },
+            {
+                "id": "lati1262",
+                "label": "Latino-Faliscan"
+            },
+            {
+                "id": "lati1263",
+                "label": "Latinic"
+            },
+            {
+                "id": "impe1234",
+                "label": "Imperial Latin"
+            },
+            {
+                "id": "roma1334",
+                "label": "Romance"
+            },
+            {
+                "id": "ital1285",
+                "label": "Italo-Western Romance"
+            },
+            {
+                "id": "ital1286",
+                "label": "Italo-Dalmatian"
+            },
+            {
+                "id": "ital1287",
+                "label": "Italian Romance"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "arosio:panzeri:etal:17[4]",
         "clength": 36,
-        "doc_ID": 4871,
-        "doc_URL": "https://www.glossa-journal.org/article/id/4871",
-        "entities": [
+        "coords": [
+            12.6489,
+            43.0464
+        ],
+        "countries": [
             {
-                "label": "dwarf",
-                "wdid": "Q194101"
+                "ISO3166": "AT",
+                "label": "Austria"
             },
             {
-                "label": "Phenotype_(clinical_medicine)",
-                "wdid": "Q25203551"
+                "ISO3166": "CH",
+                "label": "Switzerland"
             },
             {
-                "label": "growth_disorder",
-                "wdid": "Q2538477"
+                "ISO3166": "FR",
+                "label": "France"
+            },
+            {
+                "ISO3166": "HR",
+                "label": "Croatia"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            },
+            {
+                "ISO3166": "SM",
+                "label": "San Marino"
+            },
+            {
+                "ISO3166": "VA",
+                "label": "Holy See (Vatican City State)"
             }
         ],
+        "doc_ID": 4871,
+        "doc_URL": "https://www.glossa-journal.org/article/id/4871",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">to</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gnomo</div>\n\t\t<div class=\"glossblock\">dwarf</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">che</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">strega</div>\n\t\t<div class=\"glossblock\">witch</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">insegue</div>\n\t\t<div class=\"glossblock\">chases</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ORC</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -226,16 +227,7 @@
         "language_iso6393": "ita",
         "language_name": "Italian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "Phenotype_(clinical_medicine)",
-                "wdid": "Q25203551"
-            },
-            {
-                "label": "growth_disorder",
-                "wdid": "Q2538477"
-            }
-        ],
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "to",
@@ -254,26 +246,93 @@
     {
         "ID": "glossa4871-3",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "ital1284",
+                "label": "Italic"
+            },
+            {
+                "id": "lati1262",
+                "label": "Latino-Faliscan"
+            },
+            {
+                "id": "lati1263",
+                "label": "Latinic"
+            },
+            {
+                "id": "impe1234",
+                "label": "Imperial Latin"
+            },
+            {
+                "id": "roma1334",
+                "label": "Romance"
+            },
+            {
+                "id": "ital1285",
+                "label": "Italo-Western Romance"
+            },
+            {
+                "id": "ital1286",
+                "label": "Italo-Dalmatian"
+            },
+            {
+                "id": "ital1287",
+                "label": "Italian Romance"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "arosio:panzeri:etal:17[5]",
         "clength": 43,
-        "doc_ID": 4871,
-        "doc_URL": "https://www.glossa-journal.org/article/id/4871",
-        "entities": [
+        "coords": [
+            12.6489,
+            43.0464
+        ],
+        "countries": [
             {
-                "label": "dwarf",
-                "wdid": "Q194101"
+                "ISO3166": "AT",
+                "label": "Austria"
             },
             {
-                "label": "Phenotype_(clinical_medicine)",
-                "wdid": "Q25203551"
+                "ISO3166": "CH",
+                "label": "Switzerland"
             },
             {
-                "label": "growth_disorder",
-                "wdid": "Q2538477"
+                "ISO3166": "FR",
+                "label": "France"
+            },
+            {
+                "ISO3166": "HR",
+                "label": "Croatia"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            },
+            {
+                "ISO3166": "SM",
+                "label": "San Marino"
+            },
+            {
+                "ISO3166": "VA",
+                "label": "Holy See (Vatican City State)"
             }
         ],
+        "doc_ID": 4871,
+        "doc_URL": "https://www.glossa-journal.org/article/id/4871",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lo</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gnomo</div>\n\t\t<div class=\"glossblock\">dwarf</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">che</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">è</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">inseguito</div>\n\t\t<div class=\"glossblock\">chased</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dalla</div>\n\t\t<div class=\"glossblock\">by-the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">strega</div>\n\t\t<div class=\"glossblock\">witch</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">PRC</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -291,16 +350,7 @@
         "language_iso6393": "ita",
         "language_name": "Italian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "Phenotype_(clinical_medicine)",
-                "wdid": "Q25203551"
-            },
-            {
-                "label": "growth_disorder",
-                "wdid": "Q2538477"
-            }
-        ],
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "lo",
@@ -320,12 +370,92 @@
     {
         "ID": "glossa4871-4",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "ital1284",
+                "label": "Italic"
+            },
+            {
+                "id": "lati1262",
+                "label": "Latino-Faliscan"
+            },
+            {
+                "id": "lati1263",
+                "label": "Latinic"
+            },
+            {
+                "id": "impe1234",
+                "label": "Imperial Latin"
+            },
+            {
+                "id": "roma1334",
+                "label": "Romance"
+            },
+            {
+                "id": "ital1285",
+                "label": "Italo-Western Romance"
+            },
+            {
+                "id": "ital1286",
+                "label": "Italo-Dalmatian"
+            },
+            {
+                "id": "ital1287",
+                "label": "Italian Romance"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "L"
         ],
         "citation": "arosio:panzeri:etal:17[9]",
         "clength": 50,
+        "coords": [
+            12.6489,
+            43.0464
+        ],
+        "countries": [
+            {
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "FR",
+                "label": "France"
+            },
+            {
+                "ISO3166": "HR",
+                "label": "Croatia"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            },
+            {
+                "ISO3166": "SM",
+                "label": "San Marino"
+            },
+            {
+                "ISO3166": "VA",
+                "label": "Holy See (Vatican City State)"
+            }
+        ],
         "doc_ID": 4871,
         "doc_URL": "https://www.glossa-journal.org/article/id/4871",
         "entities": [],
@@ -368,12 +498,92 @@
     {
         "ID": "glossa4871-5",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "ital1284",
+                "label": "Italic"
+            },
+            {
+                "id": "lati1262",
+                "label": "Latino-Faliscan"
+            },
+            {
+                "id": "lati1263",
+                "label": "Latinic"
+            },
+            {
+                "id": "impe1234",
+                "label": "Imperial Latin"
+            },
+            {
+                "id": "roma1334",
+                "label": "Romance"
+            },
+            {
+                "id": "ital1285",
+                "label": "Italo-Western Romance"
+            },
+            {
+                "id": "ital1286",
+                "label": "Italo-Dalmatian"
+            },
+            {
+                "id": "ital1287",
+                "label": "Italian Romance"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "L"
         ],
         "citation": "arosio:panzeri:etal:17[10]",
         "clength": 50,
+        "coords": [
+            12.6489,
+            43.0464
+        ],
+        "countries": [
+            {
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "FR",
+                "label": "France"
+            },
+            {
+                "ISO3166": "HR",
+                "label": "Croatia"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            },
+            {
+                "ISO3166": "SM",
+                "label": "San Marino"
+            },
+            {
+                "ISO3166": "VA",
+                "label": "Holy See (Vatican City State)"
+            }
+        ],
         "doc_ID": 4871,
         "doc_URL": "https://www.glossa-journal.org/article/id/4871",
         "entities": [],
@@ -416,12 +626,92 @@
     {
         "ID": "glossa4871-6",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "ital1284",
+                "label": "Italic"
+            },
+            {
+                "id": "lati1262",
+                "label": "Latino-Faliscan"
+            },
+            {
+                "id": "lati1263",
+                "label": "Latinic"
+            },
+            {
+                "id": "impe1234",
+                "label": "Imperial Latin"
+            },
+            {
+                "id": "roma1334",
+                "label": "Romance"
+            },
+            {
+                "id": "ital1285",
+                "label": "Italo-Western Romance"
+            },
+            {
+                "id": "ital1286",
+                "label": "Italo-Dalmatian"
+            },
+            {
+                "id": "ital1287",
+                "label": "Italian Romance"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "L"
         ],
         "citation": "arosio:panzeri:etal:17[11]",
         "clength": 52,
+        "coords": [
+            12.6489,
+            43.0464
+        ],
+        "countries": [
+            {
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "FR",
+                "label": "France"
+            },
+            {
+                "ISO3166": "HR",
+                "label": "Croatia"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            },
+            {
+                "ISO3166": "SM",
+                "label": "San Marino"
+            },
+            {
+                "ISO3166": "VA",
+                "label": "Holy See (Vatican City State)"
+            }
+        ],
         "doc_ID": 4871,
         "doc_URL": "https://www.glossa-journal.org/article/id/4871",
         "entities": [],
@@ -466,10 +756,90 @@
     {
         "ID": "glossa4871-7",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "ital1284",
+                "label": "Italic"
+            },
+            {
+                "id": "lati1262",
+                "label": "Latino-Faliscan"
+            },
+            {
+                "id": "lati1263",
+                "label": "Latinic"
+            },
+            {
+                "id": "impe1234",
+                "label": "Imperial Latin"
+            },
+            {
+                "id": "roma1334",
+                "label": "Romance"
+            },
+            {
+                "id": "ital1285",
+                "label": "Italo-Western Romance"
+            },
+            {
+                "id": "ital1286",
+                "label": "Italo-Dalmatian"
+            },
+            {
+                "id": "ital1287",
+                "label": "Italian Romance"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "arosio:panzeri:etal:17[i]",
         "clength": 27,
+        "coords": [
+            12.6489,
+            43.0464
+        ],
+        "countries": [
+            {
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "FR",
+                "label": "France"
+            },
+            {
+                "ISO3166": "HR",
+                "label": "Croatia"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            },
+            {
+                "ISO3166": "SM",
+                "label": "San Marino"
+            },
+            {
+                "ISO3166": "VA",
+                "label": "Holy See (Vatican City State)"
+            }
+        ],
         "doc_ID": 4871,
         "doc_URL": "https://www.glossa-journal.org/article/id/4871",
         "entities": [],
@@ -502,10 +872,90 @@
     {
         "ID": "glossa4871-8",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "ital1284",
+                "label": "Italic"
+            },
+            {
+                "id": "lati1262",
+                "label": "Latino-Faliscan"
+            },
+            {
+                "id": "lati1263",
+                "label": "Latinic"
+            },
+            {
+                "id": "impe1234",
+                "label": "Imperial Latin"
+            },
+            {
+                "id": "roma1334",
+                "label": "Romance"
+            },
+            {
+                "id": "ital1285",
+                "label": "Italo-Western Romance"
+            },
+            {
+                "id": "ital1286",
+                "label": "Italo-Dalmatian"
+            },
+            {
+                "id": "ital1287",
+                "label": "Italian Romance"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "arosio:panzeri:etal:17[i]",
         "clength": 60,
+        "coords": [
+            12.6489,
+            43.0464
+        ],
+        "countries": [
+            {
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "FR",
+                "label": "France"
+            },
+            {
+                "ISO3166": "HR",
+                "label": "Croatia"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            },
+            {
+                "ISO3166": "SM",
+                "label": "San Marino"
+            },
+            {
+                "ISO3166": "VA",
+                "label": "Holy See (Vatican City State)"
+            }
+        ],
         "doc_ID": 4871,
         "doc_URL": "https://www.glossa-journal.org/article/id/4871",
         "entities": [],

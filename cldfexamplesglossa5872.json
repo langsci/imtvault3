@@ -4,6 +4,32 @@
         "abbrkey": {
             "AUX": "auxiliary"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "balt1263",
+                "label": "Balto-Slavic"
+            },
+            {
+                "id": "slav1255",
+                "label": "Slavic"
+            },
+            {
+                "id": "sout3147",
+                "label": "South Slavic"
+            },
+            {
+                "id": "west2804",
+                "label": "Western South Slavic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX"
@@ -11,14 +37,35 @@
         "citation": "marusic:nevins:etal:15[42];hartmann:pfau:etal:21[via:7]",
         "clength": 47,
         "coordination": "and",
-        "doc_ID": 5872,
-        "doc_URL": "https://www.glossa-journal.org/article/id/5872",
-        "entities": [
+        "coords": [
+            14.7766,
+            46.2543
+        ],
+        "countries": [
             {
-                "label": "calves",
-                "wdid": "Q2935"
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "HR",
+                "label": "Croatia"
+            },
+            {
+                "ISO3166": "HU",
+                "label": "Hungary"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
             }
         ],
+        "doc_ID": 5872,
+        "doc_URL": "https://www.glossa-journal.org/article/id/5872",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Krava</div>\n\t\t<div class=\"glossblock\">cow</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">in</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">njena</div>\n\t\t<div class=\"glossblock\">her</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">teleta</div>\n\t\t<div class=\"glossblock\">calves</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">so</div>\n\t\t<div class=\"glossblock\">AUX</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">trčila</div>\n\t\t<div class=\"glossblock\">collided</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">druga</div>\n\t\t<div class=\"glossblock\">other</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ob</div>\n\t\t<div class=\"glossblock\">into</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">drugo.</div>\n\t\t<div class=\"glossblock\">another</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "cow",
@@ -54,6 +101,52 @@
     {
         "ID": "glossa5872-2",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "uppe1464",
+                "label": "Upper Franconian"
+            },
+            {
+                "id": "glob1243",
+                "label": "Global German"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "I",
@@ -62,18 +155,79 @@
         "citation": "hartmann:pfau:etal:21[16a]",
         "clength": 58,
         "coordination": "and",
-        "doc_ID": 5872,
-        "doc_URL": "https://www.glossa-journal.org/article/id/5872",
-        "entities": [
+        "coords": [
+            12.4676,
+            48.649
+        ],
+        "countries": [
             {
-                "label": "browsed",
-                "wdid": "Q12353883"
+                "ISO3166": "AT",
+                "label": "Austria"
             },
             {
-                "label": "Peter read",
-                "wdid": "Q59197694"
+                "ISO3166": "BE",
+                "label": "Belgium"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "CZ",
+                "label": "Czechia"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "DK",
+                "label": "Denmark"
+            },
+            {
+                "ISO3166": "FR",
+                "label": "France"
+            },
+            {
+                "ISO3166": "HU",
+                "label": "Hungary"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "LI",
+                "label": "Liechtenstein"
+            },
+            {
+                "ISO3166": "LU",
+                "label": "Luxembourg"
+            },
+            {
+                "ISO3166": "NL",
+                "label": "Netherlands"
+            },
+            {
+                "ISO3166": "PL",
+                "label": "Poland"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            },
+            {
+                "ISO3166": "SK",
+                "label": "Slovakia"
             }
         ],
+        "doc_ID": 5872,
+        "doc_URL": "https://www.glossa-journal.org/article/id/5872",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">blätterte</div>\n\t\t<div class=\"glossblock\">browsed</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">in</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Zeitung</div>\n\t\t<div class=\"glossblock\">journal</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">und</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Peter</div>\n\t\t<div class=\"glossblock\">Peter</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">las</div>\n\t\t<div class=\"glossblock\">read</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">in</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">einem</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Roman.</div>\n\t\t<div class=\"glossblock\">novel</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -113,6 +267,52 @@
     {
         "ID": "glossa5872-3",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "uppe1464",
+                "label": "Upper Franconian"
+            },
+            {
+                "id": "glob1243",
+                "label": "Global German"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "I",
@@ -121,18 +321,79 @@
         "citation": "hartmann:pfau:etal:21[16b]",
         "clength": 59,
         "coordination": "and",
-        "doc_ID": 5872,
-        "doc_URL": "https://www.glossa-journal.org/article/id/5872",
-        "entities": [
+        "coords": [
+            12.4676,
+            48.649
+        ],
+        "countries": [
             {
-                "label": "browsed",
-                "wdid": "Q12353883"
+                "ISO3166": "AT",
+                "label": "Austria"
             },
             {
-                "label": "Peter read",
-                "wdid": "Q59197694"
+                "ISO3166": "BE",
+                "label": "Belgium"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "CZ",
+                "label": "Czechia"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "DK",
+                "label": "Denmark"
+            },
+            {
+                "ISO3166": "FR",
+                "label": "France"
+            },
+            {
+                "ISO3166": "HU",
+                "label": "Hungary"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "LI",
+                "label": "Liechtenstein"
+            },
+            {
+                "ISO3166": "LU",
+                "label": "Luxembourg"
+            },
+            {
+                "ISO3166": "NL",
+                "label": "Netherlands"
+            },
+            {
+                "ISO3166": "PL",
+                "label": "Poland"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            },
+            {
+                "ISO3166": "SK",
+                "label": "Slovakia"
             }
         ],
+        "doc_ID": 5872,
+        "doc_URL": "https://www.glossa-journal.org/article/id/5872",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?Ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">blätterte</div>\n\t\t<div class=\"glossblock\">browsed</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">in</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Zeitung</div>\n\t\t<div class=\"glossblock\">journal</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">und</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">in</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">einem</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Roman</div>\n\t\t<div class=\"glossblock\">novel</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">las</div>\n\t\t<div class=\"glossblock\">read</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Peter.</div>\n\t\t<div class=\"glossblock\">Peter</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -172,6 +433,52 @@
     {
         "ID": "glossa5872-4",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "uppe1464",
+                "label": "Upper Franconian"
+            },
+            {
+                "id": "glob1243",
+                "label": "Global German"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "I",
@@ -179,6 +486,76 @@
         ],
         "citation": "hartmann:pfau:etal:21[16c]",
         "clength": 55,
+        "coords": [
+            12.4676,
+            48.649
+        ],
+        "countries": [
+            {
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "BE",
+                "label": "Belgium"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "CZ",
+                "label": "Czechia"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "DK",
+                "label": "Denmark"
+            },
+            {
+                "ISO3166": "FR",
+                "label": "France"
+            },
+            {
+                "ISO3166": "HU",
+                "label": "Hungary"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "LI",
+                "label": "Liechtenstein"
+            },
+            {
+                "ISO3166": "LU",
+                "label": "Luxembourg"
+            },
+            {
+                "ISO3166": "NL",
+                "label": "Netherlands"
+            },
+            {
+                "ISO3166": "PL",
+                "label": "Poland"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            },
+            {
+                "ISO3166": "SK",
+                "label": "Slovakia"
+            }
+        ],
         "doc_ID": 5872,
         "doc_URL": "https://www.glossa-journal.org/article/id/5872",
         "entities": [],
@@ -219,6 +596,44 @@
     {
         "ID": "glossa5872-5",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "macr1270",
+                "label": "Macro-Dutch"
+            },
+            {
+                "id": "midd1347",
+                "label": "Middle-Modern Dutch"
+            },
+            {
+                "id": "mode1257",
+                "label": "Modern Dutch"
+            },
+            {
+                "id": "glob1241",
+                "label": "Global Dutch"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "F",
@@ -227,6 +642,56 @@
         "citation": "hartmann:pfau:etal:21[17a]",
         "clength": 59,
         "coordination": "and",
+        "coords": [
+            5.0,
+            52.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "AW",
+                "label": "Aruba"
+            },
+            {
+                "ISO3166": "BE",
+                "label": "Belgium"
+            },
+            {
+                "ISO3166": "BQ",
+                "label": "Bonaire, Sint Eustatius and Saba"
+            },
+            {
+                "ISO3166": "BR",
+                "label": "Brazil"
+            },
+            {
+                "ISO3166": "CW",
+                "label": "Curaçao"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "GF",
+                "label": "French Guiana"
+            },
+            {
+                "ISO3166": "GY",
+                "label": "Guyana"
+            },
+            {
+                "ISO3166": "NL",
+                "label": "Netherlands"
+            },
+            {
+                "ISO3166": "SR",
+                "label": "Suriname"
+            },
+            {
+                "ISO3166": "SX",
+                "label": "Sint Maarten (Dutch part)"
+            }
+        ],
         "doc_ID": 5872,
         "doc_URL": "https://www.glossa-journal.org/article/id/5872",
         "entities": [],
@@ -267,6 +732,44 @@
     {
         "ID": "glossa5872-6",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "macr1270",
+                "label": "Macro-Dutch"
+            },
+            {
+                "id": "midd1347",
+                "label": "Middle-Modern Dutch"
+            },
+            {
+                "id": "mode1257",
+                "label": "Modern Dutch"
+            },
+            {
+                "id": "glob1241",
+                "label": "Global Dutch"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "F",
@@ -275,6 +778,56 @@
         "citation": "hartmann:pfau:etal:21[17b]",
         "clength": 60,
         "coordination": "and",
+        "coords": [
+            5.0,
+            52.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "AW",
+                "label": "Aruba"
+            },
+            {
+                "ISO3166": "BE",
+                "label": "Belgium"
+            },
+            {
+                "ISO3166": "BQ",
+                "label": "Bonaire, Sint Eustatius and Saba"
+            },
+            {
+                "ISO3166": "BR",
+                "label": "Brazil"
+            },
+            {
+                "ISO3166": "CW",
+                "label": "Curaçao"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "GF",
+                "label": "French Guiana"
+            },
+            {
+                "ISO3166": "GY",
+                "label": "Guyana"
+            },
+            {
+                "ISO3166": "NL",
+                "label": "Netherlands"
+            },
+            {
+                "ISO3166": "SR",
+                "label": "Suriname"
+            },
+            {
+                "ISO3166": "SX",
+                "label": "Sint Maarten (Dutch part)"
+            }
+        ],
         "doc_ID": 5872,
         "doc_URL": "https://www.glossa-journal.org/article/id/5872",
         "entities": [],
@@ -315,6 +868,44 @@
     {
         "ID": "glossa5872-7",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "macr1270",
+                "label": "Macro-Dutch"
+            },
+            {
+                "id": "midd1347",
+                "label": "Middle-Modern Dutch"
+            },
+            {
+                "id": "mode1257",
+                "label": "Modern Dutch"
+            },
+            {
+                "id": "glob1241",
+                "label": "Global Dutch"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "F",
@@ -322,6 +913,56 @@
         ],
         "citation": "hartmann:pfau:etal:21[17c]",
         "clength": 55,
+        "coords": [
+            5.0,
+            52.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "AW",
+                "label": "Aruba"
+            },
+            {
+                "ISO3166": "BE",
+                "label": "Belgium"
+            },
+            {
+                "ISO3166": "BQ",
+                "label": "Bonaire, Sint Eustatius and Saba"
+            },
+            {
+                "ISO3166": "BR",
+                "label": "Brazil"
+            },
+            {
+                "ISO3166": "CW",
+                "label": "Curaçao"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "GF",
+                "label": "French Guiana"
+            },
+            {
+                "ISO3166": "GY",
+                "label": "Guyana"
+            },
+            {
+                "ISO3166": "NL",
+                "label": "Netherlands"
+            },
+            {
+                "ISO3166": "SR",
+                "label": "Suriname"
+            },
+            {
+                "ISO3166": "SX",
+                "label": "Sint Maarten (Dutch part)"
+            }
+        ],
         "doc_ID": 5872,
         "doc_URL": "https://www.glossa-journal.org/article/id/5872",
         "entities": [],
@@ -360,62 +1001,129 @@
     {
         "ID": "glossa5872-8",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "uppe1464",
+                "label": "Upper Franconian"
+            },
+            {
+                "id": "glob1243",
+                "label": "Global German"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "hartmann:pfau:etal:21[33]",
         "clength": 51,
-        "doc_ID": 5872,
-        "doc_URL": "https://www.glossa-journal.org/article/id/5872",
-        "entities": [
+        "coords": [
+            12.4676,
+            48.649
+        ],
+        "countries": [
             {
-                "label": "cereals",
-                "wdid": "Q12117"
+                "ISO3166": "AT",
+                "label": "Austria"
             },
             {
-                "label": "artificial object",
-                "wdid": "Q16686448"
+                "ISO3166": "BE",
+                "label": "Belgium"
             },
             {
-                "label": "plant structure",
-                "wdid": "Q20011319"
+                "ISO3166": "CH",
+                "label": "Switzerland"
             },
             {
-                "label": "Food",
-                "wdid": "Q2095"
+                "ISO3166": "CZ",
+                "label": "Czechia"
             },
             {
-                "label": "material",
-                "wdid": "Q214609"
+                "ISO3166": "DE",
+                "label": "Germany"
             },
             {
-                "label": "Crop",
-                "wdid": "Q235352"
+                "ISO3166": "DK",
+                "label": "Denmark"
             },
             {
-                "label": "cereals and pseudocereals",
-                "wdid": "Q2643145"
+                "ISO3166": "FR",
+                "label": "France"
             },
             {
-                "label": "anatomical entity",
-                "wdid": "Q27043950"
+                "ISO3166": "HU",
+                "label": "Hungary"
             },
             {
-                "label": "Grain",
-                "wdid": "Q2995529"
+                "ISO3166": "IT",
+                "label": "Italy"
             },
             {
-                "label": "Seed",
-                "wdid": "Q40763"
+                "ISO3166": "LI",
+                "label": "Liechtenstein"
             },
             {
-                "label": "staple food",
-                "wdid": "Q736427"
+                "ISO3166": "LU",
+                "label": "Luxembourg"
             },
             {
-                "label": "Plant",
-                "wdid": "Q756"
+                "ISO3166": "NL",
+                "label": "Netherlands"
+            },
+            {
+                "ISO3166": "PL",
+                "label": "Poland"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            },
+            {
+                "ISO3166": "SK",
+                "label": "Slovakia"
             }
         ],
+        "doc_ID": 5872,
+        "doc_URL": "https://www.glossa-journal.org/article/id/5872",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">MIR]</div>\n\t\t<div class=\"glossblock\">to.me</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hat</div>\n\t\t<div class=\"glossblock\">has</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">das</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Müsli</div>\n\t\t<div class=\"glossblock\">cereal</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">heute</div>\n\t\t<div class=\"glossblock\">today</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">morgen</div>\n\t\t<div class=\"glossblock\">morning</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nicht</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">geschmeckt.</div>\n\t\t<div class=\"glossblock\">tasted</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -432,52 +1140,7 @@
         "language_iso6393": "deu",
         "language_name": "German",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "artificial object",
-                "wdid": "Q16686448"
-            },
-            {
-                "label": "plant structure",
-                "wdid": "Q20011319"
-            },
-            {
-                "label": "Food",
-                "wdid": "Q2095"
-            },
-            {
-                "label": "material",
-                "wdid": "Q214609"
-            },
-            {
-                "label": "Crop",
-                "wdid": "Q235352"
-            },
-            {
-                "label": "cereals and pseudocereals",
-                "wdid": "Q2643145"
-            },
-            {
-                "label": "anatomical entity",
-                "wdid": "Q27043950"
-            },
-            {
-                "label": "Grain",
-                "wdid": "Q2995529"
-            },
-            {
-                "label": "Seed",
-                "wdid": "Q40763"
-            },
-            {
-                "label": "staple food",
-                "wdid": "Q736427"
-            },
-            {
-                "label": "Plant",
-                "wdid": "Q756"
-            }
-        ],
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "[",
@@ -496,6 +1159,52 @@
     {
         "ID": "glossa5872-9",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "uppe1464",
+                "label": "Upper Franconian"
+            },
+            {
+                "id": "glob1243",
+                "label": "Global German"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DAT"
@@ -503,14 +1212,79 @@
         "citation": "hartmann:pfau:etal:21[38a]",
         "clength": 53,
         "coordination": "and",
-        "doc_ID": 5872,
-        "doc_URL": "https://www.glossa-journal.org/article/id/5872",
-        "entities": [
+        "coords": [
+            12.4676,
+            48.649
+        ],
+        "countries": [
             {
-                "label": "sofa",
-                "wdid": "Q131514"
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "BE",
+                "label": "Belgium"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "CZ",
+                "label": "Czechia"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "DK",
+                "label": "Denmark"
+            },
+            {
+                "ISO3166": "FR",
+                "label": "France"
+            },
+            {
+                "ISO3166": "HU",
+                "label": "Hungary"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "LI",
+                "label": "Liechtenstein"
+            },
+            {
+                "ISO3166": "LU",
+                "label": "Luxembourg"
+            },
+            {
+                "ISO3166": "NL",
+                "label": "Netherlands"
+            },
+            {
+                "ISO3166": "PL",
+                "label": "Poland"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            },
+            {
+                "ISO3166": "SK",
+                "label": "Slovakia"
             }
         ],
+        "doc_ID": 5872,
+        "doc_URL": "https://www.glossa-journal.org/article/id/5872",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Der</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Opa</div>\n\t\t<div class=\"glossblock\">grandpa</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">liegt</div>\n\t\t<div class=\"glossblock\">lies</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">auf</div>\n\t\t<div class=\"glossblock\">on</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dem</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sofa</div>\n\t\t<div class=\"glossblock\">sofa</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">und</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">die</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Oma</div>\n\t\t<div class=\"glossblock\">grandma</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">liegt</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">im</div>\n\t\t<div class=\"glossblock\">in.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Bett.</div>\n\t\t<div class=\"glossblock\">bed</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -552,6 +1326,52 @@
     {
         "ID": "glossa5872-10",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "uppe1464",
+                "label": "Upper Franconian"
+            },
+            {
+                "id": "glob1243",
+                "label": "Global German"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DAT"
@@ -559,14 +1379,79 @@
         "citation": "hartmann:pfau:etal:21[38b]",
         "clength": 53,
         "coordination": "and",
-        "doc_ID": 5872,
-        "doc_URL": "https://www.glossa-journal.org/article/id/5872",
-        "entities": [
+        "coords": [
+            12.4676,
+            48.649
+        ],
+        "countries": [
             {
-                "label": "sofa",
-                "wdid": "Q131514"
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "BE",
+                "label": "Belgium"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "CZ",
+                "label": "Czechia"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "DK",
+                "label": "Denmark"
+            },
+            {
+                "ISO3166": "FR",
+                "label": "France"
+            },
+            {
+                "ISO3166": "HU",
+                "label": "Hungary"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "LI",
+                "label": "Liechtenstein"
+            },
+            {
+                "ISO3166": "LU",
+                "label": "Luxembourg"
+            },
+            {
+                "ISO3166": "NL",
+                "label": "Netherlands"
+            },
+            {
+                "ISO3166": "PL",
+                "label": "Poland"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            },
+            {
+                "ISO3166": "SK",
+                "label": "Slovakia"
             }
         ],
+        "doc_ID": 5872,
+        "doc_URL": "https://www.glossa-journal.org/article/id/5872",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Auf</div>\n\t\t<div class=\"glossblock\">on</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dem</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sofa</div>\n\t\t<div class=\"glossblock\">sofa</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">liegt</div>\n\t\t<div class=\"glossblock\">lies</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Opa</div>\n\t\t<div class=\"glossblock\">grandpa</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">und</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">im</div>\n\t\t<div class=\"glossblock\">in.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Bett</div>\n\t\t<div class=\"glossblock\">bed</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">liegt</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">die</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Oma.</div>\n\t\t<div class=\"glossblock\">grandma</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "on",
@@ -608,12 +1493,128 @@
     {
         "ID": "glossa5872-11",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "uppe1464",
+                "label": "Upper Franconian"
+            },
+            {
+                "id": "glob1243",
+                "label": "Global German"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DAT"
         ],
         "citation": "hartmann:pfau:etal:21[38c]",
         "clength": 54,
+        "coords": [
+            12.4676,
+            48.649
+        ],
+        "countries": [
+            {
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "BE",
+                "label": "Belgium"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "CZ",
+                "label": "Czechia"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "DK",
+                "label": "Denmark"
+            },
+            {
+                "ISO3166": "FR",
+                "label": "France"
+            },
+            {
+                "ISO3166": "HU",
+                "label": "Hungary"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "LI",
+                "label": "Liechtenstein"
+            },
+            {
+                "ISO3166": "LU",
+                "label": "Luxembourg"
+            },
+            {
+                "ISO3166": "NL",
+                "label": "Netherlands"
+            },
+            {
+                "ISO3166": "PL",
+                "label": "Poland"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            },
+            {
+                "ISO3166": "SK",
+                "label": "Slovakia"
+            }
+        ],
         "doc_ID": 5872,
         "doc_URL": "https://www.glossa-journal.org/article/id/5872",
         "entities": [],

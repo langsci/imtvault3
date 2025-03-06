@@ -5,6 +5,7 @@
             "A": "‘neutral’ verbal suffix",
             "NOM": "nominative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -13,6 +14,8 @@
         ],
         "citation": "slade:18[1a]",
         "clength": 20,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -44,6 +47,7 @@
             "E": "non-‘focus’-associated verbal suffix",
             "NO": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "E",
@@ -53,6 +57,8 @@
         ],
         "citation": "slade:18[1b]",
         "clength": 33,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -90,6 +96,7 @@
             "E": "non-‘focus’-associated verbal suffix",
             "NOM": "nominative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "E",
@@ -99,6 +106,8 @@
         ],
         "citation": "slade:18[1c]",
         "clength": 24,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -131,6 +140,7 @@
             "NOM": "nominative",
             "PAST": "past tense"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "I",
@@ -140,6 +150,8 @@
         ],
         "citation": "slade:18[2a]",
         "clength": 25,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -172,6 +184,7 @@
             "AC": null,
             "PAST": "past tense"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -181,6 +194,8 @@
         ],
         "citation": "slade:18[2b]",
         "clength": 34,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -217,6 +232,16 @@
     {
         "ID": "glossa4970-6",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "japo1237",
+                "label": "Japonic"
+            },
+            {
+                "id": "japa1256",
+                "label": "Japanesic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "COND",
@@ -224,22 +249,19 @@
         ],
         "citation": "whitman:97[162];slade:18[via:3]",
         "clength": 41,
-        "doc_ID": 4970,
-        "doc_URL": "https://www.glossa-journal.org/article/id/4970",
-        "entities": [
+        "coords": [
+            135.8,
+            34.68333
+        ],
+        "countries": [
             {
-                "label": "cherry blossoms",
-                "wdid": "Q871991"
-            },
-            {
-                "label": "anatomical entity",
-                "wdid": "Q27043950"
-            },
-            {
-                "label": "Plant",
-                "wdid": "Q756"
+                "ISO3166": "JP",
+                "label": "Japan"
             }
         ],
+        "doc_ID": 4970,
+        "doc_URL": "https://www.glossa-journal.org/article/id/4970",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Tire-ba-koso</div>\n\t\t<div class=\"glossblock\">fall-COND-</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">itodo</div>\n\t\t<div class=\"glossblock\">the.more</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sakura-wa</div>\n\t\t<div class=\"glossblock\">cherry-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">medeta-kere.</div>\n\t\t<div class=\"glossblock\">wonderful-6</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "fall-COND-",
@@ -251,16 +273,7 @@
         "language_iso6393": "ojp",
         "language_name": "Old Japanese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "anatomical entity",
-                "wdid": "Q27043950"
-            },
-            {
-                "label": "Plant",
-                "wdid": "Q756"
-            }
-        ],
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Tire-ba-koso",
@@ -274,6 +287,16 @@
     {
         "ID": "glossa4970-7",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "japo1237",
+                "label": "Japonic"
+            },
+            {
+                "id": "japa1256",
+                "label": "Japanesic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DAT",
@@ -283,6 +306,16 @@
         ],
         "citation": "ogawa:76[221];slade:18[via:4]",
         "clength": 46,
+        "coords": [
+            135.8,
+            34.68333
+        ],
+        "countries": [
+            {
+                "ISO3166": "JP",
+                "label": "Japan"
+            }
+        ],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -319,6 +352,7 @@
     {
         "ID": "glossa4970-8",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "E",
@@ -326,6 +360,8 @@
         ],
         "citation": "slade:18[5]",
         "clength": 21,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -360,6 +396,16 @@
             "SUPP": null,
             "TOP": "topic."
         },
+        "ancestors": [
+            {
+                "id": "japo1237",
+                "label": "Japonic"
+            },
+            {
+                "id": "japa1256",
+                "label": "Japanesic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ADN",
@@ -368,6 +414,16 @@
         ],
         "citation": "aldridge:09[550];slade:18[via:6]",
         "clength": 19,
+        "coords": [
+            135.8,
+            34.68333
+        ],
+        "countries": [
+            {
+                "ISO3166": "JP",
+                "label": "Japan"
+            }
+        ],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -397,6 +453,7 @@
             "3SG": "third person singular",
             "DAT": "dative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "DAT",
@@ -404,6 +461,8 @@
         ],
         "citation": "paolillo:94[161];slade:18[via:7a]",
         "clength": 31,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -440,6 +499,7 @@
             "AC": null,
             "ACC": "accusative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -448,42 +508,11 @@
         ],
         "citation": "paolillo:94[161];slade:18[via:7b]",
         "clength": 34,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
-        "entities": [
-            {
-                "label": "giving alms",
-                "wdid": "Q931406"
-            },
-            {
-                "label": "Donation",
-                "wdid": "Q1124860"
-            },
-            {
-                "label": "occupation",
-                "wdid": "Q12737077"
-            },
-            {
-                "label": "social position",
-                "wdid": "Q1807498"
-            },
-            {
-                "label": "role",
-                "wdid": "Q214339"
-            },
-            {
-                "label": "role",
-                "wdid": "Q4897819"
-            },
-            {
-                "label": "human activity",
-                "wdid": "Q61788060"
-            },
-            {
-                "label": "economic activity",
-                "wdid": "Q8187769"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[ Ovun</div>\n\t\t<div class=\"glossblock\">[ they.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">san̆dahā</div>\n\t\t<div class=\"glossblock\">for</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">]</div>\n\t\t<div class=\"glossblock\">]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yæ</div>\n\t\t<div class=\"glossblock\">3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mā</div>\n\t\t<div class=\"glossblock\">I.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dan</div>\n\t\t<div class=\"glossblock\">alms</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">denne.</div>\n\t\t<div class=\"glossblock\">give.</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "[ they.ACC",
@@ -498,36 +527,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "Donation",
-                "wdid": "Q1124860"
-            },
-            {
-                "label": "occupation",
-                "wdid": "Q12737077"
-            },
-            {
-                "label": "social position",
-                "wdid": "Q1807498"
-            },
-            {
-                "label": "role",
-                "wdid": "Q214339"
-            },
-            {
-                "label": "role",
-                "wdid": "Q4897819"
-            },
-            {
-                "label": "human activity",
-                "wdid": "Q61788060"
-            },
-            {
-                "label": "economic activity",
-                "wdid": "Q8187769"
-            }
-        ],
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "[ Ovun",
@@ -548,6 +548,7 @@
             "NOM": "nominative",
             "S": "single argument of canonical intransitive verb"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "I",
@@ -556,6 +557,8 @@
         ],
         "citation": "paolillo:94[161];wijemanne:84[171];slade:18[via:7c]",
         "clength": 28,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -584,10 +587,13 @@
     {
         "ID": "glossa4970-13",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "slade:18[8]",
         "clength": 15,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -616,6 +622,7 @@
             "GER": "gerund",
             "LOC": "locative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "GEN",
@@ -625,6 +632,8 @@
         ],
         "citation": "slade:18[9]",
         "clength": 35,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -663,6 +672,7 @@
     {
         "ID": "glossa4970-15",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "K",
@@ -674,14 +684,11 @@
         ],
         "citation": "slade:18[10a]",
         "clength": 29,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
-        "entities": [
-            {
-                "label": "quatrain",
-                "wdid": "Q570948"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kit</div>\n\t\t<div class=\"glossblock\">K.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Saṁboyā</div>\n\t\t<div class=\"glossblock\">S.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bad</div>\n\t\t<div class=\"glossblock\">compose.PAST.PTCP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sata-pada</div>\n\t\t<div class=\"glossblock\">quatrain</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yi.</div>\n\t\t<div class=\"glossblock\">PRES.3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "K.",
@@ -709,6 +716,7 @@
     {
         "ID": "glossa4970-16",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABS",
@@ -722,6 +730,8 @@
         ],
         "citation": "slade:18[10b]",
         "clength": 53,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -760,6 +770,7 @@
     {
         "ID": "glossa4970-17",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "NOM",
@@ -769,6 +780,8 @@
         ],
         "citation": "slade:18[10c]",
         "clength": 15,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -795,6 +808,7 @@
     {
         "ID": "glossa4970-18",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "FEM",
@@ -806,6 +820,8 @@
         "citation": "slade:18[10d]",
         "clength": 31,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -838,6 +854,7 @@
     {
         "ID": "glossa4970-19",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "DAT",
@@ -845,6 +862,8 @@
         ],
         "citation": "gair:95[240–241];slade:18[via:11a]",
         "clength": 16,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -871,6 +890,7 @@
     {
         "ID": "glossa4970-20",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "DAT",
@@ -879,6 +899,8 @@
         ],
         "citation": "gair:95[240–241];slade:18[via:11b]",
         "clength": 22,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -905,6 +927,7 @@
     {
         "ID": "glossa4970-21",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "DAT",
@@ -912,6 +935,8 @@
         ],
         "citation": "gair:95[240–241];slade:18[via:11c]",
         "clength": 19,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -938,6 +963,7 @@
     {
         "ID": "glossa4970-22",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "DAT",
@@ -946,6 +972,8 @@
         ],
         "citation": "gair:95[240–241];slade:18[via:11d]",
         "clength": 18,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -972,12 +1000,15 @@
     {
         "ID": "glossa4970-23",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "NOM"
         ],
         "citation": "gair:95[240–241];slade:18[via:11e]",
         "clength": 17,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -1002,6 +1033,7 @@
     {
         "ID": "glossa4970-24",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "INDEF",
@@ -1009,6 +1041,8 @@
         ],
         "citation": "gair:95[240–241];slade:18[via:11f]",
         "clength": 30,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -1035,6 +1069,7 @@
     {
         "ID": "glossa4970-25",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABS",
@@ -1044,50 +1079,11 @@
         ],
         "citation": "slade:18[12]",
         "clength": 68,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
-        "entities": [
-            {
-                "label": "fortress",
-                "wdid": "Q57821"
-            },
-            {
-                "label": "facility",
-                "wdid": "Q13226383"
-            },
-            {
-                "label": "physical structure",
-                "wdid": "Q15710813"
-            },
-            {
-                "label": "artificial object",
-                "wdid": "Q16686448"
-            },
-            {
-                "label": "military_facility",
-                "wdid": "Q18691599"
-            },
-            {
-                "label": "geographic location",
-                "wdid": "Q2221906"
-            },
-            {
-                "label": "geographic entity",
-                "wdid": "Q27096213"
-            },
-            {
-                "label": "building",
-                "wdid": "Q41176"
-            },
-            {
-                "label": "Military_building",
-                "wdid": "Q6852233"
-            },
-            {
-                "label": "architectural structure",
-                "wdid": "Q811979"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ma</div>\n\t\t<div class=\"glossblock\">my.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sova</div>\n\t\t<div class=\"glossblock\">sorrow</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">niva</div>\n\t\t<div class=\"glossblock\">extinguish.ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">æ</div>\n\t\t<div class=\"glossblock\">she.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meseyi</div>\n\t\t<div class=\"glossblock\">this-manner</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">duduḷa-sela-aḍadarihi</div>\n\t\t<div class=\"glossblock\">fortress-rock-edge.LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">visi</div>\n\t\t<div class=\"glossblock\">dwell.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ya</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yaha-asaraṭa</div>\n\t\t<div class=\"glossblock\">happy-companionship.DATᶠᴼᶜ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nu.</div>\n\t\t<div class=\"glossblock\">indeed</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "my.GEN",
@@ -1105,44 +1101,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "facility",
-                "wdid": "Q13226383"
-            },
-            {
-                "label": "physical structure",
-                "wdid": "Q15710813"
-            },
-            {
-                "label": "artificial object",
-                "wdid": "Q16686448"
-            },
-            {
-                "label": "military_facility",
-                "wdid": "Q18691599"
-            },
-            {
-                "label": "geographic location",
-                "wdid": "Q2221906"
-            },
-            {
-                "label": "geographic entity",
-                "wdid": "Q27096213"
-            },
-            {
-                "label": "building",
-                "wdid": "Q41176"
-            },
-            {
-                "label": "Military_building",
-                "wdid": "Q6852233"
-            },
-            {
-                "label": "architectural structure",
-                "wdid": "Q811979"
-            }
-        ],
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ma",
@@ -1162,6 +1121,7 @@
     {
         "ID": "glossa4970-26",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "DAT",
@@ -1174,6 +1134,8 @@
         ],
         "citation": "slade:18[13]",
         "clength": 48,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -1215,6 +1177,7 @@
     {
         "ID": "glossa4970-27",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "GEN",
@@ -1222,14 +1185,11 @@
         ],
         "citation": "gair:76[207];slade:18[via:14a]",
         "clength": 44,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
-        "entities": [
-            {
-                "label": "writing books",
-                "wdid": "Q2876182"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[ Miniha-ge</div>\n\t\t<div class=\"glossblock\">[ man-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pot</div>\n\t\t<div class=\"glossblock\">books</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">livīmə/livillə</div>\n\t\t<div class=\"glossblock\">write-GER</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">]</div>\n\t\t<div class=\"glossblock\">]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hon̆də</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nǣ.</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "[ man-GEN",
@@ -1260,6 +1220,7 @@
     {
         "ID": "glossa4970-28",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ADJ",
@@ -1268,6 +1229,8 @@
         ],
         "citation": "gair:76[207];slade:18[via:14b]",
         "clength": 41,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -1305,6 +1268,7 @@
     {
         "ID": "glossa4970-29",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "EMPH",
@@ -1312,6 +1276,8 @@
         ],
         "citation": "lehmann:89[368];slade:18[via:15a]",
         "clength": 34,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -1340,12 +1306,15 @@
     {
         "ID": "glossa4970-30",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "K"
         ],
         "citation": "lehmann:89[368];lehmann:89[301];slade:18[via:15b]",
         "clength": 27,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -1377,6 +1346,7 @@
             "AC": null,
             "ACC": "accusative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -1384,42 +1354,11 @@
         ],
         "citation": "paolillo:94[161];slade:18[via:17]",
         "clength": 34,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
-        "entities": [
-            {
-                "label": "giving alms",
-                "wdid": "Q931406"
-            },
-            {
-                "label": "Donation",
-                "wdid": "Q1124860"
-            },
-            {
-                "label": "occupation",
-                "wdid": "Q12737077"
-            },
-            {
-                "label": "social position",
-                "wdid": "Q1807498"
-            },
-            {
-                "label": "role",
-                "wdid": "Q214339"
-            },
-            {
-                "label": "role",
-                "wdid": "Q4897819"
-            },
-            {
-                "label": "human activity",
-                "wdid": "Q61788060"
-            },
-            {
-                "label": "economic activity",
-                "wdid": "Q8187769"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mā</div>\n\t\t<div class=\"glossblock\">I.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dan</div>\n\t\t<div class=\"glossblock\">alms</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">denne</div>\n\t\t<div class=\"glossblock\">give.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[ ovun</div>\n\t\t<div class=\"glossblock\">[ they.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">san̆dahā</div>\n\t\t<div class=\"glossblock\">for</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">]</div>\n\t\t<div class=\"glossblock\">]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yæ.</div>\n\t\t<div class=\"glossblock\">3</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I.ACC",
@@ -1434,36 +1373,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "Donation",
-                "wdid": "Q1124860"
-            },
-            {
-                "label": "occupation",
-                "wdid": "Q12737077"
-            },
-            {
-                "label": "social position",
-                "wdid": "Q1807498"
-            },
-            {
-                "label": "role",
-                "wdid": "Q214339"
-            },
-            {
-                "label": "role",
-                "wdid": "Q4897819"
-            },
-            {
-                "label": "human activity",
-                "wdid": "Q61788060"
-            },
-            {
-                "label": "economic activity",
-                "wdid": "Q8187769"
-            }
-        ],
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Mā",
@@ -1484,6 +1394,7 @@
             "AC": null,
             "ACC": "accusative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -1492,42 +1403,11 @@
         ],
         "citation": "slade:18[19]",
         "clength": 39,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
-        "entities": [
-            {
-                "label": "alms",
-                "wdid": "Q931406"
-            },
-            {
-                "label": "Donation",
-                "wdid": "Q1124860"
-            },
-            {
-                "label": "occupation",
-                "wdid": "Q12737077"
-            },
-            {
-                "label": "social position",
-                "wdid": "Q1807498"
-            },
-            {
-                "label": "role",
-                "wdid": "Q214339"
-            },
-            {
-                "label": "role",
-                "wdid": "Q4897819"
-            },
-            {
-                "label": "human activity",
-                "wdid": "Q61788060"
-            },
-            {
-                "label": "economic activity",
-                "wdid": "Q8187769"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mā</div>\n\t\t<div class=\"glossblock\">I.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dan</div>\n\t\t<div class=\"glossblock\">alms</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">denne</div>\n\t\t<div class=\"glossblock\">give.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yæ</div>\n\t\t<div class=\"glossblock\">3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[ ovun</div>\n\t\t<div class=\"glossblock\">[ they.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">san̆dahā</div>\n\t\t<div class=\"glossblock\">for</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">]</div>\n\t\t<div class=\"glossblock\">]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(nu).</div>\n\t\t<div class=\"glossblock\">(indeed)</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I.ACC",
@@ -1543,36 +1423,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "Donation",
-                "wdid": "Q1124860"
-            },
-            {
-                "label": "occupation",
-                "wdid": "Q12737077"
-            },
-            {
-                "label": "social position",
-                "wdid": "Q1807498"
-            },
-            {
-                "label": "role",
-                "wdid": "Q214339"
-            },
-            {
-                "label": "role",
-                "wdid": "Q4897819"
-            },
-            {
-                "label": "human activity",
-                "wdid": "Q61788060"
-            },
-            {
-                "label": "economic activity",
-                "wdid": "Q8187769"
-            }
-        ],
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Mā",
@@ -1590,6 +1441,7 @@
     {
         "ID": "glossa4970-33",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "E",
@@ -1599,42 +1451,11 @@
         ],
         "citation": "slade:18[21]",
         "clength": 37,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
-        "entities": [
-            {
-                "label": "giving alms",
-                "wdid": "Q931406"
-            },
-            {
-                "label": "Donation",
-                "wdid": "Q1124860"
-            },
-            {
-                "label": "occupation",
-                "wdid": "Q12737077"
-            },
-            {
-                "label": "social position",
-                "wdid": "Q1807498"
-            },
-            {
-                "label": "role",
-                "wdid": "Q214339"
-            },
-            {
-                "label": "role",
-                "wdid": "Q4897819"
-            },
-            {
-                "label": "human activity",
-                "wdid": "Q61788060"
-            },
-            {
-                "label": "economic activity",
-                "wdid": "Q8187769"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mamə</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dānaya</div>\n\t\t<div class=\"glossblock\">alms</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">denne</div>\n\t\t<div class=\"glossblock\">give.PRES.E</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ovun</div>\n\t\t<div class=\"glossblock\">them</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">san̆dahā</div>\n\t\t<div class=\"glossblock\">for</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(-y).</div>\n\t\t<div class=\"glossblock\">(FOC)</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -1648,36 +1469,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "Donation",
-                "wdid": "Q1124860"
-            },
-            {
-                "label": "occupation",
-                "wdid": "Q12737077"
-            },
-            {
-                "label": "social position",
-                "wdid": "Q1807498"
-            },
-            {
-                "label": "role",
-                "wdid": "Q214339"
-            },
-            {
-                "label": "role",
-                "wdid": "Q4897819"
-            },
-            {
-                "label": "human activity",
-                "wdid": "Q61788060"
-            },
-            {
-                "label": "economic activity",
-                "wdid": "Q8187769"
-            }
-        ],
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Mamə",
@@ -1696,6 +1488,7 @@
             "INDEF": "indefinite",
             "NOM": "nominative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "I",
@@ -1704,6 +1497,8 @@
         ],
         "citation": "gair:95[241];slade:18[via:23a]",
         "clength": 14,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -1731,6 +1526,7 @@
             "INDEF": "indefinite",
             "NOM": "nominative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "INDEF",
@@ -1738,6 +1534,8 @@
         ],
         "citation": "gair:95[241];slade:18[via:23b]",
         "clength": 25,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -1764,6 +1562,7 @@
     {
         "ID": "glossa4970-36",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "I",
@@ -1772,6 +1571,8 @@
         ],
         "citation": "gair:95[242];slade:18[via:24a]",
         "clength": 17,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -1796,6 +1597,7 @@
     {
         "ID": "glossa4970-37",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "INDEF",
@@ -1803,6 +1605,8 @@
         ],
         "citation": "gair:95[242];slade:18[via:24b]",
         "clength": 30,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -1830,6 +1634,7 @@
             "INDEF": "indefinite",
             "NOM": "nominative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "I",
@@ -1838,6 +1643,8 @@
         ],
         "citation": "slade:18[25a]",
         "clength": 19,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -1867,6 +1674,7 @@
             "INDEF": "indefinite",
             "NOM": "nominative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "INDEF",
@@ -1874,6 +1682,8 @@
         ],
         "citation": "slade:18[25b]",
         "clength": 21,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -1900,6 +1710,7 @@
     {
         "ID": "glossa4970-40",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -1911,14 +1722,11 @@
         "citation": "boehtlingk:roth:ed:55;slade:18[via:26]",
         "clength": 105,
         "coordination": "or",
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
-        "entities": [
-            {
-                "label": "attain",
-                "wdid": "Q862685"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Utá</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">_avidvā́n</div>\n\t\t<div class=\"glossblock\">one who does not know.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">amúṁ</div>\n\t\t<div class=\"glossblock\">yonder.ACC.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lokáṁ</div>\n\t\t<div class=\"glossblock\">world.ACC.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">prétya</div>\n\t\t<div class=\"glossblock\">depart.GER</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaścaná</div>\n\t\t<div class=\"glossblock\">anyone</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gacchatī322</div>\n\t\t<div class=\"glossblock\">go.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">/ ā́ho</div>\n\t\t<div class=\"glossblock\">/ āho</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vidvā́n</div>\n\t\t<div class=\"glossblock\">one who knows.NOM.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">amúṁ</div>\n\t\t<div class=\"glossblock\">yonder.ACC.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lokáṁ</div>\n\t\t<div class=\"glossblock\">world.ACC.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">prétya</div>\n\t\t<div class=\"glossblock\">depart.GER</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaścit</div>\n\t\t<div class=\"glossblock\">anyone</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sámaśnutā3i</div>\n\t\t<div class=\"glossblock\">reach.PRES.3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">/</div>\n\t\t<div class=\"glossblock\">/</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -1967,6 +1775,7 @@
     {
         "ID": "glossa4970-41",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -1978,6 +1787,8 @@
         "citation": "slade:18[27]",
         "clength": 35,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -2008,6 +1819,28 @@
     {
         "ID": "glossa4970-42",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "indo1320",
+                "label": "Indo-Iranian"
+            },
+            {
+                "id": "indo1321",
+                "label": "Indo-Aryan"
+            },
+            {
+                "id": "sans1269",
+                "label": "Sanskrit"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "GEN",
@@ -2018,6 +1851,8 @@
         "citation": "speijer:86[§415];slade:18[via:28]",
         "clength": 63,
         "coordination": "or",
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -2054,19 +1889,66 @@
     {
         "ID": "glossa4970-43",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "indo1320",
+                "label": "Indo-Iranian"
+            },
+            {
+                "id": "indo1321",
+                "label": "Indo-Aryan"
+            },
+            {
+                "id": "midd1375",
+                "label": "Middle-Modern Indo-Aryan"
+            },
+            {
+                "id": "cont1248",
+                "label": "Continental Indo-Aryan"
+            },
+            {
+                "id": "midl1245",
+                "label": "Midlands Indo-Aryan"
+            },
+            {
+                "id": "shau1239",
+                "label": "Shaurasenic"
+            },
+            {
+                "id": "biha1245",
+                "label": "Bihari"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "slade:18[29]",
         "clength": 54,
         "coordination": "or",
-        "doc_ID": 4970,
-        "doc_URL": "https://www.glossa-journal.org/article/id/4970",
-        "entities": [
+        "coords": [
+            82.251,
+            24.5271
+        ],
+        "countries": [
             {
-                "label": "conjecture",
-                "wdid": "Q319141"
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "MM",
+                "label": "Myanmar"
             }
         ],
+        "doc_ID": 4970,
+        "doc_URL": "https://www.glossa-journal.org/article/id/4970",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Saccāni</div>\n\t\t<div class=\"glossblock\">truths</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sutāni</div>\n\t\t<div class=\"glossblock\">heard</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bahuni</div>\n\t\t<div class=\"glossblock\">many</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nānā</div>\n\t\t<div class=\"glossblock\">various</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">udāhu</div>\n\t\t<div class=\"glossblock\">udāhu</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">te</div>\n\t\t<div class=\"glossblock\">they</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">takkamanussaranti.</div>\n\t\t<div class=\"glossblock\">follow conjecture</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "truths",
@@ -2100,6 +1982,7 @@
         "abbrkey": {
             "A": "‘neutral’ verbal suffix"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -2107,6 +1990,8 @@
         ],
         "citation": "slade:18[30a]",
         "clength": 18,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -2135,6 +2020,7 @@
         "abbrkey": {
             "E": "non-‘focus’-associated verbal suffix"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "C",
@@ -2142,6 +2028,8 @@
         ],
         "citation": "slade:18[30b]",
         "clength": 33,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -2178,6 +2066,7 @@
             "E": "non-‘focus’-associated verbal suffix",
             "PAST": "past tense"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -2187,6 +2076,8 @@
         ],
         "citation": "slade:18[31b]",
         "clength": 31,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -2219,6 +2110,7 @@
     {
         "ID": "glossa4970-47",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -2226,14 +2118,11 @@
         ],
         "citation": "slade:18[32a]",
         "clength": 24,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
-        "entities": [
-            {
-                "label": "Chitra",
-                "wdid": "Q2049950"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Chitra</div>\n\t\t<div class=\"glossblock\">Chitra</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ē</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">potə</div>\n\t\t<div class=\"glossblock\">book</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kieuwa</div>\n\t\t<div class=\"glossblock\">read-A</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">də?</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Chitra",
@@ -2261,6 +2150,7 @@
     {
         "ID": "glossa4970-48",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "C",
@@ -2268,14 +2158,11 @@
         ],
         "citation": "slade:18[32b]",
         "clength": 24,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
-        "entities": [
-            {
-                "label": "Chitra",
-                "wdid": "Q2049950"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Chitra</div>\n\t\t<div class=\"glossblock\">Chitra</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ē</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">potə</div>\n\t\t<div class=\"glossblock\">book</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">də</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kieuwe?</div>\n\t\t<div class=\"glossblock\">read-E</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Chitra",
@@ -2303,6 +2190,7 @@
     {
         "ID": "glossa4970-49",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "C",
@@ -2314,14 +2202,11 @@
         "citation": "slade:18[33]",
         "clength": 34,
         "coordination": "or",
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
-        "entities": [
-            {
-                "label": "Chitra",
-                "wdid": "Q2049950"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gunəpālə</div>\n\t\t<div class=\"glossblock\">Gunapala</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">də</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Chitra</div>\n\t\t<div class=\"glossblock\">Chitra</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">də</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gaməṭə</div>\n\t\t<div class=\"glossblock\">village.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">giyē?</div>\n\t\t<div class=\"glossblock\">go.PAST.E</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Gunapala",
@@ -2351,6 +2236,7 @@
     {
         "ID": "glossa4970-50",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -2358,6 +2244,8 @@
         ],
         "citation": "slade:18[34]",
         "clength": 21,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -2388,6 +2276,7 @@
     {
         "ID": "glossa4970-51",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -2399,14 +2288,11 @@
         "citation": "slade:18[35]",
         "clength": 38,
         "coordination": "or",
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
-        "entities": [
-            {
-                "label": "Chitra",
-                "wdid": "Q2049950"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gunəpālə</div>\n\t\t<div class=\"glossblock\">Gunapala</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hari</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Chitra</div>\n\t\t<div class=\"glossblock\">Chitra</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hari</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gaməṭə</div>\n\t\t<div class=\"glossblock\">village.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">giyā.</div>\n\t\t<div class=\"glossblock\">go.PAST.A</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Gunapala",
@@ -2436,6 +2322,7 @@
     {
         "ID": "glossa4970-52",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -2447,6 +2334,8 @@
         "citation": "slade:18[36]",
         "clength": 33,
         "coordination": "or",
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -2479,6 +2368,7 @@
     {
         "ID": "glossa4970-53",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -2486,6 +2376,8 @@
         ],
         "citation": "slade:18[37]",
         "clength": 25,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -2516,6 +2408,7 @@
     {
         "ID": "glossa4970-54",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -2526,6 +2419,8 @@
         ],
         "citation": "slade:18[38]",
         "clength": 32,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -2556,6 +2451,7 @@
     {
         "ID": "glossa4970-55",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "C",
@@ -2567,14 +2463,11 @@
         ],
         "citation": "slade:18[39a]",
         "clength": 40,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
-        "entities": [
-            {
-                "label": "Chitra",
-                "wdid": "Q2049950"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gunəpālə</div>\n\t\t<div class=\"glossblock\">Gunapala</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vat</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Chitra</div>\n\t\t<div class=\"glossblock\">Chitra</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vat</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gaməṭə</div>\n\t\t<div class=\"glossblock\">village.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">giyē</div>\n\t\t<div class=\"glossblock\">go.PAST.E′</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nǣ.</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Gunapala",
@@ -2606,6 +2499,7 @@
     {
         "ID": "glossa4970-56",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "E",
@@ -2614,6 +2508,8 @@
         ],
         "citation": "slade:18[39b]",
         "clength": 28,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -2650,6 +2546,52 @@
             "MSC": "masculine, MCS = Modern Colloquial Sinhala, MLS = Modern Literary Sinhala",
             "PAST": "past tense"
         },
+        "ancestors": [
+            {
+                "id": "drav1251",
+                "label": "Dravidian"
+            },
+            {
+                "id": "sout3133",
+                "label": "South Dravidian"
+            },
+            {
+                "id": "sout3138",
+                "label": "South Dravidian I"
+            },
+            {
+                "id": "tami1291",
+                "label": "Tamil-Kannada"
+            },
+            {
+                "id": "tami1292",
+                "label": "Tamil-Kota"
+            },
+            {
+                "id": "tami1293",
+                "label": "Tamil-Toda"
+            },
+            {
+                "id": "tami1294",
+                "label": "Tamil-Irula"
+            },
+            {
+                "id": "tami1297",
+                "label": "Tamil-Kodagu"
+            },
+            {
+                "id": "tami1298",
+                "label": "Tamil-Malayalam"
+            },
+            {
+                "id": "tami1299",
+                "label": "Tamiloid"
+            },
+            {
+                "id": "tami1300",
+                "label": "Tamil-Paliyan"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "K",
@@ -2659,6 +2601,20 @@
         ],
         "citation": "lehmann:89[367];slade:18[via:40a]",
         "clength": 27,
+        "coords": [
+            78.825989,
+            10.520219
+        ],
+        "countries": [
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "LK",
+                "label": "Sri Lanka"
+            }
+        ],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -2690,6 +2646,52 @@
             "NOM": "nominative",
             "PAST": "past tense"
         },
+        "ancestors": [
+            {
+                "id": "drav1251",
+                "label": "Dravidian"
+            },
+            {
+                "id": "sout3133",
+                "label": "South Dravidian"
+            },
+            {
+                "id": "sout3138",
+                "label": "South Dravidian I"
+            },
+            {
+                "id": "tami1291",
+                "label": "Tamil-Kannada"
+            },
+            {
+                "id": "tami1292",
+                "label": "Tamil-Kota"
+            },
+            {
+                "id": "tami1293",
+                "label": "Tamil-Toda"
+            },
+            {
+                "id": "tami1294",
+                "label": "Tamil-Irula"
+            },
+            {
+                "id": "tami1297",
+                "label": "Tamil-Kodagu"
+            },
+            {
+                "id": "tami1298",
+                "label": "Tamil-Malayalam"
+            },
+            {
+                "id": "tami1299",
+                "label": "Tamiloid"
+            },
+            {
+                "id": "tami1300",
+                "label": "Tamil-Paliyan"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "K",
@@ -2698,6 +2700,20 @@
         ],
         "citation": "lehmann:89[367];slade:18[via:40b]",
         "clength": 34,
+        "coords": [
+            78.825989,
+            10.520219
+        ],
+        "countries": [
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "LK",
+                "label": "Sri Lanka"
+            }
+        ],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -2729,6 +2745,52 @@
             "NOM": "nominative",
             "PAST": "past tense"
         },
+        "ancestors": [
+            {
+                "id": "drav1251",
+                "label": "Dravidian"
+            },
+            {
+                "id": "sout3133",
+                "label": "South Dravidian"
+            },
+            {
+                "id": "sout3138",
+                "label": "South Dravidian I"
+            },
+            {
+                "id": "tami1291",
+                "label": "Tamil-Kannada"
+            },
+            {
+                "id": "tami1292",
+                "label": "Tamil-Kota"
+            },
+            {
+                "id": "tami1293",
+                "label": "Tamil-Toda"
+            },
+            {
+                "id": "tami1294",
+                "label": "Tamil-Irula"
+            },
+            {
+                "id": "tami1297",
+                "label": "Tamil-Kodagu"
+            },
+            {
+                "id": "tami1298",
+                "label": "Tamil-Malayalam"
+            },
+            {
+                "id": "tami1299",
+                "label": "Tamiloid"
+            },
+            {
+                "id": "tami1300",
+                "label": "Tamil-Paliyan"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "K",
@@ -2737,6 +2799,20 @@
         ],
         "citation": "lehmann:89[367];slade:18[via:41]",
         "clength": 34,
+        "coords": [
+            78.825989,
+            10.520219
+        ],
+        "countries": [
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "LK",
+                "label": "Sri Lanka"
+            }
+        ],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -2765,6 +2841,52 @@
     {
         "ID": "glossa4970-60",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "drav1251",
+                "label": "Dravidian"
+            },
+            {
+                "id": "sout3133",
+                "label": "South Dravidian"
+            },
+            {
+                "id": "sout3138",
+                "label": "South Dravidian I"
+            },
+            {
+                "id": "tami1291",
+                "label": "Tamil-Kannada"
+            },
+            {
+                "id": "tami1292",
+                "label": "Tamil-Kota"
+            },
+            {
+                "id": "tami1293",
+                "label": "Tamil-Toda"
+            },
+            {
+                "id": "tami1294",
+                "label": "Tamil-Irula"
+            },
+            {
+                "id": "tami1297",
+                "label": "Tamil-Kodagu"
+            },
+            {
+                "id": "tami1298",
+                "label": "Tamil-Malayalam"
+            },
+            {
+                "id": "tami1299",
+                "label": "Tamiloid"
+            },
+            {
+                "id": "tami1300",
+                "label": "Tamil-Paliyan"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "K",
@@ -2776,14 +2898,23 @@
         ],
         "citation": "lehmann:89[370];slade:18[via:42]",
         "clength": 30,
-        "doc_ID": 4970,
-        "doc_URL": "https://www.glossa-journal.org/article/id/4970",
-        "entities": [
+        "coords": [
+            78.825989,
+            10.520219
+        ],
+        "countries": [
             {
-                "label": "Madurai",
-                "wdid": "Q228405"
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "LK",
+                "label": "Sri Lanka"
             }
         ],
+        "doc_ID": 4970,
+        "doc_URL": "https://www.glossa-journal.org/article/id/4970",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kumār</div>\n\t\t<div class=\"glossblock\">Kumar</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Maturaiyil-ā</div>\n\t\t<div class=\"glossblock\">Madurai.LOC-Q</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">piṟantatu.</div>\n\t\t<div class=\"glossblock\">be-born.PAST.NOM</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Kumar",
@@ -2807,6 +2938,52 @@
     {
         "ID": "glossa4970-61",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "drav1251",
+                "label": "Dravidian"
+            },
+            {
+                "id": "sout3133",
+                "label": "South Dravidian"
+            },
+            {
+                "id": "sout3138",
+                "label": "South Dravidian I"
+            },
+            {
+                "id": "tami1291",
+                "label": "Tamil-Kannada"
+            },
+            {
+                "id": "tami1292",
+                "label": "Tamil-Kota"
+            },
+            {
+                "id": "tami1293",
+                "label": "Tamil-Toda"
+            },
+            {
+                "id": "tami1294",
+                "label": "Tamil-Irula"
+            },
+            {
+                "id": "tami1297",
+                "label": "Tamil-Kodagu"
+            },
+            {
+                "id": "tami1298",
+                "label": "Tamil-Malayalam"
+            },
+            {
+                "id": "tami1299",
+                "label": "Tamiloid"
+            },
+            {
+                "id": "tami1300",
+                "label": "Tamil-Paliyan"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -2817,6 +2994,20 @@
         ],
         "citation": "lehmann:89[232];slade:18[via:43]",
         "clength": 37,
+        "coords": [
+            78.825989,
+            10.520219
+        ],
+        "countries": [
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "LK",
+                "label": "Sri Lanka"
+            }
+        ],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -2845,6 +3036,52 @@
     {
         "ID": "glossa4970-62",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "drav1251",
+                "label": "Dravidian"
+            },
+            {
+                "id": "sout3133",
+                "label": "South Dravidian"
+            },
+            {
+                "id": "sout3138",
+                "label": "South Dravidian I"
+            },
+            {
+                "id": "tami1291",
+                "label": "Tamil-Kannada"
+            },
+            {
+                "id": "tami1292",
+                "label": "Tamil-Kota"
+            },
+            {
+                "id": "tami1293",
+                "label": "Tamil-Toda"
+            },
+            {
+                "id": "tami1294",
+                "label": "Tamil-Irula"
+            },
+            {
+                "id": "tami1297",
+                "label": "Tamil-Kodagu"
+            },
+            {
+                "id": "tami1298",
+                "label": "Tamil-Malayalam"
+            },
+            {
+                "id": "tami1299",
+                "label": "Tamiloid"
+            },
+            {
+                "id": "tami1300",
+                "label": "Tamil-Paliyan"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "PAST",
@@ -2852,6 +3089,20 @@
         ],
         "citation": "lehmann:89[234];slade:18[via:44]",
         "clength": 22,
+        "coords": [
+            78.825989,
+            10.520219
+        ],
+        "countries": [
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "LK",
+                "label": "Sri Lanka"
+            }
+        ],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -2878,6 +3129,48 @@
     {
         "ID": "glossa4970-63",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "drav1251",
+                "label": "Dravidian"
+            },
+            {
+                "id": "sout3133",
+                "label": "South Dravidian"
+            },
+            {
+                "id": "sout3138",
+                "label": "South Dravidian I"
+            },
+            {
+                "id": "tami1291",
+                "label": "Tamil-Kannada"
+            },
+            {
+                "id": "tami1292",
+                "label": "Tamil-Kota"
+            },
+            {
+                "id": "tami1293",
+                "label": "Tamil-Toda"
+            },
+            {
+                "id": "tami1294",
+                "label": "Tamil-Irula"
+            },
+            {
+                "id": "tami1297",
+                "label": "Tamil-Kodagu"
+            },
+            {
+                "id": "tami1298",
+                "label": "Tamil-Malayalam"
+            },
+            {
+                "id": "mala1541",
+                "label": "Malayalamoid"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -2885,6 +3178,16 @@
         ],
         "citation": "jayaseelan:04[7];slade:18[via:45]",
         "clength": 34,
+        "coords": [
+            76.7651,
+            9.59208
+        ],
+        "countries": [
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            }
+        ],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -2915,6 +3218,7 @@
     {
         "ID": "glossa4970-64",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "FUT",
@@ -2925,14 +3229,11 @@
         "citation": "lehmann:89[156];slade:18[via:46a]",
         "clength": 31,
         "coordination": "or",
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
-        "entities": [
-            {
-                "label": "Raja",
-                "wdid": "Q684172"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kumār-ō</div>\n\t\t<div class=\"glossblock\">Kumar-</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Rājā-v-ō</div>\n\t\t<div class=\"glossblock\">Raja-</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">varu-v-ārkaḷ</div>\n\t\t<div class=\"glossblock\">come.FUT.3PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Kumar-",
@@ -2956,6 +3257,7 @@
     {
         "ID": "glossa4970-65",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -2964,6 +3266,8 @@
         ],
         "citation": "lehmann:89[156];lehmann:89[155];slade:18[via:46b]",
         "clength": 39,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -2992,12 +3296,64 @@
     {
         "ID": "glossa4970-66",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "drav1251",
+                "label": "Dravidian"
+            },
+            {
+                "id": "sout3133",
+                "label": "South Dravidian"
+            },
+            {
+                "id": "sout3138",
+                "label": "South Dravidian I"
+            },
+            {
+                "id": "tami1291",
+                "label": "Tamil-Kannada"
+            },
+            {
+                "id": "tami1292",
+                "label": "Tamil-Kota"
+            },
+            {
+                "id": "tami1293",
+                "label": "Tamil-Toda"
+            },
+            {
+                "id": "tami1294",
+                "label": "Tamil-Irula"
+            },
+            {
+                "id": "tami1297",
+                "label": "Tamil-Kodagu"
+            },
+            {
+                "id": "tami1298",
+                "label": "Tamil-Malayalam"
+            },
+            {
+                "id": "mala1541",
+                "label": "Malayalamoid"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "J"
         ],
         "citation": "jayaseelan:01:2[67];slade:18[via:47]",
         "clength": 17,
+        "coords": [
+            76.7651,
+            9.59208
+        ],
+        "countries": [
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            }
+        ],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -3025,6 +3381,7 @@
             "DAT": "dative",
             "RELATIVISER": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "DAT",
@@ -3032,6 +3389,8 @@
         ],
         "citation": "narayanapilla:ed:71[21];slade:18[via:48]",
         "clength": 44,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -3060,6 +3419,16 @@
     {
         "ID": "glossa4970-68",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "east2386",
+                "label": "Eastern Jebel"
+            },
+            {
+                "id": "akak1254",
+                "label": "Aka-Kelo-Molo"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "I",
@@ -3068,6 +3437,16 @@
         ],
         "citation": "lehmann:98[91];slade:18[via:49a]",
         "clength": 18,
+        "coords": [
+            33.6524,
+            11.2101
+        ],
+        "countries": [
+            {
+                "ISO3166": "SD",
+                "label": "Sudan"
+            }
+        ],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -3094,6 +3473,7 @@
     {
         "ID": "glossa4970-69",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "NPST",
@@ -3101,6 +3481,8 @@
         ],
         "citation": "lehmann:98[91];slade:18[via:49b]",
         "clength": 33,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -3133,6 +3515,48 @@
     {
         "ID": "glossa4970-70",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "drav1251",
+                "label": "Dravidian"
+            },
+            {
+                "id": "sout3133",
+                "label": "South Dravidian"
+            },
+            {
+                "id": "sout3138",
+                "label": "South Dravidian I"
+            },
+            {
+                "id": "tami1291",
+                "label": "Tamil-Kannada"
+            },
+            {
+                "id": "tami1292",
+                "label": "Tamil-Kota"
+            },
+            {
+                "id": "tami1293",
+                "label": "Tamil-Toda"
+            },
+            {
+                "id": "tami1294",
+                "label": "Tamil-Irula"
+            },
+            {
+                "id": "tami1297",
+                "label": "Tamil-Kodagu"
+            },
+            {
+                "id": "tami1298",
+                "label": "Tamil-Malayalam"
+            },
+            {
+                "id": "mala1541",
+                "label": "Malayalamoid"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -3144,6 +3568,16 @@
         ],
         "citation": "asher:kumari:97[181–2];slade:18[via:50]",
         "clength": 55,
+        "coords": [
+            76.7651,
+            9.59208
+        ],
+        "countries": [
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            }
+        ],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -3176,6 +3610,7 @@
     {
         "ID": "glossa4970-71",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "DAT",
@@ -3188,6 +3623,8 @@
         ],
         "citation": "slade:18[51]",
         "clength": 48,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -3232,6 +3669,7 @@
             "E": "non-‘focus’-associated verbal suffix",
             "NO": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "E",
@@ -3241,6 +3679,8 @@
         ],
         "citation": "slade:18[54a]",
         "clength": 34,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -3279,6 +3719,32 @@
             "PAST": "past tense",
             "PTCP": "participle, Q = question marker"
         },
+        "ancestors": [
+            {
+                "id": "nakh1245",
+                "label": "Nakh-Daghestanian"
+            },
+            {
+                "id": "dagh1238",
+                "label": "Daghestanian"
+            },
+            {
+                "id": "lezg1248",
+                "label": "Lezgic"
+            },
+            {
+                "id": "nucl1321",
+                "label": "Samur"
+            },
+            {
+                "id": "east2790",
+                "label": "Eastern Samur"
+            },
+            {
+                "id": "udia1235",
+                "label": "Udi-Aghwan"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DAT",
@@ -3288,78 +3754,27 @@
         ],
         "citation": "harris:campbell:95[311];slade:18[via:55]",
         "clength": 25,
-        "doc_ID": 4970,
-        "doc_URL": "https://www.glossa-journal.org/article/id/4970",
-        "entities": [
+        "coords": [
+            47.7236,
+            40.9
+        ],
+        "countries": [
             {
-                "label": "danced",
-                "wdid": "Q11639"
+                "ISO3166": "AZ",
+                "label": "Azerbaijan"
             },
             {
-                "label": "dancing girl",
-                "wdid": "Q182863"
+                "ISO3166": "GE",
+                "label": "Georgia"
             },
             {
-                "label": "memory",
-                "wdid": "Q104127086"
-            },
-            {
-                "label": "intellectual work",
-                "wdid": "Q15621286"
-            },
-            {
-                "label": "artificial object",
-                "wdid": "Q16686448"
-            },
-            {
-                "label": "phenomenon",
-                "wdid": "Q16722960"
-            },
-            {
-                "label": "creative work",
-                "wdid": "Q17537576"
-            },
-            {
-                "label": "active motion",
-                "wdid": "Q17988854"
-            },
-            {
-                "label": "Performing_arts",
-                "wdid": "Q184485"
-            },
-            {
-                "label": "recreation",
-                "wdid": "Q184872"
-            },
-            {
-                "label": "arts",
-                "wdid": "Q2018526"
-            },
-            {
-                "label": "human activity",
-                "wdid": "Q61788060"
-            },
-            {
-                "label": "motion",
-                "wdid": "Q6666023"
-            },
-            {
-                "label": "Art",
-                "wdid": "Q735"
-            },
-            {
-                "label": "physical activity",
-                "wdid": "Q747883"
-            },
-            {
-                "label": "humanities",
-                "wdid": "Q80083"
-            },
-            {
-                "label": "Knowledge",
-                "wdid": "Q9081"
+                "ISO3166": "RU",
+                "label": "Russian Federation"
             }
         ],
+        "doc_ID": 4970,
+        "doc_URL": "https://www.glossa-journal.org/article/id/4970",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Azak’e</div>\n\t\t<div class=\"glossblock\">I.saw</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xinär-ax</div>\n\t\t<div class=\"glossblock\">girl-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gölöšp-i.</div>\n\t\t<div class=\"glossblock\">dance-PAST.PTCP</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I.saw",
@@ -3370,68 +3785,7 @@
         "language_iso6393": "udi",
         "language_name": "Udi",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "memory",
-                "wdid": "Q104127086"
-            },
-            {
-                "label": "intellectual work",
-                "wdid": "Q15621286"
-            },
-            {
-                "label": "artificial object",
-                "wdid": "Q16686448"
-            },
-            {
-                "label": "phenomenon",
-                "wdid": "Q16722960"
-            },
-            {
-                "label": "creative work",
-                "wdid": "Q17537576"
-            },
-            {
-                "label": "active motion",
-                "wdid": "Q17988854"
-            },
-            {
-                "label": "Performing_arts",
-                "wdid": "Q184485"
-            },
-            {
-                "label": "recreation",
-                "wdid": "Q184872"
-            },
-            {
-                "label": "arts",
-                "wdid": "Q2018526"
-            },
-            {
-                "label": "human activity",
-                "wdid": "Q61788060"
-            },
-            {
-                "label": "motion",
-                "wdid": "Q6666023"
-            },
-            {
-                "label": "Art",
-                "wdid": "Q735"
-            },
-            {
-                "label": "physical activity",
-                "wdid": "Q747883"
-            },
-            {
-                "label": "humanities",
-                "wdid": "Q80083"
-            },
-            {
-                "label": "Knowledge",
-                "wdid": "Q9081"
-            }
-        ],
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Azak’e",
@@ -3444,6 +3798,52 @@
     {
         "ID": "glossa4970-74",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "indo1320",
+                "label": "Indo-Iranian"
+            },
+            {
+                "id": "indo1321",
+                "label": "Indo-Aryan"
+            },
+            {
+                "id": "midd1375",
+                "label": "Middle-Modern Indo-Aryan"
+            },
+            {
+                "id": "cont1248",
+                "label": "Continental Indo-Aryan"
+            },
+            {
+                "id": "midl1245",
+                "label": "Midlands Indo-Aryan"
+            },
+            {
+                "id": "shau1239",
+                "label": "Shaurasenic"
+            },
+            {
+                "id": "indo1322",
+                "label": "Indo-Aryan Central zone"
+            },
+            {
+                "id": "west2812",
+                "label": "Western Hindi"
+            },
+            {
+                "id": "hind1270",
+                "label": "Hindustani"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "MSC",
@@ -3453,6 +3853,28 @@
         ],
         "citation": "sharma:99;slade:18[via:ia]",
         "clength": 37,
+        "coords": [
+            77.0,
+            25.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "BD",
+                "label": "Bangladesh"
+            },
+            {
+                "ISO3166": "BT",
+                "label": "Bhutan"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "NP",
+                "label": "Nepal"
+            }
+        ],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -3485,6 +3907,52 @@
     {
         "ID": "glossa4970-75",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "indo1320",
+                "label": "Indo-Iranian"
+            },
+            {
+                "id": "indo1321",
+                "label": "Indo-Aryan"
+            },
+            {
+                "id": "midd1375",
+                "label": "Middle-Modern Indo-Aryan"
+            },
+            {
+                "id": "cont1248",
+                "label": "Continental Indo-Aryan"
+            },
+            {
+                "id": "midl1245",
+                "label": "Midlands Indo-Aryan"
+            },
+            {
+                "id": "shau1239",
+                "label": "Shaurasenic"
+            },
+            {
+                "id": "indo1322",
+                "label": "Indo-Aryan Central zone"
+            },
+            {
+                "id": "west2812",
+                "label": "Western Hindi"
+            },
+            {
+                "id": "hind1270",
+                "label": "Hindustani"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "MSC",
@@ -3494,6 +3962,28 @@
         ],
         "citation": "sharma:99;slade:18[via:ib]",
         "clength": 37,
+        "coords": [
+            77.0,
+            25.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "BD",
+                "label": "Bangladesh"
+            },
+            {
+                "ISO3166": "BT",
+                "label": "Bhutan"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "NP",
+                "label": "Nepal"
+            }
+        ],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -3526,6 +4016,52 @@
     {
         "ID": "glossa4970-76",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "indo1320",
+                "label": "Indo-Iranian"
+            },
+            {
+                "id": "indo1321",
+                "label": "Indo-Aryan"
+            },
+            {
+                "id": "midd1375",
+                "label": "Middle-Modern Indo-Aryan"
+            },
+            {
+                "id": "cont1248",
+                "label": "Continental Indo-Aryan"
+            },
+            {
+                "id": "midl1245",
+                "label": "Midlands Indo-Aryan"
+            },
+            {
+                "id": "shau1239",
+                "label": "Shaurasenic"
+            },
+            {
+                "id": "indo1322",
+                "label": "Indo-Aryan Central zone"
+            },
+            {
+                "id": "west2812",
+                "label": "Western Hindi"
+            },
+            {
+                "id": "hind1270",
+                "label": "Hindustani"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "MSC",
@@ -3535,6 +4071,28 @@
         ],
         "citation": "sharma:99;slade:18[via:ic]",
         "clength": 41,
+        "coords": [
+            77.0,
+            25.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "BD",
+                "label": "Bangladesh"
+            },
+            {
+                "ISO3166": "BT",
+                "label": "Bhutan"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "NP",
+                "label": "Nepal"
+            }
+        ],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -3567,6 +4125,7 @@
     {
         "ID": "glossa4970-77",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "NOM",
@@ -3574,6 +4133,8 @@
         ],
         "citation": "slade:18[i]",
         "clength": 18,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -3603,6 +4164,7 @@
             "3SG": "third person singular",
             "ACC": "accusative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -3612,42 +4174,11 @@
         ],
         "citation": "paolillo:94[161];slade:18[via:i]",
         "clength": 35,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
-        "entities": [
-            {
-                "label": "giving alms",
-                "wdid": "Q931406"
-            },
-            {
-                "label": "Donation",
-                "wdid": "Q1124860"
-            },
-            {
-                "label": "occupation",
-                "wdid": "Q12737077"
-            },
-            {
-                "label": "social position",
-                "wdid": "Q1807498"
-            },
-            {
-                "label": "role",
-                "wdid": "Q214339"
-            },
-            {
-                "label": "role",
-                "wdid": "Q4897819"
-            },
-            {
-                "label": "human activity",
-                "wdid": "Q61788060"
-            },
-            {
-                "label": "economic activity",
-                "wdid": "Q8187769"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[ Ovun</div>\n\t\t<div class=\"glossblock\">[ they.ACC?/GEN?</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">san̆dahā</div>\n\t\t<div class=\"glossblock\">for</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">]ᶠ</div>\n\t\t<div class=\"glossblock\">]ᶠ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yæ</div>\n\t\t<div class=\"glossblock\">3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mā</div>\n\t\t<div class=\"glossblock\">I.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dan</div>\n\t\t<div class=\"glossblock\">alms</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">denne.</div>\n\t\t<div class=\"glossblock\">give.</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "[ they.ACC?/GEN?",
@@ -3662,36 +4193,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "Donation",
-                "wdid": "Q1124860"
-            },
-            {
-                "label": "occupation",
-                "wdid": "Q12737077"
-            },
-            {
-                "label": "social position",
-                "wdid": "Q1807498"
-            },
-            {
-                "label": "role",
-                "wdid": "Q214339"
-            },
-            {
-                "label": "role",
-                "wdid": "Q4897819"
-            },
-            {
-                "label": "human activity",
-                "wdid": "Q61788060"
-            },
-            {
-                "label": "economic activity",
-                "wdid": "Q8187769"
-            }
-        ],
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "[ Ovun",
@@ -3708,6 +4210,7 @@
     {
         "ID": "glossa4970-79",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "D",
@@ -3717,6 +4220,8 @@
         ],
         "citation": "slade:18[ii]",
         "clength": 37,
+        "coords": [],
+        "countries": [],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -3745,6 +4250,48 @@
     {
         "ID": "glossa4970-80",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "drav1251",
+                "label": "Dravidian"
+            },
+            {
+                "id": "sout3133",
+                "label": "South Dravidian"
+            },
+            {
+                "id": "sout3138",
+                "label": "South Dravidian I"
+            },
+            {
+                "id": "tami1291",
+                "label": "Tamil-Kannada"
+            },
+            {
+                "id": "tami1292",
+                "label": "Tamil-Kota"
+            },
+            {
+                "id": "tami1293",
+                "label": "Tamil-Toda"
+            },
+            {
+                "id": "tami1294",
+                "label": "Tamil-Irula"
+            },
+            {
+                "id": "tami1297",
+                "label": "Tamil-Kodagu"
+            },
+            {
+                "id": "tami1298",
+                "label": "Tamil-Malayalam"
+            },
+            {
+                "id": "mala1541",
+                "label": "Malayalamoid"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -3752,6 +4299,16 @@
         ],
         "citation": "jayaseelan:04[7];slade:18[via:ia]",
         "clength": 19,
+        "coords": [
+            76.7651,
+            9.59208
+        ],
+        "countries": [
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            }
+        ],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -3778,6 +4335,48 @@
     {
         "ID": "glossa4970-81",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "drav1251",
+                "label": "Dravidian"
+            },
+            {
+                "id": "sout3133",
+                "label": "South Dravidian"
+            },
+            {
+                "id": "sout3138",
+                "label": "South Dravidian I"
+            },
+            {
+                "id": "tami1291",
+                "label": "Tamil-Kannada"
+            },
+            {
+                "id": "tami1292",
+                "label": "Tamil-Kota"
+            },
+            {
+                "id": "tami1293",
+                "label": "Tamil-Toda"
+            },
+            {
+                "id": "tami1294",
+                "label": "Tamil-Irula"
+            },
+            {
+                "id": "tami1297",
+                "label": "Tamil-Kodagu"
+            },
+            {
+                "id": "tami1298",
+                "label": "Tamil-Malayalam"
+            },
+            {
+                "id": "mala1541",
+                "label": "Malayalamoid"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -3785,6 +4384,16 @@
         ],
         "citation": "jayaseelan:04[7];slade:18[via:ib]",
         "clength": 20,
+        "coords": [
+            76.7651,
+            9.59208
+        ],
+        "countries": [
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            }
+        ],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -3811,6 +4420,48 @@
     {
         "ID": "glossa4970-82",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "drav1251",
+                "label": "Dravidian"
+            },
+            {
+                "id": "sout3133",
+                "label": "South Dravidian"
+            },
+            {
+                "id": "sout3138",
+                "label": "South Dravidian I"
+            },
+            {
+                "id": "tami1291",
+                "label": "Tamil-Kannada"
+            },
+            {
+                "id": "tami1292",
+                "label": "Tamil-Kota"
+            },
+            {
+                "id": "tami1293",
+                "label": "Tamil-Toda"
+            },
+            {
+                "id": "tami1294",
+                "label": "Tamil-Irula"
+            },
+            {
+                "id": "tami1297",
+                "label": "Tamil-Kodagu"
+            },
+            {
+                "id": "tami1298",
+                "label": "Tamil-Malayalam"
+            },
+            {
+                "id": "mala1541",
+                "label": "Malayalamoid"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -3820,6 +4471,16 @@
         ],
         "citation": "slade:18[iia]",
         "clength": 30,
+        "coords": [
+            76.7651,
+            9.59208
+        ],
+        "countries": [
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            }
+        ],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -3848,6 +4509,48 @@
     {
         "ID": "glossa4970-83",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "drav1251",
+                "label": "Dravidian"
+            },
+            {
+                "id": "sout3133",
+                "label": "South Dravidian"
+            },
+            {
+                "id": "sout3138",
+                "label": "South Dravidian I"
+            },
+            {
+                "id": "tami1291",
+                "label": "Tamil-Kannada"
+            },
+            {
+                "id": "tami1292",
+                "label": "Tamil-Kota"
+            },
+            {
+                "id": "tami1293",
+                "label": "Tamil-Toda"
+            },
+            {
+                "id": "tami1294",
+                "label": "Tamil-Irula"
+            },
+            {
+                "id": "tami1297",
+                "label": "Tamil-Kodagu"
+            },
+            {
+                "id": "tami1298",
+                "label": "Tamil-Malayalam"
+            },
+            {
+                "id": "mala1541",
+                "label": "Malayalamoid"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -3857,6 +4560,16 @@
         ],
         "citation": "slade:18[iib]",
         "clength": 30,
+        "coords": [
+            76.7651,
+            9.59208
+        ],
+        "countries": [
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            }
+        ],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -3885,6 +4598,48 @@
     {
         "ID": "glossa4970-84",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "drav1251",
+                "label": "Dravidian"
+            },
+            {
+                "id": "sout3133",
+                "label": "South Dravidian"
+            },
+            {
+                "id": "sout3138",
+                "label": "South Dravidian I"
+            },
+            {
+                "id": "tami1291",
+                "label": "Tamil-Kannada"
+            },
+            {
+                "id": "tami1292",
+                "label": "Tamil-Kota"
+            },
+            {
+                "id": "tami1293",
+                "label": "Tamil-Toda"
+            },
+            {
+                "id": "tami1294",
+                "label": "Tamil-Irula"
+            },
+            {
+                "id": "tami1297",
+                "label": "Tamil-Kodagu"
+            },
+            {
+                "id": "tami1298",
+                "label": "Tamil-Malayalam"
+            },
+            {
+                "id": "mala1541",
+                "label": "Malayalamoid"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -3894,6 +4649,16 @@
         ],
         "citation": "slade:18[iic]",
         "clength": 30,
+        "coords": [
+            76.7651,
+            9.59208
+        ],
+        "countries": [
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            }
+        ],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],
@@ -3922,6 +4687,48 @@
     {
         "ID": "glossa4970-85",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "drav1251",
+                "label": "Dravidian"
+            },
+            {
+                "id": "sout3133",
+                "label": "South Dravidian"
+            },
+            {
+                "id": "sout3138",
+                "label": "South Dravidian I"
+            },
+            {
+                "id": "tami1291",
+                "label": "Tamil-Kannada"
+            },
+            {
+                "id": "tami1292",
+                "label": "Tamil-Kota"
+            },
+            {
+                "id": "tami1293",
+                "label": "Tamil-Toda"
+            },
+            {
+                "id": "tami1294",
+                "label": "Tamil-Irula"
+            },
+            {
+                "id": "tami1297",
+                "label": "Tamil-Kodagu"
+            },
+            {
+                "id": "tami1298",
+                "label": "Tamil-Malayalam"
+            },
+            {
+                "id": "tami1299",
+                "label": "Tamiloid"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "EUPH",
@@ -3933,6 +4740,16 @@
         "citation": "slade:18[i]",
         "clength": 44,
         "coordination": "or",
+        "coords": [
+            78.0,
+            11.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            }
+        ],
         "doc_ID": 4970,
         "doc_URL": "https://www.glossa-journal.org/article/id/4970",
         "entities": [],

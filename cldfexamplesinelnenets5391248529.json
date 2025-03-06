@@ -2,6 +2,20 @@
     {
         "ID": "inelnenets5391248529(0, 2)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "FRQ",
@@ -26,11 +40,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "dʼuti-ɬ-ta puxša"
         ],
@@ -40,6 +52,20 @@
     {
         "ID": "inelnenets5391248529(2, 11)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -59,84 +85,7 @@
         ],
         "countries": [],
         "doc_ID": 5391248529,
-        "entities": [
-            {
-                "label": "thunderstorm",
-                "wdid": "Q2857578"
-            },
-            {
-                "label": "whirlwind",
-                "wdid": "Q490600"
-            },
-            {
-                "label": "tents",
-                "wdid": "Q3309248"
-            },
-            {
-                "label": "Hazard",
-                "wdid": "Q1132455"
-            },
-            {
-                "label": "Weather",
-                "wdid": "Q11663"
-            },
-            {
-                "label": "meteor",
-                "wdid": "Q12036439"
-            },
-            {
-                "label": "natural phenomenon",
-                "wdid": "Q1322005"
-            },
-            {
-                "label": "meteorological phenomenon",
-                "wdid": "Q16332653"
-            },
-            {
-                "label": "cause of death",
-                "wdid": "Q1931388"
-            },
-            {
-                "label": "Precipitation",
-                "wdid": "Q25257"
-            },
-            {
-                "label": "natural risk",
-                "wdid": "Q3433179"
-            },
-            {
-                "label": "disaster",
-                "wdid": "Q3839081"
-            },
-            {
-                "label": "atmospheric phenomenon",
-                "wdid": "Q4072190"
-            },
-            {
-                "label": "meteorological concept",
-                "wdid": "Q58928516"
-            },
-            {
-                "label": "meteorological disaster",
-                "wdid": "Q6823473"
-            },
-            {
-                "label": "severe weather",
-                "wdid": "Q741507"
-            },
-            {
-                "label": "Natural_disaster",
-                "wdid": "Q8065"
-            },
-            {
-                "label": "Wind",
-                "wdid": "Q8094"
-            },
-            {
-                "label": "Storm",
-                "wdid": "Q81054"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">_ _ kukä-xana api xaɬʼu-m-ta mʼaʔtu-ŋ käw-mana poŋku-m kanaa</div>\n\t\t<div class=\"glossblock\">_ _ where-LOC.SG thunder rain-ACC.SG-OBL.3SG tent-GEN.SG side-PROL.SG whirl-ACC.SG take.away.[3SG.S]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_ _ where-LOC.SG thunder rain-ACC.SG-OBL.3SG tent-GEN.SG side-PROL.SG whirl-ACC.SG take.away.[3SG.S]"
@@ -144,76 +93,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
-        "parententities": [
-            {
-                "label": "Hazard",
-                "wdid": "Q1132455"
-            },
-            {
-                "label": "Weather",
-                "wdid": "Q11663"
-            },
-            {
-                "label": "meteor",
-                "wdid": "Q12036439"
-            },
-            {
-                "label": "natural phenomenon",
-                "wdid": "Q1322005"
-            },
-            {
-                "label": "meteorological phenomenon",
-                "wdid": "Q16332653"
-            },
-            {
-                "label": "cause of death",
-                "wdid": "Q1931388"
-            },
-            {
-                "label": "Precipitation",
-                "wdid": "Q25257"
-            },
-            {
-                "label": "natural risk",
-                "wdid": "Q3433179"
-            },
-            {
-                "label": "disaster",
-                "wdid": "Q3839081"
-            },
-            {
-                "label": "atmospheric phenomenon",
-                "wdid": "Q4072190"
-            },
-            {
-                "label": "meteorological concept",
-                "wdid": "Q58928516"
-            },
-            {
-                "label": "meteorological disaster",
-                "wdid": "Q6823473"
-            },
-            {
-                "label": "severe weather",
-                "wdid": "Q741507"
-            },
-            {
-                "label": "Natural_disaster",
-                "wdid": "Q8065"
-            },
-            {
-                "label": "Wind",
-                "wdid": "Q8094"
-            },
-            {
-                "label": "Storm",
-                "wdid": "Q81054"
-            }
-        ],
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "_ _ kukä-xana api xaɬʼu-m-ta mʼaʔtu-ŋ käw-mana poŋku-m kanaa"
         ],
@@ -223,6 +105,20 @@
     {
         "ID": "inelnenets5391248529(11, 21)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACT",
@@ -256,11 +152,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "mʼatu-ŋ käw-xa-j pʼa-ŋaej xäm ŋiču-ŋ dʼoɬʼš-ti poŋku-ŋ mʼinʼ-u-ʔma-mna čupʼej kaʔam-dʼa-tʔ"
         ],
@@ -270,6 +164,20 @@
     {
         "ID": "inelnenets5391248529(21, 28)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACT",
@@ -298,11 +206,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "puxša-ɬ čoɬ-ta nʼaʔmi-e tamnʼa kadʼa poŋku-ŋ kaj-ʔmʼa-mana"
         ],
@@ -312,6 +218,20 @@
     {
         "ID": "inelnenets5391248529(28, 35)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "INCH",
@@ -329,12 +249,7 @@
         ],
         "countries": [],
         "doc_ID": 5391248529,
-        "entities": [
-            {
-                "label": "Walking, walking",
-                "wdid": "Q3651624"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">_ _ nʼeɬnʼaŋ xiŋi-ɬʼa mʼaʔ či ŋaj-maj</div>\n\t\t<div class=\"glossblock\">_ _ ahead sight-INCH.[3SG.S] tent.[NOM.PL] so be-NAR.[3SG.S]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "_ _ ahead sight-INCH.[3SG.S] tent.[NOM.PL] so be-NAR.[3SG.S]"
@@ -342,11 +257,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "_ _ nʼeɬnʼaŋ xiŋi-ɬʼa mʼaʔ či ŋaj-maj"
         ],
@@ -356,6 +269,20 @@
     {
         "ID": "inelnenets5391248529(35, 40)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "LAT",
@@ -382,11 +309,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "čikʼe-n tajwa-j-ʔ tana ŋisi ŋaj-maj"
         ],
@@ -396,6 +321,20 @@
     {
         "ID": "inelnenets5391248529(40, 46)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "CO",
@@ -422,11 +361,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "mʼaʔ-t ču-ŋa ŋiɬ-n-tuŋ ŋamši kiča ŋimti"
         ],
@@ -436,6 +373,20 @@
     {
         "ID": "inelnenets5391248529(46, 59)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -465,11 +416,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "tat mani-ŋa-ta ŋidʼi-ɬ ŋamsa-m neʔkaɬʼa čidʼi-ɬʼa-ti punʼaŋ miš-če-štu-tuŋ ŋaj ŋidʼi-ɬ neʔkaɬʼa ŋaj čidʼi-ɬʼa-ta"
         ],
@@ -479,6 +428,20 @@
     {
         "ID": "inelnenets5391248529(59, 67)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "CO",
@@ -496,12 +459,7 @@
         ],
         "countries": [],
         "doc_ID": 5391248529,
-        "entities": [
-            {
-                "label": "smelled",
-                "wdid": "Q1541064"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">čupʼej čidʼi-ɬʼa-tuŋ tajnʼa pʼinʼakuŋ me-ŋa-tuŋ puxša tat mani-ŋa-ta</div>\n\t\t<div class=\"glossblock\">all sniff-INCH-3PL.SG.O then outside do-CO-3PL.SG.O old.woman.[NOM.SG] then see-CO-3SG.SG.O</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "all sniff-INCH-3PL.SG.O then outside do-CO-3PL.SG.O old.woman.[NOM.SG] then see-CO-3SG.SG.O"
@@ -509,11 +467,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "čupʼej čidʼi-ɬʼa-tuŋ tajnʼa pʼinʼakuŋ me-ŋa-tuŋ puxša tat mani-ŋa-ta"
         ],
@@ -523,6 +479,20 @@
     {
         "ID": "inelnenets5391248529(67, 76)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "CO",
@@ -551,11 +521,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "mʼeɬši-ʔ čiki ŋamsi mʼeɬša-ɬ-maj wʼi-xʼinʼa-n-ta ma-ɬa-ma kilʼej kuše mi-mej-tuŋ"
         ],
@@ -565,6 +533,20 @@
     {
         "ID": "inelnenets5391248529(76, 78)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "CO",
@@ -590,11 +572,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "nʼana-n-tuŋ dʼiɬʼe-ɬ"
         ],
@@ -604,6 +584,20 @@
     {
         "ID": "inelnenets5391248529(78, 92)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABL",
@@ -628,12 +622,7 @@
         ],
         "countries": [],
         "doc_ID": 5391248529,
-        "entities": [
-            {
-                "label": "cauldron",
-                "wdid": "Q1317634"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dʼaɬʼi-tuŋ ta-xana čupʼej taɬʼam me-štu puxša dʼe-tta-tuŋ pʼiɬʼi-ma-xat-ti pita dʼet-ta pʼiɬʼi-ma-xat-ti ŋamsu-ta-tta šeɬkta kadʼe-štu-ta</div>\n\t\t<div class=\"glossblock\">day-OBL.3PL this-LOC.SG all so do-HAB.[3SG.S] old.woman.[NOM.SG] </div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "day-OBL.3PL this-LOC.SG all so do-HAB.[3SG.S] old.woman.[NOM.SG] "
@@ -641,11 +630,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "dʼaɬʼi-tuŋ ta-xana čupʼej taɬʼam me-štu puxša dʼe-tta-tuŋ pʼiɬʼi-ma-xat-ti pita dʼet-ta pʼiɬʼi-ma-xat-ti ŋamsu-ta-tta šeɬkta kadʼe-štu-ta"
         ],
@@ -655,6 +642,20 @@
     {
         "ID": "inelnenets5391248529(92, 107)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DU",
@@ -683,11 +684,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "_ _ kukä-xana nʼu-ŋ ši-mnʼa xiŋiɬʼa nʼi ŋaškʼi kasa ŋaškʼi šeʔew ŋami dʼaŋ-knʼa po-č ŋaj-ta"
         ],
@@ -697,6 +696,20 @@
     {
         "ID": "inelnenets5391248529(107, 112)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABL",
@@ -719,28 +732,7 @@
         ],
         "countries": [],
         "doc_ID": 5391248529,
-        "entities": [
-            {
-                "label": "tundra",
-                "wdid": "Q43262"
-            },
-            {
-                "label": "Landscape",
-                "wdid": "Q107425"
-            },
-            {
-                "label": "territory",
-                "wdid": "Q1496967"
-            },
-            {
-                "label": "geographic location",
-                "wdid": "Q2221906"
-            },
-            {
-                "label": "geographic entity",
-                "wdid": "Q27096213"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nʼe-č ŋuta-xat-tuŋ nʼaʔma-štu-xuŋ wi-nʼa-ŋ šoɬwa-štu-xuŋ</div>\n\t\t<div class=\"glossblock\">relative-NOM.SG.3DU hand-ABL.SG-OBL.3PL hold-HAB-3DU.S water-LOCZ-GEN.SG run-HAB-3DU.S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "relative-NOM.SG.3DU hand-ABL.SG-OBL.3PL hold-HAB-3DU.S water-LOCZ-GEN.SG run-HAB-3DU.S"
@@ -748,28 +740,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
-        "parententities": [
-            {
-                "label": "Landscape",
-                "wdid": "Q107425"
-            },
-            {
-                "label": "territory",
-                "wdid": "Q1496967"
-            },
-            {
-                "label": "geographic location",
-                "wdid": "Q2221906"
-            },
-            {
-                "label": "geographic entity",
-                "wdid": "Q27096213"
-            }
-        ],
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "nʼe-č ŋuta-xat-tuŋ nʼaʔma-štu-xuŋ wi-nʼa-ŋ šoɬwa-štu-xuŋ"
         ],
@@ -779,6 +752,20 @@
     {
         "ID": "inelnenets5391248529(112, 118)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DU",
@@ -797,12 +784,7 @@
         ],
         "countries": [],
         "doc_ID": 5391248529,
-        "entities": [
-            {
-                "label": "pillow",
-                "wdid": "Q99895"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tanʼa-t to-štu-xuŋ puɬtat čenʼa-ŋ pʼiʔš-sama xapše-štu-xuŋ</div>\n\t\t<div class=\"glossblock\">there-LAT.SG come-HAB-3DU.S cushion.[GEN.SG] behind-GEN.SG laughter-PROP spit-HAB-3DU.S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "there-LAT.SG come-HAB-3DU.S cushion.[GEN.SG] behind-GEN.SG laughter-PROP spit-HAB-3DU.S"
@@ -810,11 +792,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "tanʼa-t to-štu-xuŋ puɬtat čenʼa-ŋ pʼiʔš-sama xapše-štu-xuŋ"
         ],
@@ -824,6 +804,20 @@
     {
         "ID": "inelnenets5391248529(118, 122)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABL",
@@ -851,11 +845,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "čike-xʼet-ti mʼat-o-č šeɬ kä-štu-xuŋ"
         ],
@@ -865,6 +857,20 @@
     {
         "ID": "inelnenets5391248529(122, 131)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "CNG",
@@ -898,11 +904,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "šan-xama-ŋ taɬʼam minʼi-xʼiŋ puxša wʼi-xʼinʼa-n-ta ma ka nʼi-me-m mani-se-j"
         ],
@@ -912,6 +916,20 @@
     {
         "ID": "inelnenets5391248529(131, 134)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ADV",
@@ -930,12 +948,7 @@
         ],
         "countries": [],
         "doc_ID": 5391248529,
-        "entities": [
-            {
-                "label": "pillow",
-                "wdid": "Q99895"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">puɬta-tuŋ če-ŋ xiŋiɬ-ŋa</div>\n\t\t<div class=\"glossblock\">cushion-OBL.3PL behind-LAT.ADV look-CO.[3SG.S]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "cushion-OBL.3PL behind-LAT.ADV look-CO.[3SG.S]"
@@ -943,11 +956,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "puɬta-tuŋ če-ŋ xiŋiɬ-ŋa"
         ],
@@ -957,6 +968,20 @@
     {
         "ID": "inelnenets5391248529(134, 137)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DIM",
@@ -980,11 +1005,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "čike-xena taj-kuudʼi ŋimti"
         ],
@@ -994,6 +1017,20 @@
     {
         "ID": "inelnenets5391248529(137, 142)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "GEN",
@@ -1010,12 +1047,7 @@
         ],
         "countries": [],
         "doc_ID": 5391248529,
-        "entities": [
-            {
-                "label": "spits",
-                "wdid": "Q217101"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xapš poŋ-kna šiča xäm ŋiči</div>\n\t\t<div class=\"glossblock\">spit.[GEN.SG] middle-LOC.SG two eye.[NOM.SG] show.[3SG.S]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "spit.[GEN.SG] middle-LOC.SG two eye.[NOM.SG] show.[3SG.S]"
@@ -1023,11 +1055,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "xapš poŋ-kna šiča xäm ŋiči"
         ],
@@ -1037,6 +1067,20 @@
     {
         "ID": "inelnenets5391248529(142, 146)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "NOM",
@@ -1059,11 +1103,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "šej-ta kadʼa punʼaŋ kadʼa"
         ],
@@ -1073,6 +1115,20 @@
     {
         "ID": "inelnenets5391248529(146, 149)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "CO",
@@ -1098,11 +1154,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "ŋaškʼi-udʼe-xʼejdʼo-t ŋaj to-ŋa-xaŋ"
         ],
@@ -1112,6 +1166,20 @@
     {
         "ID": "inelnenets5391248529(149, 153)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "CO",
@@ -1130,12 +1198,7 @@
         ],
         "countries": [],
         "doc_ID": 5391248529,
-        "entities": [
-            {
-                "label": "pillow",
-                "wdid": "Q99895"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tat puɬta-tuŋ čenʼa-ŋ xiŋiɬ-ŋa-xaŋ</div>\n\t\t<div class=\"glossblock\">then cushion-OBL.3PL behind-GEN.SG look-CO-3DU.S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "then cushion-OBL.3PL behind-GEN.SG look-CO-3DU.S"
@@ -1143,11 +1206,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "tat puɬta-tuŋ čenʼa-ŋ xiŋiɬ-ŋa-xaŋ"
         ],
@@ -1157,6 +1218,20 @@
     {
         "ID": "inelnenets5391248529(153, 163)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "CO",
@@ -1188,11 +1263,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "tajʔnʼa taɬ-nʼa-ɬ-ŋa-xaŋ dʼaɬ-ŋa-xaŋ manʼ-štu-xuŋ šami xäm-xana nʼu-jʔ kata-maj čuki puxša"
         ],
@@ -1202,6 +1275,20 @@
     {
         "ID": "inelnenets5391248529(163, 172)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -1232,11 +1319,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "ŋuɬʼi-n čupʼej ŋisi-ŋ čeɬ puxša-m dʼutipʼo čepʼi pani-dʼo-ta ŋa-ti"
         ],
@@ -1246,6 +1331,20 @@
     {
         "ID": "inelnenets5391248529(172, 178)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "CO",
@@ -1274,11 +1373,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "tat mani-ŋa-tuŋ puxša-ŋ kiɬši-xʼina ŋota-ku tadʼa"
         ],
@@ -1288,6 +1385,20 @@
     {
         "ID": "inelnenets5391248529(178, 184)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "INCH",
@@ -1315,11 +1426,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "tajʔnʼa pituŋ ma-ɬa-maʔ čiki ŋame-t ŋe-sa-ɬ"
         ],
@@ -1329,6 +1438,20 @@
     {
         "ID": "inelnenets5391248529(184, 187)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "NOM",
@@ -1353,11 +1476,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "manʼaʔ taɬša-maʔ dʼiku"
         ],
@@ -1367,6 +1488,20 @@
     {
         "ID": "inelnenets5391248529(187, 192)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DIM",
@@ -1393,11 +1528,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "puxša ma-ɬa-ma čiki kexuo-j ŋota-ku"
         ],
@@ -1407,6 +1540,20 @@
     {
         "ID": "inelnenets5391248529(192, 198)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DIM",
@@ -1434,11 +1581,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "kexe-udʼi-ʔ manʼ-štu-ʔ kajti puxša mʼaʔ-k-ta kädʼa"
         ],
@@ -1448,6 +1593,20 @@
     {
         "ID": "inelnenets5391248529(198, 202)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -1475,11 +1634,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "šej-tuŋ kadʼa puxša-m ŋajta-pta-ŋa-tuŋ"
         ],
@@ -1489,6 +1646,20 @@
     {
         "ID": "inelnenets5391248529(202, 205)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "FRQ",
@@ -1515,11 +1686,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "puxša mʼaʔ-k-ta dʼata-ɬʼ-š"
         ],
@@ -1529,6 +1698,20 @@
     {
         "ID": "inelnenets5391248529(205, 216)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ADV",
@@ -1556,11 +1739,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "čikʼe-n wʼisum-a dʼuti-ta ŋaj-maj čiki-ti maɬtinka-ŋ mʼaʔ ŋaj-maj kaxe-ŋ ŋisi ŋaj-maj"
         ],
@@ -1570,6 +1751,20 @@
     {
         "ID": "inelnenets5391248529(216, 224)",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "ural1272",
+                "label": "Uralic"
+            },
+            {
+                "id": "samo1298",
+                "label": "Samoyedic"
+            },
+            {
+                "id": "enet1251",
+                "label": "Enets-Nenets"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -1602,11 +1797,9 @@
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
         "language_name": "Nenets",
-        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [],
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
             "kajxo-ʔ ŋamɬa-ma-n-tuŋ dʼe-jej-xaʔna nʼan-u-tuŋ šiʔ käm-kna dʼuɬ-kna dʼixʼi-ɬʼi-štu-ʔ"
         ],

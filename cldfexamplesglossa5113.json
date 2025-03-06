@@ -8,6 +8,7 @@
             "PL": "plural",
             "REFL": "reflexive"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -20,14 +21,11 @@
         "citation": "mitic:arsenijevic:19[1]",
         "clength": 55,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5113,
         "doc_URL": "https://www.glossa-journal.org/article/id/5113",
-        "entities": [
-            {
-                "label": "bells",
-                "wdid": "Q101401"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pištaljke</div>\n\t\t<div class=\"glossblock\">whistle.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zvona</div>\n\t\t<div class=\"glossblock\">bell.N.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">čula / čule / čuli</div>\n\t\t<div class=\"glossblock\">heard.N.PL / F.PL / M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sve</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">do</div>\n\t\t<div class=\"glossblock\">till</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">reke.</div>\n\t\t<div class=\"glossblock\">river</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "whistle.F.PL",
@@ -68,6 +66,7 @@
             "REFL": "reflexive",
             "SG": "singular"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -93,6 +92,32 @@
             "N": "neuter",
             "PL": "plural"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "balt1263",
+                "label": "Balto-Slavic"
+            },
+            {
+                "id": "slav1255",
+                "label": "Slavic"
+            },
+            {
+                "id": "sout3147",
+                "label": "South Slavic"
+            },
+            {
+                "id": "west2804",
+                "label": "Western South Slavic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -104,30 +129,19 @@
         "citation": "mitic:arsenijevic:19[3a]",
         "clength": 61,
         "coordination": "and",
-        "doc_ID": 5113,
-        "doc_URL": "https://www.glossa-journal.org/article/id/5113",
-        "entities": [
+        "coords": [
+            18.81,
+            44.15
+        ],
+        "countries": [
             {
-                "label": "chisels",
-                "wdid": "Q474188"
-            },
-            {
-                "label": "woodworking_tool",
-                "wdid": "Q11789812"
-            },
-            {
-                "label": "stonemasonry_tool",
-                "wdid": "Q1282265"
-            },
-            {
-                "label": "artificial object",
-                "wdid": "Q16686448"
-            },
-            {
-                "label": "Hand_tool",
-                "wdid": "Q2578402"
+                "ISO3166": "RS",
+                "label": "Serbia"
             }
         ],
+        "doc_ID": 5113,
+        "doc_URL": "https://www.glossa-journal.org/article/id/5113",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Daske,</div>\n\t\t<div class=\"glossblock\">bar.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dleta</div>\n\t\t<div class=\"glossblock\">chisel.N.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">čekići</div>\n\t\t<div class=\"glossblock\">hammer.M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ležale / ??ležala / ležali</div>\n\t\t<div class=\"glossblock\">lay.F.PL/N.PL/M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">unaokolo.</div>\n\t\t<div class=\"glossblock\">around</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "bar.F.PL",
@@ -142,24 +156,7 @@
         "language_iso6393": "hbs",
         "language_name": "Serbian-Croatian-Bosnian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "woodworking_tool",
-                "wdid": "Q11789812"
-            },
-            {
-                "label": "stonemasonry_tool",
-                "wdid": "Q1282265"
-            },
-            {
-                "label": "artificial object",
-                "wdid": "Q16686448"
-            },
-            {
-                "label": "Hand_tool",
-                "wdid": "Q2578402"
-            }
-        ],
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Daske,",
@@ -182,6 +179,32 @@
             "N": "neuter",
             "PL": "plural"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "balt1263",
+                "label": "Balto-Slavic"
+            },
+            {
+                "id": "slav1255",
+                "label": "Slavic"
+            },
+            {
+                "id": "sout3147",
+                "label": "South Slavic"
+            },
+            {
+                "id": "west2804",
+                "label": "Western South Slavic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -193,30 +216,19 @@
         "citation": "mitic:arsenijevic:19[3b]",
         "clength": 61,
         "coordination": "and",
-        "doc_ID": 5113,
-        "doc_URL": "https://www.glossa-journal.org/article/id/5113",
-        "entities": [
+        "coords": [
+            18.81,
+            44.15
+        ],
+        "countries": [
             {
-                "label": "chisels",
-                "wdid": "Q474188"
-            },
-            {
-                "label": "woodworking_tool",
-                "wdid": "Q11789812"
-            },
-            {
-                "label": "stonemasonry_tool",
-                "wdid": "Q1282265"
-            },
-            {
-                "label": "artificial object",
-                "wdid": "Q16686448"
-            },
-            {
-                "label": "Hand_tool",
-                "wdid": "Q2578402"
+                "ISO3166": "RS",
+                "label": "Serbia"
             }
         ],
+        "doc_ID": 5113,
+        "doc_URL": "https://www.glossa-journal.org/article/id/5113",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">čekići,</div>\n\t\t<div class=\"glossblock\">hammer.M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dleta</div>\n\t\t<div class=\"glossblock\">chisel.N.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daske</div>\n\t\t<div class=\"glossblock\">bar.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ležale / ??ležala / ležali</div>\n\t\t<div class=\"glossblock\">lay.F.PL/N.PL/M.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">unaokolo.</div>\n\t\t<div class=\"glossblock\">around</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "hammer.M.PL",
@@ -231,24 +243,7 @@
         "language_iso6393": "hbs",
         "language_name": "Serbian-Croatian-Bosnian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "woodworking_tool",
-                "wdid": "Q11789812"
-            },
-            {
-                "label": "stonemasonry_tool",
-                "wdid": "Q1282265"
-            },
-            {
-                "label": "artificial object",
-                "wdid": "Q16686448"
-            },
-            {
-                "label": "Hand_tool",
-                "wdid": "Q2578402"
-            }
-        ],
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "čekići,",
@@ -271,6 +266,32 @@
             "PL": "plural",
             "REFL": "reflexive"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "balt1263",
+                "label": "Balto-Slavic"
+            },
+            {
+                "id": "slav1255",
+                "label": "Slavic"
+            },
+            {
+                "id": "sout3147",
+                "label": "South Slavic"
+            },
+            {
+                "id": "west2804",
+                "label": "Western South Slavic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -282,22 +303,19 @@
         "citation": "mitic:arsenijevic:19[4a]",
         "clength": 37,
         "coordination": "and",
-        "doc_ID": 5113,
-        "doc_URL": "https://www.glossa-journal.org/article/id/5113",
-        "entities": [
+        "coords": [
+            18.81,
+            44.15
+        ],
+        "countries": [
             {
-                "label": "simmered",
-                "wdid": "Q240164"
-            },
-            {
-                "label": "noodles",
-                "wdid": "Q2723400"
-            },
-            {
-                "label": "Dumplings",
-                "wdid": "Q877913"
+                "ISO3166": "RS",
+                "label": "Serbia"
             }
         ],
+        "doc_ID": 5113,
+        "doc_URL": "https://www.glossa-journal.org/article/id/5113",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">U</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">supi</div>\n\t\t<div class=\"glossblock\">soup</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kuvale</div>\n\t\t<div class=\"glossblock\">cooked.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">knedle</div>\n\t\t<div class=\"glossblock\">dumpling.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rezanca.</div>\n\t\t<div class=\"glossblock\">noodles.N.PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "in",
@@ -337,6 +355,32 @@
             "PL": "plural",
             "REFL": "reflexive"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "balt1263",
+                "label": "Balto-Slavic"
+            },
+            {
+                "id": "slav1255",
+                "label": "Slavic"
+            },
+            {
+                "id": "sout3147",
+                "label": "South Slavic"
+            },
+            {
+                "id": "west2804",
+                "label": "Western South Slavic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -348,22 +392,19 @@
         "citation": "mitic:arsenijevic:19[4b]",
         "clength": 57,
         "coordination": "and",
-        "doc_ID": 5113,
-        "doc_URL": "https://www.glossa-journal.org/article/id/5113",
-        "entities": [
+        "coords": [
+            18.81,
+            44.15
+        ],
+        "countries": [
             {
-                "label": "simmered",
-                "wdid": "Q240164"
-            },
-            {
-                "label": "noodles",
-                "wdid": "Q2723400"
-            },
-            {
-                "label": "Dumplings",
-                "wdid": "Q877913"
+                "ISO3166": "RS",
+                "label": "Serbia"
             }
         ],
+        "doc_ID": 5113,
+        "doc_URL": "https://www.glossa-journal.org/article/id/5113",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">U</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">supi</div>\n\t\t<div class=\"glossblock\">soup</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kuvale</div>\n\t\t<div class=\"glossblock\">cooked.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">knedle</div>\n\t\t<div class=\"glossblock\">dumpling.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">supi</div>\n\t\t<div class=\"glossblock\">soup</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kuvala</div>\n\t\t<div class=\"glossblock\">cooked.N.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rezanca.</div>\n\t\t<div class=\"glossblock\">noodles.N.PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "in",
@@ -413,6 +454,32 @@
             "PL": "plural",
             "REFL": "reflexive"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "balt1263",
+                "label": "Balto-Slavic"
+            },
+            {
+                "id": "slav1255",
+                "label": "Slavic"
+            },
+            {
+                "id": "sout3147",
+                "label": "South Slavic"
+            },
+            {
+                "id": "west2804",
+                "label": "Western South Slavic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -424,22 +491,19 @@
         "citation": "mitic:arsenijevic:19[5]",
         "clength": 57,
         "coordination": "and",
-        "doc_ID": 5113,
-        "doc_URL": "https://www.glossa-journal.org/article/id/5113",
-        "entities": [
+        "coords": [
+            18.81,
+            44.15
+        ],
+        "countries": [
             {
-                "label": "simmered",
-                "wdid": "Q240164"
-            },
-            {
-                "label": "noodles",
-                "wdid": "Q2723400"
-            },
-            {
-                "label": "Dumplings",
-                "wdid": "Q877913"
+                "ISO3166": "RS",
+                "label": "Serbia"
             }
         ],
+        "doc_ID": 5113,
+        "doc_URL": "https://www.glossa-journal.org/article/id/5113",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Rezanca</div>\n\t\t<div class=\"glossblock\">noodles.N.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kuvala</div>\n\t\t<div class=\"glossblock\">cooked.N.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">supi</div>\n\t\t<div class=\"glossblock\">soup</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">knedle</div>\n\t\t<div class=\"glossblock\">dumpling.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">REFL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kuvale</div>\n\t\t<div class=\"glossblock\">cooked.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">supi.</div>\n\t\t<div class=\"glossblock\">soup</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "noodles.N.PL",
@@ -488,6 +552,32 @@
             "N": "neuter",
             "PL": "plural"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "balt1263",
+                "label": "Balto-Slavic"
+            },
+            {
+                "id": "slav1255",
+                "label": "Slavic"
+            },
+            {
+                "id": "sout3147",
+                "label": "South Slavic"
+            },
+            {
+                "id": "west2804",
+                "label": "Western South Slavic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -498,14 +588,19 @@
         "citation": "mitic:arsenijevic:19[8b]",
         "clength": 45,
         "coordination": "and",
-        "doc_ID": 5113,
-        "doc_URL": "https://www.glossa-journal.org/article/id/5113",
-        "entities": [
+        "coords": [
+            18.81,
+            44.15
+        ],
+        "countries": [
             {
-                "label": "spoon",
-                "wdid": "Q81895"
+                "ISO3166": "RS",
+                "label": "Serbia"
             }
         ],
+        "doc_ID": 5113,
+        "doc_URL": "https://www.glossa-journal.org/article/id/5113",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Prljave</div>\n\t\t<div class=\"glossblock\">dirty.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rešetke</div>\n\t\t<div class=\"glossblock\">grid.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sita</div>\n\t\t<div class=\"glossblock\">sieve.N.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">morale</div>\n\t\t<div class=\"glossblock\">must.F.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">biti</div>\n\t\t<div class=\"glossblock\">be</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oprane.</div>\n\t\t<div class=\"glossblock\">washed.F.PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "dirty.F.PL",
@@ -539,6 +634,32 @@
     {
         "ID": "glossa5113-9",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "balt1263",
+                "label": "Balto-Slavic"
+            },
+            {
+                "id": "slav1255",
+                "label": "Slavic"
+            },
+            {
+                "id": "sout3147",
+                "label": "South Slavic"
+            },
+            {
+                "id": "west2804",
+                "label": "Western South Slavic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -549,6 +670,16 @@
         ],
         "citation": "mitic:arsenijevic:19[10]",
         "clength": 33,
+        "coords": [
+            18.81,
+            44.15
+        ],
+        "countries": [
+            {
+                "ISO3166": "RS",
+                "label": "Serbia"
+            }
+        ],
         "doc_ID": 5113,
         "doc_URL": "https://www.glossa-journal.org/article/id/5113",
         "entities": [],
@@ -589,6 +720,32 @@
             "N": "neuter",
             "SG": "singular"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "balt1263",
+                "label": "Balto-Slavic"
+            },
+            {
+                "id": "slav1255",
+                "label": "Slavic"
+            },
+            {
+                "id": "sout3147",
+                "label": "South Slavic"
+            },
+            {
+                "id": "west2804",
+                "label": "Western South Slavic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "F",
@@ -597,6 +754,16 @@
         ],
         "citation": "mitic:arsenijevic:19[11a]",
         "clength": 24,
+        "coords": [
+            18.81,
+            44.15
+        ],
+        "countries": [
+            {
+                "ISO3166": "RS",
+                "label": "Serbia"
+            }
+        ],
         "doc_ID": 5113,
         "doc_URL": "https://www.glossa-journal.org/article/id/5113",
         "entities": [],
@@ -631,6 +798,32 @@
             "PL": "plural",
             "SG": "singular"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "balt1263",
+                "label": "Balto-Slavic"
+            },
+            {
+                "id": "slav1255",
+                "label": "Slavic"
+            },
+            {
+                "id": "sout3147",
+                "label": "South Slavic"
+            },
+            {
+                "id": "west2804",
+                "label": "Western South Slavic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "F",
@@ -641,6 +834,16 @@
         ],
         "citation": "mitic:arsenijevic:19[11b]",
         "clength": 28,
+        "coords": [
+            18.81,
+            44.15
+        ],
+        "countries": [
+            {
+                "ISO3166": "RS",
+                "label": "Serbia"
+            }
+        ],
         "doc_ID": 5113,
         "doc_URL": "https://www.glossa-journal.org/article/id/5113",
         "entities": [],
@@ -675,6 +878,32 @@
             "PL": "plural",
             "SG": "singular"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "balt1263",
+                "label": "Balto-Slavic"
+            },
+            {
+                "id": "slav1255",
+                "label": "Slavic"
+            },
+            {
+                "id": "sout3147",
+                "label": "South Slavic"
+            },
+            {
+                "id": "west2804",
+                "label": "Western South Slavic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "F",
@@ -685,6 +914,16 @@
         ],
         "citation": "mitic:arsenijevic:19[11c]",
         "clength": 36,
+        "coords": [
+            18.81,
+            44.15
+        ],
+        "countries": [
+            {
+                "ISO3166": "RS",
+                "label": "Serbia"
+            }
+        ],
         "doc_ID": 5113,
         "doc_URL": "https://www.glossa-journal.org/article/id/5113",
         "entities": [],
@@ -721,6 +960,32 @@
             "N": "neuter",
             "SG": "singular"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "balt1263",
+                "label": "Balto-Slavic"
+            },
+            {
+                "id": "slav1255",
+                "label": "Slavic"
+            },
+            {
+                "id": "sout3147",
+                "label": "South Slavic"
+            },
+            {
+                "id": "west2804",
+                "label": "Western South Slavic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "F",
@@ -729,6 +994,16 @@
         ],
         "citation": "mitic:arsenijevic:19[12]",
         "clength": 26,
+        "coords": [
+            18.81,
+            44.15
+        ],
+        "countries": [
+            {
+                "ISO3166": "RS",
+                "label": "Serbia"
+            }
+        ],
         "doc_ID": 5113,
         "doc_URL": "https://www.glossa-journal.org/article/id/5113",
         "entities": [],
@@ -761,6 +1036,32 @@
             "N": "neuter",
             "SG": "singular"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "balt1263",
+                "label": "Balto-Slavic"
+            },
+            {
+                "id": "slav1255",
+                "label": "Slavic"
+            },
+            {
+                "id": "sout3147",
+                "label": "South Slavic"
+            },
+            {
+                "id": "west2804",
+                "label": "Western South Slavic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "F",
@@ -769,6 +1070,16 @@
         ],
         "citation": "mitic:arsenijevic:19[13]",
         "clength": 36,
+        "coords": [
+            18.81,
+            44.15
+        ],
+        "countries": [
+            {
+                "ISO3166": "RS",
+                "label": "Serbia"
+            }
+        ],
         "doc_ID": 5113,
         "doc_URL": "https://www.glossa-journal.org/article/id/5113",
         "entities": [],
@@ -799,6 +1110,32 @@
     {
         "ID": "glossa5113-15",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "balt1263",
+                "label": "Balto-Slavic"
+            },
+            {
+                "id": "slav1255",
+                "label": "Slavic"
+            },
+            {
+                "id": "sout3147",
+                "label": "South Slavic"
+            },
+            {
+                "id": "west2804",
+                "label": "Western South Slavic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -808,6 +1145,16 @@
         ],
         "citation": "mitic:arsenijevic:19[14a]",
         "clength": 40,
+        "coords": [
+            18.81,
+            44.15
+        ],
+        "countries": [
+            {
+                "ISO3166": "RS",
+                "label": "Serbia"
+            }
+        ],
         "doc_ID": 5113,
         "doc_URL": "https://www.glossa-journal.org/article/id/5113",
         "entities": [],
@@ -842,6 +1189,32 @@
     {
         "ID": "glossa5113-16",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "balt1263",
+                "label": "Balto-Slavic"
+            },
+            {
+                "id": "slav1255",
+                "label": "Slavic"
+            },
+            {
+                "id": "sout3147",
+                "label": "South Slavic"
+            },
+            {
+                "id": "west2804",
+                "label": "Western South Slavic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -851,6 +1224,16 @@
         ],
         "citation": "mitic:arsenijevic:19[14b]",
         "clength": 50,
+        "coords": [
+            18.81,
+            44.15
+        ],
+        "countries": [
+            {
+                "ISO3166": "RS",
+                "label": "Serbia"
+            }
+        ],
         "doc_ID": 5113,
         "doc_URL": "https://www.glossa-journal.org/article/id/5113",
         "entities": [],
@@ -892,6 +1275,32 @@
             "M": "masculine",
             "SG": "singular"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "balt1263",
+                "label": "Balto-Slavic"
+            },
+            {
+                "id": "slav1255",
+                "label": "Slavic"
+            },
+            {
+                "id": "sout3147",
+                "label": "South Slavic"
+            },
+            {
+                "id": "west2804",
+                "label": "Western South Slavic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "F",
@@ -900,6 +1309,16 @@
         ],
         "citation": "mitic:arsenijevic:19[16a]",
         "clength": 30,
+        "coords": [
+            18.81,
+            44.15
+        ],
+        "countries": [
+            {
+                "ISO3166": "RS",
+                "label": "Serbia"
+            }
+        ],
         "doc_ID": 5113,
         "doc_URL": "https://www.glossa-journal.org/article/id/5113",
         "entities": [],
@@ -934,6 +1353,32 @@
             "N": "neuter",
             "PL": "plural"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "balt1263",
+                "label": "Balto-Slavic"
+            },
+            {
+                "id": "slav1255",
+                "label": "Slavic"
+            },
+            {
+                "id": "sout3147",
+                "label": "South Slavic"
+            },
+            {
+                "id": "west2804",
+                "label": "Western South Slavic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "F",
@@ -942,6 +1387,16 @@
         ],
         "citation": "mitic:arsenijevic:19[16b]",
         "clength": 27,
+        "coords": [
+            18.81,
+            44.15
+        ],
+        "countries": [
+            {
+                "ISO3166": "RS",
+                "label": "Serbia"
+            }
+        ],
         "doc_ID": 5113,
         "doc_URL": "https://www.glossa-journal.org/article/id/5113",
         "entities": [],
@@ -975,6 +1430,32 @@
             "M": "masculine",
             "SG": "singular"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "balt1263",
+                "label": "Balto-Slavic"
+            },
+            {
+                "id": "slav1255",
+                "label": "Slavic"
+            },
+            {
+                "id": "sout3147",
+                "label": "South Slavic"
+            },
+            {
+                "id": "west2804",
+                "label": "Western South Slavic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -984,6 +1465,16 @@
         ],
         "citation": "mitic:arsenijevic:19[17a]",
         "clength": 29,
+        "coords": [
+            18.81,
+            44.15
+        ],
+        "countries": [
+            {
+                "ISO3166": "RS",
+                "label": "Serbia"
+            }
+        ],
         "doc_ID": 5113,
         "doc_URL": "https://www.glossa-journal.org/article/id/5113",
         "entities": [],
@@ -1018,6 +1509,7 @@
             "N": "neuter",
             "PL": "plural"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "F",
@@ -1027,6 +1519,8 @@
         "citation": "mitic:arsenijevic:19[17a]",
         "clength": 22,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5113,
         "doc_URL": "https://www.glossa-journal.org/article/id/5113",
         "entities": [],
@@ -1059,6 +1553,7 @@
             "N": "neuter",
             "PL": "plural"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "F",
@@ -1068,6 +1563,8 @@
         "citation": "mitic:arsenijevic:19[17b]",
         "clength": 22,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5113,
         "doc_URL": "https://www.glossa-journal.org/article/id/5113",
         "entities": [],
@@ -1100,6 +1597,7 @@
             "N": "neuter",
             "PL": "plural"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "F",
@@ -1109,6 +1607,8 @@
         "citation": "mitic:arsenijevic:19[17c]",
         "clength": 30,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5113,
         "doc_URL": "https://www.glossa-journal.org/article/id/5113",
         "entities": [],
@@ -1142,6 +1642,7 @@
             "AUX": "auxiliary",
             "SG": "singular"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -1149,14 +1650,11 @@
         ],
         "citation": "mitic:arsenijevic:19[18a]",
         "clength": 26,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5113,
         "doc_URL": "https://www.glossa-journal.org/article/id/5113",
-        "entities": [
-            {
-                "label": "bakery",
-                "wdid": "Q274393"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Vlasnik</div>\n\t\t<div class=\"glossblock\">owner</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">AUX.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">došao</div>\n\t\t<div class=\"glossblock\">come</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pekaru.</div>\n\t\t<div class=\"glossblock\">bakery</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "owner",
@@ -1184,10 +1682,13 @@
     {
         "ID": "glossa5113-24",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "mitic:arsenijevic:19[18a]",
         "clength": 8,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5113,
         "doc_URL": "https://www.glossa-journal.org/article/id/5113",
         "entities": [],
@@ -1213,6 +1714,7 @@
             "AUX": "auxiliary",
             "SG": "singular"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -1220,74 +1722,11 @@
         ],
         "citation": "mitic:arsenijevic:19[18b]",
         "clength": 29,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5113,
         "doc_URL": "https://www.glossa-journal.org/article/id/5113",
-        "entities": [
-            {
-                "label": "tailor",
-                "wdid": "Q242468"
-            },
-            {
-                "label": "laborer",
-                "wdid": "Q12713481"
-            },
-            {
-                "label": "Artisan",
-                "wdid": "Q1294787"
-            },
-            {
-                "label": "manufacturer",
-                "wdid": "Q13235160"
-            },
-            {
-                "label": "provider",
-                "wdid": "Q13420330"
-            },
-            {
-                "label": "specialist",
-                "wdid": "Q1391344"
-            },
-            {
-                "label": "economic agent",
-                "wdid": "Q1415187"
-            },
-            {
-                "label": "creator",
-                "wdid": "Q2500638"
-            },
-            {
-                "label": "tradesperson",
-                "wdid": "Q2588761"
-            },
-            {
-                "label": "fashion person",
-                "wdid": "Q27943370"
-            },
-            {
-                "label": "Worker",
-                "wdid": "Q327055"
-            },
-            {
-                "label": "manual worker",
-                "wdid": "Q33394058"
-            },
-            {
-                "label": "textile_worker",
-                "wdid": "Q66035178"
-            },
-            {
-                "label": "professional",
-                "wdid": "Q702269"
-            },
-            {
-                "label": "employee",
-                "wdid": "Q703534"
-            },
-            {
-                "label": "stakeholder",
-                "wdid": "Q852998"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Konac</div>\n\t\t<div class=\"glossblock\">thread</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">je</div>\n\t\t<div class=\"glossblock\">AUX.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">donet</div>\n\t\t<div class=\"glossblock\">brought</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kod</div>\n\t\t<div class=\"glossblock\">at</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">krojačice.</div>\n\t\t<div class=\"glossblock\">tailor</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "thread",
@@ -1300,68 +1739,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "laborer",
-                "wdid": "Q12713481"
-            },
-            {
-                "label": "Artisan",
-                "wdid": "Q1294787"
-            },
-            {
-                "label": "manufacturer",
-                "wdid": "Q13235160"
-            },
-            {
-                "label": "provider",
-                "wdid": "Q13420330"
-            },
-            {
-                "label": "specialist",
-                "wdid": "Q1391344"
-            },
-            {
-                "label": "economic agent",
-                "wdid": "Q1415187"
-            },
-            {
-                "label": "creator",
-                "wdid": "Q2500638"
-            },
-            {
-                "label": "tradesperson",
-                "wdid": "Q2588761"
-            },
-            {
-                "label": "fashion person",
-                "wdid": "Q27943370"
-            },
-            {
-                "label": "Worker",
-                "wdid": "Q327055"
-            },
-            {
-                "label": "manual worker",
-                "wdid": "Q33394058"
-            },
-            {
-                "label": "textile_worker",
-                "wdid": "Q66035178"
-            },
-            {
-                "label": "professional",
-                "wdid": "Q702269"
-            },
-            {
-                "label": "employee",
-                "wdid": "Q703534"
-            },
-            {
-                "label": "stakeholder",
-                "wdid": "Q852998"
-            }
-        ],
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Konac",
@@ -1376,11 +1754,14 @@
     {
         "ID": "glossa5113-26",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "mitic:arsenijevic:19[18b]",
         "clength": 34,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5113,
         "doc_URL": "https://www.glossa-journal.org/article/id/5113",
         "entities": [],
@@ -1414,6 +1795,32 @@
             "AUX": "auxiliary",
             "PL": "plural"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "balt1263",
+                "label": "Balto-Slavic"
+            },
+            {
+                "id": "slav1255",
+                "label": "Slavic"
+            },
+            {
+                "id": "sout3147",
+                "label": "South Slavic"
+            },
+            {
+                "id": "west2804",
+                "label": "Western South Slavic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -1422,74 +1829,19 @@
         "citation": "mitic:arsenijevic:19[19]",
         "clength": 47,
         "coordination": "and",
-        "doc_ID": 5113,
-        "doc_URL": "https://www.glossa-journal.org/article/id/5113",
-        "entities": [
+        "coords": [
+            18.81,
+            44.15
+        ],
+        "countries": [
             {
-                "label": "tailor",
-                "wdid": "Q242468"
-            },
-            {
-                "label": "laborer",
-                "wdid": "Q12713481"
-            },
-            {
-                "label": "Artisan",
-                "wdid": "Q1294787"
-            },
-            {
-                "label": "manufacturer",
-                "wdid": "Q13235160"
-            },
-            {
-                "label": "provider",
-                "wdid": "Q13420330"
-            },
-            {
-                "label": "specialist",
-                "wdid": "Q1391344"
-            },
-            {
-                "label": "economic agent",
-                "wdid": "Q1415187"
-            },
-            {
-                "label": "creator",
-                "wdid": "Q2500638"
-            },
-            {
-                "label": "tradesperson",
-                "wdid": "Q2588761"
-            },
-            {
-                "label": "fashion person",
-                "wdid": "Q27943370"
-            },
-            {
-                "label": "Worker",
-                "wdid": "Q327055"
-            },
-            {
-                "label": "manual worker",
-                "wdid": "Q33394058"
-            },
-            {
-                "label": "textile_worker",
-                "wdid": "Q66035178"
-            },
-            {
-                "label": "professional",
-                "wdid": "Q702269"
-            },
-            {
-                "label": "employee",
-                "wdid": "Q703534"
-            },
-            {
-                "label": "stakeholder",
-                "wdid": "Q852998"
+                "ISO3166": "RS",
+                "label": "Serbia"
             }
         ],
+        "doc_ID": 5113,
+        "doc_URL": "https://www.glossa-journal.org/article/id/5113",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ljubičaste</div>\n\t\t<div class=\"glossblock\">violet</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">igle</div>\n\t\t<div class=\"glossblock\">needles</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zrna</div>\n\t\t<div class=\"glossblock\">beads</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">su</div>\n\t\t<div class=\"glossblock\">AUX.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">donate</div>\n\t\t<div class=\"glossblock\">brought</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kod</div>\n\t\t<div class=\"glossblock\">at</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">krojačice.</div>\n\t\t<div class=\"glossblock\">tailor</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "violet",
@@ -1505,68 +1857,7 @@
         "language_iso6393": "hbs",
         "language_name": "Serbian-Croatian-Bosnian",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "laborer",
-                "wdid": "Q12713481"
-            },
-            {
-                "label": "Artisan",
-                "wdid": "Q1294787"
-            },
-            {
-                "label": "manufacturer",
-                "wdid": "Q13235160"
-            },
-            {
-                "label": "provider",
-                "wdid": "Q13420330"
-            },
-            {
-                "label": "specialist",
-                "wdid": "Q1391344"
-            },
-            {
-                "label": "economic agent",
-                "wdid": "Q1415187"
-            },
-            {
-                "label": "creator",
-                "wdid": "Q2500638"
-            },
-            {
-                "label": "tradesperson",
-                "wdid": "Q2588761"
-            },
-            {
-                "label": "fashion person",
-                "wdid": "Q27943370"
-            },
-            {
-                "label": "Worker",
-                "wdid": "Q327055"
-            },
-            {
-                "label": "manual worker",
-                "wdid": "Q33394058"
-            },
-            {
-                "label": "textile_worker",
-                "wdid": "Q66035178"
-            },
-            {
-                "label": "professional",
-                "wdid": "Q702269"
-            },
-            {
-                "label": "employee",
-                "wdid": "Q703534"
-            },
-            {
-                "label": "stakeholder",
-                "wdid": "Q852998"
-            }
-        ],
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Ljubičaste",

@@ -4,6 +4,52 @@
         "abbrkey": {
             "COMP": "complementizer"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "uppe1464",
+                "label": "Upper Franconian"
+            },
+            {
+                "id": "glob1243",
+                "label": "Global German"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "COMP"
@@ -11,66 +57,79 @@
         "citation": "bross:20:3[5a]",
         "clength": 172,
         "coordination": "and",
-        "doc_ID": 5312,
-        "doc_URL": "https://www.glossa-journal.org/article/id/5312",
-        "entities": [
+        "coords": [
+            12.4676,
+            48.649
+        ],
+        "countries": [
             {
-                "label": "cellphone",
-                "wdid": "Q17517"
+                "ISO3166": "AT",
+                "label": "Austria"
             },
             {
-                "label": "safest",
-                "wdid": "Q7398544"
+                "ISO3166": "BE",
+                "label": "Belgium"
             },
             {
-                "label": "Machine",
-                "wdid": "Q11019"
+                "ISO3166": "CH",
+                "label": "Switzerland"
             },
             {
-                "label": "Telephone",
-                "wdid": "Q11035"
+                "ISO3166": "CZ",
+                "label": "Czechia"
             },
             {
-                "label": "information system",
-                "wdid": "Q121182"
+                "ISO3166": "DE",
+                "label": "Germany"
             },
             {
-                "label": "IT system",
-                "wdid": "Q1662611"
+                "ISO3166": "DK",
+                "label": "Denmark"
             },
             {
-                "label": "artificial object",
-                "wdid": "Q16686448"
+                "ISO3166": "FR",
+                "label": "France"
             },
             {
-                "label": "electrical element",
-                "wdid": "Q210729"
+                "ISO3166": "HU",
+                "label": "Hungary"
             },
             {
-                "label": "electrical appliance",
-                "wdid": "Q2425052"
+                "ISO3166": "IT",
+                "label": "Italy"
             },
             {
-                "label": "electronic device",
-                "wdid": "Q2858615"
+                "ISO3166": "LI",
+                "label": "Liechtenstein"
             },
             {
-                "label": "electrical device",
-                "wdid": "Q3749263"
+                "ISO3166": "LU",
+                "label": "Luxembourg"
             },
             {
-                "label": "mobile device",
-                "wdid": "Q5082128"
+                "ISO3166": "NL",
+                "label": "Netherlands"
             },
             {
-                "label": "consumer electronics",
-                "wdid": "Q581105"
+                "ISO3166": "PL",
+                "label": "Poland"
             },
             {
-                "label": "electrical load",
-                "wdid": "Q931447"
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            },
+            {
+                "ISO3166": "SK",
+                "label": "Slovakia"
             }
         ],
+        "doc_ID": 5312,
+        "doc_URL": "https://www.glossa-journal.org/article/id/5312",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Autoschlüssel,</div>\n\t\t<div class=\"glossblock\">car keys</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Geld</div>\n\t\t<div class=\"glossblock\">money</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">und</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Handy</div>\n\t\t<div class=\"glossblock\">cellphone</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sollten</div>\n\t\t<div class=\"glossblock\">should</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">am</div>\n\t\t<div class=\"glossblock\">at.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">See</div>\n\t\t<div class=\"glossblock\">lake</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oder</div>\n\t\t<div class=\"glossblock\">or</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">am</div>\n\t\t<div class=\"glossblock\">at.the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Meer</div>\n\t\t<div class=\"glossblock\">sea</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dabei</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sein.</div>\n\t\t<div class=\"glossblock\">be</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Nur:</div>\n\t\t<div class=\"glossblock\">only</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Wie</div>\n\t\t<div class=\"glossblock\">how</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">werden</div>\n\t\t<div class=\"glossblock\">will</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sie</div>\n\t\t<div class=\"glossblock\">they</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nicht</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gestohlen?</div>\n\t\t<div class=\"glossblock\">stolen</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Einige</div>\n\t\t<div class=\"glossblock\">some</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ideen,</div>\n\t\t<div class=\"glossblock\">ideas</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">von</div>\n\t\t<div class=\"glossblock\">from</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">denen</div>\n\t\t<div class=\"glossblock\">which</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">die</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sicherste</div>\n\t\t<div class=\"glossblock\">safest</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">leider</div>\n\t\t<div class=\"glossblock\">unfortunately</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">die</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">unbequemste</div>\n\t\t<div class=\"glossblock\">uncomfortable.COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ist.</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "car keys",
@@ -106,56 +165,7 @@
         "language_iso6393": "deu",
         "language_name": "German",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "Machine",
-                "wdid": "Q11019"
-            },
-            {
-                "label": "Telephone",
-                "wdid": "Q11035"
-            },
-            {
-                "label": "information system",
-                "wdid": "Q121182"
-            },
-            {
-                "label": "IT system",
-                "wdid": "Q1662611"
-            },
-            {
-                "label": "artificial object",
-                "wdid": "Q16686448"
-            },
-            {
-                "label": "electrical element",
-                "wdid": "Q210729"
-            },
-            {
-                "label": "electrical appliance",
-                "wdid": "Q2425052"
-            },
-            {
-                "label": "electronic device",
-                "wdid": "Q2858615"
-            },
-            {
-                "label": "electrical device",
-                "wdid": "Q3749263"
-            },
-            {
-                "label": "mobile device",
-                "wdid": "Q5082128"
-            },
-            {
-                "label": "consumer electronics",
-                "wdid": "Q581105"
-            },
-            {
-                "label": "electrical load",
-                "wdid": "Q931447"
-            }
-        ],
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -194,12 +204,128 @@
     {
         "ID": "glossa5312-2",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "uppe1464",
+                "label": "Upper Franconian"
+            },
+            {
+                "id": "glob1243",
+                "label": "Global German"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "B"
         ],
         "citation": "bross:20:3[5b]",
         "clength": 39,
+        "coords": [
+            12.4676,
+            48.649
+        ],
+        "countries": [
+            {
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "BE",
+                "label": "Belgium"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "CZ",
+                "label": "Czechia"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "DK",
+                "label": "Denmark"
+            },
+            {
+                "ISO3166": "FR",
+                "label": "France"
+            },
+            {
+                "ISO3166": "HU",
+                "label": "Hungary"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "LI",
+                "label": "Liechtenstein"
+            },
+            {
+                "ISO3166": "LU",
+                "label": "Luxembourg"
+            },
+            {
+                "ISO3166": "NL",
+                "label": "Netherlands"
+            },
+            {
+                "ISO3166": "PL",
+                "label": "Poland"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            },
+            {
+                "ISO3166": "SK",
+                "label": "Slovakia"
+            }
+        ],
         "doc_ID": 5312,
         "doc_URL": "https://www.glossa-journal.org/article/id/5312",
         "entities": [],

@@ -5,6 +5,7 @@
             "3SG": "third person singular",
             "OBJ": "object"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -14,6 +15,8 @@
         ],
         "citation": "cyffer:98[52];enfield:ed:17[via]",
         "clength": 16,
+        "coords": [],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -42,6 +45,7 @@
         "abbrkey": {
             "1SG": "first person singular"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -49,6 +53,8 @@
         ],
         "citation": "cyffer:98[52];enfield:ed:17[via]",
         "clength": 5,
+        "coords": [],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -77,6 +83,16 @@
             "POSS": "possessive",
             "SC": null
         },
+        "ancestors": [
+            {
+                "id": "cent2225",
+                "label": "Central Sudanic"
+            },
+            {
+                "id": "lend1246",
+                "label": "Lenduic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -88,38 +104,23 @@
         ],
         "citation": "kutschlojenga:94[322];enfield:ed:17[via]",
         "clength": 28,
-        "doc_ID": 96,
-        "doc_URL": "https://langsci-press.org/catalog/book/96",
-        "entities": [
+        "coords": [
+            30.2242,
+            1.30455
+        ],
+        "countries": [
             {
-                "label": "courtyard",
-                "wdid": "Q309250"
+                "ISO3166": "CD",
+                "label": "Congo, The Democratic Republic of the"
             },
             {
-                "label": "artificial object",
-                "wdid": "Q16686448"
-            },
-            {
-                "label": "building component",
-                "wdid": "Q19603939"
-            },
-            {
-                "label": "material",
-                "wdid": "Q214609"
-            },
-            {
-                "label": "geographic location",
-                "wdid": "Q2221906"
-            },
-            {
-                "label": "geographic entity",
-                "wdid": "Q27096213"
-            },
-            {
-                "label": "architectural element",
-                "wdid": "Q391414"
+                "ISO3166": "UG",
+                "label": "Uganda"
             }
         ],
+        "doc_ID": 96,
+        "doc_URL": "https://langsci-press.org/catalog/book/96",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma</div>\n\t\t<div class=\"glossblock\">1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">m-ìngyè</div>\n\t\t<div class=\"glossblock\">SC-be.in.the.habit.PFPR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">àba</div>\n\t\t<div class=\"glossblock\">father</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bhà</div>\n\t\t<div class=\"glossblock\">POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dzalí-nga</div>\n\t\t<div class=\"glossblock\">courtyard-NOMLZR</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1SG",
@@ -132,32 +133,7 @@
         "language_iso6393": "niy",
         "language_name": "Ngiti",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "artificial object",
-                "wdid": "Q16686448"
-            },
-            {
-                "label": "building component",
-                "wdid": "Q19603939"
-            },
-            {
-                "label": "material",
-                "wdid": "Q214609"
-            },
-            {
-                "label": "geographic location",
-                "wdid": "Q2221906"
-            },
-            {
-                "label": "geographic entity",
-                "wdid": "Q27096213"
-            },
-            {
-                "label": "architectural element",
-                "wdid": "Q391414"
-            }
-        ],
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "ma",
@@ -172,11 +148,35 @@
     {
         "ID": "langsci96-be68509373",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "cent2225",
+                "label": "Central Sudanic"
+            },
+            {
+                "id": "lend1246",
+                "label": "Lenduic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [],
         "citation": "kutschlojenga:94[154];enfield:ed:17[via]",
         "clength": 4,
+        "coords": [
+            30.2242,
+            1.30455
+        ],
+        "countries": [
+            {
+                "ISO3166": "CD",
+                "label": "Congo, The Democratic Republic of the"
+            },
+            {
+                "ISO3166": "UG",
+                "label": "Uganda"
+            }
+        ],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -201,6 +201,28 @@
         "abbrkey": {
             "DISTR": "distributive"
         },
+        "ancestors": [
+            {
+                "id": "utoa1244",
+                "label": "Uto-Aztecan"
+            },
+            {
+                "id": "nort2953",
+                "label": "Northern Uto-Aztecan"
+            },
+            {
+                "id": "numi1242",
+                "label": "Numic"
+            },
+            {
+                "id": "sout2968",
+                "label": "Southern Numic"
+            },
+            {
+                "id": "utes1238",
+                "label": "Ute-Southern Paiute"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -208,6 +230,11 @@
         ],
         "citation": "sapir:30[258];enfield:ed:17[via]",
         "clength": 16,
+        "coords": [
+            -114.0,
+            37.0
+        ],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -236,6 +263,48 @@
         "abbrkey": {
             "GEN": "genitive"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "indo1320",
+                "label": "Indo-Iranian"
+            },
+            {
+                "id": "indo1321",
+                "label": "Indo-Aryan"
+            },
+            {
+                "id": "midd1375",
+                "label": "Middle-Modern Indo-Aryan"
+            },
+            {
+                "id": "cont1248",
+                "label": "Continental Indo-Aryan"
+            },
+            {
+                "id": "indo1323",
+                "label": "Indo-Aryan Eastern zone"
+            },
+            {
+                "id": "oriy1254",
+                "label": "Oriya-Gauda-Kamrupa"
+            },
+            {
+                "id": "gaud1237",
+                "label": "Gauda-Kamrupa"
+            },
+            {
+                "id": "gaud1238",
+                "label": "Gauda-Banga"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -243,6 +312,24 @@
         ],
         "citation": "chatterji:26:2[736];enfield:ed:17[via]",
         "clength": 8,
+        "coords": [
+            90.0,
+            24.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "BD",
+                "label": "Bangladesh"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "NP",
+                "label": "Nepal"
+            }
+        ],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -267,6 +354,48 @@
         "abbrkey": {
             "GEN": "genitive"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "indo1320",
+                "label": "Indo-Iranian"
+            },
+            {
+                "id": "indo1321",
+                "label": "Indo-Aryan"
+            },
+            {
+                "id": "midd1375",
+                "label": "Middle-Modern Indo-Aryan"
+            },
+            {
+                "id": "cont1248",
+                "label": "Continental Indo-Aryan"
+            },
+            {
+                "id": "indo1323",
+                "label": "Indo-Aryan Eastern zone"
+            },
+            {
+                "id": "oriy1254",
+                "label": "Oriya-Gauda-Kamrupa"
+            },
+            {
+                "id": "gaud1237",
+                "label": "Gauda-Kamrupa"
+            },
+            {
+                "id": "gaud1238",
+                "label": "Gauda-Banga"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -274,6 +403,24 @@
         ],
         "citation": "chatterji:26:2[735];enfield:ed:17[via]",
         "clength": 7,
+        "coords": [
+            90.0,
+            24.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "BD",
+                "label": "Bangladesh"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "NP",
+                "label": "Nepal"
+            }
+        ],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -298,6 +445,52 @@
         "abbrkey": {
             "PL": "plural"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "indo1320",
+                "label": "Indo-Iranian"
+            },
+            {
+                "id": "indo1321",
+                "label": "Indo-Aryan"
+            },
+            {
+                "id": "midd1375",
+                "label": "Middle-Modern Indo-Aryan"
+            },
+            {
+                "id": "cont1248",
+                "label": "Continental Indo-Aryan"
+            },
+            {
+                "id": "indo1323",
+                "label": "Indo-Aryan Eastern zone"
+            },
+            {
+                "id": "oriy1254",
+                "label": "Oriya-Gauda-Kamrupa"
+            },
+            {
+                "id": "gaud1237",
+                "label": "Gauda-Kamrupa"
+            },
+            {
+                "id": "kamt1240",
+                "label": "Kamrupa"
+            },
+            {
+                "id": "assa1262",
+                "label": "Eastern Kamrupa"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -305,6 +498,24 @@
         ],
         "citation": "kakati:62[295];enfield:ed:17[via]",
         "clength": 10,
+        "coords": [
+            91.2932,
+            26.0876
+        ],
+        "countries": [
+            {
+                "ISO3166": "BD",
+                "label": "Bangladesh"
+            },
+            {
+                "ISO3166": "BT",
+                "label": "Bhutan"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            }
+        ],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -329,6 +540,52 @@
         "abbrkey": {
             "PTCPL": null
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "indo1320",
+                "label": "Indo-Iranian"
+            },
+            {
+                "id": "indo1321",
+                "label": "Indo-Aryan"
+            },
+            {
+                "id": "midd1375",
+                "label": "Middle-Modern Indo-Aryan"
+            },
+            {
+                "id": "cont1248",
+                "label": "Continental Indo-Aryan"
+            },
+            {
+                "id": "indo1323",
+                "label": "Indo-Aryan Eastern zone"
+            },
+            {
+                "id": "oriy1254",
+                "label": "Oriya-Gauda-Kamrupa"
+            },
+            {
+                "id": "gaud1237",
+                "label": "Gauda-Kamrupa"
+            },
+            {
+                "id": "kamt1240",
+                "label": "Kamrupa"
+            },
+            {
+                "id": "assa1262",
+                "label": "Eastern Kamrupa"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -336,14 +593,27 @@
         ],
         "citation": "kakati:62[282];enfield:ed:17[via]",
         "clength": 9,
-        "doc_ID": 96,
-        "doc_URL": "https://langsci-press.org/catalog/book/96",
-        "entities": [
+        "coords": [
+            91.2932,
+            26.0876
+        ],
+        "countries": [
             {
-                "label": "Early Assamese",
-                "wdid": "Q85758237"
+                "ISO3166": "BD",
+                "label": "Bangladesh"
+            },
+            {
+                "ISO3166": "BT",
+                "label": "Bhutan"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
             }
         ],
+        "doc_ID": 96,
+        "doc_URL": "https://langsci-press.org/catalog/book/96",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dui-hanta</div>\n\t\t<div class=\"glossblock\">two-be.PTCPL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "two-be.PTCPL"
@@ -368,6 +638,20 @@
             "LNK": null,
             "NONPL": null
         },
+        "ancestors": [
+            {
+                "id": "bord1247",
+                "label": "Border"
+            },
+            {
+                "id": "wari1265",
+                "label": "Warisic"
+            },
+            {
+                "id": "nucl1773",
+                "label": "Nuclear Warisic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -378,6 +662,16 @@
         ],
         "citation": "seiler:85[194];enfield:ed:17[via]",
         "clength": 27,
+        "coords": [
+            141.171,
+            -3.31228
+        ],
+        "countries": [
+            {
+                "ISO3166": "PG",
+                "label": "Papua New Guinea"
+            }
+        ],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -407,6 +701,20 @@
             "GL": null,
             "SRC": null
         },
+        "ancestors": [
+            {
+                "id": "bord1247",
+                "label": "Border"
+            },
+            {
+                "id": "wari1265",
+                "label": "Warisic"
+            },
+            {
+                "id": "nucl1773",
+                "label": "Nuclear Warisic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -415,6 +723,16 @@
         ],
         "citation": "seiler:85[219];enfield:ed:17[via]",
         "clength": 16,
+        "coords": [
+            141.171,
+            -3.31228
+        ],
+        "countries": [
+            {
+                "ISO3166": "PG",
+                "label": "Papua New Guinea"
+            }
+        ],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -443,6 +761,32 @@
             "PERF": null,
             "REL": "relative"
         },
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "ethi1244",
+                "label": "Ethiosemitic"
+            },
+            {
+                "id": "sout3078",
+                "label": "South Ethiopic"
+            },
+            {
+                "id": "amha1244",
+                "label": "Amharic-Argobba"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -452,6 +796,20 @@
         ],
         "citation": "leslau:95[81];enfield:ed:17[via]",
         "clength": 12,
+        "coords": [
+            39.543456,
+            11.708182
+        ],
+        "countries": [
+            {
+                "ISO3166": "DJ",
+                "label": "Djibouti"
+            },
+            {
+                "ISO3166": "ET",
+                "label": "Ethiopia"
+            }
+        ],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -478,6 +836,32 @@
         "abbrkey": {
             "POSS": "possessive"
         },
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "ethi1244",
+                "label": "Ethiosemitic"
+            },
+            {
+                "id": "sout3078",
+                "label": "South Ethiopic"
+            },
+            {
+                "id": "amha1244",
+                "label": "Amharic-Argobba"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -485,6 +869,20 @@
         ],
         "citation": "leslau:95[81];enfield:ed:17[via]",
         "clength": 15,
+        "coords": [
+            39.543456,
+            11.708182
+        ],
+        "countries": [
+            {
+                "ISO3166": "DJ",
+                "label": "Djibouti"
+            },
+            {
+                "ISO3166": "ET",
+                "label": "Ethiopia"
+            }
+        ],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -513,6 +911,7 @@
             "DEF": "definite",
             "PPR": "present progressive"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -522,6 +921,8 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 16,
+        "coords": [],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -552,6 +953,7 @@
             "IDF": "indefinite",
             "RP": "remote past"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -563,74 +965,11 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 27,
+        "coords": [],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
-        "entities": [
-            {
-                "label": "banana",
-                "wdid": "Q503"
-            },
-            {
-                "label": "plant product",
-                "wdid": "Q107122793"
-            },
-            {
-                "label": "vegetarian food",
-                "wdid": "Q107126067"
-            },
-            {
-                "label": "Vegetable",
-                "wdid": "Q11004"
-            },
-            {
-                "label": "Berry_(botany)",
-                "wdid": "Q13184"
-            },
-            {
-                "label": "Fruit",
-                "wdid": "Q1364"
-            },
-            {
-                "label": "artificial object",
-                "wdid": "Q16686448"
-            },
-            {
-                "label": "plant structure",
-                "wdid": "Q20011319"
-            },
-            {
-                "label": "Food",
-                "wdid": "Q2095"
-            },
-            {
-                "label": "material",
-                "wdid": "Q214609"
-            },
-            {
-                "label": "plant organ",
-                "wdid": "Q24060707"
-            },
-            {
-                "label": "anatomical entity",
-                "wdid": "Q27043950"
-            },
-            {
-                "label": "biological material",
-                "wdid": "Q28969293"
-            },
-            {
-                "label": "fruit",
-                "wdid": "Q3314483"
-            },
-            {
-                "label": "Plant",
-                "wdid": "Q756"
-            },
-            {
-                "label": "tropical_fruit",
-                "wdid": "Q844144"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kang-ayl-n</div>\n\t\t<div class=\"glossblock\">boy-DEF-ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tauwu-ti</div>\n\t\t<div class=\"glossblock\">banana-IDF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nu-ru-m</div>\n\t\t<div class=\"glossblock\">eat-RP-3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "boy-DEF-ERG",
@@ -641,68 +980,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "plant product",
-                "wdid": "Q107122793"
-            },
-            {
-                "label": "vegetarian food",
-                "wdid": "Q107126067"
-            },
-            {
-                "label": "Vegetable",
-                "wdid": "Q11004"
-            },
-            {
-                "label": "Berry_(botany)",
-                "wdid": "Q13184"
-            },
-            {
-                "label": "Fruit",
-                "wdid": "Q1364"
-            },
-            {
-                "label": "artificial object",
-                "wdid": "Q16686448"
-            },
-            {
-                "label": "plant structure",
-                "wdid": "Q20011319"
-            },
-            {
-                "label": "Food",
-                "wdid": "Q2095"
-            },
-            {
-                "label": "material",
-                "wdid": "Q214609"
-            },
-            {
-                "label": "plant organ",
-                "wdid": "Q24060707"
-            },
-            {
-                "label": "anatomical entity",
-                "wdid": "Q27043950"
-            },
-            {
-                "label": "biological material",
-                "wdid": "Q28969293"
-            },
-            {
-                "label": "fruit",
-                "wdid": "Q3314483"
-            },
-            {
-                "label": "Plant",
-                "wdid": "Q756"
-            },
-            {
-                "label": "tropical_fruit",
-                "wdid": "Q844144"
-            }
-        ],
+        "parententities": [],
         "provider": "langsci",
         "srcwordsbare": [
             "kang-ayl-n",
@@ -719,6 +997,7 @@
             "DEF": "definite",
             "PPR": "present progressive"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -728,6 +1007,8 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 20,
+        "coords": [],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -758,6 +1039,7 @@
             "ERG": "ergative",
             "FUT": "future"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -768,6 +1050,8 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 17,
+        "coords": [],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -800,6 +1084,7 @@
             "NF": "non-final",
             "PPR": "present progressive"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -810,6 +1095,8 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 26,
+        "coords": [],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -847,6 +1134,7 @@
             "NF": "non-final",
             "PRF": "perfect"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -859,14 +1147,11 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 35,
+        "coords": [],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
-        "entities": [
-            {
-                "label": "Kewa",
-                "wdid": "Q1550492"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kewa-n</div>\n\t\t<div class=\"glossblock\">kewa-ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koi-d</div>\n\t\t<div class=\"glossblock\">koy-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">teman-ti</div>\n\t\t<div class=\"glossblock\">story-IDF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kodu-pa</div>\n\t\t<div class=\"glossblock\">pull-NF:3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nyi-m</div>\n\t\t<div class=\"glossblock\">say-PRF:3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "kewa-ERG",
@@ -897,6 +1182,7 @@
             "1SG": "first person singular",
             "GEN": "genitive"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -905,6 +1191,8 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 16,
+        "coords": [],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -933,6 +1221,7 @@
         "abbrkey": {
             "IMP": "imperative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -940,6 +1229,8 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 2,
+        "coords": [],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -965,6 +1256,7 @@
             "1SG": "first person singular",
             "FUT": "future"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -973,6 +1265,8 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 8,
+        "coords": [],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -1002,6 +1296,7 @@
             "GEN": "genitive",
             "PRF": "perfect"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -1012,18 +1307,11 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 18,
+        "coords": [],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
-        "entities": [
-            {
-                "label": "Jesi",
-                "wdid": "Q13144"
-            },
-            {
-                "label": "Soti",
-                "wdid": "Q55641201"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">soti</div>\n\t\t<div class=\"glossblock\">Soti</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ilyi-nga</div>\n\t\t<div class=\"glossblock\">this-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pu-m</div>\n\t\t<div class=\"glossblock\">go-PRF:3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Soti",
@@ -1050,6 +1338,7 @@
             "3SG": "third person singular",
             "PPR": "present progressive"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -1058,6 +1347,8 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 16,
+        "coords": [],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -1089,6 +1380,7 @@
             "FUT": "future",
             "NF": "non-final"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -1100,6 +1392,8 @@
         "citation": "enfield:ed:17",
         "clength": 29,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -1134,6 +1428,7 @@
             "NF": "non-final",
             "RP": "remote past"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -1143,6 +1438,8 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 20,
+        "coords": [],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -1172,6 +1469,7 @@
             "1SG": "first person singular",
             "GEN": "genitive"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -1181,14 +1479,11 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 13,
+        "coords": [],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
-        "entities": [
-            {
-                "label": "Jesi",
-                "wdid": "Q13144"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i</div>\n\t\t<div class=\"glossblock\">This</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na-nga</div>\n\t\t<div class=\"glossblock\">1SG-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pepa</div>\n\t\t<div class=\"glossblock\">paper</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "This",
@@ -1216,6 +1511,7 @@
             "DEF": "definite",
             "OPT": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -1225,14 +1521,11 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 21,
+        "coords": [],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
-        "entities": [
-            {
-                "label": "Jesi",
-                "wdid": "Q13144"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ekepu</div>\n\t\t<div class=\"glossblock\">now</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pepa-yl</div>\n\t\t<div class=\"glossblock\">paper-DEF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bi</div>\n\t\t<div class=\"glossblock\">write</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ta-b</div>\n\t\t<div class=\"glossblock\">hit:OPT-1SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "now",
@@ -1260,6 +1553,7 @@
         "abbrkey": {
             "PAST": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -1267,14 +1561,11 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 24,
+        "coords": [],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
-        "entities": [
-            {
-                "label": "built a house",
-                "wdid": "Q14715200"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bɔ</div>\n\t\t<div class=\"glossblock\">they</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ó</div>\n\t\t<div class=\"glossblock\">PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">túŋ</div>\n\t\t<div class=\"glossblock\">build</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ndzɔ</div>\n\t\t<div class=\"glossblock\">house</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sám</div>\n\t\t<div class=\"glossblock\">reason</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">é</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">báàr</div>\n\t\t<div class=\"glossblock\">people</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "they",
@@ -1308,6 +1599,7 @@
         "abbrkey": {
             "PAST": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -1315,6 +1607,8 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 26,
+        "coords": [],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -1356,6 +1650,52 @@
             "NEG": "negation, negative",
             "RECIP": null
         },
+        "ancestors": [
+            {
+                "id": "atla1278",
+                "label": "Atlantic-Congo"
+            },
+            {
+                "id": "volt1241",
+                "label": "Volta-Congo"
+            },
+            {
+                "id": "benu1247",
+                "label": "Benue-Congo"
+            },
+            {
+                "id": "bant1294",
+                "label": "Bantoid"
+            },
+            {
+                "id": "sout3152",
+                "label": "Southern Bantoid"
+            },
+            {
+                "id": "narr1281",
+                "label": "Narrow Bantu"
+            },
+            {
+                "id": "east2731",
+                "label": "East Bantu"
+            },
+            {
+                "id": "nort3203",
+                "label": "Northeast Savanna Bantu"
+            },
+            {
+                "id": "grea1289",
+                "label": "Great Lakes Bantu"
+            },
+            {
+                "id": "west2841",
+                "label": "West Nyanza"
+            },
+            {
+                "id": "nort3220",
+                "label": "North Nyanza"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -1368,6 +1708,16 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 27,
+        "coords": [
+            32.15153,
+            0.66884
+        ],
+        "countries": [
+            {
+                "ISO3166": "UG",
+                "label": "Uganda"
+            }
+        ],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -1393,6 +1743,7 @@
         "abbrkey": {
             "PAST": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -1400,6 +1751,8 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 38,
+        "coords": [],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -1442,6 +1795,48 @@
             "ANIMATE": null,
             "B": null
         },
+        "ancestors": [
+            {
+                "id": "taik1256",
+                "label": "Tai-Kadai"
+            },
+            {
+                "id": "kamt1241",
+                "label": "Kam-Tai"
+            },
+            {
+                "id": "daic1238",
+                "label": "Daic-Beic"
+            },
+            {
+                "id": "daic1237",
+                "label": "Daic"
+            },
+            {
+                "id": "cent2251",
+                "label": "Central-Southwestern Tai"
+            },
+            {
+                "id": "wenm1239",
+                "label": "Wenma-Southwestern Tai"
+            },
+            {
+                "id": "sapa1255",
+                "label": "Sapa-Southwestern Tai"
+            },
+            {
+                "id": "sout3184",
+                "label": "Southwestern Tai"
+            },
+            {
+                "id": "sput1235",
+                "label": "Southwestern Thai PH"
+            },
+            {
+                "id": "laot1235",
+                "label": "Lao-Thai"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -1453,6 +1848,24 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 26,
+        "coords": [
+            102.46,
+            19.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "KH",
+                "label": "Cambodia"
+            },
+            {
+                "ISO3166": "LA",
+                "label": "Lao People's Democratic Republic"
+            },
+            {
+                "ISO3166": "TH",
+                "label": "Thailand"
+            }
+        ],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -1487,6 +1900,48 @@
             "B": null,
             "VEHICLE": null
         },
+        "ancestors": [
+            {
+                "id": "taik1256",
+                "label": "Tai-Kadai"
+            },
+            {
+                "id": "kamt1241",
+                "label": "Kam-Tai"
+            },
+            {
+                "id": "daic1238",
+                "label": "Daic-Beic"
+            },
+            {
+                "id": "daic1237",
+                "label": "Daic"
+            },
+            {
+                "id": "cent2251",
+                "label": "Central-Southwestern Tai"
+            },
+            {
+                "id": "wenm1239",
+                "label": "Wenma-Southwestern Tai"
+            },
+            {
+                "id": "sapa1255",
+                "label": "Sapa-Southwestern Tai"
+            },
+            {
+                "id": "sout3184",
+                "label": "Southwestern Tai"
+            },
+            {
+                "id": "sput1235",
+                "label": "Southwestern Thai PH"
+            },
+            {
+                "id": "laot1235",
+                "label": "Lao-Thai"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -1498,6 +1953,24 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 27,
+        "coords": [
+            102.46,
+            19.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "KH",
+                "label": "Cambodia"
+            },
+            {
+                "ISO3166": "LA",
+                "label": "Lao People's Democratic Republic"
+            },
+            {
+                "ISO3166": "TH",
+                "label": "Thailand"
+            }
+        ],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -1532,6 +2005,7 @@
             "ANIMATE": null,
             "B": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -1543,6 +2017,8 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 21,
+        "coords": [],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -1578,6 +2054,48 @@
             "IRR": "irrealis",
             "NON": null
         },
+        "ancestors": [
+            {
+                "id": "taik1256",
+                "label": "Tai-Kadai"
+            },
+            {
+                "id": "kamt1241",
+                "label": "Kam-Tai"
+            },
+            {
+                "id": "daic1238",
+                "label": "Daic-Beic"
+            },
+            {
+                "id": "daic1237",
+                "label": "Daic"
+            },
+            {
+                "id": "cent2251",
+                "label": "Central-Southwestern Tai"
+            },
+            {
+                "id": "wenm1239",
+                "label": "Wenma-Southwestern Tai"
+            },
+            {
+                "id": "sapa1255",
+                "label": "Sapa-Southwestern Tai"
+            },
+            {
+                "id": "sout3184",
+                "label": "Southwestern Tai"
+            },
+            {
+                "id": "sput1235",
+                "label": "Southwestern Thai PH"
+            },
+            {
+                "id": "laot1235",
+                "label": "Lao-Thai"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -1592,6 +2110,24 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 27,
+        "coords": [
+            102.46,
+            19.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "KH",
+                "label": "Cambodia"
+            },
+            {
+                "ISO3166": "LA",
+                "label": "Lao People's Democratic Republic"
+            },
+            {
+                "ISO3166": "TH",
+                "label": "Thailand"
+            }
+        ],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -1625,6 +2161,48 @@
             "HUMA": null,
             "IRR": "irrealis"
         },
+        "ancestors": [
+            {
+                "id": "taik1256",
+                "label": "Tai-Kadai"
+            },
+            {
+                "id": "kamt1241",
+                "label": "Kam-Tai"
+            },
+            {
+                "id": "daic1238",
+                "label": "Daic-Beic"
+            },
+            {
+                "id": "daic1237",
+                "label": "Daic"
+            },
+            {
+                "id": "cent2251",
+                "label": "Central-Southwestern Tai"
+            },
+            {
+                "id": "wenm1239",
+                "label": "Wenma-Southwestern Tai"
+            },
+            {
+                "id": "sapa1255",
+                "label": "Sapa-Southwestern Tai"
+            },
+            {
+                "id": "sout3184",
+                "label": "Southwestern Tai"
+            },
+            {
+                "id": "sput1235",
+                "label": "Southwestern Thai PH"
+            },
+            {
+                "id": "laot1235",
+                "label": "Lao-Thai"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -1638,6 +2216,24 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 30,
+        "coords": [
+            102.46,
+            19.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "KH",
+                "label": "Cambodia"
+            },
+            {
+                "ISO3166": "LA",
+                "label": "Lao People's Democratic Republic"
+            },
+            {
+                "ISO3166": "TH",
+                "label": "Thailand"
+            }
+        ],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -1670,6 +2266,7 @@
             "HUMA": null,
             "P": "patient-like argument of canonical transitive verb"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -1682,6 +2279,8 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 32,
+        "coords": [],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -1718,6 +2317,48 @@
             "NON": null,
             "P": "patient-like argument of canonical transitive verb"
         },
+        "ancestors": [
+            {
+                "id": "taik1256",
+                "label": "Tai-Kadai"
+            },
+            {
+                "id": "kamt1241",
+                "label": "Kam-Tai"
+            },
+            {
+                "id": "daic1238",
+                "label": "Daic-Beic"
+            },
+            {
+                "id": "daic1237",
+                "label": "Daic"
+            },
+            {
+                "id": "cent2251",
+                "label": "Central-Southwestern Tai"
+            },
+            {
+                "id": "wenm1239",
+                "label": "Wenma-Southwestern Tai"
+            },
+            {
+                "id": "sapa1255",
+                "label": "Sapa-Southwestern Tai"
+            },
+            {
+                "id": "sout3184",
+                "label": "Southwestern Tai"
+            },
+            {
+                "id": "sput1235",
+                "label": "Southwestern Thai PH"
+            },
+            {
+                "id": "laot1235",
+                "label": "Lao-Thai"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -1732,6 +2373,24 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 25,
+        "coords": [
+            102.46,
+            19.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "KH",
+                "label": "Cambodia"
+            },
+            {
+                "ISO3166": "LA",
+                "label": "Lao People's Democratic Republic"
+            },
+            {
+                "ISO3166": "TH",
+                "label": "Thailand"
+            }
+        ],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -1765,6 +2424,48 @@
             "INANIMATE": null,
             "P": "patient-like argument of canonical transitive verb"
         },
+        "ancestors": [
+            {
+                "id": "taik1256",
+                "label": "Tai-Kadai"
+            },
+            {
+                "id": "kamt1241",
+                "label": "Kam-Tai"
+            },
+            {
+                "id": "daic1238",
+                "label": "Daic-Beic"
+            },
+            {
+                "id": "daic1237",
+                "label": "Daic"
+            },
+            {
+                "id": "cent2251",
+                "label": "Central-Southwestern Tai"
+            },
+            {
+                "id": "wenm1239",
+                "label": "Wenma-Southwestern Tai"
+            },
+            {
+                "id": "sapa1255",
+                "label": "Sapa-Southwestern Tai"
+            },
+            {
+                "id": "sout3184",
+                "label": "Southwestern Tai"
+            },
+            {
+                "id": "sput1235",
+                "label": "Southwestern Thai PH"
+            },
+            {
+                "id": "laot1235",
+                "label": "Lao-Thai"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -1778,6 +2479,24 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 26,
+        "coords": [
+            102.46,
+            19.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "KH",
+                "label": "Cambodia"
+            },
+            {
+                "ISO3166": "LA",
+                "label": "Lao People's Democratic Republic"
+            },
+            {
+                "ISO3166": "TH",
+                "label": "Thailand"
+            }
+        ],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -1813,6 +2532,48 @@
             "IRR": "irrealis",
             "NON": null
         },
+        "ancestors": [
+            {
+                "id": "taik1256",
+                "label": "Tai-Kadai"
+            },
+            {
+                "id": "kamt1241",
+                "label": "Kam-Tai"
+            },
+            {
+                "id": "daic1238",
+                "label": "Daic-Beic"
+            },
+            {
+                "id": "daic1237",
+                "label": "Daic"
+            },
+            {
+                "id": "cent2251",
+                "label": "Central-Southwestern Tai"
+            },
+            {
+                "id": "wenm1239",
+                "label": "Wenma-Southwestern Tai"
+            },
+            {
+                "id": "sapa1255",
+                "label": "Sapa-Southwestern Tai"
+            },
+            {
+                "id": "sout3184",
+                "label": "Southwestern Tai"
+            },
+            {
+                "id": "sput1235",
+                "label": "Southwestern Thai PH"
+            },
+            {
+                "id": "laot1235",
+                "label": "Lao-Thai"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -1827,6 +2588,24 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 34,
+        "coords": [
+            102.46,
+            19.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "KH",
+                "label": "Cambodia"
+            },
+            {
+                "ISO3166": "LA",
+                "label": "Lao People's Democratic Republic"
+            },
+            {
+                "ISO3166": "TH",
+                "label": "Thailand"
+            }
+        ],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -1860,6 +2639,48 @@
             "OBJECT": null,
             "SMALL": null
         },
+        "ancestors": [
+            {
+                "id": "taik1256",
+                "label": "Tai-Kadai"
+            },
+            {
+                "id": "kamt1241",
+                "label": "Kam-Tai"
+            },
+            {
+                "id": "daic1238",
+                "label": "Daic-Beic"
+            },
+            {
+                "id": "daic1237",
+                "label": "Daic"
+            },
+            {
+                "id": "cent2251",
+                "label": "Central-Southwestern Tai"
+            },
+            {
+                "id": "wenm1239",
+                "label": "Wenma-Southwestern Tai"
+            },
+            {
+                "id": "sapa1255",
+                "label": "Sapa-Southwestern Tai"
+            },
+            {
+                "id": "sout3184",
+                "label": "Southwestern Tai"
+            },
+            {
+                "id": "sput1235",
+                "label": "Southwestern Thai PH"
+            },
+            {
+                "id": "laot1235",
+                "label": "Lao-Thai"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -1870,6 +2691,24 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 16,
+        "coords": [
+            102.46,
+            19.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "KH",
+                "label": "Cambodia"
+            },
+            {
+                "ISO3166": "LA",
+                "label": "Lao People's Democratic Republic"
+            },
+            {
+                "ISO3166": "TH",
+                "label": "Thailand"
+            }
+        ],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -1899,6 +2738,48 @@
             "DEM": "demonstrative",
             "INANIMATE": null
         },
+        "ancestors": [
+            {
+                "id": "taik1256",
+                "label": "Tai-Kadai"
+            },
+            {
+                "id": "kamt1241",
+                "label": "Kam-Tai"
+            },
+            {
+                "id": "daic1238",
+                "label": "Daic-Beic"
+            },
+            {
+                "id": "daic1237",
+                "label": "Daic"
+            },
+            {
+                "id": "cent2251",
+                "label": "Central-Southwestern Tai"
+            },
+            {
+                "id": "wenm1239",
+                "label": "Wenma-Southwestern Tai"
+            },
+            {
+                "id": "sapa1255",
+                "label": "Sapa-Southwestern Tai"
+            },
+            {
+                "id": "sout3184",
+                "label": "Southwestern Tai"
+            },
+            {
+                "id": "sput1235",
+                "label": "Southwestern Thai PH"
+            },
+            {
+                "id": "laot1235",
+                "label": "Lao-Thai"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -1909,6 +2790,24 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 15,
+        "coords": [
+            102.46,
+            19.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "KH",
+                "label": "Cambodia"
+            },
+            {
+                "ISO3166": "LA",
+                "label": "Lao People's Democratic Republic"
+            },
+            {
+                "ISO3166": "TH",
+                "label": "Thailand"
+            }
+        ],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -1935,6 +2834,48 @@
         "abbrkey": {
             "LUMP": null
         },
+        "ancestors": [
+            {
+                "id": "taik1256",
+                "label": "Tai-Kadai"
+            },
+            {
+                "id": "kamt1241",
+                "label": "Kam-Tai"
+            },
+            {
+                "id": "daic1238",
+                "label": "Daic-Beic"
+            },
+            {
+                "id": "daic1237",
+                "label": "Daic"
+            },
+            {
+                "id": "cent2251",
+                "label": "Central-Southwestern Tai"
+            },
+            {
+                "id": "wenm1239",
+                "label": "Wenma-Southwestern Tai"
+            },
+            {
+                "id": "sapa1255",
+                "label": "Sapa-Southwestern Tai"
+            },
+            {
+                "id": "sout3184",
+                "label": "Southwestern Tai"
+            },
+            {
+                "id": "sput1235",
+                "label": "Southwestern Thai PH"
+            },
+            {
+                "id": "laot1235",
+                "label": "Lao-Thai"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -1944,14 +2885,27 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 16,
-        "doc_ID": 96,
-        "doc_URL": "https://langsci-press.org/catalog/book/96",
-        "entities": [
+        "coords": [
+            102.46,
+            19.0
+        ],
+        "countries": [
             {
-                "label": "crumpled",
-                "wdid": "Q29017879"
+                "ISO3166": "KH",
+                "label": "Cambodia"
+            },
+            {
+                "ISO3166": "LA",
+                "label": "Lao People's Democratic Republic"
+            },
+            {
+                "ISO3166": "TH",
+                "label": "Thailand"
             }
         ],
+        "doc_ID": 96,
+        "doc_URL": "https://langsci-press.org/catalog/book/96",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cia4</div>\n\t\t<div class=\"glossblock\">paper</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">saam3</div>\n\t\t<div class=\"glossblock\">three</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kòòn4</div>\n\t\t<div class=\"glossblock\">NUM_CL:LUMP</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "paper",
@@ -1978,6 +2932,48 @@
             "DEM": "demonstrative",
             "LUMP": null
         },
+        "ancestors": [
+            {
+                "id": "taik1256",
+                "label": "Tai-Kadai"
+            },
+            {
+                "id": "kamt1241",
+                "label": "Kam-Tai"
+            },
+            {
+                "id": "daic1238",
+                "label": "Daic-Beic"
+            },
+            {
+                "id": "daic1237",
+                "label": "Daic"
+            },
+            {
+                "id": "cent2251",
+                "label": "Central-Southwestern Tai"
+            },
+            {
+                "id": "wenm1239",
+                "label": "Wenma-Southwestern Tai"
+            },
+            {
+                "id": "sapa1255",
+                "label": "Sapa-Southwestern Tai"
+            },
+            {
+                "id": "sout3184",
+                "label": "Southwestern Tai"
+            },
+            {
+                "id": "sput1235",
+                "label": "Southwestern Thai PH"
+            },
+            {
+                "id": "laot1235",
+                "label": "Lao-Thai"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -1988,14 +2984,27 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 15,
-        "doc_ID": 96,
-        "doc_URL": "https://langsci-press.org/catalog/book/96",
-        "entities": [
+        "coords": [
+            102.46,
+            19.0
+        ],
+        "countries": [
             {
-                "label": "crumpled",
-                "wdid": "Q29017879"
+                "ISO3166": "KH",
+                "label": "Cambodia"
+            },
+            {
+                "ISO3166": "LA",
+                "label": "Lao People's Democratic Republic"
+            },
+            {
+                "ISO3166": "TH",
+                "label": "Thailand"
             }
         ],
+        "doc_ID": 96,
+        "doc_URL": "https://langsci-press.org/catalog/book/96",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cia4</div>\n\t\t<div class=\"glossblock\">paper</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kòònø=nii4</div>\n\t\t<div class=\"glossblock\">MOD_CL:LUMP=DEM</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "paper",
@@ -2020,6 +3029,7 @@
             "2SG": "second person singular",
             "NOM": "nominative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -2028,6 +3038,11 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 13,
+        "coords": [
+            -116.715,
+            47.2958
+        ],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -2053,6 +3068,7 @@
             "2SG": "second person singular",
             "NOM": "nominative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -2061,6 +3077,11 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 13,
+        "coords": [
+            -116.715,
+            47.2958
+        ],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -2087,6 +3108,7 @@
             "ABS": "absolutive",
             "D": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -2096,6 +3118,11 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 24,
+        "coords": [
+            -116.715,
+            47.2958
+        ],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -2126,6 +3153,7 @@
             "ABS": "absolutive",
             "D": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -2135,6 +3163,11 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 24,
+        "coords": [
+            -116.715,
+            47.2958
+        ],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -2168,6 +3201,7 @@
             "PAST": null,
             "PN": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -2180,6 +3214,11 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 26,
+        "coords": [
+            -116.715,
+            47.2958
+        ],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -2215,6 +3254,7 @@
             "NOM": "nominative",
             "PN": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -2227,6 +3267,11 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 27,
+        "coords": [
+            -116.715,
+            47.2958
+        ],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -2260,6 +3305,7 @@
             "PAST": null,
             "PN": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -2270,6 +3316,11 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 21,
+        "coords": [
+            -116.715,
+            47.2958
+        ],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -2303,6 +3354,7 @@
             "NOM": "nominative",
             "PN": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -2313,6 +3365,8 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 22,
+        "coords": [],
+        "countries": [],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -2345,6 +3399,32 @@
             "D": null,
             "PERF": null
         },
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "grea1284",
+                "label": "Greater Central Philippine"
+            },
+            {
+                "id": "cent2246",
+                "label": "Central Philippine"
+            },
+            {
+                "id": "taga1280",
+                "label": "Tagalogic"
+            },
+            {
+                "id": "taga1269",
+                "label": "Tagalog-Filipino"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -2354,6 +3434,16 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 18,
+        "coords": [
+            121.747,
+            14.06
+        ],
+        "countries": [
+            {
+                "ISO3166": "PH",
+                "label": "Philippines"
+            }
+        ],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -2382,6 +3472,32 @@
         "abbrkey": {
             "D": null
         },
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "grea1284",
+                "label": "Greater Central Philippine"
+            },
+            {
+                "id": "cent2246",
+                "label": "Central Philippine"
+            },
+            {
+                "id": "taga1280",
+                "label": "Tagalogic"
+            },
+            {
+                "id": "taga1269",
+                "label": "Tagalog-Filipino"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -2389,6 +3505,16 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 17,
+        "coords": [
+            121.747,
+            14.06
+        ],
+        "countries": [
+            {
+                "ISO3166": "PH",
+                "label": "Philippines"
+            }
+        ],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -2419,6 +3545,32 @@
             "D": null,
             "PERF": null
         },
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "grea1284",
+                "label": "Greater Central Philippine"
+            },
+            {
+                "id": "cent2246",
+                "label": "Central Philippine"
+            },
+            {
+                "id": "taga1280",
+                "label": "Tagalogic"
+            },
+            {
+                "id": "taga1269",
+                "label": "Tagalog-Filipino"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -2428,6 +3580,16 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 18,
+        "coords": [
+            121.747,
+            14.06
+        ],
+        "countries": [
+            {
+                "ISO3166": "PH",
+                "label": "Philippines"
+            }
+        ],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],
@@ -2458,6 +3620,32 @@
             "IDPH": null,
             "Q": "question particle/marker"
         },
+        "ancestors": [
+            {
+                "id": "atla1278",
+                "label": "Atlantic-Congo"
+            },
+            {
+                "id": "volt1241",
+                "label": "Volta-Congo"
+            },
+            {
+                "id": "kwav1236",
+                "label": "Kwa Volta-Congo"
+            },
+            {
+                "id": "nato1234",
+                "label": "Na-Togo"
+            },
+            {
+                "id": "lele1262",
+                "label": "Lelemic"
+            },
+            {
+                "id": "lele1263",
+                "label": "Lelemi-Akpafu"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Dependencies in language",
         "categories": [
@@ -2467,6 +3655,16 @@
         ],
         "citation": "enfield:ed:17",
         "clength": 31,
+        "coords": [
+            0.44362,
+            7.23811
+        ],
+        "countries": [
+            {
+                "ISO3166": "GH",
+                "label": "Ghana"
+            }
+        ],
         "doc_ID": 96,
         "doc_URL": "https://langsci-press.org/catalog/book/96",
         "entities": [],

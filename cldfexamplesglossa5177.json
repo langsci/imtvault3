@@ -2,6 +2,7 @@
     {
         "ID": "glossa5177-1",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -9,6 +10,8 @@
         ],
         "citation": "jaeger:19[1a]",
         "clength": 39,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -41,6 +44,7 @@
     {
         "ID": "glossa5177-2",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -48,6 +52,8 @@
         ],
         "citation": "jaeger:19[1b]",
         "clength": 40,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -82,6 +88,7 @@
     {
         "ID": "glossa5177-3",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -89,6 +96,8 @@
         ],
         "citation": "jaeger:19[1c]",
         "clength": 32,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -121,12 +130,15 @@
     {
         "ID": "glossa5177-4",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A"
         ],
         "citation": "jaeger:19[1d]",
         "clength": 101,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -180,6 +192,7 @@
             "ACC": "accusative, ATB = Across-The-Board movement, DFC = Doubly-Filled Comp, ENHG = Early New High German, MHG = Middle High German, NHG = New High German",
             "NOM": "nominative, OHG = Old High German"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -188,6 +201,8 @@
         ],
         "citation": "jaeger:19[6]",
         "clength": 39,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -222,10 +237,13 @@
     {
         "ID": "glossa5177-6",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "jaeger:19[7a]",
         "clength": 32,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -260,10 +278,13 @@
     {
         "ID": "glossa5177-7",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "jaeger:19[7b]",
         "clength": 46,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -302,10 +323,13 @@
     {
         "ID": "glossa5177-8",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "jaeger:19[8a]",
         "clength": 64,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -354,10 +378,13 @@
     {
         "ID": "glossa5177-9",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "jaeger:19[8b]",
         "clength": 62,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -404,12 +431,88 @@
     {
         "ID": "glossa5177-10",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "alem1243",
+                "label": "Alemannic"
+            },
+            {
+                "id": "sout3294",
+                "label": "South Alemannic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "I"
         ],
         "citation": "friedli:12[4];jaeger:19[via:11]",
         "clength": 48,
+        "coords": [
+            8.46419,
+            47.0516
+        ],
+        "countries": [
+            {
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "FR",
+                "label": "France"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "LI",
+                "label": "Liechtenstein"
+            }
+        ],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -448,10 +551,13 @@
     {
         "ID": "glossa5177-11",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "maurer:67;jaeger:19[via:13]",
         "clength": 46,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -490,10 +596,13 @@
     {
         "ID": "glossa5177-12",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "maurer:67;jaeger:19[via:14a]",
         "clength": 31,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -532,10 +641,13 @@
     {
         "ID": "glossa5177-13",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "maurer:67;jaeger:19[via:14b]",
         "clength": 33,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -574,10 +686,13 @@
     {
         "ID": "glossa5177-14",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "maurer:67;jaeger:19[via:14c]",
         "clength": 32,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -616,23 +731,17 @@
     {
         "ID": "glossa5177-15",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "kottannerin:mollay:71;jaeger:19[via:15a]",
         "clength": 81,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
-        "entities": [
-            {
-                "label": "armour",
-                "wdid": "Q20793164"
-            },
-            {
-                "label": "artificial object",
-                "wdid": "Q16686448"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">do</div>\n\t\t<div class=\"glossblock\">there</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kam</div>\n\t\t<div class=\"glossblock\">came</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ain</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">grosser</div>\n\t\t<div class=\"glossblock\">big</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ludem</div>\n\t\t<div class=\"glossblock\">noise</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vnd</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gerumppel,</div>\n\t\t<div class=\"glossblock\">rumbling</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">als</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vil</div>\n\t\t<div class=\"glossblock\">many</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mit</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">harnasch</div>\n\t\t<div class=\"glossblock\">armour</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">an</div>\n\t\t<div class=\"glossblock\">at</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tuer</div>\n\t\t<div class=\"glossblock\">door</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wëren]</div>\n\t\t<div class=\"glossblock\">were</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "there",
@@ -656,12 +765,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "artificial object",
-                "wdid": "Q16686448"
-            }
-        ],
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "do",
@@ -687,10 +791,13 @@
     {
         "ID": "glossa5177-16",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "kottannerin:mollay:71;jaeger:19[via:15b]",
         "clength": 44,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -729,10 +836,13 @@
     {
         "ID": "glossa5177-17",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "kottannerin:mollay:71;jaeger:19[via:15c]",
         "clength": 43,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -771,12 +881,15 @@
     {
         "ID": "glossa5177-18",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "I"
         ],
         "citation": "gropper:nd;jaeger:19[via:17]",
         "clength": 117,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -836,10 +949,13 @@
     {
         "ID": "glossa5177-19",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "kottannerin:mollay:71;jaeger:19[via:18]",
         "clength": 78,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -894,19 +1010,17 @@
     {
         "ID": "glossa5177-20",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "lavater:nd;jaeger:19[via:19]",
         "clength": 79,
         "coordination": "or",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
-        "entities": [
-            {
-                "label": "whistling",
-                "wdid": "Q864184"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">so</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bedunckt</div>\n\t\t<div class=\"glossblock\">seems-to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jn</div>\n\t\t<div class=\"glossblock\">him</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zun</div>\n\t\t<div class=\"glossblock\">at</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zyten</div>\n\t\t<div class=\"glossblock\">times</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">er</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hoᵉre</div>\n\t\t<div class=\"glossblock\">heard</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">etwas</div>\n\t\t<div class=\"glossblock\">something</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">susen</div>\n\t\t<div class=\"glossblock\">whistle</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oder</div>\n\t\t<div class=\"glossblock\">or</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">prastlen</div>\n\t\t<div class=\"glossblock\">crackle</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">als</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wenn</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">es</div>\n\t\t<div class=\"glossblock\">it</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">windete</div>\n\t\t<div class=\"glossblock\">was-windy</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "so",
@@ -954,6 +1068,7 @@
     {
         "ID": "glossa5177-21",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "E",
@@ -962,6 +1077,8 @@
         ],
         "citation": "gropper:nd;jaeger:19[via:20]",
         "clength": 161,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -1042,6 +1159,7 @@
         "abbrkey": {
             "PTCL": "particle"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1051,6 +1169,8 @@
         ],
         "citation": "jaeger:19[21]",
         "clength": 71,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -1097,6 +1217,7 @@
     {
         "ID": "glossa5177-23",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1104,6 +1225,8 @@
         ],
         "citation": "jaeger:19[22a]",
         "clength": 57,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -1142,6 +1265,7 @@
     {
         "ID": "glossa5177-24",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1149,6 +1273,8 @@
         ],
         "citation": "jaeger:19[22b]",
         "clength": 27,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -1179,6 +1305,7 @@
     {
         "ID": "glossa5177-25",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1186,6 +1313,8 @@
         ],
         "citation": "jaeger:19[23a]",
         "clength": 55,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -1231,6 +1360,7 @@
     {
         "ID": "glossa5177-26",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1238,6 +1368,8 @@
         ],
         "citation": "jaeger:19[23b]",
         "clength": 36,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -1271,6 +1403,7 @@
     {
         "ID": "glossa5177-27",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1278,6 +1411,8 @@
         ],
         "citation": "jaeger:19[24a]",
         "clength": 64,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -1327,6 +1462,7 @@
     {
         "ID": "glossa5177-28",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1334,6 +1470,8 @@
         ],
         "citation": "jaeger:19[24b]",
         "clength": 36,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -1367,10 +1505,13 @@
     {
         "ID": "glossa5177-29",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "jaeger:19[25]",
         "clength": 58,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -1411,12 +1552,15 @@
         "abbrkey": {
             "REFL": "reflexive, RNR = Right Node Raising;"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "REFL"
         ],
         "citation": "jaeger:19[26]",
         "clength": 74,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -1463,18 +1607,89 @@
     {
         "ID": "glossa5177-31",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "baye1239",
+                "label": "Bairisch"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "eroms:kraemer-neubert:etal:05;jaeger:19[via:27]",
         "clength": 68,
-        "doc_ID": 5177,
-        "doc_URL": "https://www.glossa-journal.org/article/id/5177",
-        "entities": [
+        "coords": [
+            13.246,
+            47.9232
+        ],
+        "countries": [
             {
-                "label": "norm",
-                "wdid": "Q956437"
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "CZ",
+                "label": "Czechia"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
             }
         ],
+        "doc_ID": 5177,
+        "doc_URL": "https://www.glossa-journal.org/article/id/5177",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">so</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">das</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma</div>\n\t\t<div class=\"glossblock\">we</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">do</div>\n\t\t<div class=\"glossblock\">there</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ned</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iba</div>\n\t\t<div class=\"glossblock\">above</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">norm</div>\n\t\t<div class=\"glossblock\">norm</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">khema</div>\n\t\t<div class=\"glossblock\">come</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">san,</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">which</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wia</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">they</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aufgschdaid</div>\n\t\t<div class=\"glossblock\">put-up</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ham]</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "so",
@@ -1525,6 +1740,7 @@
     {
         "ID": "glossa5177-32",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1532,6 +1748,8 @@
         ],
         "citation": "jaeger:19[28]",
         "clength": 78,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -1576,6 +1794,7 @@
     {
         "ID": "glossa5177-33",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1583,6 +1802,8 @@
         ],
         "citation": "jaeger:19[29]",
         "clength": 88,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -1631,64 +1852,18 @@
     {
         "ID": "glossa5177-34",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "H"
         ],
         "citation": "jaeger:19[30]",
         "clength": 41,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
-        "entities": [
-            {
-                "label": "wie",
-                "wdid": "Q10720039"
-            },
-            {
-                "label": "Hanno",
-                "wdid": "Q296478"
-            },
-            {
-                "label": "cough",
-                "wdid": "Q35805"
-            },
-            {
-                "label": "watchdog",
-                "wdid": "Q38826"
-            },
-            {
-                "label": "wenn",
-                "wdid": "Q7948980"
-            },
-            {
-                "label": "coughing",
-                "wdid": "Q975803"
-            },
-            {
-                "label": "Hazard",
-                "wdid": "Q1132455"
-            },
-            {
-                "label": "possibility",
-                "wdid": "Q21170479"
-            },
-            {
-                "label": "respiratory_signs_and_symptoms",
-                "wdid": "Q42183538"
-            },
-            {
-                "label": "human activity",
-                "wdid": "Q61788060"
-            },
-            {
-                "label": "physiological condition",
-                "wdid": "Q7189713"
-            },
-            {
-                "label": "risk source",
-                "wdid": "Q86923152"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hanno</div>\n\t\t<div class=\"glossblock\">Hanno</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hustet,</div>\n\t\t<div class=\"glossblock\">coughes</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wie</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wenn</div>\n\t\t<div class=\"glossblock\">if</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ein</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hofhund</div>\n\t\t<div class=\"glossblock\">watchdog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bellt.</div>\n\t\t<div class=\"glossblock\">barks</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Hanno",
@@ -1703,32 +1878,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "Hazard",
-                "wdid": "Q1132455"
-            },
-            {
-                "label": "possibility",
-                "wdid": "Q21170479"
-            },
-            {
-                "label": "respiratory_signs_and_symptoms",
-                "wdid": "Q42183538"
-            },
-            {
-                "label": "human activity",
-                "wdid": "Q61788060"
-            },
-            {
-                "label": "physiological condition",
-                "wdid": "Q7189713"
-            },
-            {
-                "label": "risk source",
-                "wdid": "Q86923152"
-            }
-        ],
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Hanno",
@@ -1745,10 +1895,13 @@
     {
         "ID": "glossa5177-35",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "steitz:81[331];jaeger:19[via:32]",
         "clength": 41,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -1785,10 +1938,13 @@
     {
         "ID": "glossa5177-36",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "jaeger:19[33]",
         "clength": 55,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -1831,6 +1987,48 @@
     {
         "ID": "glossa5177-37",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "baye1239",
+                "label": "Bairisch"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1838,14 +2036,43 @@
         ],
         "citation": "jaeger:19[34a]",
         "clength": 49,
-        "doc_ID": 5177,
-        "doc_URL": "https://www.glossa-journal.org/article/id/5177",
-        "entities": [
+        "coords": [
+            13.246,
+            47.9232
+        ],
+        "countries": [
             {
-                "label": "Sabine",
-                "wdid": "Q108356"
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "CZ",
+                "label": "Czechia"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
             }
         ],
+        "doc_ID": 5177,
+        "doc_URL": "https://www.glossa-journal.org/article/id/5177",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">D’Sabine</div>\n\t\t<div class=\"glossblock\">the Sabine</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">laaft</div>\n\t\t<div class=\"glossblock\">walks</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">so</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">schnej</div>\n\t\t<div class=\"glossblock\">fast</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wie</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dass</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">d’Anna</div>\n\t\t<div class=\"glossblock\">the Anne</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">raalfod.</div>\n\t\t<div class=\"glossblock\">cycles</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the Sabine",
@@ -1879,6 +2106,48 @@
     {
         "ID": "glossa5177-38",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "baye1239",
+                "label": "Bairisch"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "S",
@@ -1886,14 +2155,43 @@
         ],
         "citation": "jaeger:19[34b]",
         "clength": 55,
-        "doc_ID": 5177,
-        "doc_URL": "https://www.glossa-journal.org/article/id/5177",
-        "entities": [
+        "coords": [
+            13.246,
+            47.9232
+        ],
+        "countries": [
             {
-                "label": "Sabine",
-                "wdid": "Q108356"
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "CZ",
+                "label": "Czechia"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
             }
         ],
+        "doc_ID": 5177,
+        "doc_URL": "https://www.glossa-journal.org/article/id/5177",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">D’Sabine</div>\n\t\t<div class=\"glossblock\">the Sabine</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mochts</div>\n\t\t<div class=\"glossblock\">does-it</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">asoo</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wie</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dassd’</div>\n\t\t<div class=\"glossblock\">that.2.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">as</div>\n\t\t<div class=\"glossblock\">it</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">du</div>\n\t\t<div class=\"glossblock\">you</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">imma</div>\n\t\t<div class=\"glossblock\">always</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gmocht</div>\n\t\t<div class=\"glossblock\">done</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hosd.</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the Sabine",
@@ -1931,10 +2229,86 @@
     {
         "ID": "glossa5177-39",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "baye1239",
+                "label": "Bairisch"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "jaeger:19[34c]",
         "clength": 57,
+        "coords": [
+            13.246,
+            47.9232
+        ],
+        "countries": [
+            {
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "CZ",
+                "label": "Czechia"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            }
+        ],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -1977,10 +2351,66 @@
     {
         "ID": "glossa5177-40",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "alem1243",
+                "label": "Alemannic"
+            },
+            {
+                "id": "nort3310",
+                "label": "North Alemannic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "jaeger:19[34d]",
         "clength": 56,
+        "coords": [
+            9.987111,
+            48.386796
+        ],
+        "countries": [
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            }
+        ],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -2025,12 +2455,88 @@
         "abbrkey": {
             "PTCL": "particle"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "alem1243",
+                "label": "Alemannic"
+            },
+            {
+                "id": "sout3294",
+                "label": "South Alemannic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "PTCL"
         ],
         "citation": "jaeger:19[34e]",
         "clength": 48,
+        "coords": [
+            8.46419,
+            47.0516
+        ],
+        "countries": [
+            {
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "FR",
+                "label": "France"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "LI",
+                "label": "Liechtenstein"
+            }
+        ],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -2069,10 +2575,13 @@
     {
         "ID": "glossa5177-42",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "kleiber:04;jaeger:19[via:37]",
         "clength": 49,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -2116,6 +2625,7 @@
     {
         "ID": "glossa5177-43",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "I",
@@ -2123,18 +2633,11 @@
         ],
         "citation": "sehrt:starck:etal:nd[Boethius];jaeger:19[via:38]",
         "clength": 126,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
-        "entities": [
-            {
-                "label": "consulship",
-                "wdid": "Q40779"
-            },
-            {
-                "label": "efface",
-                "wdid": "Q5065332"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Iâ</div>\n\t\t<div class=\"glossblock\">PTCL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">uuóltôn</div>\n\t\t<div class=\"glossblock\">wanted</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">îuuere</div>\n\t\t<div class=\"glossblock\">your</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fórderen</div>\n\t\t<div class=\"glossblock\">ancestors</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">álso</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dû</div>\n\t\t<div class=\"glossblock\">you</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">uuâno</div>\n\t\t<div class=\"glossblock\">believe</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">îh</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kehúgest</div>\n\t\t<div class=\"glossblock\">remember</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">uuîo</div>\n\t\t<div class=\"glossblock\">as/how</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dû</div>\n\t\t<div class=\"glossblock\">you</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lâse</div>\n\t\t<div class=\"glossblock\">read</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">úmbe</div>\n\t\t<div class=\"glossblock\">because-of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dîa</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">úbermûoti</div>\n\t\t<div class=\"glossblock\">presumption</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dero</div>\n\t\t<div class=\"glossblock\">of-the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">consulum</div>\n\t\t<div class=\"glossblock\">consuls</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tîligôn</div>\n\t\t<div class=\"glossblock\">efface</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iro</div>\n\t\t<div class=\"glossblock\">their</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ámbácht</div>\n\t\t<div class=\"glossblock\">post</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PTCL",
@@ -2201,12 +2704,15 @@
     {
         "ID": "glossa5177-44",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "I"
         ],
         "citation": "paul:klein:etal:07;jaeger:19[via:39]",
         "clength": 28,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -2242,10 +2748,13 @@
     {
         "ID": "glossa5177-45",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "batts:71;jaeger:19[via:40]",
         "clength": 68,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -2294,6 +2803,7 @@
     {
         "ID": "glossa5177-46",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "L"
@@ -2301,18 +2811,11 @@
         "citation": "mathesius:nd;jaeger:19[via:43]",
         "clength": 124,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
-        "entities": [
-            {
-                "label": "blasphemously",
-                "wdid": "Q200481"
-            },
-            {
-                "label": "Lord’s supper",
-                "wdid": "Q66086"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Darumb</div>\n\t\t<div class=\"glossblock\">for-which</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sie</div>\n\t\t<div class=\"glossblock\">they</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">auch</div>\n\t\t<div class=\"glossblock\">also</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">also</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">schmehlich</div>\n\t\t<div class=\"glossblock\">ignominiously</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vnd</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gotteslesterlich/</div>\n\t\t<div class=\"glossblock\">blasphemously</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[wie</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">die</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mahometisten]</div>\n\t\t<div class=\"glossblock\">muslims</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vom</div>\n\t\t<div class=\"glossblock\">of-the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Abendmal</div>\n\t\t<div class=\"glossblock\">supper</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">des</div>\n\t\t<div class=\"glossblock\">of-the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">HERRN</div>\n\t\t<div class=\"glossblock\">Lord</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[…]</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gedencken</div>\n\t\t<div class=\"glossblock\">think</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vnd</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">reden.</div>\n\t\t<div class=\"glossblock\">talk</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "for-which",
@@ -2366,6 +2869,7 @@
     {
         "ID": "glossa5177-47",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "I"
@@ -2373,6 +2877,8 @@
         "citation": "jaeger:19[44]",
         "clength": 137,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -2439,6 +2945,7 @@
     {
         "ID": "glossa5177-48",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -2446,6 +2953,8 @@
         ],
         "citation": "jaeger:19[45a]",
         "clength": 73,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -2488,6 +2997,7 @@
     {
         "ID": "glossa5177-49",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -2496,6 +3006,8 @@
         ],
         "citation": "jaeger:19[45b]",
         "clength": 96,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -2548,6 +3060,7 @@
     {
         "ID": "glossa5177-50",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -2555,6 +3068,8 @@
         ],
         "citation": "jaeger:19[45c]",
         "clength": 71,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -2597,11 +3112,14 @@
     {
         "ID": "glossa5177-51",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "bange:nd;jaeger:19[via:46]",
         "clength": 78,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -2650,12 +3168,15 @@
     {
         "ID": "glossa5177-52",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "I"
         ],
         "citation": "kottannerin:mollay:71;jaeger:19[via:47]",
         "clength": 70,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -2702,6 +3223,7 @@
     {
         "ID": "glossa5177-53",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "C",
@@ -2709,18 +3231,11 @@
         ],
         "citation": "jaeger:19[48]",
         "clength": 40,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
-        "entities": [
-            {
-                "label": "Cologne",
-                "wdid": "Q1954"
-            },
-            {
-                "label": "Halle",
-                "wdid": "Q2814"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">In</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Köln</div>\n\t\t<div class=\"glossblock\">Cologne</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">regnet</div>\n\t\t<div class=\"glossblock\">rains</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">es</div>\n\t\t<div class=\"glossblock\">it</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">öfter</div>\n\t\t<div class=\"glossblock\">more-often</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">als</div>\n\t\t<div class=\"glossblock\">than</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">in</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Halle].</div>\n\t\t<div class=\"glossblock\">Halle</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "in",
@@ -2756,10 +3271,13 @@
     {
         "ID": "glossa5177-54",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "jaeger:19[49]",
         "clength": 41,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -2794,6 +3312,7 @@
     {
         "ID": "glossa5177-55",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -2801,6 +3320,8 @@
         ],
         "citation": "jaeger:19[50]",
         "clength": 47,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -2837,6 +3358,7 @@
     {
         "ID": "glossa5177-56",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -2844,6 +3366,8 @@
         ],
         "citation": "jaeger:19[51]",
         "clength": 49,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -2884,6 +3408,7 @@
         "abbrkey": {
             "PTCL": "particle"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -2892,6 +3417,8 @@
         ],
         "citation": "jaeger:19[52]",
         "clength": 68,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -2936,6 +3463,7 @@
         "abbrkey": {
             "ACC": "accusative, ATB = Across-The-Board movement, DFC = Doubly-Filled Comp, ENHG = Early New High German, MHG = Middle High German, NHG = New High German"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -2943,6 +3471,8 @@
         ],
         "citation": "jaeger:19[53a]",
         "clength": 40,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -2981,6 +3511,7 @@
         "abbrkey": {
             "NOM": "nominative, OHG = Old High German"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -2988,6 +3519,8 @@
         ],
         "citation": "jaeger:19[53b]",
         "clength": 40,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -3024,6 +3557,7 @@
     {
         "ID": "glossa5177-60",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -3031,6 +3565,8 @@
         ],
         "citation": "jaeger:19[54a]",
         "clength": 39,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -3069,12 +3605,15 @@
     {
         "ID": "glossa5177-61",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A"
         ],
         "citation": "jaeger:19[54b]",
         "clength": 37,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -3111,6 +3650,7 @@
     {
         "ID": "glossa5177-62",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -3118,6 +3658,8 @@
         ],
         "citation": "jaeger:19[54c]",
         "clength": 40,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -3154,6 +3696,7 @@
     {
         "ID": "glossa5177-63",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -3161,6 +3704,8 @@
         ],
         "citation": "jaeger:19[55a]",
         "clength": 31,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -3195,6 +3740,7 @@
     {
         "ID": "glossa5177-64",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -3202,6 +3748,8 @@
         ],
         "citation": "jaeger:19[55b]",
         "clength": 33,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -3234,6 +3782,7 @@
     {
         "ID": "glossa5177-65",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -3241,6 +3790,8 @@
         ],
         "citation": "jaeger:19[55c]",
         "clength": 44,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -3277,6 +3828,7 @@
     {
         "ID": "glossa5177-66",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -3284,6 +3836,8 @@
         ],
         "citation": "jaeger:19[56a]",
         "clength": 39,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -3322,6 +3876,7 @@
     {
         "ID": "glossa5177-67",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -3329,6 +3884,8 @@
         ],
         "citation": "jaeger:19[56b]",
         "clength": 43,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -3365,6 +3922,48 @@
     {
         "ID": "glossa5177-68",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "baye1239",
+                "label": "Bairisch"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "R",
@@ -3372,6 +3971,40 @@
         ],
         "citation": "jaeger:19[58a]",
         "clength": 53,
+        "coords": [
+            13.246,
+            47.9232
+        ],
+        "countries": [
+            {
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "CZ",
+                "label": "Czechia"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            }
+        ],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -3414,6 +4047,48 @@
     {
         "ID": "glossa5177-69",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "baye1239",
+                "label": "Bairisch"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "R",
@@ -3421,6 +4096,40 @@
         ],
         "citation": "jaeger:19[58b]",
         "clength": 48,
+        "coords": [
+            13.246,
+            47.9232
+        ],
+        "countries": [
+            {
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "CZ",
+                "label": "Czechia"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            }
+        ],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -3457,6 +4166,48 @@
     {
         "ID": "glossa5177-70",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "baye1239",
+                "label": "Bairisch"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -3464,6 +4215,40 @@
         ],
         "citation": "jaeger:19[59a]",
         "clength": 48,
+        "coords": [
+            13.246,
+            47.9232
+        ],
+        "countries": [
+            {
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "CZ",
+                "label": "Czechia"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            }
+        ],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -3502,6 +4287,48 @@
     {
         "ID": "glossa5177-71",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "baye1239",
+                "label": "Bairisch"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -3509,6 +4336,40 @@
         ],
         "citation": "jaeger:19[59b]",
         "clength": 46,
+        "coords": [
+            13.246,
+            47.9232
+        ],
+        "countries": [
+            {
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "CZ",
+                "label": "Czechia"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            }
+        ],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -3547,6 +4408,48 @@
         "abbrkey": {
             "SG": "singular"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "baye1239",
+                "label": "Bairisch"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "R",
@@ -3554,6 +4457,40 @@
         ],
         "citation": "bayer:84[269, fn. 49];jaeger:19[via:60a]",
         "clength": 36,
+        "coords": [
+            13.246,
+            47.9232
+        ],
+        "countries": [
+            {
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "CZ",
+                "label": "Czechia"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            }
+        ],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -3588,6 +4525,48 @@
         "abbrkey": {
             "SG": "singular"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "baye1239",
+                "label": "Bairisch"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "R",
@@ -3595,6 +4574,40 @@
         ],
         "citation": "bayer:84[269, fn. 49];jaeger:19[via:60b]",
         "clength": 40,
+        "coords": [
+            13.246,
+            47.9232
+        ],
+        "countries": [
+            {
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "CZ",
+                "label": "Czechia"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            }
+        ],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -3631,6 +4644,48 @@
         "abbrkey": {
             "SG": "singular"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "baye1239",
+                "label": "Bairisch"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "R",
@@ -3638,6 +4693,40 @@
         ],
         "citation": "bayer:84[269, fn. 49];jaeger:19[via:60c]",
         "clength": 32,
+        "coords": [
+            13.246,
+            47.9232
+        ],
+        "countries": [
+            {
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "CZ",
+                "label": "Czechia"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            }
+        ],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -3670,6 +4759,48 @@
         "abbrkey": {
             "SG": "singular"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "baye1239",
+                "label": "Bairisch"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "R",
@@ -3677,6 +4808,40 @@
         ],
         "citation": "bayer:84[269, fn. 49];jaeger:19[via:60d]",
         "clength": 36,
+        "coords": [
+            13.246,
+            47.9232
+        ],
+        "countries": [
+            {
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "CZ",
+                "label": "Czechia"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            }
+        ],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -3709,12 +4874,88 @@
     {
         "ID": "glossa5177-76",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "baye1239",
+                "label": "Bairisch"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "R"
         ],
         "citation": "bayer:84[269, fn. 49];jaeger:19[via:60e]",
         "clength": 29,
+        "coords": [
+            13.246,
+            47.9232
+        ],
+        "countries": [
+            {
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "CZ",
+                "label": "Czechia"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            }
+        ],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -3747,6 +4988,48 @@
         "abbrkey": {
             "SG": "singular"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "baye1239",
+                "label": "Bairisch"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "R",
@@ -3754,6 +5037,40 @@
         ],
         "citation": "jaeger:19[61a]",
         "clength": 44,
+        "coords": [
+            13.246,
+            47.9232
+        ],
+        "countries": [
+            {
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "CZ",
+                "label": "Czechia"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            }
+        ],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -3792,6 +5109,48 @@
         "abbrkey": {
             "SG": "singular"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "baye1239",
+                "label": "Bairisch"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "R",
@@ -3799,6 +5158,40 @@
         ],
         "citation": "jaeger:19[61b]",
         "clength": 48,
+        "coords": [
+            13.246,
+            47.9232
+        ],
+        "countries": [
+            {
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "CZ",
+                "label": "Czechia"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            }
+        ],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -3839,6 +5232,48 @@
         "abbrkey": {
             "SG": "singular"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "baye1239",
+                "label": "Bairisch"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "R",
@@ -3846,6 +5281,40 @@
         ],
         "citation": "jaeger:19[61c]",
         "clength": 40,
+        "coords": [
+            13.246,
+            47.9232
+        ],
+        "countries": [
+            {
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "CZ",
+                "label": "Czechia"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            }
+        ],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -3882,6 +5351,48 @@
         "abbrkey": {
             "SG": "singular"
         },
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "baye1239",
+                "label": "Bairisch"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "R",
@@ -3889,6 +5400,40 @@
         ],
         "citation": "jaeger:19[61d]",
         "clength": 44,
+        "coords": [
+            13.246,
+            47.9232
+        ],
+        "countries": [
+            {
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "CZ",
+                "label": "Czechia"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            }
+        ],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -3925,12 +5470,88 @@
     {
         "ID": "glossa5177-81",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "high1289",
+                "label": "High German"
+            },
+            {
+                "id": "high1286",
+                "label": "Upper German"
+            },
+            {
+                "id": "midd1349",
+                "label": "Middle-Modern High German"
+            },
+            {
+                "id": "mode1258",
+                "label": "Modern High German"
+            },
+            {
+                "id": "baye1239",
+                "label": "Bairisch"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "R"
         ],
         "citation": "jaeger:19[61e]",
         "clength": 37,
+        "coords": [
+            13.246,
+            47.9232
+        ],
+        "countries": [
+            {
+                "ISO3166": "AT",
+                "label": "Austria"
+            },
+            {
+                "ISO3166": "CH",
+                "label": "Switzerland"
+            },
+            {
+                "ISO3166": "CZ",
+                "label": "Czechia"
+            },
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            },
+            {
+                "ISO3166": "IT",
+                "label": "Italy"
+            },
+            {
+                "ISO3166": "RO",
+                "label": "Romania"
+            },
+            {
+                "ISO3166": "SI",
+                "label": "Slovenia"
+            }
+        ],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -3965,6 +5586,7 @@
     {
         "ID": "glossa5177-82",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -3972,6 +5594,8 @@
         ],
         "citation": "jaeger:19[62a]",
         "clength": 54,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -4010,6 +5634,7 @@
     {
         "ID": "glossa5177-83",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -4017,6 +5642,8 @@
         ],
         "citation": "jaeger:19[62b]",
         "clength": 24,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -4047,6 +5674,7 @@
     {
         "ID": "glossa5177-84",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -4055,6 +5683,8 @@
         ],
         "citation": "jaeger:19[62c]",
         "clength": 46,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -4091,6 +5721,7 @@
     {
         "ID": "glossa5177-85",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -4098,6 +5729,8 @@
         ],
         "citation": "jaeger:19[63a]",
         "clength": 59,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -4145,6 +5778,7 @@
     {
         "ID": "glossa5177-86",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -4152,6 +5786,8 @@
         ],
         "citation": "jaeger:19[63b]",
         "clength": 34,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -4185,6 +5821,7 @@
     {
         "ID": "glossa5177-87",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -4193,6 +5830,8 @@
         ],
         "citation": "jaeger:19[63c]",
         "clength": 46,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -4229,10 +5868,13 @@
     {
         "ID": "glossa5177-88",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "jaeger:19[64a]",
         "clength": 64,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -4277,10 +5919,13 @@
     {
         "ID": "glossa5177-89",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "jaeger:19[64b]",
         "clength": 67,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -4327,10 +5972,13 @@
     {
         "ID": "glossa5177-90",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "jaeger:19[65a]",
         "clength": 60,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -4373,10 +6021,13 @@
     {
         "ID": "glossa5177-91",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "jaeger:19[65b]",
         "clength": 63,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -4421,12 +6072,15 @@
     {
         "ID": "glossa5177-92",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "I"
         ],
         "citation": "predigten:jeitteles:72;jaeger:19[via:66]",
         "clength": 78,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -4475,10 +6129,13 @@
     {
         "ID": "glossa5177-93",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "kleiber:04;jaeger:19[via:67]",
         "clength": 52,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -4519,10 +6176,13 @@
     {
         "ID": "glossa5177-94",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "grimm:grimm:54[1384];jaeger:19[via:68]",
         "clength": 75,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -4573,18 +6233,16 @@
     {
         "ID": "glossa5177-95",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "ebert:reichmann:etal:93[447];jaeger:19[via:69]",
         "clength": 53,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
-        "entities": [
-            {
-                "label": "guldens",
-                "wdid": "Q788472"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">die</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zwene</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gulden,</div>\n\t\t<div class=\"glossblock\">guldens</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">als</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sie</div>\n\t\t<div class=\"glossblock\">they</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yme,</div>\n\t\t<div class=\"glossblock\">him</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wie</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vorstet,</div>\n\t\t<div class=\"glossblock\">before-stands</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">geben</div>\n\t\t<div class=\"glossblock\">given</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">han</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -4622,10 +6280,13 @@
     {
         "ID": "glossa5177-96",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "paul:klein:etal:07[406];jaeger:19[via:70]",
         "clength": 47,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -4668,18 +6329,16 @@
     {
         "ID": "glossa5177-97",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "ebert:reichmann:etal:93[479];jaeger:19[via:71]",
         "clength": 76,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
-        "entities": [
-            {
-                "label": "shrew",
-                "wdid": "Q41631"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ein</div>\n\t\t<div class=\"glossblock\">one</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">war</div>\n\t\t<div class=\"glossblock\">was</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aber</div>\n\t\t<div class=\"glossblock\">however</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">insunderheit</div>\n\t\t<div class=\"glossblock\">in-particular</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ein</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nidrige</div>\n\t\t<div class=\"glossblock\">lowly</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hadermetz</div>\n\t\t<div class=\"glossblock\">shrew</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wie</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">man</div>\n\t\t<div class=\"glossblock\">one</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ir</div>\n\t\t<div class=\"glossblock\">of-them</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wol</div>\n\t\t<div class=\"glossblock\">well</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mer</div>\n\t\t<div class=\"glossblock\">more</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">findt</div>\n\t\t<div class=\"glossblock\">finds</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -4725,6 +6384,7 @@
     {
         "ID": "glossa5177-98",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -4732,6 +6392,8 @@
         ],
         "citation": "jaeger:19[74]",
         "clength": 45,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -4766,6 +6428,7 @@
     {
         "ID": "glossa5177-99",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -4773,6 +6436,8 @@
         ],
         "citation": "jaeger:19[75]",
         "clength": 46,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -4809,6 +6474,7 @@
     {
         "ID": "glossa5177-100",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -4816,6 +6482,8 @@
         ],
         "citation": "jaeger:19[76]",
         "clength": 41,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -4852,6 +6520,7 @@
     {
         "ID": "glossa5177-101",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -4859,6 +6528,8 @@
         ],
         "citation": "jaeger:19[77]",
         "clength": 73,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -4905,12 +6576,15 @@
     {
         "ID": "glossa5177-102",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A"
         ],
         "citation": "jaeger:19[82a]",
         "clength": 50,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -4953,6 +6627,7 @@
     {
         "ID": "glossa5177-103",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A"
@@ -4960,6 +6635,8 @@
         "citation": "jaeger:19[82b]",
         "clength": 52,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -5000,6 +6677,7 @@
     {
         "ID": "glossa5177-104",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A"
@@ -5007,6 +6685,8 @@
         "citation": "jaeger:19[82c]",
         "clength": 43,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -5043,10 +6723,13 @@
     {
         "ID": "glossa5177-105",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "jaeger:19[82d]",
         "clength": 39,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -5081,12 +6764,15 @@
     {
         "ID": "glossa5177-106",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A"
         ],
         "citation": "jaeger:19[82e]",
         "clength": 46,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -5123,12 +6809,15 @@
     {
         "ID": "glossa5177-107",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "M"
         ],
         "citation": "jaeger:19[83a]",
         "clength": 33,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -5161,12 +6850,15 @@
     {
         "ID": "glossa5177-108",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "M"
         ],
         "citation": "jaeger:19[83b]",
         "clength": 37,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -5199,6 +6891,7 @@
     {
         "ID": "glossa5177-109",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "M"
@@ -5206,6 +6899,8 @@
         "citation": "jaeger:19[83c]",
         "clength": 28,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -5236,10 +6931,13 @@
     {
         "ID": "glossa5177-110",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "jaeger:19[83d]",
         "clength": 27,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -5270,12 +6968,15 @@
     {
         "ID": "glossa5177-111",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "M"
         ],
         "citation": "jaeger:19[83e]",
         "clength": 34,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -5308,6 +7009,7 @@
         "abbrkey": {
             "PTCL": "particle"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -5316,6 +7018,8 @@
         ],
         "citation": "jaeger:19[84b]",
         "clength": 75,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -5360,6 +7064,7 @@
         "abbrkey": {
             "PTCL": "particle"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -5369,6 +7074,8 @@
         "citation": "jaeger:19[84c]",
         "clength": 66,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -5411,6 +7118,7 @@
         "abbrkey": {
             "PTCL": "particle"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -5419,6 +7127,8 @@
         ],
         "citation": "jaeger:19[84d]",
         "clength": 61,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -5459,6 +7169,7 @@
         "abbrkey": {
             "PTCL": "particle"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -5467,6 +7178,8 @@
         ],
         "citation": "jaeger:19[84e]",
         "clength": 62,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -5505,6 +7218,7 @@
     {
         "ID": "glossa5177-116",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -5512,6 +7226,8 @@
         ],
         "citation": "jaeger:19[85a]",
         "clength": 36,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -5550,6 +7266,7 @@
     {
         "ID": "glossa5177-117",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -5557,6 +7274,8 @@
         ],
         "citation": "jaeger:19[85b]",
         "clength": 41,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -5597,6 +7316,7 @@
     {
         "ID": "glossa5177-118",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -5605,6 +7325,8 @@
         "citation": "jaeger:19[85c]",
         "clength": 33,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -5641,6 +7363,7 @@
     {
         "ID": "glossa5177-119",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -5648,6 +7371,8 @@
         ],
         "citation": "jaeger:19[85d]",
         "clength": 40,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -5686,6 +7411,7 @@
     {
         "ID": "glossa5177-120",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -5693,6 +7419,8 @@
         ],
         "citation": "jaeger:19[85e]",
         "clength": 38,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -5729,12 +7457,15 @@
     {
         "ID": "glossa5177-121",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A"
         ],
         "citation": "jaeger:19[86a]",
         "clength": 44,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -5767,12 +7498,15 @@
     {
         "ID": "glossa5177-122",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A"
         ],
         "citation": "jaeger:19[86b]",
         "clength": 47,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -5807,6 +7541,7 @@
     {
         "ID": "glossa5177-123",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A"
@@ -5814,6 +7549,8 @@
         "citation": "jaeger:19[86c]",
         "clength": 34,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -5844,10 +7581,13 @@
     {
         "ID": "glossa5177-124",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "jaeger:19[86d]",
         "clength": 30,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -5876,6 +7616,7 @@
     {
         "ID": "glossa5177-125",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -5883,6 +7624,8 @@
         ],
         "citation": "jaeger:19[86e]",
         "clength": 42,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -5915,19 +7658,17 @@
     {
         "ID": "glossa5177-126",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "stadtbuch:nd;jaeger:19[via:87]",
         "clength": 173,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
-        "entities": [
-            {
-                "label": "pfennigs",
-                "wdid": "Q155009"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ez</div>\n\t\t<div class=\"glossblock\">it</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sol</div>\n\t\t<div class=\"glossblock\">shall</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">auch</div>\n\t\t<div class=\"glossblock\">also</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ieclich</div>\n\t\t<div class=\"glossblock\">every</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">flaischhacker</div>\n\t\t<div class=\"glossblock\">butcher</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">seín</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">flaisch</div>\n\t\t<div class=\"glossblock\">meat</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">svnd’n […]</div>\n\t\t<div class=\"glossblock\">separate</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vn̄</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sol</div>\n\t\t<div class=\"glossblock\">shall</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ieclich</div>\n\t\t<div class=\"glossblock\">every</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">flaisch</div>\n\t\t<div class=\"glossblock\">meat</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fuͤr</div>\n\t\t<div class=\"glossblock\">for</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">geben,</div>\n\t\t<div class=\"glossblock\">give</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vnd</div>\n\t\t<div class=\"glossblock\">and/that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">es</div>\n\t\t<div class=\"glossblock\">it</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ist.</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">als</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dicke,</div>\n\t\t<div class=\"glossblock\">often</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vnd</div>\n\t\t<div class=\"glossblock\">and/as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">er</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daz</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bricht,</div>\n\t\t<div class=\"glossblock\">breaks</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">als</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dick</div>\n\t\t<div class=\"glossblock\">often</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gibt</div>\n\t\t<div class=\"glossblock\">gives</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">er</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sehtzic</div>\n\t\t<div class=\"glossblock\">sixty</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pfenninge</div>\n\t\t<div class=\"glossblock\">pfennigs</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "it",
@@ -6005,19 +7746,17 @@
     {
         "ID": "glossa5177-127",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "bange:nd;jaeger:19[via:88]",
         "clength": 112,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
-        "entities": [
-            {
-                "label": "rich and poor",
-                "wdid": "Q5055020"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Die</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Buͤrger</div>\n\t\t<div class=\"glossblock\">citizens</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Reich</div>\n\t\t<div class=\"glossblock\">rich</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vnd</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Arm/</div>\n\t\t<div class=\"glossblock\">poor</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Trachteten</div>\n\t\t<div class=\"glossblock\">sought</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nicht</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nach</div>\n\t\t<div class=\"glossblock\">after</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eigenem</div>\n\t\t<div class=\"glossblock\">own</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sondern</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nach</div>\n\t\t<div class=\"glossblock\">after</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gemeinem</div>\n\t\t<div class=\"glossblock\">common</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nutze/</div>\n\t\t<div class=\"glossblock\">benefit</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dem</div>\n\t\t<div class=\"glossblock\">to-the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Armen</div>\n\t\t<div class=\"glossblock\">poor</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">als</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dem</div>\n\t\t<div class=\"glossblock\">to-the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Reichen.</div>\n\t\t<div class=\"glossblock\">rich</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -6072,26 +7811,16 @@
     {
         "ID": "glossa5177-128",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "heidegger:nd;jaeger:19[via:89]",
         "clength": 136,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
-        "entities": [
-            {
-                "label": "inspects",
-                "wdid": "Q2912198"
-            },
-            {
-                "label": "excrements",
-                "wdid": "Q496"
-            },
-            {
-                "label": "well-being",
-                "wdid": "Q7981051"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Und</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wie</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ein</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Medicus</div>\n\t\t<div class=\"glossblock\">doctor</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">damit</div>\n\t\t<div class=\"glossblock\">so-that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">er</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">so</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wol</div>\n\t\t<div class=\"glossblock\">well</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">seiner</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eignen</div>\n\t\t<div class=\"glossblock\">own</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Wissenschafft/</div>\n\t\t<div class=\"glossblock\">science</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">alß</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">auch</div>\n\t\t<div class=\"glossblock\">also</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">andrer</div>\n\t\t<div class=\"glossblock\">others’</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Wolstand</div>\n\t\t<div class=\"glossblock\">well-being</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aufhelffe/</div>\n\t\t<div class=\"glossblock\">promote</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">den</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Außrath</div>\n\t\t<div class=\"glossblock\">excrement</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">des</div>\n\t\t<div class=\"glossblock\">of-the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Leibs</div>\n\t\t<div class=\"glossblock\">body</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">besichtiget …</div>\n\t\t<div class=\"glossblock\">inspects</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "and",
@@ -6151,6 +7880,7 @@
     {
         "ID": "glossa5177-129",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -6159,14 +7889,11 @@
         "citation": "rosenthal:nd;jaeger:19[via:90]",
         "clength": 158,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
-        "entities": [
-            {
-                "label": "St. Augustin",
-                "wdid": "Q4090"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Vnd</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ist</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nit</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nur</div>\n\t\t<div class=\"glossblock\">only</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mit</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Schrifft/</div>\n\t\t<div class=\"glossblock\">script</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sondern</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">auch</div>\n\t\t<div class=\"glossblock\">also</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mit</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">den</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">so</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">geschribenen</div>\n\t\t<div class=\"glossblock\">written</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">als</div>\n\t\t<div class=\"glossblock\">as</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">muͤndlich</div>\n\t\t<div class=\"glossblock\">orally</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vbergegebenen</div>\n\t\t<div class=\"glossblock\">transmitted</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Glaubens</div>\n\t\t<div class=\"glossblock\">faith</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bekantnuͤssen</div>\n\t\t<div class=\"glossblock\">testimonies</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">geschehen/</div>\n\t\t<div class=\"glossblock\">happened</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">was</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">S.</div>\n\t\t<div class=\"glossblock\">St.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Augustinus</div>\n\t\t<div class=\"glossblock\">Augustin</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sagt: …</div>\n\t\t<div class=\"glossblock\">says</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "and",
@@ -6231,11 +7958,14 @@
     {
         "ID": "glossa5177-130",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "grimm:grimm:54[1361];jaeger:19[via:91]",
         "clength": 83,
         "coordination": "or",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -6290,56 +8020,18 @@
     {
         "ID": "glossa5177-131",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A"
         ],
         "citation": "jaeger:19[96a]",
         "clength": 41,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
-        "entities": [
-            {
-                "label": "rabbits",
-                "wdid": "Q9394"
-            },
-            {
-                "label": "mammal",
-                "wdid": "Q110551885"
-            },
-            {
-                "label": "vertebrate",
-                "wdid": "Q110551902"
-            },
-            {
-                "label": "Wild_animal",
-                "wdid": "Q16390140"
-            },
-            {
-                "label": "Leporidae",
-                "wdid": "Q25900"
-            },
-            {
-                "label": "anatomical entity",
-                "wdid": "Q27043950"
-            },
-            {
-                "label": "captive mammal",
-                "wdid": "Q57812611"
-            },
-            {
-                "label": "domesticated mammal",
-                "wdid": "Q57814795"
-            },
-            {
-                "label": "domesticated animal",
-                "wdid": "Q622852"
-            },
-            {
-                "label": "Animal",
-                "wdid": "Q729"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Anna</div>\n\t\t<div class=\"glossblock\">Anne</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hat</div>\n\t\t<div class=\"glossblock\">has</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">einen</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Freund,</div>\n\t\t<div class=\"glossblock\">friend</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hat</div>\n\t\t<div class=\"glossblock\">has</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kaninchen.</div>\n\t\t<div class=\"glossblock\">rabbits</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Anne",
@@ -6354,44 +8046,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "mammal",
-                "wdid": "Q110551885"
-            },
-            {
-                "label": "vertebrate",
-                "wdid": "Q110551902"
-            },
-            {
-                "label": "Wild_animal",
-                "wdid": "Q16390140"
-            },
-            {
-                "label": "Leporidae",
-                "wdid": "Q25900"
-            },
-            {
-                "label": "anatomical entity",
-                "wdid": "Q27043950"
-            },
-            {
-                "label": "captive mammal",
-                "wdid": "Q57812611"
-            },
-            {
-                "label": "domesticated mammal",
-                "wdid": "Q57814795"
-            },
-            {
-                "label": "domesticated animal",
-                "wdid": "Q622852"
-            },
-            {
-                "label": "Animal",
-                "wdid": "Q729"
-            }
-        ],
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "Anna",
@@ -6408,56 +8063,18 @@
     {
         "ID": "glossa5177-132",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A"
         ],
         "citation": "jaeger:19[96b]",
         "clength": 38,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
-        "entities": [
-            {
-                "label": "rabbits",
-                "wdid": "Q9394"
-            },
-            {
-                "label": "mammal",
-                "wdid": "Q110551885"
-            },
-            {
-                "label": "vertebrate",
-                "wdid": "Q110551902"
-            },
-            {
-                "label": "Wild_animal",
-                "wdid": "Q16390140"
-            },
-            {
-                "label": "Leporidae",
-                "wdid": "Q25900"
-            },
-            {
-                "label": "anatomical entity",
-                "wdid": "Q27043950"
-            },
-            {
-                "label": "captive mammal",
-                "wdid": "Q57812611"
-            },
-            {
-                "label": "domesticated mammal",
-                "wdid": "Q57814795"
-            },
-            {
-                "label": "domesticated animal",
-                "wdid": "Q622852"
-            },
-            {
-                "label": "Animal",
-                "wdid": "Q729"
-            }
-        ],
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Anna</div>\n\t\t<div class=\"glossblock\">Anne</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hat</div>\n\t\t<div class=\"glossblock\">has</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">einen</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Freund,</div>\n\t\t<div class=\"glossblock\">friend</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kaninchen.</div>\n\t\t<div class=\"glossblock\">rabbits</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Anne",
@@ -6471,44 +8088,7 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [
-            {
-                "label": "mammal",
-                "wdid": "Q110551885"
-            },
-            {
-                "label": "vertebrate",
-                "wdid": "Q110551902"
-            },
-            {
-                "label": "Wild_animal",
-                "wdid": "Q16390140"
-            },
-            {
-                "label": "Leporidae",
-                "wdid": "Q25900"
-            },
-            {
-                "label": "anatomical entity",
-                "wdid": "Q27043950"
-            },
-            {
-                "label": "captive mammal",
-                "wdid": "Q57812611"
-            },
-            {
-                "label": "domesticated mammal",
-                "wdid": "Q57814795"
-            },
-            {
-                "label": "domesticated animal",
-                "wdid": "Q622852"
-            },
-            {
-                "label": "Animal",
-                "wdid": "Q729"
-            }
-        ],
+        "parententities": [],
         "provider": "glossa",
         "srcwordsbare": [
             "*Anna",
@@ -6524,6 +8104,7 @@
     {
         "ID": "glossa5177-133",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "I"
@@ -6531,6 +8112,8 @@
         "citation": "jaeger:19[i]",
         "clength": 62,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],
@@ -6581,10 +8164,13 @@
     {
         "ID": "glossa5177-134",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "jaeger:19[ii]",
         "clength": 75,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5177,
         "doc_URL": "https://www.glossa-journal.org/article/id/5177",
         "entities": [],

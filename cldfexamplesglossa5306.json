@@ -6,6 +6,7 @@
             "NOM": "nominative",
             "PAST": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "DECL",
@@ -14,6 +15,8 @@
         ],
         "citation": "mitrovic:panagiotidis:20[6a]",
         "clength": 18,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5306,
         "doc_URL": "https://www.glossa-journal.org/article/id/5306",
         "entities": [],
@@ -42,6 +45,7 @@
             "NOM": "nominative",
             "PAST": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "DECL",
@@ -50,6 +54,8 @@
         ],
         "citation": "mitrovic:panagiotidis:20[6b]",
         "clength": 17,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5306,
         "doc_URL": "https://www.glossa-journal.org/article/id/5306",
         "entities": [],
@@ -76,12 +82,15 @@
         "abbrkey": {
             "REL": "relative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "REL"
         ],
         "citation": "mitrovic:panagiotidis:20[6c]",
         "clength": 12,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5306,
         "doc_URL": "https://www.glossa-journal.org/article/id/5306",
         "entities": [],
@@ -108,12 +117,15 @@
         "abbrkey": {
             "REL": "relative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "REL"
         ],
         "citation": "mitrovic:panagiotidis:20[6d]",
         "clength": 11,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5306,
         "doc_URL": "https://www.glossa-journal.org/article/id/5306",
         "entities": [],
@@ -141,6 +153,7 @@
             "M": "masculine",
             "SG": "singular"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "M",
@@ -148,6 +161,8 @@
         ],
         "citation": "mitrovic:panagiotidis:20[10a]",
         "clength": 15,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5306,
         "doc_URL": "https://www.glossa-journal.org/article/id/5306",
         "entities": [],
@@ -175,6 +190,7 @@
             "F": "feminine",
             "SG": "singular"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "F",
@@ -182,6 +198,8 @@
         ],
         "citation": "mitrovic:panagiotidis:20[10b]",
         "clength": 11,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5306,
         "doc_URL": "https://www.glossa-journal.org/article/id/5306",
         "entities": [],
@@ -209,6 +227,7 @@
             "N": "neuter",
             "SG": "singular"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "N",
@@ -216,6 +235,8 @@
         ],
         "citation": "mitrovic:panagiotidis:20[10c]",
         "clength": 15,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5306,
         "doc_URL": "https://www.glossa-journal.org/article/id/5306",
         "entities": [],
@@ -240,10 +261,198 @@
     {
         "ID": "glossa5306-8",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "nort3175",
+                "label": "North Sea Germanic"
+            },
+            {
+                "id": "angl1264",
+                "label": "Anglo-Frisian"
+            },
+            {
+                "id": "angl1265",
+                "label": "Anglic"
+            },
+            {
+                "id": "late1254",
+                "label": "Later Anglic"
+            },
+            {
+                "id": "merc1242",
+                "label": "Middle-Modern English"
+            },
+            {
+                "id": "macr1271",
+                "label": "Macro-English"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "mitrovic:panagiotidis:20[12b]",
         "clength": 39,
+        "coords": [
+            -1.0,
+            53.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "AU",
+                "label": "Australia"
+            },
+            {
+                "ISO3166": "BM",
+                "label": "Bermuda"
+            },
+            {
+                "ISO3166": "BR",
+                "label": "Brazil"
+            },
+            {
+                "ISO3166": "BZ",
+                "label": "Belize"
+            },
+            {
+                "ISO3166": "CA",
+                "label": "Canada"
+            },
+            {
+                "ISO3166": "CC",
+                "label": "Cocos (Keeling) Islands"
+            },
+            {
+                "ISO3166": "CK",
+                "label": "Cook Islands"
+            },
+            {
+                "ISO3166": "CU",
+                "label": "Cuba"
+            },
+            {
+                "ISO3166": "CX",
+                "label": "Christmas Island"
+            },
+            {
+                "ISO3166": "DO",
+                "label": "Dominican Republic"
+            },
+            {
+                "ISO3166": "FK",
+                "label": "Falkland Islands (Malvinas)"
+            },
+            {
+                "ISO3166": "GB",
+                "label": "United Kingdom"
+            },
+            {
+                "ISO3166": "GG",
+                "label": "Guernsey"
+            },
+            {
+                "ISO3166": "GI",
+                "label": "Gibraltar"
+            },
+            {
+                "ISO3166": "GP",
+                "label": "Guadeloupe"
+            },
+            {
+                "ISO3166": "GS",
+                "label": "South Georgia and the South Sandwich Islands"
+            },
+            {
+                "ISO3166": "GT",
+                "label": "Guatemala"
+            },
+            {
+                "ISO3166": "GY",
+                "label": "Guyana"
+            },
+            {
+                "ISO3166": "HN",
+                "label": "Honduras"
+            },
+            {
+                "ISO3166": "IE",
+                "label": "Ireland"
+            },
+            {
+                "ISO3166": "IM",
+                "label": "Isle of Man"
+            },
+            {
+                "ISO3166": "IO",
+                "label": "British Indian Ocean Territory"
+            },
+            {
+                "ISO3166": "JE",
+                "label": "Jersey"
+            },
+            {
+                "ISO3166": "KY",
+                "label": "Cayman Islands"
+            },
+            {
+                "ISO3166": "LR",
+                "label": "Liberia"
+            },
+            {
+                "ISO3166": "MX",
+                "label": "Mexico"
+            },
+            {
+                "ISO3166": "NF",
+                "label": "Norfolk Island"
+            },
+            {
+                "ISO3166": "PN",
+                "label": "Pitcairn"
+            },
+            {
+                "ISO3166": "SH",
+                "label": "Saint Helena, Ascension and Tristan da Cunha"
+            },
+            {
+                "ISO3166": "SR",
+                "label": "Suriname"
+            },
+            {
+                "ISO3166": "UM",
+                "label": "United States Minor Outlying Islands"
+            },
+            {
+                "ISO3166": "US",
+                "label": "United States"
+            },
+            {
+                "ISO3166": "VE",
+                "label": "Venezuela, Bolivarian Republic of"
+            },
+            {
+                "ISO3166": "ZA",
+                "label": "South Africa"
+            }
+        ],
         "doc_ID": 5306,
         "doc_URL": "https://www.glossa-journal.org/article/id/5306",
         "entities": [],
@@ -272,10 +481,198 @@
     {
         "ID": "glossa5306-9",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "germ1287",
+                "label": "Germanic"
+            },
+            {
+                "id": "nort3152",
+                "label": "Northwest Germanic"
+            },
+            {
+                "id": "west2793",
+                "label": "West Germanic"
+            },
+            {
+                "id": "nort3175",
+                "label": "North Sea Germanic"
+            },
+            {
+                "id": "angl1264",
+                "label": "Anglo-Frisian"
+            },
+            {
+                "id": "angl1265",
+                "label": "Anglic"
+            },
+            {
+                "id": "late1254",
+                "label": "Later Anglic"
+            },
+            {
+                "id": "merc1242",
+                "label": "Middle-Modern English"
+            },
+            {
+                "id": "macr1271",
+                "label": "Macro-English"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "mitrovic:panagiotidis:20[12c]",
         "clength": 33,
+        "coords": [
+            -1.0,
+            53.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "AU",
+                "label": "Australia"
+            },
+            {
+                "ISO3166": "BM",
+                "label": "Bermuda"
+            },
+            {
+                "ISO3166": "BR",
+                "label": "Brazil"
+            },
+            {
+                "ISO3166": "BZ",
+                "label": "Belize"
+            },
+            {
+                "ISO3166": "CA",
+                "label": "Canada"
+            },
+            {
+                "ISO3166": "CC",
+                "label": "Cocos (Keeling) Islands"
+            },
+            {
+                "ISO3166": "CK",
+                "label": "Cook Islands"
+            },
+            {
+                "ISO3166": "CU",
+                "label": "Cuba"
+            },
+            {
+                "ISO3166": "CX",
+                "label": "Christmas Island"
+            },
+            {
+                "ISO3166": "DO",
+                "label": "Dominican Republic"
+            },
+            {
+                "ISO3166": "FK",
+                "label": "Falkland Islands (Malvinas)"
+            },
+            {
+                "ISO3166": "GB",
+                "label": "United Kingdom"
+            },
+            {
+                "ISO3166": "GG",
+                "label": "Guernsey"
+            },
+            {
+                "ISO3166": "GI",
+                "label": "Gibraltar"
+            },
+            {
+                "ISO3166": "GP",
+                "label": "Guadeloupe"
+            },
+            {
+                "ISO3166": "GS",
+                "label": "South Georgia and the South Sandwich Islands"
+            },
+            {
+                "ISO3166": "GT",
+                "label": "Guatemala"
+            },
+            {
+                "ISO3166": "GY",
+                "label": "Guyana"
+            },
+            {
+                "ISO3166": "HN",
+                "label": "Honduras"
+            },
+            {
+                "ISO3166": "IE",
+                "label": "Ireland"
+            },
+            {
+                "ISO3166": "IM",
+                "label": "Isle of Man"
+            },
+            {
+                "ISO3166": "IO",
+                "label": "British Indian Ocean Territory"
+            },
+            {
+                "ISO3166": "JE",
+                "label": "Jersey"
+            },
+            {
+                "ISO3166": "KY",
+                "label": "Cayman Islands"
+            },
+            {
+                "ISO3166": "LR",
+                "label": "Liberia"
+            },
+            {
+                "ISO3166": "MX",
+                "label": "Mexico"
+            },
+            {
+                "ISO3166": "NF",
+                "label": "Norfolk Island"
+            },
+            {
+                "ISO3166": "PN",
+                "label": "Pitcairn"
+            },
+            {
+                "ISO3166": "SH",
+                "label": "Saint Helena, Ascension and Tristan da Cunha"
+            },
+            {
+                "ISO3166": "SR",
+                "label": "Suriname"
+            },
+            {
+                "ISO3166": "UM",
+                "label": "United States Minor Outlying Islands"
+            },
+            {
+                "ISO3166": "US",
+                "label": "United States"
+            },
+            {
+                "ISO3166": "VE",
+                "label": "Venezuela, Bolivarian Republic of"
+            },
+            {
+                "ISO3166": "ZA",
+                "label": "South Africa"
+            }
+        ],
         "doc_ID": 5306,
         "doc_URL": "https://www.glossa-journal.org/article/id/5306",
         "entities": [],
@@ -304,6 +701,7 @@
     {
         "ID": "glossa5306-10",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "M",
@@ -312,6 +710,8 @@
         ],
         "citation": "mitrovic:panagiotidis:20[13a]",
         "clength": 26,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5306,
         "doc_URL": "https://www.glossa-journal.org/article/id/5306",
         "entities": [],
@@ -338,6 +738,7 @@
     {
         "ID": "glossa5306-11",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "F",
@@ -346,6 +747,8 @@
         ],
         "citation": "mitrovic:panagiotidis:20[13b]",
         "clength": 25,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5306,
         "doc_URL": "https://www.glossa-journal.org/article/id/5306",
         "entities": [],
@@ -372,6 +775,7 @@
     {
         "ID": "glossa5306-12",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "N",
@@ -379,6 +783,8 @@
         ],
         "citation": "mitrovic:panagiotidis:20[13c]",
         "clength": 25,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5306,
         "doc_URL": "https://www.glossa-journal.org/article/id/5306",
         "entities": [],

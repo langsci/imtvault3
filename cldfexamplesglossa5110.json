@@ -5,6 +5,7 @@
             "1SG": "first person singular",
             "PST": "past tense, R = Recipient-type argument"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "PST",
@@ -13,6 +14,8 @@
         ],
         "citation": "boerstell:19[1a]",
         "clength": 26,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5110,
         "doc_URL": "https://www.glossa-journal.org/article/id/5110",
         "entities": [],
@@ -46,6 +49,7 @@
             "OBJ": "object marker, P = Patient-like argument",
             "PST": "past tense, R = Recipient-type argument"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEF",
@@ -56,6 +60,8 @@
         ],
         "citation": "boerstell:19[1b]",
         "clength": 36,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5110,
         "doc_URL": "https://www.glossa-journal.org/article/id/5110",
         "entities": [],
@@ -88,6 +94,20 @@
         "abbrkey": {
             "AUX": "auxiliary"
         },
+        "ancestors": [
+            {
+                "id": "sign1238",
+                "label": "Sign Language"
+            },
+            {
+                "id": "deaf1237",
+                "label": "L1 Sign Language"
+            },
+            {
+                "id": "dgsi1234",
+                "label": "DGSic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -96,6 +116,16 @@
         ],
         "citation": "rathmann:griffin:03[182];boerstell:19[via:3]",
         "clength": 26,
+        "coords": [
+            7.30478,
+            50.8154
+        ],
+        "countries": [
+            {
+                "ISO3166": "DE",
+                "label": "Germany"
+            }
+        ],
         "doc_ID": 5110,
         "doc_URL": "https://www.glossa-journal.org/article/id/5110",
         "entities": [],
@@ -126,12 +156,36 @@
         "abbrkey": {
             "OBJ": "object marker, P = Patient-like argument"
         },
+        "ancestors": [
+            {
+                "id": "sign1238",
+                "label": "Sign Language"
+            },
+            {
+                "id": "deaf1237",
+                "label": "L1 Sign Language"
+            },
+            {
+                "id": "swed1257",
+                "label": "Swedish Sign"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "OBJ"
         ],
         "citation": "mesch:wallin:etal:12[SSLC01_085, S010];boerstell:19[via:4]",
         "clength": 19,
+        "coords": [
+            16.1133,
+            58.929
+        ],
+        "countries": [
+            {
+                "ISO3166": "SE",
+                "label": "Sweden"
+            }
+        ],
         "doc_ID": 5110,
         "doc_URL": "https://www.glossa-journal.org/article/id/5110",
         "entities": [],
@@ -158,18 +212,37 @@
     {
         "ID": "glossa5110-5",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "sign1238",
+                "label": "Sign Language"
+            },
+            {
+                "id": "deaf1237",
+                "label": "L1 Sign Language"
+            },
+            {
+                "id": "swed1257",
+                "label": "Swedish Sign"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "boerstell:17[150];boerstell:19[via:5]",
         "clength": 18,
-        "doc_ID": 5110,
-        "doc_URL": "https://www.glossa-journal.org/article/id/5110",
-        "entities": [
+        "coords": [
+            16.1133,
+            58.929
+        ],
+        "countries": [
             {
-                "label": "physically present",
-                "wdid": "Q2134873"
+                "ISO3166": "SE",
+                "label": "Sweden"
             }
         ],
+        "doc_ID": 5110,
+        "doc_URL": "https://www.glossa-journal.org/article/id/5110",
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">POINT₃ₐ</div>\n\t\t<div class=\"glossblock\">3ₐ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">KILL</div>\n\t\t<div class=\"glossblock\">kill</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">POINT</div>\n\t\t<div class=\"glossblock\">3</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3ₐ",
