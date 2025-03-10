@@ -105,7 +105,20 @@
         "countries": [],
         "doc_ID": 6526,
         "doc_URL": "https://www.glossa-journal.org/article/id/6526",
-        "entities": [],
+        "entities": [
+            {
+                "label": "John",
+                "wdid": "Q4925477"
+            },
+            {
+                "label": "Japanese",
+                "wdid": "Q17"
+            },
+            {
+                "label": "speaking English",
+                "wdid": "Q987355"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">John-ga</div>\n\t\t<div class=\"glossblock\">John.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[yosouijouni</div>\n\t\t<div class=\"glossblock\">than-expected</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nihonjin-ga</div>\n\t\t<div class=\"glossblock\">the-Japanese.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eigo-ga</div>\n\t\t<div class=\"glossblock\">English.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hidoku]</div>\n\t\t<div class=\"glossblock\">bad.INF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kanji-ta.</div>\n\t\t<div class=\"glossblock\">think.PST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "John.NOM",

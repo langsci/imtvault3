@@ -1,6 +1,6 @@
 [
     {
-        "ID": "inelselkup2792076810(1, 6)",
+        "ID": "inelselkup2792076810_1_6",
         "abbrkey": {},
         "ancestors": [
             {
@@ -58,7 +58,7 @@
         "wlength": 1
     },
     {
-        "ID": "inelselkup2792076810(6, 9)",
+        "ID": "inelselkup2792076810_6_9",
         "abbrkey": {},
         "ancestors": [
             {
@@ -115,7 +115,7 @@
         "wlength": 1
     },
     {
-        "ID": "inelselkup2792076810(9, 18)",
+        "ID": "inelselkup2792076810_9_18",
         "abbrkey": {},
         "ancestors": [
             {
@@ -150,7 +150,12 @@
             }
         ],
         "doc_ID": 2792076810,
-        "entities": [],
+        "entities": [
+            {
+                "label": "slippers",
+                "wdid": "Q876824"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a täpär wsʼäkij pöj-la je-ta-t i batʼinka-la i tapočka-la</div>\n\t\t<div class=\"glossblock\">and now any shoes-PL.[NOM] be-INFER-3PL and boots-PL.[NOM] and slippers-PL.[NOM]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "and now any shoes-PL.[NOM] be-INFER-3PL and boots-PL.[NOM] and slippers-PL.[NOM]"
@@ -168,7 +173,7 @@
         "wlength": 1
     },
     {
-        "ID": "inelselkup2792076810(18, 22)",
+        "ID": "inelselkup2792076810_18_22",
         "abbrkey": {},
         "ancestors": [
             {
@@ -225,7 +230,7 @@
         "wlength": 1
     },
     {
-        "ID": "inelselkup2792076810(22, 29)",
+        "ID": "inelselkup2792076810_22_29",
         "abbrkey": {},
         "ancestors": [
             {
@@ -264,7 +269,16 @@
             }
         ],
         "doc_ID": 2792076810,
-        "entities": [],
+        "entities": [
+            {
+                "label": "knit",
+                "wdid": "Q830128"
+            },
+            {
+                "label": "slippers",
+                "wdid": "Q876824"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ugon tapɨčka-la-m me sorme-l-gu-za-wtə ontutu i war-za-wtə</div>\n\t\t<div class=\"glossblock\">earlier slippers-PL-ACC we.[NOM] knit-INCH-HAB-PST-1PL oneself.1PL.[NOM] and wear-PST-1PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "earlier slippers-PL-ACC we.[NOM] knit-INCH-HAB-PST-1PL oneself.1PL.[NOM] and wear-PST-1PL"
@@ -282,7 +296,7 @@
         "wlength": 1
     },
     {
-        "ID": "inelselkup2792076810(29, 34)",
+        "ID": "inelselkup2792076810_29_34",
         "abbrkey": {},
         "ancestors": [
             {
@@ -341,7 +355,7 @@
         "wlength": 1
     },
     {
-        "ID": "inelselkup2792076810(34, 37)",
+        "ID": "inelselkup2792076810_34_37",
         "abbrkey": {},
         "ancestors": [
             {
@@ -378,7 +392,20 @@
             }
         ],
         "doc_ID": 2792076810,
-        "entities": [],
+        "entities": [
+            {
+                "label": "skirt",
+                "wdid": "Q2160801"
+            },
+            {
+                "label": "Clothing",
+                "wdid": "Q11460"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i lʼübka-m sormu-ku-za-n</div>\n\t\t<div class=\"glossblock\">and skirt-ACC knit-HAB-PST-1SG.S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "and skirt-ACC knit-HAB-PST-1SG.S"
@@ -387,7 +414,16 @@
         "language_iso6393": "sel",
         "language_name": "Selkup",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [],
+        "parententities": [
+            {
+                "label": "Clothing",
+                "wdid": "Q11460"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            }
+        ],
         "provider": "inelselkup",
         "srcwordsbare": [
             "i lʼübka-m sormu-ku-za-n"

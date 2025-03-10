@@ -121,7 +121,24 @@
         "countries": [],
         "doc_ID": 11036,
         "doc_URL": "https://www.glossa-journal.org/article/id/11036",
-        "entities": [],
+        "entities": [
+            {
+                "label": "fresh fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "plant structure",
+                "wdid": "Q20011319"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">La fruta fresca está muy cara. No  compres [negative imperative]</div>\n\t\t<div class=\"glossblock\">the fresh fruit be-PRS.3SG very expensive, not cl.SG.F.ACC buy-IMP.2SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the fresh fruit be-PRS.3SG very expensive, not cl.SG.F.ACC buy-IMP.2SG"
@@ -130,7 +147,20 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [],
+        "parententities": [
+            {
+                "label": "plant structure",
+                "wdid": "Q20011319"
+            },
+            {
+                "label": "plant organ",
+                "wdid": "Q24060707"
+            },
+            {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
+            }
+        ],
         "polarity": "negative",
         "provider": "glossa",
         "srcwordsbare": [
@@ -194,7 +224,12 @@
         "countries": [],
         "doc_ID": 11036,
         "doc_URL": "https://www.glossa-journal.org/article/id/11036",
-        "entities": [],
+        "entities": [
+            {
+                "label": "notebook",
+                "wdid": "Q43013"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">La tienda tiene el cuaderno que necesitas, cómpra [imperative]</div>\n\t\t<div class=\"glossblock\">the store have-PRS.3SG the notebook that you need-PRS.2SG, buy-IMP.2SG cl-SG.F.ACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the store have-PRS.3SG the notebook that you need-PRS.2SG, buy-IMP.2SG cl-SG.F.ACC"
@@ -301,7 +336,28 @@
         "countries": [],
         "doc_ID": 11036,
         "doc_URL": "https://www.glossa-journal.org/article/id/11036",
-        "entities": [],
+        "entities": [
+            {
+                "label": "Internet",
+                "wdid": "Q75"
+            },
+            {
+                "label": "infrastructure",
+                "wdid": "Q121359"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
+                "label": "network",
+                "wdid": "Q1900326"
+            },
+            {
+                "label": "Communications_system",
+                "wdid": "Q577764"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">João conoció a María en Internet en 2012 y  en persona en 2014</div>\n\t\t<div class=\"glossblock\">João meet-PST.3SG maria on the internet in 2012 and cl-SG.F.ACC see-PST.3SG in person in 2014</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "João meet-PST.3SG maria on the internet in 2012 and cl-SG.F.ACC see-PST.3SG in person in 2014"
@@ -310,7 +366,24 @@
         "language_iso6393": "und",
         "language_name": "",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [],
+        "parententities": [
+            {
+                "label": "infrastructure",
+                "wdid": "Q121359"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
+                "label": "network",
+                "wdid": "Q1900326"
+            },
+            {
+                "label": "Communications_system",
+                "wdid": "Q577764"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "João conoció a María en Internet en 2012 y  en persona en 2014"

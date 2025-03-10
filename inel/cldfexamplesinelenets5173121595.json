@@ -1,6 +1,6 @@
 [
     {
-        "ID": "inelenets5173121595(0, 3)",
+        "ID": "inelenets5173121595_0_3",
         "abbrkey": {},
         "ancestors": [
             {
@@ -49,7 +49,7 @@
         "wlength": 1
     },
     {
-        "ID": "inelenets5173121595(4, 6)",
+        "ID": "inelenets5173121595_4_6",
         "abbrkey": {},
         "ancestors": [
             {
@@ -97,7 +97,7 @@
         "wlength": 1
     },
     {
-        "ID": "inelenets5173121595(7, 10)",
+        "ID": "inelenets5173121595_7_10",
         "abbrkey": {},
         "ancestors": [
             {
@@ -127,7 +127,20 @@
         ],
         "countries": [],
         "doc_ID": 5173121595,
-        "entities": [],
+        "entities": [
+            {
+                "label": "trousers",
+                "wdid": "Q39908"
+            },
+            {
+                "label": "Clothing",
+                "wdid": "Q11460"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">galʼi piʔi sɔgozeŋa</div>\n\t\t<div class=\"glossblock\">gallifet trousers.[NOM.SG] fit.well(ipfv).[3SG.S]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "gallifet trousers.[NOM.SG] fit.well(ipfv).[3SG.S]"
@@ -136,7 +149,16 @@
         "language_iso6393": "und",
         "language_name": "Enets",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [],
+        "parententities": [
+            {
+                "label": "Clothing",
+                "wdid": "Q11460"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            }
+        ],
         "provider": "inelenets",
         "srcwordsbare": [
             "galʼi piʔi sɔgozeŋa"

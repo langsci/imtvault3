@@ -1143,7 +1143,16 @@
         ],
         "doc_ID": 5100,
         "doc_URL": "https://www.glossa-journal.org/article/id/5100",
-        "entities": [],
+        "entities": [
+            {
+                "label": "red car",
+                "wdid": "Q2107112"
+            },
+            {
+                "label": "postnominal",
+                "wdid": "Q2330404"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Kuruma</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">akai-o</div>\n\t\t<div class=\"glossblock\">red-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">katta.</div>\n\t\t<div class=\"glossblock\">bought</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "car",
@@ -1201,7 +1210,12 @@
         ],
         "doc_ID": 5100,
         "doc_URL": "https://www.glossa-journal.org/article/id/5100",
-        "entities": [],
+        "entities": [
+            {
+                "label": "prenominal",
+                "wdid": "Q7239251"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Akai</div>\n\t\t<div class=\"glossblock\">red</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kuruma-o</div>\n\t\t<div class=\"glossblock\">car-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">katta.</div>\n\t\t<div class=\"glossblock\">bought</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "red",
@@ -1261,7 +1275,16 @@
         ],
         "doc_ID": 5100,
         "doc_URL": "https://www.glossa-journal.org/article/id/5100",
-        "entities": [],
+        "entities": [
+            {
+                "label": "spicy food",
+                "wdid": "Q1517948"
+            },
+            {
+                "label": "ramen",
+                "wdid": "Q1051265"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Tabemono/raamen</div>\n\t\t<div class=\"glossblock\">food/ramen</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">karai</div>\n\t\t<div class=\"glossblock\">spicy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no-o</div>\n\t\t<div class=\"glossblock\">LN-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-tai.</div>\n\t\t<div class=\"glossblock\">eat-want</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "food/ramen",
@@ -3915,7 +3938,44 @@
         ],
         "doc_ID": 5100,
         "doc_URL": "https://www.glossa-journal.org/article/id/5100",
-        "entities": [],
+        "entities": [
+            {
+                "label": "drink beer",
+                "wdid": "Q44"
+            },
+            {
+                "label": "predicative",
+                "wdid": "Q3149511"
+            },
+            {
+                "label": "Fluid",
+                "wdid": "Q102205"
+            },
+            {
+                "label": "Liquid",
+                "wdid": "Q11435"
+            },
+            {
+                "label": "Alcoholic_drink",
+                "wdid": "Q154"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
+                "label": "mixture",
+                "wdid": "Q169336"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "Drink",
+                "wdid": "Q40050"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Watasi-wa/*Kimi-wa/*Ken-wa</div>\n\t\t<div class=\"glossblock\">1SG-TOP/2SG-TOP/Ken-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">biiru-ga</div>\n\t\t<div class=\"glossblock\">beer-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nomi-tai.</div>\n\t\t<div class=\"glossblock\">drink-want</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1SG-TOP/2SG-TOP/Ken-TOP",
@@ -3927,7 +3987,36 @@
         "language_name": "Japanese",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "modality": "volitive",
-        "parententities": [],
+        "parententities": [
+            {
+                "label": "Fluid",
+                "wdid": "Q102205"
+            },
+            {
+                "label": "Liquid",
+                "wdid": "Q11435"
+            },
+            {
+                "label": "Alcoholic_drink",
+                "wdid": "Q154"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
+                "label": "mixture",
+                "wdid": "Q169336"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "Drink",
+                "wdid": "Q40050"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Watasi-wa/*Kimi-wa/*Ken-wa",
@@ -3979,7 +4068,12 @@
         ],
         "doc_ID": 5100,
         "doc_URL": "https://www.glossa-journal.org/article/id/5100",
-        "entities": [],
+        "entities": [
+            {
+                "label": "attributive",
+                "wdid": "Q17143811"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[{Kimi-ga/Ken-ga}</div>\n\t\t<div class=\"glossblock\">2SG-NOM/Ken-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nomi-tai]</div>\n\t\t<div class=\"glossblock\">drink-want</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">biiru]-o</div>\n\t\t<div class=\"glossblock\">beer-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mottekite.</div>\n\t\t<div class=\"glossblock\">bring.come</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "2SG-NOM/Ken-NOM",
@@ -4110,7 +4204,12 @@
         ],
         "doc_ID": 5100,
         "doc_URL": "https://www.glossa-journal.org/article/id/5100",
-        "entities": [],
+        "entities": [
+            {
+                "label": "predicative",
+                "wdid": "Q3149511"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ano</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hako-wa</div>\n\t\t<div class=\"glossblock\">box-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tokubetu-{da/*na}.</div>\n\t\t<div class=\"glossblock\">special-END/-ADN</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "that",
@@ -4288,7 +4387,52 @@
         ],
         "doc_ID": 5100,
         "doc_URL": "https://www.glossa-journal.org/article/id/5100",
-        "entities": [],
+        "entities": [
+            {
+                "label": "Lit",
+                "wdid": "Q1191837"
+            },
+            {
+                "label": "sushi",
+                "wdid": "Q46383"
+            },
+            {
+                "label": "Ginza",
+                "wdid": "Q746052"
+            },
+            {
+                "label": "creation",
+                "wdid": "Q11398090"
+            },
+            {
+                "label": "active motion",
+                "wdid": "Q17988854"
+            },
+            {
+                "label": "gift exchange",
+                "wdid": "Q23009552"
+            },
+            {
+                "label": "animal behavior",
+                "wdid": "Q2990593"
+            },
+            {
+                "label": "interaction",
+                "wdid": "Q52948"
+            },
+            {
+                "label": "information exchange",
+                "wdid": "Q6031064"
+            },
+            {
+                "label": "human activity",
+                "wdid": "Q61788060"
+            },
+            {
+                "label": "Translation",
+                "wdid": "Q7553"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Boku-ga</div>\n\t\t<div class=\"glossblock\">1SG-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e e</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabeta</div>\n\t\t<div class=\"glossblock\">ate</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no-wa</div>\n\t\t<div class=\"glossblock\">LN-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sushi-o</div>\n\t\t<div class=\"glossblock\">sushi-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ginza-de</div>\n\t\t<div class=\"glossblock\">Ginza-in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">datta.</div>\n\t\t<div class=\"glossblock\">COP</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1SG-NOM",
@@ -4303,7 +4447,40 @@
         "language_iso6393": "jpn",
         "language_name": "Japanese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [],
+        "parententities": [
+            {
+                "label": "creation",
+                "wdid": "Q11398090"
+            },
+            {
+                "label": "active motion",
+                "wdid": "Q17988854"
+            },
+            {
+                "label": "gift exchange",
+                "wdid": "Q23009552"
+            },
+            {
+                "label": "animal behavior",
+                "wdid": "Q2990593"
+            },
+            {
+                "label": "interaction",
+                "wdid": "Q52948"
+            },
+            {
+                "label": "information exchange",
+                "wdid": "Q6031064"
+            },
+            {
+                "label": "human activity",
+                "wdid": "Q61788060"
+            },
+            {
+                "label": "Translation",
+                "wdid": "Q7553"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "Boku-ga",
@@ -4357,7 +4534,52 @@
         ],
         "doc_ID": 5100,
         "doc_URL": "https://www.glossa-journal.org/article/id/5100",
-        "entities": [],
+        "entities": [
+            {
+                "label": "Lit",
+                "wdid": "Q1191837"
+            },
+            {
+                "label": "sushi",
+                "wdid": "Q46383"
+            },
+            {
+                "label": "Ginza",
+                "wdid": "Q746052"
+            },
+            {
+                "label": "creation",
+                "wdid": "Q11398090"
+            },
+            {
+                "label": "active motion",
+                "wdid": "Q17988854"
+            },
+            {
+                "label": "gift exchange",
+                "wdid": "Q23009552"
+            },
+            {
+                "label": "animal behavior",
+                "wdid": "Q2990593"
+            },
+            {
+                "label": "interaction",
+                "wdid": "Q52948"
+            },
+            {
+                "label": "information exchange",
+                "wdid": "Q6031064"
+            },
+            {
+                "label": "human activity",
+                "wdid": "Q61788060"
+            },
+            {
+                "label": "Translation",
+                "wdid": "Q7553"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Boku-ga</div>\n\t\t<div class=\"glossblock\">1SG-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e e</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabeta</div>\n\t\t<div class=\"glossblock\">ate</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mono-wa</div>\n\t\t<div class=\"glossblock\">LN-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sushi</div>\n\t\t<div class=\"glossblock\">sushi</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ginza</div>\n\t\t<div class=\"glossblock\">Ginza</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">datta.</div>\n\t\t<div class=\"glossblock\">COP</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1SG-NOM",
@@ -4372,7 +4594,40 @@
         "language_iso6393": "jpn",
         "language_name": "Japanese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [],
+        "parententities": [
+            {
+                "label": "creation",
+                "wdid": "Q11398090"
+            },
+            {
+                "label": "active motion",
+                "wdid": "Q17988854"
+            },
+            {
+                "label": "gift exchange",
+                "wdid": "Q23009552"
+            },
+            {
+                "label": "animal behavior",
+                "wdid": "Q2990593"
+            },
+            {
+                "label": "interaction",
+                "wdid": "Q52948"
+            },
+            {
+                "label": "information exchange",
+                "wdid": "Q6031064"
+            },
+            {
+                "label": "human activity",
+                "wdid": "Q61788060"
+            },
+            {
+                "label": "Translation",
+                "wdid": "Q7553"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "*Boku-ga",
@@ -4565,7 +4820,48 @@
         ],
         "doc_ID": 5100,
         "doc_URL": "https://www.glossa-journal.org/article/id/5100",
-        "entities": [],
+        "entities": [
+            {
+                "label": "stir-fried",
+                "wdid": "Q8980672"
+            },
+            {
+                "label": "spicy",
+                "wdid": "Q42527"
+            },
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "aromatic_plant",
+                "wdid": "Q2247340"
+            },
+            {
+                "label": "Condiment",
+                "wdid": "Q2596997"
+            },
+            {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
+            },
+            {
+                "label": "additive",
+                "wdid": "Q350176"
+            },
+            {
+                "label": "Plant",
+                "wdid": "Q756"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Nanika</div>\n\t\t<div class=\"glossblock\">something</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">karai</div>\n\t\t<div class=\"glossblock\">spicy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mono]-de</div>\n\t\t<div class=\"glossblock\">LN-with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">niku-o</div>\n\t\t<div class=\"glossblock\">meat-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">itameta.</div>\n\t\t<div class=\"glossblock\">stir.fried</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "something",
@@ -4578,7 +4874,40 @@
         "language_iso6393": "jpn",
         "language_name": "Japanese",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "parententities": [],
+        "parententities": [
+            {
+                "label": "artificial object",
+                "wdid": "Q16686448"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "aromatic_plant",
+                "wdid": "Q2247340"
+            },
+            {
+                "label": "Condiment",
+                "wdid": "Q2596997"
+            },
+            {
+                "label": "anatomical entity",
+                "wdid": "Q27043950"
+            },
+            {
+                "label": "additive",
+                "wdid": "Q350176"
+            },
+            {
+                "label": "Plant",
+                "wdid": "Q756"
+            }
+        ],
         "provider": "glossa",
         "srcwordsbare": [
             "[[Nanika",
@@ -5255,7 +5584,12 @@
         ],
         "doc_ID": 5100,
         "doc_URL": "https://www.glossa-journal.org/article/id/5100",
-        "entities": [],
+        "entities": [
+            {
+                "label": "NPI",
+                "wdid": "Q17138993"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Daremo</div>\n\t\t<div class=\"glossblock\">anyone</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">himasoona</div>\n\t\t<div class=\"glossblock\">free.looking</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hito-o</div>\n\t\t<div class=\"glossblock\">LN-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yobanakatta.</div>\n\t\t<div class=\"glossblock\">invited.NEG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "anyone",
@@ -5320,7 +5654,12 @@
         ],
         "doc_ID": 5100,
         "doc_URL": "https://www.glossa-journal.org/article/id/5100",
-        "entities": [],
+        "entities": [
+            {
+                "label": "NPI",
+                "wdid": "Q17138993"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Nanimo</div>\n\t\t<div class=\"glossblock\">anything</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">karai</div>\n\t\t<div class=\"glossblock\">spicy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no-o</div>\n\t\t<div class=\"glossblock\">LN-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabenakatta.</div>\n\t\t<div class=\"glossblock\">ate.NEG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "anything",
@@ -5508,7 +5847,12 @@
         ],
         "doc_ID": 5100,
         "doc_URL": "https://www.glossa-journal.org/article/id/5100",
-        "entities": [],
+        "entities": [
+            {
+                "label": "universal quantifier",
+                "wdid": "Q126695"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Daremo</div>\n\t\t<div class=\"glossblock\">everyone</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">himasoona</div>\n\t\t<div class=\"glossblock\">free.looking</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hito-o</div>\n\t\t<div class=\"glossblock\">LN-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yonda.</div>\n\t\t<div class=\"glossblock\">invited</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "everyone",
@@ -5551,7 +5895,12 @@
         "countries": [],
         "doc_ID": 5100,
         "doc_URL": "https://www.glossa-journal.org/article/id/5100",
-        "entities": [],
+        "entities": [
+            {
+                "label": "wh-word",
+                "wdid": "Q2304610"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Dare</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">himasoona</div>\n\t\t<div class=\"glossblock\">free.looking</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hito-o</div>\n\t\t<div class=\"glossblock\">LN-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yonda</div>\n\t\t<div class=\"glossblock\">invited</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no?</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "who",
@@ -5596,7 +5945,12 @@
         "countries": [],
         "doc_ID": 5100,
         "doc_URL": "https://www.glossa-journal.org/article/id/5100",
-        "entities": [],
+        "entities": [
+            {
+                "label": "wh-word",
+                "wdid": "Q2304610"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Nani</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">karai</div>\n\t\t<div class=\"glossblock\">spicy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no-o</div>\n\t\t<div class=\"glossblock\">LN-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-tai</div>\n\t\t<div class=\"glossblock\">eat-want</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no?</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "what",
@@ -5663,7 +6017,12 @@
         ],
         "doc_ID": 5100,
         "doc_URL": "https://www.glossa-journal.org/article/id/5100",
-        "entities": [],
+        "entities": [
+            {
+                "label": "existential",
+                "wdid": "Q38066"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Boku-wa</div>\n\t\t<div class=\"glossblock\">1SG-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">himasoona</div>\n\t\t<div class=\"glossblock\">free.looking</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dareka</div>\n\t\t<div class=\"glossblock\">someone</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yonda.</div>\n\t\t<div class=\"glossblock\">invited.NEG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1SG-TOP",
@@ -5725,7 +6084,12 @@
         ],
         "doc_ID": 5100,
         "doc_URL": "https://www.glossa-journal.org/article/id/5100",
-        "entities": [],
+        "entities": [
+            {
+                "label": "existential",
+                "wdid": "Q38066"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Boku-wa</div>\n\t\t<div class=\"glossblock\">1SG-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">karai</div>\n\t\t<div class=\"glossblock\">spicy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nanika</div>\n\t\t<div class=\"glossblock\">something</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabeta.</div>\n\t\t<div class=\"glossblock\">ate</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1SG-TOP",
@@ -5785,7 +6149,12 @@
         ],
         "doc_ID": 5100,
         "doc_URL": "https://www.glossa-journal.org/article/id/5100",
-        "entities": [],
+        "entities": [
+            {
+                "label": "NPI",
+                "wdid": "Q17138993"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Himasoona</div>\n\t\t<div class=\"glossblock\">free.looking</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daremo</div>\n\t\t<div class=\"glossblock\">anyone</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yobanakatta.</div>\n\t\t<div class=\"glossblock\">invited.NEG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "free.looking",
@@ -5844,7 +6213,12 @@
         ],
         "doc_ID": 5100,
         "doc_URL": "https://www.glossa-journal.org/article/id/5100",
-        "entities": [],
+        "entities": [
+            {
+                "label": "NPI",
+                "wdid": "Q17138993"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Karai</div>\n\t\t<div class=\"glossblock\">spicy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nanimo</div>\n\t\t<div class=\"glossblock\">anything</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabenakatta.</div>\n\t\t<div class=\"glossblock\">ate.NEG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "spicy",
@@ -6012,7 +6386,12 @@
         ],
         "doc_ID": 5100,
         "doc_URL": "https://www.glossa-journal.org/article/id/5100",
-        "entities": [],
+        "entities": [
+            {
+                "label": "universal quantifier",
+                "wdid": "Q126695"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Himasoona</div>\n\t\t<div class=\"glossblock\">free.looking</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daremo-o</div>\n\t\t<div class=\"glossblock\">everyone-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yonda.</div>\n\t\t<div class=\"glossblock\">invited</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "free.looking",
@@ -6072,7 +6451,12 @@
         ],
         "doc_ID": 5100,
         "doc_URL": "https://www.glossa-journal.org/article/id/5100",
-        "entities": [],
+        "entities": [
+            {
+                "label": "wh-word",
+                "wdid": "Q2304610"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Himasoona</div>\n\t\t<div class=\"glossblock\">free.looking</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dare-o</div>\n\t\t<div class=\"glossblock\">who-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yonda</div>\n\t\t<div class=\"glossblock\">invited</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no?</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "free.looking",
@@ -6134,7 +6518,12 @@
         ],
         "doc_ID": 5100,
         "doc_URL": "https://www.glossa-journal.org/article/id/5100",
-        "entities": [],
+        "entities": [
+            {
+                "label": "NPI",
+                "wdid": "Q17138993"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Daremo(*-o)</div>\n\t\t<div class=\"glossblock\">anyone-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yobanakatta.</div>\n\t\t<div class=\"glossblock\">invited.NEG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "anyone-ACC",
@@ -6193,7 +6582,12 @@
         ],
         "doc_ID": 5100,
         "doc_URL": "https://www.glossa-journal.org/article/id/5100",
-        "entities": [],
+        "entities": [
+            {
+                "label": "NPI",
+                "wdid": "Q17138993"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Nanimo(*-o)</div>\n\t\t<div class=\"glossblock\">anything-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabenakatta.</div>\n\t\t<div class=\"glossblock\">ate.NEG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "anything-ACC",
@@ -6363,7 +6757,12 @@
         ],
         "doc_ID": 5100,
         "doc_URL": "https://www.glossa-journal.org/article/id/5100",
-        "entities": [],
+        "entities": [
+            {
+                "label": "universal quantifier",
+                "wdid": "Q126695"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Daremo-o</div>\n\t\t<div class=\"glossblock\">everyone-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yonda.</div>\n\t\t<div class=\"glossblock\">invited</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "everyone-ACC",
@@ -6418,7 +6817,12 @@
         ],
         "doc_ID": 5100,
         "doc_URL": "https://www.glossa-journal.org/article/id/5100",
-        "entities": [],
+        "entities": [
+            {
+                "label": "wh-word",
+                "wdid": "Q2304610"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dare-o</div>\n\t\t<div class=\"glossblock\">free.looking</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yonda</div>\n\t\t<div class=\"glossblock\">who-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no?</div>\n\t\t<div class=\"glossblock\">invited Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "free.looking",
