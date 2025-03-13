@@ -76,56 +76,7 @@
             2.0,
             48.0
         ],
-        "countries": [
-            {
-                "ISO3166": "AD",
-                "label": "Andorra"
-            },
-            {
-                "ISO3166": "BE",
-                "label": "Belgium"
-            },
-            {
-                "ISO3166": "CA",
-                "label": "Canada"
-            },
-            {
-                "ISO3166": "CH",
-                "label": "Switzerland"
-            },
-            {
-                "ISO3166": "FR",
-                "label": "France"
-            },
-            {
-                "ISO3166": "GF",
-                "label": "French Guiana"
-            },
-            {
-                "ISO3166": "IT",
-                "label": "Italy"
-            },
-            {
-                "ISO3166": "LU",
-                "label": "Luxembourg"
-            },
-            {
-                "ISO3166": "MC",
-                "label": "Monaco"
-            },
-            {
-                "ISO3166": "PM",
-                "label": "Saint Pierre and Miquelon"
-            },
-            {
-                "ISO3166": "TF",
-                "label": "French Southern Territories"
-            },
-            {
-                "ISO3166": "US",
-                "label": "United States"
-            }
-        ],
+        "countries": [],
         "doc_ID": 5000,
         "doc_URL": "https://www.glossa-journal.org/article/id/5000",
         "entities": [],
@@ -141,9 +92,11 @@
         "language_glottocode": "stan1290",
         "language_iso6393": "fra",
         "language_name": "French",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
         "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Dillon, Brian and Frazier, Lyn and Clifton, Charles. 2018. No longer an orphan: evidence for appositive attachment from sentence comprehension. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Le",
             "président",
@@ -240,56 +193,7 @@
             2.0,
             48.0
         ],
-        "countries": [
-            {
-                "ISO3166": "AD",
-                "label": "Andorra"
-            },
-            {
-                "ISO3166": "BE",
-                "label": "Belgium"
-            },
-            {
-                "ISO3166": "CA",
-                "label": "Canada"
-            },
-            {
-                "ISO3166": "CH",
-                "label": "Switzerland"
-            },
-            {
-                "ISO3166": "FR",
-                "label": "France"
-            },
-            {
-                "ISO3166": "GF",
-                "label": "French Guiana"
-            },
-            {
-                "ISO3166": "IT",
-                "label": "Italy"
-            },
-            {
-                "ISO3166": "LU",
-                "label": "Luxembourg"
-            },
-            {
-                "ISO3166": "MC",
-                "label": "Monaco"
-            },
-            {
-                "ISO3166": "PM",
-                "label": "Saint Pierre and Miquelon"
-            },
-            {
-                "ISO3166": "TF",
-                "label": "French Southern Territories"
-            },
-            {
-                "ISO3166": "US",
-                "label": "United States"
-            }
-        ],
+        "countries": [],
         "doc_ID": 5000,
         "doc_URL": "https://www.glossa-journal.org/article/id/5000",
         "entities": [
@@ -298,7 +202,7 @@
                 "wdid": "Q1439645"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">il</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">has</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">donné</div>\n\t\t<div class=\"glossblock\">given</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">au</div>\n\t\t<div class=\"glossblock\">to.ART</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ministre</div>\n\t\t<div class=\"glossblock\">minister</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qui</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">n’aime</div>\n\t\t<div class=\"glossblock\">NEG‑like</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pas</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Macron</div>\n\t\t<div class=\"glossblock\">Macron</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">a.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tâche</div>\n\t\t<div class=\"glossblock\">task</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">impossible.</div>\n\t\t<div class=\"glossblock\">impossible</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">il</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">has</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">donné</div>\n\t\t<div class=\"glossblock\">given</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">au</div>\n\t\t<div class=\"glossblock\">to.<span class='abbr'>ART<span class='abbrexpansion'>article</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ministre</div>\n\t\t<div class=\"glossblock\">minister</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qui</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">n’aime</div>\n\t\t<div class=\"glossblock\">NEG‑like</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pas</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Macron</div>\n\t\t<div class=\"glossblock\">Macron</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">a.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tâche</div>\n\t\t<div class=\"glossblock\">task</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">impossible.</div>\n\t\t<div class=\"glossblock\">impossible</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "he",
             "has",
@@ -316,9 +220,11 @@
         "language_glottocode": "stan1290",
         "language_iso6393": "fra",
         "language_name": "French",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
         "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Dillon, Brian and Frazier, Lyn and Clifton, Charles. 2018. No longer an orphan: evidence for appositive attachment from sentence comprehension. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "il",
             "a",
@@ -421,56 +327,7 @@
             2.0,
             48.0
         ],
-        "countries": [
-            {
-                "ISO3166": "AD",
-                "label": "Andorra"
-            },
-            {
-                "ISO3166": "BE",
-                "label": "Belgium"
-            },
-            {
-                "ISO3166": "CA",
-                "label": "Canada"
-            },
-            {
-                "ISO3166": "CH",
-                "label": "Switzerland"
-            },
-            {
-                "ISO3166": "FR",
-                "label": "France"
-            },
-            {
-                "ISO3166": "GF",
-                "label": "French Guiana"
-            },
-            {
-                "ISO3166": "IT",
-                "label": "Italy"
-            },
-            {
-                "ISO3166": "LU",
-                "label": "Luxembourg"
-            },
-            {
-                "ISO3166": "MC",
-                "label": "Monaco"
-            },
-            {
-                "ISO3166": "PM",
-                "label": "Saint Pierre and Miquelon"
-            },
-            {
-                "ISO3166": "TF",
-                "label": "French Southern Territories"
-            },
-            {
-                "ISO3166": "US",
-                "label": "United States"
-            }
-        ],
+        "countries": [],
         "doc_ID": 5000,
         "doc_URL": "https://www.glossa-journal.org/article/id/5000",
         "entities": [
@@ -479,7 +336,7 @@
                 "wdid": "Q1439645"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">il</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">has</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">donné</div>\n\t\t<div class=\"glossblock\">given</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">au</div>\n\t\t<div class=\"glossblock\">to.ART</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ministre,</div>\n\t\t<div class=\"glossblock\">minister</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qui</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">n’aime</div>\n\t\t<div class=\"glossblock\">NEG‑like</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pas</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Macron,</div>\n\t\t<div class=\"glossblock\">Macron</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">a.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tâche</div>\n\t\t<div class=\"glossblock\">task</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">impossible.</div>\n\t\t<div class=\"glossblock\">impossible</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">il</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">has</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">donné</div>\n\t\t<div class=\"glossblock\">given</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">au</div>\n\t\t<div class=\"glossblock\">to.<span class='abbr'>ART<span class='abbrexpansion'>article</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ministre,</div>\n\t\t<div class=\"glossblock\">minister</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qui</div>\n\t\t<div class=\"glossblock\">who</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">n’aime</div>\n\t\t<div class=\"glossblock\">NEG‑like</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pas</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Macron,</div>\n\t\t<div class=\"glossblock\">Macron</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">a.F</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tâche</div>\n\t\t<div class=\"glossblock\">task</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">impossible.</div>\n\t\t<div class=\"glossblock\">impossible</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "he",
             "has",
@@ -497,9 +354,11 @@
         "language_glottocode": "stan1290",
         "language_iso6393": "fra",
         "language_name": "French",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
         "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Dillon, Brian and Frazier, Lyn and Clifton, Charles. 2018. No longer an orphan: evidence for appositive attachment from sentence comprehension. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "il",
             "a",
