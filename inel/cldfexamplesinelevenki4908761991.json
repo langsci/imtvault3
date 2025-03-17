@@ -58,9 +58,13 @@
                 "wdid": "Q234795"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əni-mi-la Našimaw-bdula əmə-ča-w čaj-ti-na-dʼa irəma-dʼa-n</div>\n\t\t<div class=\"glossblock\">mother-ALIEN-LAT Nazimova-LAT come-PST-1SG tea-VBLZ.ING-AM-IPFV.[AOR.PN] visit-IPFV.[AOR]-PNN</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əni-mi-la</div>\n\t\t<div class=\"glossblock\">mother-ALIEN-LAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Našimaw-bdula</div>\n\t\t<div class=\"glossblock\">Nazimova-LAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əmə-ča-w</div>\n\t\t<div class=\"glossblock\">come-PST-1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">čaj-ti-na-dʼa</div>\n\t\t<div class=\"glossblock\">tea-VBLZ.ING-AM-IPFV.[AOR.PN]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">irəma-dʼa-n</div>\n\t\t<div class=\"glossblock\">visit-IPFV.[AOR]-PNN</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "mother-ALIEN-LAT Nazimova-LAT come-PST-1SG tea-VBLZ.ING-AM-IPFV.[AOR.PN] visit-IPFV.[AOR]-PNN"
+            "mother-ALIEN-LAT",
+            "Nazimova-LAT",
+            "come-PST-1SG",
+            "tea-VBLZ.ING-AM-IPFV.[AOR.PN]",
+            "visit-IPFV.[AOR]-PNN"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -73,10 +77,14 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "əni-mi-la Našimaw-bdula əmə-ča-w čaj-ti-na-dʼa irəma-dʼa-n"
+            "əni-mi-la",
+            "Našimaw-bdula",
+            "əmə-ča-w",
+            "čaj-ti-na-dʼa",
+            "irəma-dʼa-n"
         ],
         "trs": "I came to Mother Nazimova to drink tea, I came for a visit.",
-        "wlength": 1
+        "wlength": 5
     },
     {
         "ID": "inelevenki4908761991_5_7",
@@ -125,9 +133,10 @@
         ],
         "doc_ID": 4908761991,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bajə-l-wil molčat-čo-ro</div>\n\t\t<div class=\"glossblock\">human-PL.[NOM]-EMPH1 treat.badly-IPFV-AOR.[3PL]</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bajə-l-wil</div>\n\t\t<div class=\"glossblock\">human-PL.[NOM]-EMPH1</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">molčat-čo-ro</div>\n\t\t<div class=\"glossblock\">treat.badly-IPFV-AOR.[3PL]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "human-PL.[NOM]-EMPH1 treat.badly-IPFV-AOR.[3PL]"
+            "human-PL.[NOM]-EMPH1",
+            "treat.badly-IPFV-AOR.[3PL]"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -140,28 +149,15 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "bajə-l-wil molčat-čo-ro"
+            "bajə-l-wil",
+            "molčat-čo-ro"
         ],
         "trs": "Men treat [me] badly.",
-        "wlength": 1
+        "wlength": 2
     },
     {
-        "ID": "inelevenki4908761991_7_11",
         "abbrkey": {},
-        "ancestors": [
-            {
-                "id": "tung1282",
-                "label": "Tungusic"
-            },
-            {
-                "id": "nort3417",
-                "label": "Northeastern Tungusic"
-            },
-            {
-                "id": "nort3147",
-                "label": "Northern Tungusic"
-            }
-        ],
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "G",
@@ -169,65 +165,17 @@
             "PST",
             "SG"
         ],
-        "citation": "https://hdl.handle.net/11022/0000-0007-FE38-D",
-        "clength": 26,
-        "coords": [
-            94.689,
-            61.972
-        ],
-        "countries": [
-            {
-                "ISO3166": "CN",
-                "label": "China"
-            },
-            {
-                "ISO3166": "MN",
-                "label": "Mongolia"
-            },
-            {
-                "ISO3166": "RU",
-                "label": "Russian Federation"
-            }
-        ],
         "doc_ID": 4908761991,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">amikun Gajwul bi-ča-n bajə</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
-        "imtwordsbare": [
-            ""
-        ],
-        "language_glottocode": "even1259",
-        "language_iso6393": "evn",
-        "language_name": "Evenki",
         "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [
-            "Eurasia"
-        ],
+        "macroareas": [],
         "parententities": [],
         "provider": "inelevenki",
-        "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
-        "srcwordsbare": [
-            "amikun Gajwul bi-ča-n bajə"
-        ],
-        "trs": "Father Gaywul was a [good] man.",
-        "wlength": 1
+        "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D"
     },
     {
-        "ID": "inelevenki4908761991_11_14",
         "abbrkey": {},
-        "ancestors": [
-            {
-                "id": "tung1282",
-                "label": "Tungusic"
-            },
-            {
-                "id": "nort3417",
-                "label": "Northeastern Tungusic"
-            },
-            {
-                "id": "nort3147",
-                "label": "Northern Tungusic"
-            }
-        ],
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "EMPH",
@@ -236,47 +184,13 @@
             "SBJV",
             "SG"
         ],
-        "citation": "https://hdl.handle.net/11022/0000-0007-FE38-D",
-        "clength": 25,
-        "coords": [
-            94.689,
-            61.972
-        ],
-        "countries": [
-            {
-                "ISO3166": "CN",
-                "label": "China"
-            },
-            {
-                "ISO3166": "MN",
-                "label": "Mongolia"
-            },
-            {
-                "ISO3166": "RU",
-                "label": "Russian Federation"
-            }
-        ],
         "doc_ID": 4908761991,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tikin-ma əmo-wuk Opoko-wo</div>\n\t\t<div class=\"glossblock\">now-EMPH5 come-</div>\n\t</div>\n</div>\n",
-        "imtwordsbare": [
-            "now-EMPH5 come-"
-        ],
-        "language_glottocode": "even1259",
-        "language_iso6393": "evn",
-        "language_name": "Evenki",
         "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [
-            "Eurasia"
-        ],
+        "macroareas": [],
         "parententities": [],
         "provider": "inelevenki",
-        "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
-        "srcwordsbare": [
-            "tikin-ma əmo-wuk Opoko-wo"
-        ],
-        "trs": "I wish Opoko would come now.",
-        "wlength": 1
+        "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D"
     },
     {
         "ID": "inelevenki4908761991_14_17",
@@ -327,9 +241,11 @@
         ],
         "doc_ID": 4908761991,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mina bajə-l molčit-ča-ra</div>\n\t\t<div class=\"glossblock\">PRO.1SG.ACC human-PL.[NOM] treat.badly-IPFV-AOR.[3PL]</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mina</div>\n\t\t<div class=\"glossblock\">PRO.1SG.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bajə-l</div>\n\t\t<div class=\"glossblock\">human-PL.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">molčit-ča-ra</div>\n\t\t<div class=\"glossblock\">treat.badly-IPFV-AOR.[3PL]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "PRO.1SG.ACC human-PL.[NOM] treat.badly-IPFV-AOR.[3PL]"
+            "PRO.1SG.ACC",
+            "human-PL.[NOM]",
+            "treat.badly-IPFV-AOR.[3PL]"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -342,9 +258,11 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "mina bajə-l molčit-ča-ra"
+            "mina",
+            "bajə-l",
+            "molčit-ča-ra"
         ],
         "trs": "Men treat me badly.",
-        "wlength": 1
+        "wlength": 3
     }
 ]

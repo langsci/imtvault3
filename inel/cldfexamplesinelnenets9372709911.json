@@ -32,9 +32,10 @@
         "countries": [],
         "doc_ID": 9372709911,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dʼaŋkɬʼota Ŋajwašeta</div>\n\t\t<div class=\"glossblock\">Dyankleta.[NOM.SG] Ayvasedo.[NOM.SG]</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dʼaŋkɬʼota</div>\n\t\t<div class=\"glossblock\">Dyankleta.[NOM.SG]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ŋajwašeta</div>\n\t\t<div class=\"glossblock\">Ayvasedo.[NOM.SG]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "Dyankleta.[NOM.SG] Ayvasedo.[NOM.SG]"
+            "Dyankleta.[NOM.SG]",
+            "Ayvasedo.[NOM.SG]"
         ],
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
@@ -45,10 +46,11 @@
         "provider": "inelnenets",
         "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
-            "Dʼaŋkɬʼota Ŋajwašeta"
+            "Dʼaŋkɬʼota",
+            "Ŋajwašeta"
         ],
         "trs": "Aivasedo, clan Dyanklet",
-        "wlength": 1
+        "wlength": 2
     },
     {
         "ID": "inelnenets9372709911_2_7",
@@ -85,9 +87,13 @@
         "countries": [],
         "doc_ID": 9372709911,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">čiki Dʼaŋkɬʼota xämi kaxe-n-tuŋ nʼim</div>\n\t\t<div class=\"glossblock\">this Dyankleta.[NOM.SG] eye spirit-CO-OBL.3PL name.[NOM.SG]</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">čiki</div>\n\t\t<div class=\"glossblock\">this</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dʼaŋkɬʼota</div>\n\t\t<div class=\"glossblock\">Dyankleta.[NOM.SG]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xämi</div>\n\t\t<div class=\"glossblock\">eye</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaxe-n-tuŋ</div>\n\t\t<div class=\"glossblock\">spirit-CO-OBL.3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nʼim</div>\n\t\t<div class=\"glossblock\">name.[NOM.SG]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "this Dyankleta.[NOM.SG] eye spirit-CO-OBL.3PL name.[NOM.SG]"
+            "this",
+            "Dyankleta.[NOM.SG]",
+            "eye",
+            "spirit-CO-OBL.3PL",
+            "name.[NOM.SG]"
         ],
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
@@ -98,28 +104,18 @@
         "provider": "inelnenets",
         "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
-            "čiki Dʼaŋkɬʼota xämi kaxe-n-tuŋ nʼim"
+            "čiki",
+            "Dʼaŋkɬʼota",
+            "xämi",
+            "kaxe-n-tuŋ",
+            "nʼim"
         ],
         "trs": "Crooked Eye is the name of the Spirit.",
-        "wlength": 1
+        "wlength": 5
     },
     {
-        "ID": "inelnenets9372709911_7_17",
         "abbrkey": {},
-        "ancestors": [
-            {
-                "id": "ural1272",
-                "label": "Uralic"
-            },
-            {
-                "id": "samo1298",
-                "label": "Samoyedic"
-            },
-            {
-                "id": "enet1251",
-                "label": "Enets-Nenets"
-            }
-        ],
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -135,286 +131,13 @@
             "S",
             "SG"
         ],
-        "citation": "https://hdl.handle.net/11022/0000-0007-FE37-E",
-        "clength": 98,
-        "coords": [
-            71.97,
-            63.72
-        ],
-        "countries": [],
         "doc_ID": 9372709911,
-        "entities": [
-            {
-                "label": "Russians",
-                "wdid": "Q49542"
-            },
-            {
-                "label": "Nenets",
-                "wdid": "Q166176"
-            },
-            {
-                "label": "mammal",
-                "wdid": "Q110551885"
-            },
-            {
-                "label": "vertebrate",
-                "wdid": "Q110551902"
-            },
-            {
-                "label": "inhabitant",
-                "wdid": "Q22947"
-            },
-            {
-                "label": "European people",
-                "wdid": "Q394067"
-            },
-            {
-                "label": "human",
-                "wdid": "Q5"
-            },
-            {
-                "label": "Animal",
-                "wdid": "Q729"
-            },
-            {
-                "label": "Eastern Europeans",
-                "wdid": "Q94696335"
-            },
-            {
-                "label": "mammal",
-                "wdid": "Q110551885"
-            },
-            {
-                "label": "vertebrate",
-                "wdid": "Q110551902"
-            },
-            {
-                "label": "inhabitant",
-                "wdid": "Q22947"
-            },
-            {
-                "label": "European people",
-                "wdid": "Q394067"
-            },
-            {
-                "label": "human",
-                "wdid": "Q5"
-            },
-            {
-                "label": "Animal",
-                "wdid": "Q729"
-            },
-            {
-                "label": "Eastern Europeans",
-                "wdid": "Q94696335"
-            },
-            {
-                "label": "vertebrate",
-                "wdid": "Q110551902"
-            },
-            {
-                "label": "Animal",
-                "wdid": "Q729"
-            },
-            {
-                "label": "Animal",
-                "wdid": "Q729"
-            },
-            {
-                "label": "mammal",
-                "wdid": "Q110551885"
-            },
-            {
-                "label": "vertebrate",
-                "wdid": "Q110551902"
-            },
-            {
-                "label": "human",
-                "wdid": "Q5"
-            },
-            {
-                "label": "Animal",
-                "wdid": "Q729"
-            },
-            {
-                "label": "mammal",
-                "wdid": "Q110551885"
-            },
-            {
-                "label": "vertebrate",
-                "wdid": "Q110551902"
-            },
-            {
-                "label": "human",
-                "wdid": "Q5"
-            },
-            {
-                "label": "Animal",
-                "wdid": "Q729"
-            },
-            {
-                "label": "mammal",
-                "wdid": "Q110551885"
-            },
-            {
-                "label": "vertebrate",
-                "wdid": "Q110551902"
-            },
-            {
-                "label": "Animal",
-                "wdid": "Q729"
-            },
-            {
-                "label": "mammal",
-                "wdid": "Q110551885"
-            },
-            {
-                "label": "vertebrate",
-                "wdid": "Q110551902"
-            },
-            {
-                "label": "inhabitant",
-                "wdid": "Q22947"
-            },
-            {
-                "label": "European people",
-                "wdid": "Q394067"
-            },
-            {
-                "label": "human",
-                "wdid": "Q5"
-            },
-            {
-                "label": "Animal",
-                "wdid": "Q729"
-            }
-        ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ŋajwašeta ŋaj teta-m-tuŋ ŋaɬka-m-tuŋ wäma dʼeča-xana lʼemka-ʔma-xatatuŋ nʼim-čimejtuŋ ɬuši ŋaj-maj</div>\n\t\t<div class=\"glossblock\">Ayvasedo.[NOM.SG] again rich-ACC.SG-OBL.3PL big-ACC.SG-OBL.3PL bad pain-LOC.SG </div>\n\t</div>\n</div>\n",
-        "imtwordsbare": [
-            "Ayvasedo.[NOM.SG] again rich-ACC.SG-OBL.3PL big-ACC.SG-OBL.3PL bad pain-LOC.SG "
-        ],
-        "language_glottocode": "nene1251",
-        "language_iso6393": "und",
-        "language_name": "Nenets",
+        "entities": [],
         "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
         "macroareas": [],
-        "parententities": [
-            {
-                "label": "mammal",
-                "wdid": "Q110551885"
-            },
-            {
-                "label": "vertebrate",
-                "wdid": "Q110551902"
-            },
-            {
-                "label": "inhabitant",
-                "wdid": "Q22947"
-            },
-            {
-                "label": "European people",
-                "wdid": "Q394067"
-            },
-            {
-                "label": "human",
-                "wdid": "Q5"
-            },
-            {
-                "label": "Animal",
-                "wdid": "Q729"
-            },
-            {
-                "label": "Eastern Europeans",
-                "wdid": "Q94696335"
-            },
-            {
-                "label": "vertebrate",
-                "wdid": "Q110551902"
-            },
-            {
-                "label": "Animal",
-                "wdid": "Q729"
-            },
-            {
-                "label": "Animal",
-                "wdid": "Q729"
-            },
-            {
-                "label": "mammal",
-                "wdid": "Q110551885"
-            },
-            {
-                "label": "vertebrate",
-                "wdid": "Q110551902"
-            },
-            {
-                "label": "human",
-                "wdid": "Q5"
-            },
-            {
-                "label": "Animal",
-                "wdid": "Q729"
-            },
-            {
-                "label": "mammal",
-                "wdid": "Q110551885"
-            },
-            {
-                "label": "vertebrate",
-                "wdid": "Q110551902"
-            },
-            {
-                "label": "human",
-                "wdid": "Q5"
-            },
-            {
-                "label": "Animal",
-                "wdid": "Q729"
-            },
-            {
-                "label": "mammal",
-                "wdid": "Q110551885"
-            },
-            {
-                "label": "vertebrate",
-                "wdid": "Q110551902"
-            },
-            {
-                "label": "Animal",
-                "wdid": "Q729"
-            },
-            {
-                "label": "mammal",
-                "wdid": "Q110551885"
-            },
-            {
-                "label": "vertebrate",
-                "wdid": "Q110551902"
-            },
-            {
-                "label": "inhabitant",
-                "wdid": "Q22947"
-            },
-            {
-                "label": "European people",
-                "wdid": "Q394067"
-            },
-            {
-                "label": "human",
-                "wdid": "Q5"
-            },
-            {
-                "label": "Animal",
-                "wdid": "Q729"
-            }
-        ],
+        "parententities": [],
         "provider": "inelnenets",
-        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
-        "srcwordsbare": [
-            "ŋajwašeta ŋaj teta-m-tuŋ ŋaɬka-m-tuŋ wäma dʼeča-xana lʼemka-ʔma-xatatuŋ nʼim-čimejtuŋ ɬuši ŋaj-maj"
-        ],
-        "trs": "And the Russians named the descendants of those wealthy Nenets who died from a serious illness by the name of Aivased.",
-        "wlength": 1
+        "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E."
     },
     {
         "ID": "inelnenets9372709911_17_24",
@@ -459,9 +182,15 @@
                 "wdid": "Q39002"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɬusaŋ wata-xana _ _ _ _ ŋajwašeta</div>\n\t\t<div class=\"glossblock\">Russian word-LOC.SG _ _ _ _ Ayvasedo.[NOM.SG]</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɬusaŋ</div>\n\t\t<div class=\"glossblock\">Russian</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wata-xana</div>\n\t\t<div class=\"glossblock\">word-LOC.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">_</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">_</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">_</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">_</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ŋajwašeta</div>\n\t\t<div class=\"glossblock\">Ayvasedo.[NOM.SG]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "Russian word-LOC.SG _ _ _ _ Ayvasedo.[NOM.SG]"
+            "Russian",
+            "word-LOC.SG",
+            "_",
+            "_",
+            "_",
+            "_",
+            "Ayvasedo.[NOM.SG]"
         ],
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
@@ -472,10 +201,16 @@
         "provider": "inelnenets",
         "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
-            "ɬusaŋ wata-xana _ _ _ _ ŋajwašeta"
+            "ɬusaŋ",
+            "wata-xana",
+            "_",
+            "_",
+            "_",
+            "_",
+            "ŋajwašeta"
         ],
         "trs": "In Russian, Aivaseda is a wandering Samoyed without a leader.",
-        "wlength": 1
+        "wlength": 7
     },
     {
         "ID": "inelnenets9372709911_24_29",
@@ -510,9 +245,13 @@
         "countries": [],
         "doc_ID": 9372709911,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">1780 po-xona wäma dʼeča-xana lʼemka-maj</div>\n\t\t<div class=\"glossblock\">1780 year-LOC.SG bad pain-LOC.SG </div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">1780</div>\n\t\t<div class=\"glossblock\">1780</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">po-xona</div>\n\t\t<div class=\"glossblock\">year-LOC.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wäma</div>\n\t\t<div class=\"glossblock\">bad</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dʼeča-xana</div>\n\t\t<div class=\"glossblock\">pain-LOC.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lʼemka-maj</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "1780 year-LOC.SG bad pain-LOC.SG "
+            "1780",
+            "year-LOC.SG",
+            "bad",
+            "pain-LOC.SG",
+            ""
         ],
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
@@ -523,10 +262,14 @@
         "provider": "inelnenets",
         "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
-            "1780 po-xona wäma dʼeča-xana lʼemka-maj"
+            "1780",
+            "po-xona",
+            "wäma",
+            "dʼeča-xana",
+            "lʼemka-maj"
         ],
         "trs": "In 1780, they died of a serious illness.",
-        "wlength": 1
+        "wlength": 5
     },
     {
         "ID": "inelnenets9372709911_29_39",
@@ -564,9 +307,18 @@
         "countries": [],
         "doc_ID": 9372709911,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ŋami taɬʼam patmi 1783 po-xona Dʼewaʔku-čej maɬ ka-maj wäma dʼeča-xana</div>\n\t\t<div class=\"glossblock\">what so written.[3SG.S] 1783 year-LOC.SG Dewaku-DRV.[NOM.SG] whole die-NAR.[3SG.S] bad pain-LOC.SG</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ŋami</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">taɬʼam</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">patmi</div>\n\t\t<div class=\"glossblock\">written.[3SG.S]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">1783</div>\n\t\t<div class=\"glossblock\">1783</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">po-xona</div>\n\t\t<div class=\"glossblock\">year-LOC.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dʼewaʔku-čej</div>\n\t\t<div class=\"glossblock\">Dewaku-DRV.[NOM.SG]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">maɬ</div>\n\t\t<div class=\"glossblock\">whole</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ka-maj</div>\n\t\t<div class=\"glossblock\">die-NAR.[3SG.S]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wäma</div>\n\t\t<div class=\"glossblock\">bad</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dʼeča-xana</div>\n\t\t<div class=\"glossblock\">pain-LOC.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "what so written.[3SG.S] 1783 year-LOC.SG Dewaku-DRV.[NOM.SG] whole die-NAR.[3SG.S] bad pain-LOC.SG"
+            "what",
+            "so",
+            "written.[3SG.S]",
+            "1783",
+            "year-LOC.SG",
+            "Dewaku-DRV.[NOM.SG]",
+            "whole",
+            "die-NAR.[3SG.S]",
+            "bad",
+            "pain-LOC.SG"
         ],
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
@@ -577,10 +329,19 @@
         "provider": "inelnenets",
         "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
-            "ŋami taɬʼam patmi 1783 po-xona Dʼewaʔku-čej maɬ ka-maj wäma dʼeča-xana"
+            "ŋami",
+            "taɬʼam",
+            "patmi",
+            "1783",
+            "po-xona",
+            "Dʼewaʔku-čej",
+            "maɬ",
+            "ka-maj",
+            "wäma",
+            "dʼeča-xana"
         ],
         "trs": "So they wrote: in 1783, all Devakus died of a serious illness.",
-        "wlength": 1
+        "wlength": 10
     },
     {
         "ID": "inelnenets9372709911_39_45",
@@ -619,9 +380,14 @@
         "countries": [],
         "doc_ID": 9372709911,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nʼaxaɬ-tuŋ dʼuɬk-maj ŋaškʼi-ʔ Polʼat Dʼonʼi Oni</div>\n\t\t<div class=\"glossblock\">three-NOM.SG.3PL go.out-NAR.[3SG.S] child-NOM.PL Polyat.[NOM.SG] Dyoni.[NOM.SG] Ony.[NOM.SG]</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nʼaxaɬ-tuŋ</div>\n\t\t<div class=\"glossblock\">three-NOM.SG.3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dʼuɬk-maj</div>\n\t\t<div class=\"glossblock\">go.out-NAR.[3SG.S]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ŋaškʼi-ʔ</div>\n\t\t<div class=\"glossblock\">child-NOM.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Polʼat</div>\n\t\t<div class=\"glossblock\">Polyat.[NOM.SG]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dʼonʼi</div>\n\t\t<div class=\"glossblock\">Dyoni.[NOM.SG]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Oni</div>\n\t\t<div class=\"glossblock\">Ony.[NOM.SG]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "three-NOM.SG.3PL go.out-NAR.[3SG.S] child-NOM.PL Polyat.[NOM.SG] Dyoni.[NOM.SG] Ony.[NOM.SG]"
+            "three-NOM.SG.3PL",
+            "go.out-NAR.[3SG.S]",
+            "child-NOM.PL",
+            "Polyat.[NOM.SG]",
+            "Dyoni.[NOM.SG]",
+            "Ony.[NOM.SG]"
         ],
         "language_glottocode": "nene1251",
         "language_iso6393": "und",
@@ -632,9 +398,14 @@
         "provider": "inelnenets",
         "rightsholder": "Budzisch, Josefina; Wagner-Nagy, Beáta. 2024. INEL Nenets Corpus. Version 1.0. Publication date 2024-12-31. https://hdl.handle.net/11022/0000-0007-FE37-E.",
         "srcwordsbare": [
-            "nʼaxaɬ-tuŋ dʼuɬk-maj ŋaškʼi-ʔ Polʼat Dʼonʼi Oni"
+            "nʼaxaɬ-tuŋ",
+            "dʼuɬk-maj",
+            "ŋaškʼi-ʔ",
+            "Polʼat",
+            "Dʼonʼi",
+            "Oni"
         ],
         "trs": "Three children survived: Polyat, Denis, Ony.",
-        "wlength": 1
+        "wlength": 6
     }
 ]

@@ -136,9 +136,13 @@
                 "wdid": "Q3588251"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nʼäːnʼ-i-m meː-tɔː-mɨn šoːqor-qɨn sö-lʼ šoːqor-qɨn</div>\n\t\t<div class=\"glossblock\">bread-EP-ACC do-TR-1PL stove-LOC clay-ADJZ stove-LOC</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nʼäːnʼ-i-m</div>\n\t\t<div class=\"glossblock\">bread-EP-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meː-tɔː-mɨn</div>\n\t\t<div class=\"glossblock\">do-TR-1PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šoːqor-qɨn</div>\n\t\t<div class=\"glossblock\">stove-LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sö-lʼ</div>\n\t\t<div class=\"glossblock\">clay-ADJZ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šoːqor-qɨn</div>\n\t\t<div class=\"glossblock\">stove-LOC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "bread-EP-ACC do-TR-1PL stove-LOC clay-ADJZ stove-LOC"
+            "bread-EP-ACC",
+            "do-TR-1PL",
+            "stove-LOC",
+            "clay-ADJZ",
+            "stove-LOC"
         ],
         "language_glottocode": "selk1253",
         "language_iso6393": "sel",
@@ -212,28 +216,18 @@
         "provider": "inelselkup",
         "rightsholder": "Brykina, Maria; Orlova, Svetlana; Wagner-Nagy, Beáta. 2021. “INEL Selkup Corpus.” Version 2 .0. Publication date 2021-12-31. https://hdl.handle.net/11022/0000-0007-F4D9-1",
         "srcwordsbare": [
-            "nʼäːnʼ-i-m meː-tɔː-mɨn šoːqor-qɨn sö-lʼ šoːqor-qɨn"
+            "nʼäːnʼ-i-m",
+            "meː-tɔː-mɨn",
+            "šoːqor-qɨn",
+            "sö-lʼ",
+            "šoːqor-qɨn"
         ],
         "trs": "We make bread in oven, in a clay oven.",
-        "wlength": 1
+        "wlength": 5
     },
     {
-        "ID": "inelselkup8990124703_5_11",
         "abbrkey": {},
-        "ancestors": [
-            {
-                "id": "ural1272",
-                "label": "Uralic"
-            },
-            {
-                "id": "samo1298",
-                "label": "Samoyedic"
-            },
-            {
-                "id": "kama1376",
-                "label": "Kamas-Selkup"
-            }
-        ],
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "DIM",
@@ -244,173 +238,13 @@
             "O",
             "SG"
         ],
-        "citation": "https://hdl.handle.net/11022/0000-0007-F4D9-1",
-        "clength": 63,
-        "coords": [
-            82.3004,
-            59.9409
-        ],
-        "countries": [
-            {
-                "ISO3166": "RU",
-                "label": "Russian Federation"
-            }
-        ],
         "doc_ID": 8990124703,
-        "entities": [
-            {
-                "label": "firewood",
-                "wdid": "Q35808"
-            },
-            {
-                "label": "material",
-                "wdid": "Q214609"
-            },
-            {
-                "label": "Wood",
-                "wdid": "Q287"
-            },
-            {
-                "label": "biological material",
-                "wdid": "Q28969293"
-            },
-            {
-                "label": "natural building material",
-                "wdid": "Q3300024"
-            },
-            {
-                "label": "tissue",
-                "wdid": "Q40397"
-            },
-            {
-                "label": "Fuel",
-                "wdid": "Q42501"
-            },
-            {
-                "label": "material",
-                "wdid": "Q214609"
-            },
-            {
-                "label": "Wood",
-                "wdid": "Q287"
-            },
-            {
-                "label": "biological material",
-                "wdid": "Q28969293"
-            },
-            {
-                "label": "natural building material",
-                "wdid": "Q3300024"
-            },
-            {
-                "label": "tissue",
-                "wdid": "Q40397"
-            },
-            {
-                "label": "Fuel",
-                "wdid": "Q42501"
-            },
-            {
-                "label": "material",
-                "wdid": "Q214609"
-            },
-            {
-                "label": "biological material",
-                "wdid": "Q28969293"
-            },
-            {
-                "label": "natural building material",
-                "wdid": "Q3300024"
-            },
-            {
-                "label": "tissue",
-                "wdid": "Q40397"
-            },
-            {
-                "label": "material",
-                "wdid": "Q214609"
-            },
-            {
-                "label": "material",
-                "wdid": "Q214609"
-            },
-            {
-                "label": "material",
-                "wdid": "Q214609"
-            }
-        ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šoːqor-lʼa-čʼa čʼɔːt-ɛnta-l poː-sa pin-tä-r-tɛnta-l šittɨ pɔːrɨ</div>\n\t\t<div class=\"glossblock\">stove-DIM.[NOM]-</div>\n\t</div>\n</div>\n",
-        "imtwordsbare": [
-            "stove-DIM.[NOM]-"
-        ],
-        "language_glottocode": "selk1253",
-        "language_iso6393": "sel",
-        "language_name": "Selkup",
+        "entities": [],
         "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [
-            "Eurasia"
-        ],
-        "parententities": [
-            {
-                "label": "material",
-                "wdid": "Q214609"
-            },
-            {
-                "label": "Wood",
-                "wdid": "Q287"
-            },
-            {
-                "label": "biological material",
-                "wdid": "Q28969293"
-            },
-            {
-                "label": "natural building material",
-                "wdid": "Q3300024"
-            },
-            {
-                "label": "tissue",
-                "wdid": "Q40397"
-            },
-            {
-                "label": "Fuel",
-                "wdid": "Q42501"
-            },
-            {
-                "label": "material",
-                "wdid": "Q214609"
-            },
-            {
-                "label": "biological material",
-                "wdid": "Q28969293"
-            },
-            {
-                "label": "natural building material",
-                "wdid": "Q3300024"
-            },
-            {
-                "label": "tissue",
-                "wdid": "Q40397"
-            },
-            {
-                "label": "material",
-                "wdid": "Q214609"
-            },
-            {
-                "label": "material",
-                "wdid": "Q214609"
-            },
-            {
-                "label": "material",
-                "wdid": "Q214609"
-            }
-        ],
+        "macroareas": [],
+        "parententities": [],
         "provider": "inelselkup",
-        "rightsholder": "Brykina, Maria; Orlova, Svetlana; Wagner-Nagy, Beáta. 2021. “INEL Selkup Corpus.” Version 2 .0. Publication date 2021-12-31. https://hdl.handle.net/11022/0000-0007-F4D9-1",
-        "srcwordsbare": [
-            "šoːqor-lʼa-čʼa čʼɔːt-ɛnta-l poː-sa pin-tä-r-tɛnta-l šittɨ pɔːrɨ"
-        ],
-        "trs": "When you heat the oven, you will put firewood in there, twice.",
-        "wlength": 1
+        "rightsholder": "Brykina, Maria; Orlova, Svetlana; Wagner-Nagy, Beáta. 2021. “INEL Selkup Corpus.” Version 2 .0. Publication date 2021-12-31. https://hdl.handle.net/11022/0000-0007-F4D9-1"
     },
     {
         "ID": "inelselkup8990124703_11_18",
@@ -460,9 +294,15 @@
                 "wdid": "Q200822"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sıːtʼi-tɨ šittə qatt-al-tɨ ɔːmɨ sıːtʼi-tɨ ponä qatt-al-tɨ</div>\n\t\t<div class=\"glossblock\">coal.[NOM]-3SG every.which.way hit-MOM-IMP.2SG.O other coal.[NOM]-3SG outwards hit-MOM-IMP.2SG.O</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sıːtʼi-tɨ</div>\n\t\t<div class=\"glossblock\">coal.[NOM]-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šittə</div>\n\t\t<div class=\"glossblock\">every.which.way</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qatt-al-tɨ</div>\n\t\t<div class=\"glossblock\">hit-MOM-IMP.2SG.O</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ɔːmɨ</div>\n\t\t<div class=\"glossblock\">other</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sıːtʼi-tɨ</div>\n\t\t<div class=\"glossblock\">coal.[NOM]-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ponä</div>\n\t\t<div class=\"glossblock\">outwards</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qatt-al-tɨ</div>\n\t\t<div class=\"glossblock\">hit-MOM-IMP.2SG.O</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "coal.[NOM]-3SG every.which.way hit-MOM-IMP.2SG.O other coal.[NOM]-3SG outwards hit-MOM-IMP.2SG.O"
+            "coal.[NOM]-3SG",
+            "every.which.way",
+            "hit-MOM-IMP.2SG.O",
+            "other",
+            "coal.[NOM]-3SG",
+            "outwards",
+            "hit-MOM-IMP.2SG.O"
         ],
         "language_glottocode": "selk1253",
         "language_iso6393": "sel",
@@ -475,10 +315,16 @@
         "provider": "inelselkup",
         "rightsholder": "Brykina, Maria; Orlova, Svetlana; Wagner-Nagy, Beáta. 2021. “INEL Selkup Corpus.” Version 2 .0. Publication date 2021-12-31. https://hdl.handle.net/11022/0000-0007-F4D9-1",
         "srcwordsbare": [
-            "sıːtʼi-tɨ šittə qatt-al-tɨ ɔːmɨ sıːtʼi-tɨ ponä qatt-al-tɨ"
+            "sıːtʼi-tɨ",
+            "šittə",
+            "qatt-al-tɨ",
+            "ɔːmɨ",
+            "sıːtʼi-tɨ",
+            "ponä",
+            "qatt-al-tɨ"
         ],
         "trs": "Rake aside the coal, rake out the rest of the coal.",
-        "wlength": 1
+        "wlength": 7
     },
     {
         "ID": "inelselkup8990124703_18_24",
@@ -784,9 +630,14 @@
                 "wdid": "Q86746756"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nʼaj-lʼä korpat-tɨ štälʼ skavarta-lʼ ür-sä nat-qɨl-tɨ</div>\n\t\t<div class=\"glossblock\">bread-DIM.[NOM] mix-IMP.2SG.O then frying.pan-ADJZ fat-INSTR anoint-MULT-IMP.2SG.O</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nʼaj-lʼä</div>\n\t\t<div class=\"glossblock\">bread-DIM.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">korpat-tɨ</div>\n\t\t<div class=\"glossblock\">mix-IMP.2SG.O</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">štälʼ</div>\n\t\t<div class=\"glossblock\">then</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">skavarta-lʼ</div>\n\t\t<div class=\"glossblock\">frying.pan-ADJZ</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ür-sä</div>\n\t\t<div class=\"glossblock\">fat-INSTR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nat-qɨl-tɨ</div>\n\t\t<div class=\"glossblock\">anoint-MULT-IMP.2SG.O</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "bread-DIM.[NOM] mix-IMP.2SG.O then frying.pan-ADJZ fat-INSTR anoint-MULT-IMP.2SG.O"
+            "bread-DIM.[NOM]",
+            "mix-IMP.2SG.O",
+            "then",
+            "frying.pan-ADJZ",
+            "fat-INSTR",
+            "anoint-MULT-IMP.2SG.O"
         ],
         "language_glottocode": "selk1253",
         "language_iso6393": "sel",
@@ -992,10 +843,15 @@
         "provider": "inelselkup",
         "rightsholder": "Brykina, Maria; Orlova, Svetlana; Wagner-Nagy, Beáta. 2021. “INEL Selkup Corpus.” Version 2 .0. Publication date 2021-12-31. https://hdl.handle.net/11022/0000-0007-F4D9-1",
         "srcwordsbare": [
-            "nʼaj-lʼä korpat-tɨ štälʼ skavarta-lʼ ür-sä nat-qɨl-tɨ"
+            "nʼaj-lʼä",
+            "korpat-tɨ",
+            "štälʼ",
+            "skavarta-lʼ",
+            "ür-sä",
+            "nat-qɨl-tɨ"
         ],
         "trs": "Knead the dough, and then grease a frying pan.",
-        "wlength": 1
+        "wlength": 6
     },
     {
         "ID": "inelselkup8990124703_24_27",
@@ -1035,9 +891,11 @@
         ],
         "doc_ID": 8990124703,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">štälʼlʼe šoːqor-tä tott-ätə</div>\n\t\t<div class=\"glossblock\">then stove-ILL put-IMP.2SG.O</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">štälʼlʼe</div>\n\t\t<div class=\"glossblock\">then</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šoːqor-tä</div>\n\t\t<div class=\"glossblock\">stove-ILL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tott-ätə</div>\n\t\t<div class=\"glossblock\">put-IMP.2SG.O</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "then stove-ILL put-IMP.2SG.O"
+            "then",
+            "stove-ILL",
+            "put-IMP.2SG.O"
         ],
         "language_glottocode": "selk1253",
         "language_iso6393": "sel",
@@ -1050,10 +908,12 @@
         "provider": "inelselkup",
         "rightsholder": "Brykina, Maria; Orlova, Svetlana; Wagner-Nagy, Beáta. 2021. “INEL Selkup Corpus.” Version 2 .0. Publication date 2021-12-31. https://hdl.handle.net/11022/0000-0007-F4D9-1",
         "srcwordsbare": [
-            "štälʼlʼe šoːqor-tä tott-ätə"
+            "štälʼlʼe",
+            "šoːqor-tä",
+            "tott-ätə"
         ],
         "trs": "Then put it into the oven.",
-        "wlength": 1
+        "wlength": 3
     },
     {
         "ID": "inelselkup8990124703_27_31",
@@ -1095,9 +955,12 @@
         ],
         "doc_ID": 8990124703,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pi-l-lä puːla konnä iː-qɨl-tɨ</div>\n\t\t<div class=\"glossblock\">ripen-RES-CVB after upwards take-MULT-IMP.2SG.O</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pi-l-lä</div>\n\t\t<div class=\"glossblock\">ripen-RES-CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">puːla</div>\n\t\t<div class=\"glossblock\">after</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">konnä</div>\n\t\t<div class=\"glossblock\">upwards</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iː-qɨl-tɨ</div>\n\t\t<div class=\"glossblock\">take-MULT-IMP.2SG.O</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "ripen-RES-CVB after upwards take-MULT-IMP.2SG.O"
+            "ripen-RES-CVB",
+            "after",
+            "upwards",
+            "take-MULT-IMP.2SG.O"
         ],
         "language_glottocode": "selk1253",
         "language_iso6393": "sel",
@@ -1110,9 +973,12 @@
         "provider": "inelselkup",
         "rightsholder": "Brykina, Maria; Orlova, Svetlana; Wagner-Nagy, Beáta. 2021. “INEL Selkup Corpus.” Version 2 .0. Publication date 2021-12-31. https://hdl.handle.net/11022/0000-0007-F4D9-1",
         "srcwordsbare": [
-            "pi-l-lä puːla konnä iː-qɨl-tɨ"
+            "pi-l-lä",
+            "puːla",
+            "konnä",
+            "iː-qɨl-tɨ"
         ],
         "trs": "When it is ready, take it out.",
-        "wlength": 1
+        "wlength": 4
     }
 ]

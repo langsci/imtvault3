@@ -1,21 +1,7 @@
 [
     {
-        "ID": "inelevenki2468293277_0_5",
         "abbrkey": {},
-        "ancestors": [
-            {
-                "id": "tung1282",
-                "label": "Tungusic"
-            },
-            {
-                "id": "nort3417",
-                "label": "Northeastern Tungusic"
-            },
-            {
-                "id": "nort3147",
-                "label": "Northern Tungusic"
-            }
-        ],
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "DAT",
@@ -29,52 +15,13 @@
             "PROL",
             "PST"
         ],
-        "citation": "https://hdl.handle.net/11022/0000-0007-FE38-D",
-        "clength": 47,
-        "coords": [
-            94.689,
-            61.972
-        ],
-        "countries": [
-            {
-                "ISO3166": "CN",
-                "label": "China"
-            },
-            {
-                "ISO3166": "MN",
-                "label": "Mongolia"
-            },
-            {
-                "ISO3166": "RU",
-                "label": "Russian Federation"
-            }
-        ],
         "doc_ID": 2468293277,
-        "entities": [
-            {
-                "label": "Keti",
-                "wdid": "Q104107413"
-            }
-        ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mun-du Kət-tuli rasbojnik-i-l əjan-ča-til əjaki</div>\n\t\t<div class=\"glossblock\">PRO.1PL.EX-DAT/LOC Ketj-PROL robber-EP-PL.[NOM] go.downstream-PST-</div>\n\t</div>\n</div>\n",
-        "imtwordsbare": [
-            "PRO.1PL.EX-DAT/LOC Ketj-PROL robber-EP-PL.[NOM] go.downstream-PST-"
-        ],
-        "language_glottocode": "even1259",
-        "language_iso6393": "evn",
-        "language_name": "Evenki",
+        "entities": [],
         "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [
-            "Eurasia"
-        ],
+        "macroareas": [],
         "parententities": [],
         "provider": "inelevenki",
-        "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
-        "srcwordsbare": [
-            "mun-du Kət-tuli rasbojnik-i-l əjan-ča-til əjaki"
-        ],
-        "trs": "There were bandits swimming downstream towards us on the Keti river.",
-        "wlength": 1
+        "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D"
     },
     {
         "ID": "inelevenki2468293277_5_7",
@@ -122,9 +69,10 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ataman-tin bi-ča-n</div>\n\t\t<div class=\"glossblock\">ataman.[NOM]-3PL be-PST-3SG</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ataman-tin</div>\n\t\t<div class=\"glossblock\">ataman.[NOM]-3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bi-ča-n</div>\n\t\t<div class=\"glossblock\">be-PST-3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "ataman.[NOM]-3PL be-PST-3SG"
+            "ataman.[NOM]-3PL",
+            "be-PST-3SG"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -137,10 +85,11 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "ataman-tin bi-ča-n"
+            "ataman-tin",
+            "bi-ča-n"
         ],
         "trs": "They had an ataman.",
-        "wlength": 1
+        "wlength": 2
     },
     {
         "ID": "inelevenki2468293277_7_12",
@@ -231,9 +180,13 @@
                 "wdid": "Q18643213"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šokdona-du ulə-ji na-dʼa-rə tokto-l-dʼo-ro iwanki-t</div>\n\t\t<div class=\"glossblock\">back-DAT/LOC meat-ACC.INDF put-IPFV-AOR.[3PL] chop-INCH-IPFV-AOR.[3PL] axe-INS</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šokdona-du</div>\n\t\t<div class=\"glossblock\">back-DAT/LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ulə-ji</div>\n\t\t<div class=\"glossblock\">meat-ACC.INDF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na-dʼa-rə</div>\n\t\t<div class=\"glossblock\">put-IPFV-AOR.[3PL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tokto-l-dʼo-ro</div>\n\t\t<div class=\"glossblock\">chop-INCH-IPFV-AOR.[3PL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iwanki-t</div>\n\t\t<div class=\"glossblock\">axe-INS</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "back-DAT/LOC meat-ACC.INDF put-IPFV-AOR.[3PL] chop-INCH-IPFV-AOR.[3PL] axe-INS"
+            "back-DAT/LOC",
+            "meat-ACC.INDF",
+            "put-IPFV-AOR.[3PL]",
+            "chop-INCH-IPFV-AOR.[3PL]",
+            "axe-INS"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -263,10 +216,14 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "šokdona-du ulə-ji na-dʼa-rə tokto-l-dʼo-ro iwanki-t"
+            "šokdona-du",
+            "ulə-ji",
+            "na-dʼa-rə",
+            "tokto-l-dʼo-ro",
+            "iwanki-t"
         ],
         "trs": "They put meat on his back and hacked it with an axe.",
-        "wlength": 1
+        "wlength": 5
     },
     {
         "ID": "inelevenki2468293277_12_16",
@@ -319,9 +276,12 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pulka ə-ɣnə-rə-n təpti-ra nuɣan-ma-n</div>\n\t\t<div class=\"glossblock\">bullet.[NOM] NEG-HAB.DRV-AOR-3SG shoot.through-CNG PRO.3-ACC-3SG</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pulka</div>\n\t\t<div class=\"glossblock\">bullet.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ə-ɣnə-rə-n</div>\n\t\t<div class=\"glossblock\">NEG-HAB.DRV-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">təpti-ra</div>\n\t\t<div class=\"glossblock\">shoot.through-CNG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nuɣan-ma-n</div>\n\t\t<div class=\"glossblock\">PRO.3-ACC-3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "bullet.[NOM] NEG-HAB.DRV-AOR-3SG shoot.through-CNG PRO.3-ACC-3SG"
+            "bullet.[NOM]",
+            "NEG-HAB.DRV-AOR-3SG",
+            "shoot.through-CNG",
+            "PRO.3-ACC-3SG"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -334,10 +294,13 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "pulka ə-ɣnə-rə-n təpti-ra nuɣan-ma-n"
+            "pulka",
+            "ə-ɣnə-rə-n",
+            "təpti-ra",
+            "nuɣan-ma-n"
         ],
         "trs": "No bullet went through him.",
-        "wlength": 1
+        "wlength": 4
     },
     {
         "ID": "inelevenki2468293277_16_19",
@@ -387,9 +350,11 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əmə-rə Makowska-la əjan-ə-p</div>\n\t\t<div class=\"glossblock\">come-AOR.[PN] Makovskoye-LAT go.downstream-AOR-1PL.IN</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əmə-rə</div>\n\t\t<div class=\"glossblock\">come-AOR.[PN]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Makowska-la</div>\n\t\t<div class=\"glossblock\">Makovskoye-LAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əjan-ə-p</div>\n\t\t<div class=\"glossblock\">go.downstream-AOR-1PL.IN</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "come-AOR.[PN] Makovskoye-LAT go.downstream-AOR-1PL.IN"
+            "come-AOR.[PN]",
+            "Makovskoye-LAT",
+            "go.downstream-AOR-1PL.IN"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -402,10 +367,12 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "əmə-rə Makowska-la əjan-ə-p"
+            "əmə-rə",
+            "Makowska-la",
+            "əjan-ə-p"
         ],
         "trs": "We arrived in Makovskoye, we went downstream.",
-        "wlength": 1
+        "wlength": 3
     },
     {
         "ID": "inelevenki2468293277_19_23",
@@ -462,9 +429,12 @@
                 "wdid": "Q10267978"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dombo aši-wa-n peču-du hiɣət-ə</div>\n\t\t<div class=\"glossblock\">Dombo.[NOM] woman-ACC-3SG stove-DAT/LOC </div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dombo</div>\n\t\t<div class=\"glossblock\">Dombo.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aši-wa-n</div>\n\t\t<div class=\"glossblock\">woman-ACC-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">peču-du</div>\n\t\t<div class=\"glossblock\">stove-DAT/LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hiɣət-ə</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "Dombo.[NOM] woman-ACC-3SG stove-DAT/LOC "
+            "Dombo.[NOM]",
+            "woman-ACC-3SG",
+            "stove-DAT/LOC",
+            ""
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -477,10 +447,13 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "Dombo aši-wa-n peču-du hiɣət-ə"
+            "Dombo",
+            "aši-wa-n",
+            "peču-du",
+            "hiɣət-ə"
         ],
         "trs": "They fried Dombo's wife in the oven.",
-        "wlength": 1
+        "wlength": 4
     },
     {
         "ID": "inelevenki2468293277_23_30",
@@ -538,9 +511,15 @@
                 "wdid": "Q10267978"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dombo aši-n oki muŋun-i-l-a-n bi-ča-tin bu-ra-n upkat-pa</div>\n\t\t<div class=\"glossblock\">Dombo.[NOM] woman.[NOM]-3SG how.many silver/money-EP-PL-ACC.INDF-3SG be-PST-3PL give-AOR-3SG all-ACC</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dombo</div>\n\t\t<div class=\"glossblock\">Dombo.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aši-n</div>\n\t\t<div class=\"glossblock\">woman.[NOM]-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oki</div>\n\t\t<div class=\"glossblock\">how.many</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">muŋun-i-l-a-n</div>\n\t\t<div class=\"glossblock\">silver/money-EP-PL-ACC.INDF-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bi-ča-tin</div>\n\t\t<div class=\"glossblock\">be-PST-3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bu-ra-n</div>\n\t\t<div class=\"glossblock\">give-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">upkat-pa</div>\n\t\t<div class=\"glossblock\">all-ACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "Dombo.[NOM] woman.[NOM]-3SG how.many silver/money-EP-PL-ACC.INDF-3SG be-PST-3PL give-AOR-3SG all-ACC"
+            "Dombo.[NOM]",
+            "woman.[NOM]-3SG",
+            "how.many",
+            "silver/money-EP-PL-ACC.INDF-3SG",
+            "be-PST-3PL",
+            "give-AOR-3SG",
+            "all-ACC"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -553,10 +532,16 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "Dombo aši-n oki muŋun-i-l-a-n bi-ča-tin bu-ra-n upkat-pa"
+            "Dombo",
+            "aši-n",
+            "oki",
+            "muŋun-i-l-a-n",
+            "bi-ča-tin",
+            "bu-ra-n",
+            "upkat-pa"
         ],
         "trs": "Dombo's wife gave all the money she had.",
-        "wlength": 1
+        "wlength": 7
     },
     {
         "ID": "inelevenki2468293277_30_37",
@@ -624,9 +609,15 @@
                 "wdid": "Q104107413"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dombo manakan ədʼi-la Kətʼ-tu gula-kan-i-n bi-ča-n olo-mo-t-čo-nki-n</div>\n\t\t<div class=\"glossblock\">Dombo.[NOM] self.[NOM] downstream-LAT Ketj-DAT/LOC hut-DIM1.[NOM]-EP-3SG be-PST-3SG fish-VBLZ.CAPT2-DUR-IPFV-PST.DIST-3SG</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dombo</div>\n\t\t<div class=\"glossblock\">Dombo.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">manakan</div>\n\t\t<div class=\"glossblock\">self.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ədʼi-la</div>\n\t\t<div class=\"glossblock\">downstream-LAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kətʼ-tu</div>\n\t\t<div class=\"glossblock\">Ketj-DAT/LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gula-kan-i-n</div>\n\t\t<div class=\"glossblock\">hut-DIM1.[NOM]-EP-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bi-ča-n</div>\n\t\t<div class=\"glossblock\">be-PST-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">olo-mo-t-čo-nki-n</div>\n\t\t<div class=\"glossblock\">fish-VBLZ.CAPT2-DUR-IPFV-PST.DIST-3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "Dombo.[NOM] self.[NOM] downstream-LAT Ketj-DAT/LOC hut-DIM1.[NOM]-EP-3SG be-PST-3SG fish-VBLZ.CAPT2-DUR-IPFV-PST.DIST-3SG"
+            "Dombo.[NOM]",
+            "self.[NOM]",
+            "downstream-LAT",
+            "Ketj-DAT/LOC",
+            "hut-DIM1.[NOM]-EP-3SG",
+            "be-PST-3SG",
+            "fish-VBLZ.CAPT2-DUR-IPFV-PST.DIST-3SG"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -639,10 +630,16 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "Dombo manakan ədʼi-la Kətʼ-tu gula-kan-i-n bi-ča-n olo-mo-t-čo-nki-n"
+            "Dombo",
+            "manakan",
+            "ədʼi-la",
+            "Kətʼ-tu",
+            "gula-kan-i-n",
+            "bi-ča-n",
+            "olo-mo-t-čo-nki-n"
         ],
         "trs": "Dombo himself was fishing in a hut on the lower Keti River.",
-        "wlength": 1
+        "wlength": 7
     },
     {
         "ID": "inelevenki2468293277_37_39",
@@ -808,9 +805,10 @@
                 "wdid": "Q6666023"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əja-šin-ə Makowska-duk</div>\n\t\t<div class=\"glossblock\">go.downstream-INCEP1-AOR.[3PL] Makovskoye-ABL</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əja-šin-ə</div>\n\t\t<div class=\"glossblock\">go.downstream-INCEP1-AOR.[3PL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Makowska-duk</div>\n\t\t<div class=\"glossblock\">Makovskoye-ABL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "go.downstream-INCEP1-AOR.[3PL] Makovskoye-ABL"
+            "go.downstream-INCEP1-AOR.[3PL]",
+            "Makovskoye-ABL"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -904,10 +902,11 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "əja-šin-ə Makowska-duk"
+            "əja-šin-ə",
+            "Makowska-duk"
         ],
         "trs": "They are sailing from Makovskoye.",
-        "wlength": 1
+        "wlength": 2
     },
     {
         "ID": "inelevenki2468293277_39_44",
@@ -967,9 +966,13 @@
                 "wdid": "Q10267978"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rasbojnik-i-l ša-ča-tin muŋu-r kətə Dombo-du</div>\n\t\t<div class=\"glossblock\">robber-EP-PL.[NOM] know-PST-3PL silver/money-PL.[NOM] many.[NOM] Dombo-DAT/LOC</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rasbojnik-i-l</div>\n\t\t<div class=\"glossblock\">robber-EP-PL.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ša-ča-tin</div>\n\t\t<div class=\"glossblock\">know-PST-3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">muŋu-r</div>\n\t\t<div class=\"glossblock\">silver/money-PL.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kətə</div>\n\t\t<div class=\"glossblock\">many.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dombo-du</div>\n\t\t<div class=\"glossblock\">Dombo-DAT/LOC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "robber-EP-PL.[NOM] know-PST-3PL silver/money-PL.[NOM] many.[NOM] Dombo-DAT/LOC"
+            "robber-EP-PL.[NOM]",
+            "know-PST-3PL",
+            "silver/money-PL.[NOM]",
+            "many.[NOM]",
+            "Dombo-DAT/LOC"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -982,10 +985,14 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "rasbojnik-i-l ša-ča-tin muŋu-r kətə Dombo-du"
+            "rasbojnik-i-l",
+            "ša-ča-tin",
+            "muŋu-r",
+            "kətə",
+            "Dombo-du"
         ],
         "trs": "The bandits knew that Dombo had a lot of money.",
-        "wlength": 1
+        "wlength": 5
     },
     {
         "ID": "inelevenki2468293277_44_51",
@@ -1051,9 +1058,15 @@
                 "wdid": "Q10267978"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nuɣa-n tar wožak-pa čaldon-ma ga-da i-du Dombo</div>\n\t\t<div class=\"glossblock\">PRO.3.[NOM]-3SG that.[NOM] guide-ACC chaldon-ACC take-AOR.[3PL] where-DAT/LOC Dombo.[NOM]</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nuɣa-n</div>\n\t\t<div class=\"glossblock\">PRO.3.[NOM]-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tar</div>\n\t\t<div class=\"glossblock\">that.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wožak-pa</div>\n\t\t<div class=\"glossblock\">guide-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">čaldon-ma</div>\n\t\t<div class=\"glossblock\">chaldon-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ga-da</div>\n\t\t<div class=\"glossblock\">take-AOR.[3PL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i-du</div>\n\t\t<div class=\"glossblock\">where-DAT/LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dombo</div>\n\t\t<div class=\"glossblock\">Dombo.[NOM]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "PRO.3.[NOM]-3SG that.[NOM] guide-ACC chaldon-ACC take-AOR.[3PL] where-DAT/LOC Dombo.[NOM]"
+            "PRO.3.[NOM]-3SG",
+            "that.[NOM]",
+            "guide-ACC",
+            "chaldon-ACC",
+            "take-AOR.[3PL]",
+            "where-DAT/LOC",
+            "Dombo.[NOM]"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -1066,10 +1079,16 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "nuɣa-n tar wožak-pa čaldon-ma ga-da i-du Dombo"
+            "nuɣa-n",
+            "tar",
+            "wožak-pa",
+            "čaldon-ma",
+            "ga-da",
+            "i-du",
+            "Dombo"
         ],
         "trs": "They took a chaldon [a Russian peasant] as a guide [to show them] where Dombo was.",
-        "wlength": 1
+        "wlength": 7
     },
     {
         "ID": "inelevenki2468293277_51_54",
@@ -1126,9 +1145,11 @@
                 "wdid": "Q7737"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">luča əja-šn-ə-n nuɣa-r-nun-tin</div>\n\t\t<div class=\"glossblock\">Russian.[NOM] go.downstream-INCEP1-AOR-3SG PRO.3-PL-COM1-3PL</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">luča</div>\n\t\t<div class=\"glossblock\">Russian.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əja-šn-ə-n</div>\n\t\t<div class=\"glossblock\">go.downstream-INCEP1-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nuɣa-r-nun-tin</div>\n\t\t<div class=\"glossblock\">PRO.3-PL-COM1-3PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "Russian.[NOM] go.downstream-INCEP1-AOR-3SG PRO.3-PL-COM1-3PL"
+            "Russian.[NOM]",
+            "go.downstream-INCEP1-AOR-3SG",
+            "PRO.3-PL-COM1-3PL"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -1141,10 +1162,12 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "luča əja-šn-ə-n nuɣa-r-nun-tin"
+            "luča",
+            "əja-šn-ə-n",
+            "nuɣa-r-nun-tin"
         ],
         "trs": "The Russian went downstream with them.",
-        "wlength": 1
+        "wlength": 3
     },
     {
         "ID": "inelevenki2468293277_54_55",
@@ -1269,9 +1292,14 @@
                 "wdid": "Q10267978"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dombo gula-kan-i-n guruka-du goro-lo iča-b-dʼa-rə-n guruka</div>\n\t\t<div class=\"glossblock\">Dombo.[NOM] hut-DIM1.[NOM]-EP-3SG river.reach-DAT/LOC long/distant-LAT see-PASS-IPFV-AOR-3SG river.reach.[NOM]</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dombo</div>\n\t\t<div class=\"glossblock\">Dombo.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gula-kan-i-n</div>\n\t\t<div class=\"glossblock\">hut-DIM1.[NOM]-EP-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">guruka-du</div>\n\t\t<div class=\"glossblock\">river.reach-DAT/LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">goro-lo</div>\n\t\t<div class=\"glossblock\">long/distant-LAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iča-b-dʼa-rə-n</div>\n\t\t<div class=\"glossblock\">see-PASS-IPFV-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">guruka</div>\n\t\t<div class=\"glossblock\">river.reach.[NOM]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "Dombo.[NOM] hut-DIM1.[NOM]-EP-3SG river.reach-DAT/LOC long/distant-LAT see-PASS-IPFV-AOR-3SG river.reach.[NOM]"
+            "Dombo.[NOM]",
+            "hut-DIM1.[NOM]-EP-3SG",
+            "river.reach-DAT/LOC",
+            "long/distant-LAT",
+            "see-PASS-IPFV-AOR-3SG",
+            "river.reach.[NOM]"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -1284,10 +1312,15 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "Dombo gula-kan-i-n guruka-du goro-lo iča-b-dʼa-rə-n guruka"
+            "Dombo",
+            "gula-kan-i-n",
+            "guruka-du",
+            "goro-lo",
+            "iča-b-dʼa-rə-n",
+            "guruka"
         ],
         "trs": "The small hut of Dombo can be seen in the distance, by the stream pond.",
-        "wlength": 1
+        "wlength": 6
     },
     {
         "ID": "inelevenki2468293277_61_65",
@@ -1347,9 +1380,12 @@
                 "wdid": "Q10267978"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">luča-du tar əwlə-ɣdi Dombo</div>\n\t\t<div class=\"glossblock\">Russian-DAT/LOC that.[NOM] feel.sorry-ADJZ.ABSTR2.[NOM] Dombo.[NOM]</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">luča-du</div>\n\t\t<div class=\"glossblock\">Russian-DAT/LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tar</div>\n\t\t<div class=\"glossblock\">that.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əwlə-ɣdi</div>\n\t\t<div class=\"glossblock\">feel.sorry-ADJZ.ABSTR2.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dombo</div>\n\t\t<div class=\"glossblock\">Dombo.[NOM]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "Russian-DAT/LOC that.[NOM] feel.sorry-ADJZ.ABSTR2.[NOM] Dombo.[NOM]"
+            "Russian-DAT/LOC",
+            "that.[NOM]",
+            "feel.sorry-ADJZ.ABSTR2.[NOM]",
+            "Dombo.[NOM]"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -1362,10 +1398,13 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "luča-du tar əwlə-ɣdi Dombo"
+            "luča-du",
+            "tar",
+            "əwlə-ɣdi",
+            "Dombo"
         ],
         "trs": "The Russian felt sorry for Dombo.",
-        "wlength": 1
+        "wlength": 4
     },
     {
         "ID": "inelevenki2468293277_65_69",
@@ -1418,9 +1457,12 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wa-dʼarə nuɣa-r-tin muŋu-r-tiki-n əjač-i-l-dʼara</div>\n\t\t<div class=\"glossblock\">kill-FUT.IMM.[3PL] PRO.3-PL.[NOM]-3PL silver/money-PL-ALL-3SG ask-EP-INCH-FUT.IMM.[3PL]</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wa-dʼarə</div>\n\t\t<div class=\"glossblock\">kill-FUT.IMM.[3PL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nuɣa-r-tin</div>\n\t\t<div class=\"glossblock\">PRO.3-PL.[NOM]-3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">muŋu-r-tiki-n</div>\n\t\t<div class=\"glossblock\">silver/money-PL-ALL-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əjač-i-l-dʼara</div>\n\t\t<div class=\"glossblock\">ask-EP-INCH-FUT.IMM.[3PL]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "kill-FUT.IMM.[3PL] PRO.3-PL.[NOM]-3PL silver/money-PL-ALL-3SG ask-EP-INCH-FUT.IMM.[3PL]"
+            "kill-FUT.IMM.[3PL]",
+            "PRO.3-PL.[NOM]-3PL",
+            "silver/money-PL-ALL-3SG",
+            "ask-EP-INCH-FUT.IMM.[3PL]"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -1433,10 +1475,13 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "wa-dʼarə nuɣa-r-tin muŋu-r-tiki-n əjač-i-l-dʼara"
+            "wa-dʼarə",
+            "nuɣa-r-tin",
+            "muŋu-r-tiki-n",
+            "əjač-i-l-dʼara"
         ],
         "trs": "They will kill him, they will ask him for money.",
-        "wlength": 1
+        "wlength": 4
     },
     {
         "ID": "inelevenki2468293277_69_80",
@@ -1496,9 +1541,19 @@
                 "wdid": "Q7737"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daɣa-la o-l-a guruka dulin-ma-n is-ša-n nuɣa-n ta-la luča lunɣu-l-ə-n gun-dʼa-n tarwa-wal</div>\n\t\t<div class=\"glossblock\">close-LAT become-INCH-AOR.[3PL] river.reach.[NOM] half-ACC-3SG reach-AOR-3SG PRO.3.[NOM]-3SG that-LAT Russian.[NOM] shout-INCH-AOR-3SG say-IPFV.[AOR]-3SG </div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daɣa-la</div>\n\t\t<div class=\"glossblock\">close-LAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">o-l-a</div>\n\t\t<div class=\"glossblock\">become-INCH-AOR.[3PL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">guruka</div>\n\t\t<div class=\"glossblock\">river.reach.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dulin-ma-n</div>\n\t\t<div class=\"glossblock\">half-ACC-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">is-ša-n</div>\n\t\t<div class=\"glossblock\">reach-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nuɣa-n</div>\n\t\t<div class=\"glossblock\">PRO.3.[NOM]-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ta-la</div>\n\t\t<div class=\"glossblock\">that-LAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">luča</div>\n\t\t<div class=\"glossblock\">Russian.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lunɣu-l-ə-n</div>\n\t\t<div class=\"glossblock\">shout-INCH-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gun-dʼa-n</div>\n\t\t<div class=\"glossblock\">say-IPFV.[AOR]-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tarwa-wal</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "close-LAT become-INCH-AOR.[3PL] river.reach.[NOM] half-ACC-3SG reach-AOR-3SG PRO.3.[NOM]-3SG that-LAT Russian.[NOM] shout-INCH-AOR-3SG say-IPFV.[AOR]-3SG "
+            "close-LAT",
+            "become-INCH-AOR.[3PL]",
+            "river.reach.[NOM]",
+            "half-ACC-3SG",
+            "reach-AOR-3SG",
+            "PRO.3.[NOM]-3SG",
+            "that-LAT",
+            "Russian.[NOM]",
+            "shout-INCH-AOR-3SG",
+            "say-IPFV.[AOR]-3SG",
+            ""
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -1511,10 +1566,20 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "daɣa-la o-l-a guruka dulin-ma-n is-ša-n nuɣa-n ta-la luča lunɣu-l-ə-n gun-dʼa-n tarwa-wal"
+            "daɣa-la",
+            "o-l-a",
+            "guruka",
+            "dulin-ma-n",
+            "is-ša-n",
+            "nuɣa-n",
+            "ta-la",
+            "luča",
+            "lunɣu-l-ə-n",
+            "gun-dʼa-n",
+            "tarwa-wal"
         ],
         "trs": "As they approached, they crossed half the stream pond, then he, the Russian, shouted: \"There!\"",
-        "wlength": 1
+        "wlength": 11
     },
     {
         "ID": "inelevenki2468293277_80_87",
@@ -1691,9 +1756,15 @@
                 "wdid": "Q6666023"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dombo tulə-gida-du-n gula-kan il-i-t-ča-ra-n ičat-ča-rə-n ekun əjan-dʼa-rə</div>\n\t\t<div class=\"glossblock\">Dombo.[NOM] outside-NLOC-DAT/LOC-3SG hut-DIM1.[NOM] stand.up-EP-DUR-IPFV-AOR-3SG look-IPFV-AOR-3SG what.[NOM] go.downstream-IPFV-AOR.[3PL]</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dombo</div>\n\t\t<div class=\"glossblock\">Dombo.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tulə-gida-du-n</div>\n\t\t<div class=\"glossblock\">outside-NLOC-DAT/LOC-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gula-kan</div>\n\t\t<div class=\"glossblock\">hut-DIM1.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">il-i-t-ča-ra-n</div>\n\t\t<div class=\"glossblock\">stand.up-EP-DUR-IPFV-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ičat-ča-rə-n</div>\n\t\t<div class=\"glossblock\">look-IPFV-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ekun</div>\n\t\t<div class=\"glossblock\">what.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əjan-dʼa-rə</div>\n\t\t<div class=\"glossblock\">go.downstream-IPFV-AOR.[3PL]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "Dombo.[NOM] outside-NLOC-DAT/LOC-3SG hut-DIM1.[NOM] stand.up-EP-DUR-IPFV-AOR-3SG look-IPFV-AOR-3SG what.[NOM] go.downstream-IPFV-AOR.[3PL]"
+            "Dombo.[NOM]",
+            "outside-NLOC-DAT/LOC-3SG",
+            "hut-DIM1.[NOM]",
+            "stand.up-EP-DUR-IPFV-AOR-3SG",
+            "look-IPFV-AOR-3SG",
+            "what.[NOM]",
+            "go.downstream-IPFV-AOR.[3PL]"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -1787,28 +1858,20 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "Dombo tulə-gida-du-n gula-kan il-i-t-ča-ra-n ičat-ča-rə-n ekun əjan-dʼa-rə"
+            "Dombo",
+            "tulə-gida-du-n",
+            "gula-kan",
+            "il-i-t-ča-ra-n",
+            "ičat-ča-rə-n",
+            "ekun",
+            "əjan-dʼa-rə"
         ],
         "trs": "Dombo is standing near the hut, looking to see who's sailing.",
-        "wlength": 1
+        "wlength": 7
     },
     {
-        "ID": "inelevenki2468293277_87_95",
         "abbrkey": {},
-        "ancestors": [
-            {
-                "id": "tung1282",
-                "label": "Tungusic"
-            },
-            {
-                "id": "nort3417",
-                "label": "Northeastern Tungusic"
-            },
-            {
-                "id": "nort3147",
-                "label": "Northern Tungusic"
-            }
-        ],
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "AOR",
@@ -1821,60 +1884,13 @@
             "SBJV",
             "SG"
         ],
-        "citation": "https://hdl.handle.net/11022/0000-0007-FE38-D",
-        "clength": 65,
-        "coords": [
-            94.689,
-            61.972
-        ],
-        "countries": [
-            {
-                "ISO3166": "CN",
-                "label": "China"
-            },
-            {
-                "ISO3166": "MN",
-                "label": "Mongolia"
-            },
-            {
-                "ISO3166": "RU",
-                "label": "Russian Federation"
-            }
-        ],
         "doc_ID": 2468293277,
-        "entities": [
-            {
-                "label": "Russian",
-                "wdid": "Q7737"
-            },
-            {
-                "label": "Dombo",
-                "wdid": "Q10267978"
-            },
-            {
-                "label": "Dombo",
-                "wdid": "Q10267978"
-            }
-        ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">luča tar lunɣu-dʼa-rə-n tarwa-wal tarwa-wal Dombo Dombo til-i-mči</div>\n\t\t<div class=\"glossblock\">Russian.[NOM] that.[NOM] shout-IPFV-AOR-3SG </div>\n\t</div>\n</div>\n",
-        "imtwordsbare": [
-            "Russian.[NOM] that.[NOM] shout-IPFV-AOR-3SG "
-        ],
-        "language_glottocode": "even1259",
-        "language_iso6393": "evn",
-        "language_name": "Evenki",
+        "entities": [],
         "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [
-            "Eurasia"
-        ],
+        "macroareas": [],
         "parententities": [],
         "provider": "inelevenki",
-        "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
-        "srcwordsbare": [
-            "luča tar lunɣu-dʼa-rə-n tarwa-wal tarwa-wal Dombo Dombo til-i-mči"
-        ],
-        "trs": "This Russian shouts: \"There, there's Dombo!\" — to make Dombo understand.",
-        "wlength": 1
+        "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D"
     },
     {
         "ID": "inelevenki2468293277_95_97",
@@ -1920,9 +1936,10 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əmə-rə aɣ-rə</div>\n\t\t<div class=\"glossblock\">come-AOR.[3PL] land-AOR.[3PL]</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əmə-rə</div>\n\t\t<div class=\"glossblock\">come-AOR.[3PL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aɣ-rə</div>\n\t\t<div class=\"glossblock\">land-AOR.[3PL]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "come-AOR.[3PL] land-AOR.[3PL]"
+            "come-AOR.[3PL]",
+            "land-AOR.[3PL]"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -1935,10 +1952,11 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "əmə-rə aɣ-rə"
+            "əmə-rə",
+            "aɣ-rə"
         ],
         "trs": "They came, they docked.",
-        "wlength": 1
+        "wlength": 2
     },
     {
         "ID": "inelevenki2468293277_97_100",
@@ -1987,9 +2005,11 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dombo wenik-pi ga-da-n</div>\n\t\t<div class=\"glossblock\">Dombo.[NOM] besom-RFL.SG take-AOR-3SG</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dombo</div>\n\t\t<div class=\"glossblock\">Dombo.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wenik-pi</div>\n\t\t<div class=\"glossblock\">besom-RFL.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ga-da-n</div>\n\t\t<div class=\"glossblock\">take-AOR-3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "Dombo.[NOM] besom-RFL.SG take-AOR-3SG"
+            "Dombo.[NOM]",
+            "besom-RFL.SG",
+            "take-AOR-3SG"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -2002,10 +2022,12 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "Dombo wenik-pi ga-da-n"
+            "Dombo",
+            "wenik-pi",
+            "ga-da-n"
         ],
         "trs": "Dombo took a besom.",
-        "wlength": 1
+        "wlength": 3
     },
     {
         "ID": "inelevenki2468293277_100_103",
@@ -2052,9 +2074,11 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aja-l nʼama-šil bi-ži-š</div>\n\t\t<div class=\"glossblock\">good-PL.[NOM] guest-PL2.[NOM] be-AOR-2PL</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aja-l</div>\n\t\t<div class=\"glossblock\">good-PL.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nʼama-šil</div>\n\t\t<div class=\"glossblock\">guest-PL2.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bi-ži-š</div>\n\t\t<div class=\"glossblock\">be-AOR-2PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "good-PL.[NOM] guest-PL2.[NOM] be-AOR-2PL"
+            "good-PL.[NOM]",
+            "guest-PL2.[NOM]",
+            "be-AOR-2PL"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -2067,10 +2091,12 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "aja-l nʼama-šil bi-ži-š"
+            "aja-l",
+            "nʼama-šil",
+            "bi-ži-š"
         ],
         "trs": "\"You are good guests!",
-        "wlength": 1
+        "wlength": 3
     },
     {
         "ID": "inelevenki2468293277_103_105",
@@ -2116,9 +2142,10 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">təɣə-kəlu təɣə-kəlu</div>\n\t\t<div class=\"glossblock\">sit.down-IMP.2PL sit.down-IMP.2PL</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">təɣə-kəlu</div>\n\t\t<div class=\"glossblock\">sit.down-IMP.2PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">təɣə-kəlu</div>\n\t\t<div class=\"glossblock\">sit.down-IMP.2PL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "sit.down-IMP.2PL sit.down-IMP.2PL"
+            "sit.down-IMP.2PL",
+            "sit.down-IMP.2PL"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -2131,10 +2158,11 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "təɣə-kəlu təɣə-kəlu"
+            "təɣə-kəlu",
+            "təɣə-kəlu"
         ],
         "trs": "Sit down, sit down!",
-        "wlength": 1
+        "wlength": 2
     },
     {
         "ID": "inelevenki2468293277_105_108",
@@ -2183,9 +2211,11 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bi olo ula-dʼa-m</div>\n\t\t<div class=\"glossblock\">PRO.1SG.[NOM] fish.[NOM] boil-FUT.IMM-1SG</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bi</div>\n\t\t<div class=\"glossblock\">PRO.1SG.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">olo</div>\n\t\t<div class=\"glossblock\">fish.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ula-dʼa-m</div>\n\t\t<div class=\"glossblock\">boil-FUT.IMM-1SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "PRO.1SG.[NOM] fish.[NOM] boil-FUT.IMM-1SG"
+            "PRO.1SG.[NOM]",
+            "fish.[NOM]",
+            "boil-FUT.IMM-1SG"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -2198,10 +2228,12 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "bi olo ula-dʼa-m"
+            "bi",
+            "olo",
+            "ula-dʼa-m"
         ],
         "trs": "I'll cook some fish!",
-        "wlength": 1
+        "wlength": 3
     },
     {
         "ID": "inelevenki2468293277_108_110",
@@ -2253,9 +2285,10 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šunə tujuč-i-l-dʼa-m</div>\n\t\t<div class=\"glossblock\">PRO.2PL.ACC offer-EP-INCH-FUT.IMM-1SG</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šunə</div>\n\t\t<div class=\"glossblock\">PRO.2PL.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tujuč-i-l-dʼa-m</div>\n\t\t<div class=\"glossblock\">offer-EP-INCH-FUT.IMM-1SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "PRO.2PL.ACC offer-EP-INCH-FUT.IMM-1SG"
+            "PRO.2PL.ACC",
+            "offer-EP-INCH-FUT.IMM-1SG"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -2268,10 +2301,11 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "šunə tujuč-i-l-dʼa-m"
+            "šunə",
+            "tujuč-i-l-dʼa-m"
         ],
         "trs": "I will offer you something!",
-        "wlength": 1
+        "wlength": 2
     },
     {
         "ID": "inelevenki2468293277_110_114",
@@ -2320,9 +2354,12 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əši gula ə-ča-w meti-ra</div>\n\t\t<div class=\"glossblock\">now hut.[NOM] NEG-PST-1SG sweep-CNG</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əši</div>\n\t\t<div class=\"glossblock\">now</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gula</div>\n\t\t<div class=\"glossblock\">hut.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ə-ča-w</div>\n\t\t<div class=\"glossblock\">NEG-PST-1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meti-ra</div>\n\t\t<div class=\"glossblock\">sweep-CNG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "now hut.[NOM] NEG-PST-1SG sweep-CNG"
+            "now",
+            "hut.[NOM]",
+            "NEG-PST-1SG",
+            "sweep-CNG"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -2335,10 +2372,13 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "əši gula ə-ča-w meti-ra"
+            "əši",
+            "gula",
+            "ə-ča-w",
+            "meti-ra"
         ],
         "trs": "I haven't swept the hut yet!",
-        "wlength": 1
+        "wlength": 4
     },
     {
         "ID": "inelevenki2468293277_114_118",
@@ -2390,9 +2430,12 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ə-ča-w ša-ri nʼama-šal əmə-dʼa-rə</div>\n\t\t<div class=\"glossblock\">NEG-PST-1SG know-CNG guest-PL2.[NOM] come-IPFV-AOR.[3PL]</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ə-ča-w</div>\n\t\t<div class=\"glossblock\">NEG-PST-1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ša-ri</div>\n\t\t<div class=\"glossblock\">know-CNG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nʼama-šal</div>\n\t\t<div class=\"glossblock\">guest-PL2.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əmə-dʼa-rə</div>\n\t\t<div class=\"glossblock\">come-IPFV-AOR.[3PL]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "NEG-PST-1SG know-CNG guest-PL2.[NOM] come-IPFV-AOR.[3PL]"
+            "NEG-PST-1SG",
+            "know-CNG",
+            "guest-PL2.[NOM]",
+            "come-IPFV-AOR.[3PL]"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -2405,10 +2448,13 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "ə-ča-w ša-ri nʼama-šal əmə-dʼa-rə"
+            "ə-ča-w",
+            "ša-ri",
+            "nʼama-šal",
+            "əmə-dʼa-rə"
         ],
         "trs": "I didn't know the guests would come!",
-        "wlength": 1
+        "wlength": 4
     },
     {
         "ID": "inelevenki2468293277_118_122",
@@ -2456,9 +2502,12 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nada gula-wi hima-tʼ meti-ra-m</div>\n\t\t<div class=\"glossblock\">should hut-RFL.SG quick-ADVZ1 sweep-AOR-1SG</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nada</div>\n\t\t<div class=\"glossblock\">should</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gula-wi</div>\n\t\t<div class=\"glossblock\">hut-RFL.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hima-tʼ</div>\n\t\t<div class=\"glossblock\">quick-ADVZ1</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meti-ra-m</div>\n\t\t<div class=\"glossblock\">sweep-AOR-1SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "should hut-RFL.SG quick-ADVZ1 sweep-AOR-1SG"
+            "should",
+            "hut-RFL.SG",
+            "quick-ADVZ1",
+            "sweep-AOR-1SG"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -2471,10 +2520,13 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "nada gula-wi hima-tʼ meti-ra-m"
+            "nada",
+            "gula-wi",
+            "hima-tʼ",
+            "meti-ra-m"
         ],
         "trs": "I have to sweep the house, quickly!",
-        "wlength": 1
+        "wlength": 4
     },
     {
         "ID": "inelevenki2468293277_122_125",
@@ -2523,9 +2575,11 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tuju-ta-w nada šunə</div>\n\t\t<div class=\"glossblock\">offer-AOR-1SG should PRO.2PL.ACC</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tuju-ta-w</div>\n\t\t<div class=\"glossblock\">offer-AOR-1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nada</div>\n\t\t<div class=\"glossblock\">should</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šunə</div>\n\t\t<div class=\"glossblock\">PRO.2PL.ACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "offer-AOR-1SG should PRO.2PL.ACC"
+            "offer-AOR-1SG",
+            "should",
+            "PRO.2PL.ACC"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -2538,10 +2592,12 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "tuju-ta-w nada šunə"
+            "tuju-ta-w",
+            "nada",
+            "šunə"
         ],
         "trs": "I have to offer you something!\"",
-        "wlength": 1
+        "wlength": 3
     },
     {
         "ID": "inelevenki2468293277_125_134",
@@ -2602,9 +2658,17 @@
                 "wdid": "Q13222322"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hənkəč-i-l-a-n hənkəč-i-l-a-n e-tiki-r-wa manakan metla-wa ga-da-n da gula-kan-du meti-l-a-n</div>\n\t\t<div class=\"glossblock\">speak-EP-INCH-AOR-3SG speak-EP-INCH-AOR-3SG what-UQ1-PL-ACC self.[NOM] besom-ACC take-AOR-3SG and hut-DIM1-DAT/LOC sweep-INCH-AOR-3SG</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hənkəč-i-l-a-n</div>\n\t\t<div class=\"glossblock\">speak-EP-INCH-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hənkəč-i-l-a-n</div>\n\t\t<div class=\"glossblock\">speak-EP-INCH-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e-tiki-r-wa</div>\n\t\t<div class=\"glossblock\">what-UQ1-PL-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">manakan</div>\n\t\t<div class=\"glossblock\">self.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">metla-wa</div>\n\t\t<div class=\"glossblock\">besom-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ga-da-n</div>\n\t\t<div class=\"glossblock\">take-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gula-kan-du</div>\n\t\t<div class=\"glossblock\">hut-DIM1-DAT/LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meti-l-a-n</div>\n\t\t<div class=\"glossblock\">sweep-INCH-AOR-3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "speak-EP-INCH-AOR-3SG speak-EP-INCH-AOR-3SG what-UQ1-PL-ACC self.[NOM] besom-ACC take-AOR-3SG and hut-DIM1-DAT/LOC sweep-INCH-AOR-3SG"
+            "speak-EP-INCH-AOR-3SG",
+            "speak-EP-INCH-AOR-3SG",
+            "what-UQ1-PL-ACC",
+            "self.[NOM]",
+            "besom-ACC",
+            "take-AOR-3SG",
+            "and",
+            "hut-DIM1-DAT/LOC",
+            "sweep-INCH-AOR-3SG"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -2617,10 +2681,18 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "hənkəč-i-l-a-n hənkəč-i-l-a-n e-tiki-r-wa manakan metla-wa ga-da-n da gula-kan-du meti-l-a-n"
+            "hənkəč-i-l-a-n",
+            "hənkəč-i-l-a-n",
+            "e-tiki-r-wa",
+            "manakan",
+            "metla-wa",
+            "ga-da-n",
+            "da",
+            "gula-kan-du",
+            "meti-l-a-n"
         ],
         "trs": "He started talking, saying all sorts of things, [and] he took a besom and started sweeping the hut.",
-        "wlength": 1
+        "wlength": 9
     },
     {
         "ID": "inelevenki2468293277_134_137",
@@ -2671,9 +2743,11 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">manakan hənkət-ča-rə-n e-tiki-r-wa</div>\n\t\t<div class=\"glossblock\">self.[NOM] speak-IPFV-AOR-3SG what-UQ1-PL-ACC</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">manakan</div>\n\t\t<div class=\"glossblock\">self.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hənkət-ča-rə-n</div>\n\t\t<div class=\"glossblock\">speak-IPFV-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e-tiki-r-wa</div>\n\t\t<div class=\"glossblock\">what-UQ1-PL-ACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "self.[NOM] speak-IPFV-AOR-3SG what-UQ1-PL-ACC"
+            "self.[NOM]",
+            "speak-IPFV-AOR-3SG",
+            "what-UQ1-PL-ACC"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -2686,10 +2760,12 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "manakan hənkət-ča-rə-n e-tiki-r-wa"
+            "manakan",
+            "hənkət-ča-rə-n",
+            "e-tiki-r-wa"
         ],
         "trs": "He says all sorts of things.",
-        "wlength": 1
+        "wlength": 3
     },
     {
         "ID": "inelevenki2468293277_137_142",
@@ -2751,9 +2827,13 @@
                 "wdid": "Q10267978"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rasbojnik-i-l təɣə-rə da iči-t-ča-rə Dombo-wa</div>\n\t\t<div class=\"glossblock\">robber-EP-PL.[NOM] sit.down-AOR.[3PL] and see-DUR-IPFV-AOR.[3PL] Dombo-ACC</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rasbojnik-i-l</div>\n\t\t<div class=\"glossblock\">robber-EP-PL.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">təɣə-rə</div>\n\t\t<div class=\"glossblock\">sit.down-AOR.[3PL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">iči-t-ča-rə</div>\n\t\t<div class=\"glossblock\">see-DUR-IPFV-AOR.[3PL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dombo-wa</div>\n\t\t<div class=\"glossblock\">Dombo-ACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "robber-EP-PL.[NOM] sit.down-AOR.[3PL] and see-DUR-IPFV-AOR.[3PL] Dombo-ACC"
+            "robber-EP-PL.[NOM]",
+            "sit.down-AOR.[3PL]",
+            "and",
+            "see-DUR-IPFV-AOR.[3PL]",
+            "Dombo-ACC"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -2766,10 +2846,14 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "rasbojnik-i-l təɣə-rə da iči-t-ča-rə Dombo-wa"
+            "rasbojnik-i-l",
+            "təɣə-rə",
+            "da",
+            "iči-t-ča-rə",
+            "Dombo-wa"
         ],
         "trs": "The bandits sat down and looked at Dombo.",
-        "wlength": 1
+        "wlength": 5
     },
     {
         "ID": "inelevenki2468293277_142_151",
@@ -2824,9 +2908,17 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meti-l-a-n meti-l-a-n gula-du-wi tuli-ški tuli-gida-du-wi meti-l-a-n manakan tukša-šin-a-n dʼab-dula-wi</div>\n\t\t<div class=\"glossblock\">sweep-INCH-AOR-3SG sweep-INCH-AOR-3SG hut-DAT/LOC-RFL.SG outside-LAT.ADV outside-NLOC-DAT/LOC-RFL.SG sweep-INCH-AOR-3SG self.[NOM] run-INCEP1-AOR-3SG boat-LAT-RFL.SG</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meti-l-a-n</div>\n\t\t<div class=\"glossblock\">sweep-INCH-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meti-l-a-n</div>\n\t\t<div class=\"glossblock\">sweep-INCH-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gula-du-wi</div>\n\t\t<div class=\"glossblock\">hut-DAT/LOC-RFL.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tuli-ški</div>\n\t\t<div class=\"glossblock\">outside-LAT.ADV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tuli-gida-du-wi</div>\n\t\t<div class=\"glossblock\">outside-NLOC-DAT/LOC-RFL.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meti-l-a-n</div>\n\t\t<div class=\"glossblock\">sweep-INCH-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">manakan</div>\n\t\t<div class=\"glossblock\">self.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tukša-šin-a-n</div>\n\t\t<div class=\"glossblock\">run-INCEP1-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dʼab-dula-wi</div>\n\t\t<div class=\"glossblock\">boat-LAT-RFL.SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "sweep-INCH-AOR-3SG sweep-INCH-AOR-3SG hut-DAT/LOC-RFL.SG outside-LAT.ADV outside-NLOC-DAT/LOC-RFL.SG sweep-INCH-AOR-3SG self.[NOM] run-INCEP1-AOR-3SG boat-LAT-RFL.SG"
+            "sweep-INCH-AOR-3SG",
+            "sweep-INCH-AOR-3SG",
+            "hut-DAT/LOC-RFL.SG",
+            "outside-LAT.ADV",
+            "outside-NLOC-DAT/LOC-RFL.SG",
+            "sweep-INCH-AOR-3SG",
+            "self.[NOM]",
+            "run-INCEP1-AOR-3SG",
+            "boat-LAT-RFL.SG"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -2839,10 +2931,18 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "meti-l-a-n meti-l-a-n gula-du-wi tuli-ški tuli-gida-du-wi meti-l-a-n manakan tukša-šin-a-n dʼab-dula-wi"
+            "meti-l-a-n",
+            "meti-l-a-n",
+            "gula-du-wi",
+            "tuli-ški",
+            "tuli-gida-du-wi",
+            "meti-l-a-n",
+            "manakan",
+            "tukša-šin-a-n",
+            "dʼab-dula-wi"
         ],
         "trs": "He swept, he swept inside the hut, he swept outside, he ran to his boat.",
-        "wlength": 1
+        "wlength": 9
     },
     {
         "ID": "inelevenki2468293277_151_158",
@@ -2893,9 +2993,15 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dʼab-dula-wi hətəkən-ə-n da əja-šn-ə-n uli-šin-a-n hima-tʼ əja-šn-ə-n</div>\n\t\t<div class=\"glossblock\">boat-LAT-RFL.SG jump.away-AOR-3SG and go.downstream-INCEP1-AOR-3SG row-INCEP1-AOR-3SG quick-ADVZ1 go.downstream-INCEP1-AOR-3SG</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dʼab-dula-wi</div>\n\t\t<div class=\"glossblock\">boat-LAT-RFL.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hətəkən-ə-n</div>\n\t\t<div class=\"glossblock\">jump.away-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əja-šn-ə-n</div>\n\t\t<div class=\"glossblock\">go.downstream-INCEP1-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">uli-šin-a-n</div>\n\t\t<div class=\"glossblock\">row-INCEP1-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hima-tʼ</div>\n\t\t<div class=\"glossblock\">quick-ADVZ1</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əja-šn-ə-n</div>\n\t\t<div class=\"glossblock\">go.downstream-INCEP1-AOR-3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "boat-LAT-RFL.SG jump.away-AOR-3SG and go.downstream-INCEP1-AOR-3SG row-INCEP1-AOR-3SG quick-ADVZ1 go.downstream-INCEP1-AOR-3SG"
+            "boat-LAT-RFL.SG",
+            "jump.away-AOR-3SG",
+            "and",
+            "go.downstream-INCEP1-AOR-3SG",
+            "row-INCEP1-AOR-3SG",
+            "quick-ADVZ1",
+            "go.downstream-INCEP1-AOR-3SG"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -2908,10 +3014,16 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "dʼab-dula-wi hətəkən-ə-n da əja-šn-ə-n uli-šin-a-n hima-tʼ əja-šn-ə-n"
+            "dʼab-dula-wi",
+            "hətəkən-ə-n",
+            "da",
+            "əja-šn-ə-n",
+            "uli-šin-a-n",
+            "hima-tʼ",
+            "əja-šn-ə-n"
         ],
         "trs": "He jumped into the boat and sailed away, he sailed away quickly.",
-        "wlength": 1
+        "wlength": 7
     },
     {
         "ID": "inelevenki2468293277_158_160",
@@ -2961,9 +3073,10 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nuɣan-ma-n aša-šin-a</div>\n\t\t<div class=\"glossblock\">PRO.3-ACC-3SG chase-INCEP1-AOR.[3PL]</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nuɣan-ma-n</div>\n\t\t<div class=\"glossblock\">PRO.3-ACC-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aša-šin-a</div>\n\t\t<div class=\"glossblock\">chase-INCEP1-AOR.[3PL]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "PRO.3-ACC-3SG chase-INCEP1-AOR.[3PL]"
+            "PRO.3-ACC-3SG",
+            "chase-INCEP1-AOR.[3PL]"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -2976,10 +3089,11 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "nuɣan-ma-n aša-šin-a"
+            "nuɣan-ma-n",
+            "aša-šin-a"
         ],
         "trs": "They started to chase him.",
-        "wlength": 1
+        "wlength": 2
     },
     {
         "ID": "inelevenki2468293277_160_168",
@@ -3040,9 +3154,16 @@
                 "wdid": "Q166735"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dombo aɣ-rə-n i-du majəmə ta-du aɣ-rə-n da tukša-šin-a-n</div>\n\t\t<div class=\"glossblock\">Dombo.[NOM] land-AOR-3SG where-DAT/LOC bog.[NOM] that-DAT/LOC land-AOR-3SG and run-INCEP1-AOR-3SG</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dombo</div>\n\t\t<div class=\"glossblock\">Dombo.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aɣ-rə-n</div>\n\t\t<div class=\"glossblock\">land-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i-du</div>\n\t\t<div class=\"glossblock\">where-DAT/LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">majəmə</div>\n\t\t<div class=\"glossblock\">bog.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ta-du</div>\n\t\t<div class=\"glossblock\">that-DAT/LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aɣ-rə-n</div>\n\t\t<div class=\"glossblock\">land-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tukša-šin-a-n</div>\n\t\t<div class=\"glossblock\">run-INCEP1-AOR-3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "Dombo.[NOM] land-AOR-3SG where-DAT/LOC bog.[NOM] that-DAT/LOC land-AOR-3SG and run-INCEP1-AOR-3SG"
+            "Dombo.[NOM]",
+            "land-AOR-3SG",
+            "where-DAT/LOC",
+            "bog.[NOM]",
+            "that-DAT/LOC",
+            "land-AOR-3SG",
+            "and",
+            "run-INCEP1-AOR-3SG"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -3055,10 +3176,17 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "Dombo aɣ-rə-n i-du majəmə ta-du aɣ-rə-n da tukša-šin-a-n"
+            "Dombo",
+            "aɣ-rə-n",
+            "i-du",
+            "majəmə",
+            "ta-du",
+            "aɣ-rə-n",
+            "da",
+            "tukša-šin-a-n"
         ],
         "trs": "Dombo docked where there was a swamp and ran away.",
-        "wlength": 1
+        "wlength": 8
     },
     {
         "ID": "inelevenki2468293277_168_177",
@@ -3116,9 +3244,17 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rasbojnik-i-l hətəkən-ə dʼapka-la-n birʼa nuɣan-ma-n aša-šin-da-wir da əjə-rə duna-du</div>\n\t\t<div class=\"glossblock\">robber-EP-PL.[NOM] jump.away-AOR.[3PL] edge-LAT-3SG river.[NOM] PRO.3-ACC-3SG chase-INCEP1-CVB.PURP-RFL.PL but sink-AOR.[3PL] earth-DAT/LOC</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rasbojnik-i-l</div>\n\t\t<div class=\"glossblock\">robber-EP-PL.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hətəkən-ə</div>\n\t\t<div class=\"glossblock\">jump.away-AOR.[3PL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dʼapka-la-n</div>\n\t\t<div class=\"glossblock\">edge-LAT-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">birʼa</div>\n\t\t<div class=\"glossblock\">river.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nuɣan-ma-n</div>\n\t\t<div class=\"glossblock\">PRO.3-ACC-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aša-šin-da-wir</div>\n\t\t<div class=\"glossblock\">chase-INCEP1-CVB.PURP-RFL.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əjə-rə</div>\n\t\t<div class=\"glossblock\">sink-AOR.[3PL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">duna-du</div>\n\t\t<div class=\"glossblock\">earth-DAT/LOC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "robber-EP-PL.[NOM] jump.away-AOR.[3PL] edge-LAT-3SG river.[NOM] PRO.3-ACC-3SG chase-INCEP1-CVB.PURP-RFL.PL but sink-AOR.[3PL] earth-DAT/LOC"
+            "robber-EP-PL.[NOM]",
+            "jump.away-AOR.[3PL]",
+            "edge-LAT-3SG",
+            "river.[NOM]",
+            "PRO.3-ACC-3SG",
+            "chase-INCEP1-CVB.PURP-RFL.PL",
+            "but",
+            "sink-AOR.[3PL]",
+            "earth-DAT/LOC"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -3131,10 +3267,18 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "rasbojnik-i-l hətəkən-ə dʼapka-la-n birʼa nuɣan-ma-n aša-šin-da-wir da əjə-rə duna-du"
+            "rasbojnik-i-l",
+            "hətəkən-ə",
+            "dʼapka-la-n",
+            "birʼa",
+            "nuɣan-ma-n",
+            "aša-šin-da-wir",
+            "da",
+            "əjə-rə",
+            "duna-du"
         ],
         "trs": "The bandits jumped out on the river bank to catch up with him, but they got stuck in the ground.",
-        "wlength": 1
+        "wlength": 9
     },
     {
         "ID": "inelevenki2468293277_177_178",
@@ -3255,9 +3399,11 @@
                 "wdid": "Q69564"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nuɣa-n tukša-šin-a-n tajɣa-l-duli</div>\n\t\t<div class=\"glossblock\">PRO.3.[NOM]-3SG run-INCEP1-AOR-3SG taiga-PL-PROL</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nuɣa-n</div>\n\t\t<div class=\"glossblock\">PRO.3.[NOM]-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tukša-šin-a-n</div>\n\t\t<div class=\"glossblock\">run-INCEP1-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tajɣa-l-duli</div>\n\t\t<div class=\"glossblock\">taiga-PL-PROL</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "PRO.3.[NOM]-3SG run-INCEP1-AOR-3SG taiga-PL-PROL"
+            "PRO.3.[NOM]-3SG",
+            "run-INCEP1-AOR-3SG",
+            "taiga-PL-PROL"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -3270,10 +3416,12 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "nuɣa-n tukša-šin-a-n tajɣa-l-duli"
+            "nuɣa-n",
+            "tukša-šin-a-n",
+            "tajɣa-l-duli"
         ],
         "trs": "He ran away into the taiga.",
-        "wlength": 1
+        "wlength": 3
     },
     {
         "ID": "inelevenki2468293277_181_187",
@@ -3326,9 +3474,14 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ta-li rasbojnik-i-l gun-dʼa-rə ewuna ši lunɣu-dʼi-ča-š</div>\n\t\t<div class=\"glossblock\">that-PROL robber-EP-PL.[NOM] say-IPFV-AOR.[3PL] what.for PRO.2SG.[NOM] shout-IPFV-PST-2SG</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ta-li</div>\n\t\t<div class=\"glossblock\">that-PROL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rasbojnik-i-l</div>\n\t\t<div class=\"glossblock\">robber-EP-PL.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gun-dʼa-rə</div>\n\t\t<div class=\"glossblock\">say-IPFV-AOR.[3PL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ewuna</div>\n\t\t<div class=\"glossblock\">what.for</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ši</div>\n\t\t<div class=\"glossblock\">PRO.2SG.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lunɣu-dʼi-ča-š</div>\n\t\t<div class=\"glossblock\">shout-IPFV-PST-2SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "that-PROL robber-EP-PL.[NOM] say-IPFV-AOR.[3PL] what.for PRO.2SG.[NOM] shout-IPFV-PST-2SG"
+            "that-PROL",
+            "robber-EP-PL.[NOM]",
+            "say-IPFV-AOR.[3PL]",
+            "what.for",
+            "PRO.2SG.[NOM]",
+            "shout-IPFV-PST-2SG"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -3341,10 +3494,15 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "ta-li rasbojnik-i-l gun-dʼa-rə ewuna ši lunɣu-dʼi-ča-š"
+            "ta-li",
+            "rasbojnik-i-l",
+            "gun-dʼa-rə",
+            "ewuna",
+            "ši",
+            "lunɣu-dʼi-ča-š"
         ],
         "trs": "Then the bandits said: \"Why are you shouting?\"",
-        "wlength": 1
+        "wlength": 6
     },
     {
         "ID": "inelevenki2468293277_187_191",
@@ -3394,9 +3552,12 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nuɣa-n til-ə-n da tukša-nə-n</div>\n\t\t<div class=\"glossblock\">PRO.3.[NOM]-3SG understand-AOR-3SG and run-PRF-3SG</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nuɣa-n</div>\n\t\t<div class=\"glossblock\">PRO.3.[NOM]-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">til-ə-n</div>\n\t\t<div class=\"glossblock\">understand-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tukša-nə-n</div>\n\t\t<div class=\"glossblock\">run-PRF-3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "PRO.3.[NOM]-3SG understand-AOR-3SG and run-PRF-3SG"
+            "PRO.3.[NOM]-3SG",
+            "understand-AOR-3SG",
+            "and",
+            "run-PRF-3SG"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -3409,10 +3570,13 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "nuɣa-n til-ə-n da tukša-nə-n"
+            "nuɣa-n",
+            "til-ə-n",
+            "da",
+            "tukša-nə-n"
         ],
         "trs": "He understood and ran away!",
-        "wlength": 1
+        "wlength": 4
     },
     {
         "ID": "inelevenki2468293277_191_194",
@@ -3461,9 +3625,11 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rasbojnik-i-l nʼan əja-šin-ə</div>\n\t\t<div class=\"glossblock\">robber-EP-PL.[NOM] again go.downstream-INCEP1-AOR.[3PL]</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rasbojnik-i-l</div>\n\t\t<div class=\"glossblock\">robber-EP-PL.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nʼan</div>\n\t\t<div class=\"glossblock\">again</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əja-šin-ə</div>\n\t\t<div class=\"glossblock\">go.downstream-INCEP1-AOR.[3PL]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "robber-EP-PL.[NOM] again go.downstream-INCEP1-AOR.[3PL]"
+            "robber-EP-PL.[NOM]",
+            "again",
+            "go.downstream-INCEP1-AOR.[3PL]"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -3476,10 +3642,12 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "rasbojnik-i-l nʼan əja-šin-ə"
+            "rasbojnik-i-l",
+            "nʼan",
+            "əja-šin-ə"
         ],
         "trs": "The bandits have sailed away again.",
-        "wlength": 1
+        "wlength": 3
     },
     {
         "ID": "inelevenki2468293277_194_199",
@@ -3530,9 +3698,13 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Makowska-duk werhowaj hokto bi-ži-n Worožejka-la</div>\n\t\t<div class=\"glossblock\">Makovskoye-ABL upper.[NOM] path.[NOM] be-AOR-3SG Vorozheyka-LAT</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Makowska-duk</div>\n\t\t<div class=\"glossblock\">Makovskoye-ABL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">werhowaj</div>\n\t\t<div class=\"glossblock\">upper.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hokto</div>\n\t\t<div class=\"glossblock\">path.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bi-ži-n</div>\n\t\t<div class=\"glossblock\">be-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Worožejka-la</div>\n\t\t<div class=\"glossblock\">Vorozheyka-LAT</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "Makovskoye-ABL upper.[NOM] path.[NOM] be-AOR-3SG Vorozheyka-LAT"
+            "Makovskoye-ABL",
+            "upper.[NOM]",
+            "path.[NOM]",
+            "be-AOR-3SG",
+            "Vorozheyka-LAT"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -3545,10 +3717,14 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "Makowska-duk werhowaj hokto bi-ži-n Worožejka-la"
+            "Makowska-duk",
+            "werhowaj",
+            "hokto",
+            "bi-ži-n",
+            "Worožejka-la"
         ],
         "trs": "From Makovskoye there's a high road to Vorozheyka.",
-        "wlength": 1
+        "wlength": 5
     },
     {
         "ID": "inelevenki2468293277_199_202",
@@ -3598,9 +3774,11 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">onʼo-wun dʼula-li šuru-rə-n</div>\n\t\t<div class=\"glossblock\">paint/write-NMLZ.INS3.[NOM] front-PROL leave-AOR-3SG</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">onʼo-wun</div>\n\t\t<div class=\"glossblock\">paint/write-NMLZ.INS3.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dʼula-li</div>\n\t\t<div class=\"glossblock\">front-PROL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šuru-rə-n</div>\n\t\t<div class=\"glossblock\">leave-AOR-3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "paint/write-NMLZ.INS3.[NOM] front-PROL leave-AOR-3SG"
+            "paint/write-NMLZ.INS3.[NOM]",
+            "front-PROL",
+            "leave-AOR-3SG"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -3613,10 +3791,12 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "onʼo-wun dʼula-li šuru-rə-n"
+            "onʼo-wun",
+            "dʼula-li",
+            "šuru-rə-n"
         ],
         "trs": "The letter has gone ahead.",
-        "wlength": 1
+        "wlength": 3
     },
     {
         "ID": "inelevenki2468293277_202_206",
@@ -3673,9 +3853,12 @@
                 "wdid": "Q4276154"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Maksimka jar-du onʼo-wun gənə-rə-n</div>\n\t\t<div class=\"glossblock\">Maksimka.[NOM] ravine-DAT/LOC paint/write-NMLZ.INS3.[NOM] go-AOR-3SG</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Maksimka</div>\n\t\t<div class=\"glossblock\">Maksimka.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jar-du</div>\n\t\t<div class=\"glossblock\">ravine-DAT/LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">onʼo-wun</div>\n\t\t<div class=\"glossblock\">paint/write-NMLZ.INS3.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gənə-rə-n</div>\n\t\t<div class=\"glossblock\">go-AOR-3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "Maksimka.[NOM] ravine-DAT/LOC paint/write-NMLZ.INS3.[NOM] go-AOR-3SG"
+            "Maksimka.[NOM]",
+            "ravine-DAT/LOC",
+            "paint/write-NMLZ.INS3.[NOM]",
+            "go-AOR-3SG"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -3688,10 +3871,13 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "Maksimka jar-du onʼo-wun gənə-rə-n"
+            "Maksimka",
+            "jar-du",
+            "onʼo-wun",
+            "gənə-rə-n"
         ],
         "trs": "A letter arrived in the Maksimka Gorge.",
-        "wlength": 1
+        "wlength": 4
     },
     {
         "ID": "inelevenki2468293277_206_212",
@@ -3758,9 +3944,14 @@
                 "wdid": "Q191730"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ta-du uru-p-ta dʼani-l əwənki-l uru-p-ta kətə-kakun</div>\n\t\t<div class=\"glossblock\">that-DAT/LOC meet.together-PASS-AOR.[3PL] Ostyak-PL.[NOM] Evenki-PL.[NOM] meet.together-PASS-AOR.[3PL] many-AFCT.[NOM]</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ta-du</div>\n\t\t<div class=\"glossblock\">that-DAT/LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">uru-p-ta</div>\n\t\t<div class=\"glossblock\">meet.together-PASS-AOR.[3PL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dʼani-l</div>\n\t\t<div class=\"glossblock\">Ostyak-PL.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əwənki-l</div>\n\t\t<div class=\"glossblock\">Evenki-PL.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">uru-p-ta</div>\n\t\t<div class=\"glossblock\">meet.together-PASS-AOR.[3PL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kətə-kakun</div>\n\t\t<div class=\"glossblock\">many-AFCT.[NOM]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "that-DAT/LOC meet.together-PASS-AOR.[3PL] Ostyak-PL.[NOM] Evenki-PL.[NOM] meet.together-PASS-AOR.[3PL] many-AFCT.[NOM]"
+            "that-DAT/LOC",
+            "meet.together-PASS-AOR.[3PL]",
+            "Ostyak-PL.[NOM]",
+            "Evenki-PL.[NOM]",
+            "meet.together-PASS-AOR.[3PL]",
+            "many-AFCT.[NOM]"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -3773,10 +3964,15 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "ta-du uru-p-ta dʼani-l əwənki-l uru-p-ta kətə-kakun"
+            "ta-du",
+            "uru-p-ta",
+            "dʼani-l",
+            "əwənki-l",
+            "uru-p-ta",
+            "kətə-kakun"
         ],
         "trs": "The Ostyaks and Evenkis have gathered there, many Evenkis have gathered there.",
-        "wlength": 1
+        "wlength": 6
     },
     {
         "ID": "inelevenki2468293277_212_215",
@@ -3824,9 +4020,11 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">krep-ča o-ra birʼa-gitʼ</div>\n\t\t<div class=\"glossblock\">bridge-ACC make-AOR.[3PL] river-ABL2</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">krep-ča</div>\n\t\t<div class=\"glossblock\">bridge-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">o-ra</div>\n\t\t<div class=\"glossblock\">make-AOR.[3PL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">birʼa-gitʼ</div>\n\t\t<div class=\"glossblock\">river-ABL2</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "bridge-ACC make-AOR.[3PL] river-ABL2"
+            "bridge-ACC",
+            "make-AOR.[3PL]",
+            "river-ABL2"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -3839,10 +4037,12 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "krep-ča o-ra birʼa-gitʼ"
+            "krep-ča",
+            "o-ra",
+            "birʼa-gitʼ"
         ],
         "trs": "They made a mount [bridge] on the river.",
-        "wlength": 1
+        "wlength": 3
     },
     {
         "ID": "inelevenki2468293277_215_219",
@@ -3894,9 +4094,12 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nuɣa-r-wa-tin tigi-šin-a rasbojnik-i-l-wa ala-či-l-a</div>\n\t\t<div class=\"glossblock\">PRO.3-PL-ACC-3PL watch-INCEP1-AOR.[3PL] robber-EP-PL-ACC wait-DUR-INCH-AOR.[3PL]</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nuɣa-r-wa-tin</div>\n\t\t<div class=\"glossblock\">PRO.3-PL-ACC-3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tigi-šin-a</div>\n\t\t<div class=\"glossblock\">watch-INCEP1-AOR.[3PL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rasbojnik-i-l-wa</div>\n\t\t<div class=\"glossblock\">robber-EP-PL-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ala-či-l-a</div>\n\t\t<div class=\"glossblock\">wait-DUR-INCH-AOR.[3PL]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "PRO.3-PL-ACC-3PL watch-INCEP1-AOR.[3PL] robber-EP-PL-ACC wait-DUR-INCH-AOR.[3PL]"
+            "PRO.3-PL-ACC-3PL",
+            "watch-INCEP1-AOR.[3PL]",
+            "robber-EP-PL-ACC",
+            "wait-DUR-INCH-AOR.[3PL]"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -3909,10 +4112,13 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "nuɣa-r-wa-tin tigi-šin-a rasbojnik-i-l-wa ala-či-l-a"
+            "nuɣa-r-wa-tin",
+            "tigi-šin-a",
+            "rasbojnik-i-l-wa",
+            "ala-či-l-a"
         ],
         "trs": "They watched them, they began to wait for bandits.",
-        "wlength": 1
+        "wlength": 4
     },
     {
         "ID": "inelevenki2468293277_219_223",
@@ -3963,9 +4169,12 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nʼur-i-l-a o-ra girʼamna-ma-j nʼur-i-l-a</div>\n\t\t<div class=\"glossblock\">arrow-EP-PL-ACC.INDF make-AOR.[3PL] bone-ADJZ.MAT-ACC.INDF arrow-EP-PL-ACC.INDF</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nʼur-i-l-a</div>\n\t\t<div class=\"glossblock\">arrow-EP-PL-ACC.INDF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">o-ra</div>\n\t\t<div class=\"glossblock\">make-AOR.[3PL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">girʼamna-ma-j</div>\n\t\t<div class=\"glossblock\">bone-ADJZ.MAT-ACC.INDF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nʼur-i-l-a</div>\n\t\t<div class=\"glossblock\">arrow-EP-PL-ACC.INDF</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "arrow-EP-PL-ACC.INDF make-AOR.[3PL] bone-ADJZ.MAT-ACC.INDF arrow-EP-PL-ACC.INDF"
+            "arrow-EP-PL-ACC.INDF",
+            "make-AOR.[3PL]",
+            "bone-ADJZ.MAT-ACC.INDF",
+            "arrow-EP-PL-ACC.INDF"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -3978,10 +4187,13 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "nʼur-i-l-a o-ra girʼamna-ma-j nʼur-i-l-a"
+            "nʼur-i-l-a",
+            "o-ra",
+            "girʼamna-ma-j",
+            "nʼur-i-l-a"
         ],
         "trs": "They made arrows, arrows of bone.",
-        "wlength": 1
+        "wlength": 4
     },
     {
         "ID": "inelevenki2468293277_223_230",
@@ -4033,9 +4245,15 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nuɣa-n girʼamna-wa əta-n hənkət-ə e-ja-da əta-n o-ra</div>\n\t\t<div class=\"glossblock\">PRO.3.[NOM]-3SG bone-ACC NEG.FUT-3SG speak-CNG what-ACC.INDF-NEG3 NEG.FUT-3SG make-CNG</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nuɣa-n</div>\n\t\t<div class=\"glossblock\">PRO.3.[NOM]-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">girʼamna-wa</div>\n\t\t<div class=\"glossblock\">bone-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əta-n</div>\n\t\t<div class=\"glossblock\">NEG.FUT-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hənkət-ə</div>\n\t\t<div class=\"glossblock\">speak-CNG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e-ja-da</div>\n\t\t<div class=\"glossblock\">what-ACC.INDF-NEG3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əta-n</div>\n\t\t<div class=\"glossblock\">NEG.FUT-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">o-ra</div>\n\t\t<div class=\"glossblock\">make-CNG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "PRO.3.[NOM]-3SG bone-ACC NEG.FUT-3SG speak-CNG what-ACC.INDF-NEG3 NEG.FUT-3SG make-CNG"
+            "PRO.3.[NOM]-3SG",
+            "bone-ACC",
+            "NEG.FUT-3SG",
+            "speak-CNG",
+            "what-ACC.INDF-NEG3",
+            "NEG.FUT-3SG",
+            "make-CNG"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -4049,10 +4267,16 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "nuɣa-n girʼamna-wa əta-n hənkət-ə e-ja-da əta-n o-ra"
+            "nuɣa-n",
+            "girʼamna-wa",
+            "əta-n",
+            "hənkət-ə",
+            "e-ja-da",
+            "əta-n",
+            "o-ra"
         ],
         "trs": "If he doesn't talk to the bone [arrows], he's not going to do anything.",
-        "wlength": 1
+        "wlength": 7
     },
     {
         "ID": "inelevenki2468293277_230_243",
@@ -4115,9 +4339,21 @@
                 "wdid": "Q2041094"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əbaj-wə pisal-dʼa-rə wa-dʼa-rə əbaj-ə hig-i-l-dʼa-rə wa-dʼa-wun-mar pulka-ja baka-dʼa-ra əbaj-du wa-dʼa-wun-mar tar-ɣači-l pulka-r-wa taw-ra</div>\n\t\t<div class=\"glossblock\">bear-ACC shoot-IPFV-AOR.[3PL] kill-IPFV-AOR.[3PL] bear-ACC.INDF flay-EP-INCH-IPFV-AOR.[3PL] kill-IPFV-NMLZ.INS3-RFL.PL bullet-ACC.INDF find-IPFV-AOR.[3PL] bear-DAT/LOC kill-IPFV-NMLZ.INS3-RFL.PL that-SIMIL-PL.[NOM] bullet-PL-ACC gather-AOR.[3PL]</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əbaj-wə</div>\n\t\t<div class=\"glossblock\">bear-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pisal-dʼa-rə</div>\n\t\t<div class=\"glossblock\">shoot-IPFV-AOR.[3PL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wa-dʼa-rə</div>\n\t\t<div class=\"glossblock\">kill-IPFV-AOR.[3PL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əbaj-ə</div>\n\t\t<div class=\"glossblock\">bear-ACC.INDF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hig-i-l-dʼa-rə</div>\n\t\t<div class=\"glossblock\">flay-EP-INCH-IPFV-AOR.[3PL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wa-dʼa-wun-mar</div>\n\t\t<div class=\"glossblock\">kill-IPFV-NMLZ.INS3-RFL.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pulka-ja</div>\n\t\t<div class=\"glossblock\">bullet-ACC.INDF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">baka-dʼa-ra</div>\n\t\t<div class=\"glossblock\">find-IPFV-AOR.[3PL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əbaj-du</div>\n\t\t<div class=\"glossblock\">bear-DAT/LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wa-dʼa-wun-mar</div>\n\t\t<div class=\"glossblock\">kill-IPFV-NMLZ.INS3-RFL.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tar-ɣači-l</div>\n\t\t<div class=\"glossblock\">that-SIMIL-PL.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pulka-r-wa</div>\n\t\t<div class=\"glossblock\">bullet-PL-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">taw-ra</div>\n\t\t<div class=\"glossblock\">gather-AOR.[3PL]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "bear-ACC shoot-IPFV-AOR.[3PL] kill-IPFV-AOR.[3PL] bear-ACC.INDF flay-EP-INCH-IPFV-AOR.[3PL] kill-IPFV-NMLZ.INS3-RFL.PL bullet-ACC.INDF find-IPFV-AOR.[3PL] bear-DAT/LOC kill-IPFV-NMLZ.INS3-RFL.PL that-SIMIL-PL.[NOM] bullet-PL-ACC gather-AOR.[3PL]"
+            "bear-ACC",
+            "shoot-IPFV-AOR.[3PL]",
+            "kill-IPFV-AOR.[3PL]",
+            "bear-ACC.INDF",
+            "flay-EP-INCH-IPFV-AOR.[3PL]",
+            "kill-IPFV-NMLZ.INS3-RFL.PL",
+            "bullet-ACC.INDF",
+            "find-IPFV-AOR.[3PL]",
+            "bear-DAT/LOC",
+            "kill-IPFV-NMLZ.INS3-RFL.PL",
+            "that-SIMIL-PL.[NOM]",
+            "bullet-PL-ACC",
+            "gather-AOR.[3PL]"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -4130,10 +4366,22 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "əbaj-wə pisal-dʼa-rə wa-dʼa-rə əbaj-ə hig-i-l-dʼa-rə wa-dʼa-wun-mar pulka-ja baka-dʼa-ra əbaj-du wa-dʼa-wun-mar tar-ɣači-l pulka-r-wa taw-ra"
+            "əbaj-wə",
+            "pisal-dʼa-rə",
+            "wa-dʼa-rə",
+            "əbaj-ə",
+            "hig-i-l-dʼa-rə",
+            "wa-dʼa-wun-mar",
+            "pulka-ja",
+            "baka-dʼa-ra",
+            "əbaj-du",
+            "wa-dʼa-wun-mar",
+            "tar-ɣači-l",
+            "pulka-r-wa",
+            "taw-ra"
         ],
         "trs": "They shot a bear, killed a bear, skinned a bear — they found bullets in the killed bears, they collected such bullets in the killed bears.",
-        "wlength": 1
+        "wlength": 13
     },
     {
         "ID": "inelevenki2468293277_243_248",
@@ -4189,9 +4437,13 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tar-i-l-dʼi əbaj-ə wa-dʼa-wun-tin rasbojnik-i-l-wi pisal-i-t-a</div>\n\t\t<div class=\"glossblock\">that-EP-PL-INS bear-ACC.INDF kill-IPFV-NMLZ.INS3.[NOM]-3PL robber-EP-PL-RFL.SG shoot-EP-DUR-AOR.[3PL]</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tar-i-l-dʼi</div>\n\t\t<div class=\"glossblock\">that-EP-PL-INS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əbaj-ə</div>\n\t\t<div class=\"glossblock\">bear-ACC.INDF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wa-dʼa-wun-tin</div>\n\t\t<div class=\"glossblock\">kill-IPFV-NMLZ.INS3.[NOM]-3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rasbojnik-i-l-wi</div>\n\t\t<div class=\"glossblock\">robber-EP-PL-RFL.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pisal-i-t-a</div>\n\t\t<div class=\"glossblock\">shoot-EP-DUR-AOR.[3PL]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "that-EP-PL-INS bear-ACC.INDF kill-IPFV-NMLZ.INS3.[NOM]-3PL robber-EP-PL-RFL.SG shoot-EP-DUR-AOR.[3PL]"
+            "that-EP-PL-INS",
+            "bear-ACC.INDF",
+            "kill-IPFV-NMLZ.INS3.[NOM]-3PL",
+            "robber-EP-PL-RFL.SG",
+            "shoot-EP-DUR-AOR.[3PL]"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -4204,10 +4456,14 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "tar-i-l-dʼi əbaj-ə wa-dʼa-wun-tin rasbojnik-i-l-wi pisal-i-t-a"
+            "tar-i-l-dʼi",
+            "əbaj-ə",
+            "wa-dʼa-wun-tin",
+            "rasbojnik-i-l-wi",
+            "pisal-i-t-a"
         ],
         "trs": "With these [bullets used to kill a bear] they started shooting at bandits.",
-        "wlength": 1
+        "wlength": 5
     },
     {
         "ID": "inelevenki2468293277_248_253",
@@ -4266,9 +4522,13 @@
                 "wdid": "Q174176"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">girʼamna-ma-ja nʼur-i ər-a əta-r hənkət-ča-rə</div>\n\t\t<div class=\"glossblock\">bone-ADJZ.MAT-ACC.INDF arrow-ACC.INDF this-ACC.INDF NEG.FUT-AOR.[3PL] speak-IPFV-CNG</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">girʼamna-ma-ja</div>\n\t\t<div class=\"glossblock\">bone-ADJZ.MAT-ACC.INDF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nʼur-i</div>\n\t\t<div class=\"glossblock\">arrow-ACC.INDF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ər-a</div>\n\t\t<div class=\"glossblock\">this-ACC.INDF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əta-r</div>\n\t\t<div class=\"glossblock\">NEG.FUT-AOR.[3PL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hənkət-ča-rə</div>\n\t\t<div class=\"glossblock\">speak-IPFV-CNG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "bone-ADJZ.MAT-ACC.INDF arrow-ACC.INDF this-ACC.INDF NEG.FUT-AOR.[3PL] speak-IPFV-CNG"
+            "bone-ADJZ.MAT-ACC.INDF",
+            "arrow-ACC.INDF",
+            "this-ACC.INDF",
+            "NEG.FUT-AOR.[3PL]",
+            "speak-IPFV-CNG"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -4282,10 +4542,14 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "girʼamna-ma-ja nʼur-i ər-a əta-r hənkət-ča-rə"
+            "girʼamna-ma-ja",
+            "nʼur-i",
+            "ər-a",
+            "əta-r",
+            "hənkət-ča-rə"
         ],
         "trs": "Arrows of bone — they will not speak.",
-        "wlength": 1
+        "wlength": 5
     },
     {
         "ID": "inelevenki2468293277_253_257",
@@ -4333,9 +4597,12 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">_ _ əta-ni wa-ri</div>\n\t\t<div class=\"glossblock\">_ _ NEG.FUT-2SG kill-CNG</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">_</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">_</div>\n\t\t<div class=\"glossblock\">_</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əta-ni</div>\n\t\t<div class=\"glossblock\">NEG.FUT-2SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wa-ri</div>\n\t\t<div class=\"glossblock\">kill-CNG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "_ _ NEG.FUT-2SG kill-CNG"
+            "_",
+            "_",
+            "NEG.FUT-2SG",
+            "kill-CNG"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -4348,10 +4615,13 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "_ _ əta-ni wa-ri"
+            "_",
+            "_",
+            "əta-ni",
+            "wa-ri"
         ],
         "trs": "You can't kill with a knife.",
-        "wlength": 1
+        "wlength": 4
     },
     {
         "ID": "inelevenki2468293277_257_260",
@@ -4399,9 +4669,11 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">girʼamna-tʼ nʼur-i-l-dʼi ganat-ə</div>\n\t\t<div class=\"glossblock\">bone-INS arrow-EP-PL-INS shoot-AOR.[3PL]</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">girʼamna-tʼ</div>\n\t\t<div class=\"glossblock\">bone-INS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nʼur-i-l-dʼi</div>\n\t\t<div class=\"glossblock\">arrow-EP-PL-INS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ganat-ə</div>\n\t\t<div class=\"glossblock\">shoot-AOR.[3PL]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "bone-INS arrow-EP-PL-INS shoot-AOR.[3PL]"
+            "bone-INS",
+            "arrow-EP-PL-INS",
+            "shoot-AOR.[3PL]"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -4414,10 +4686,12 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "girʼamna-tʼ nʼur-i-l-dʼi ganat-ə"
+            "girʼamna-tʼ",
+            "nʼur-i-l-dʼi",
+            "ganat-ə"
         ],
         "trs": "They shot with arrows made of bone.",
-        "wlength": 1
+        "wlength": 3
     },
     {
         "ID": "inelevenki2468293277_260_264",
@@ -4470,9 +4744,12 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əbaj-duk baka-na-l-tin pulka-l-dʼi pisal-i-t-a</div>\n\t\t<div class=\"glossblock\">bear-ABL find-PTCP.PRF-PL.[NOM]-3PL bullet-PL-INS shoot-EP-DUR-AOR.[3PL]</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əbaj-duk</div>\n\t\t<div class=\"glossblock\">bear-ABL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">baka-na-l-tin</div>\n\t\t<div class=\"glossblock\">find-PTCP.PRF-PL.[NOM]-3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pulka-l-dʼi</div>\n\t\t<div class=\"glossblock\">bullet-PL-INS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pisal-i-t-a</div>\n\t\t<div class=\"glossblock\">shoot-EP-DUR-AOR.[3PL]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "bear-ABL find-PTCP.PRF-PL.[NOM]-3PL bullet-PL-INS shoot-EP-DUR-AOR.[3PL]"
+            "bear-ABL",
+            "find-PTCP.PRF-PL.[NOM]-3PL",
+            "bullet-PL-INS",
+            "shoot-EP-DUR-AOR.[3PL]"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -4485,10 +4762,13 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "əbaj-duk baka-na-l-tin pulka-l-dʼi pisal-i-t-a"
+            "əbaj-duk",
+            "baka-na-l-tin",
+            "pulka-l-dʼi",
+            "pisal-i-t-a"
         ],
         "trs": "They shot with bullets that were found in the bear.",
-        "wlength": 1
+        "wlength": 4
     },
     {
         "ID": "inelevenki2468293277_264_273",
@@ -4546,9 +4826,17 @@
                 "wdid": "Q727229"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nuɣa-n manakan ataman-tin sudna-du tugi girku-dʼa-ra-n tpru tpru tpru</div>\n\t\t<div class=\"glossblock\">PRO.3.[NOM]-3SG self.[NOM] ataman.[NOM]-3PL ship-DAT/LOC so walk-IPFV-AOR-3SG ONOM ONOM ONOM</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nuɣa-n</div>\n\t\t<div class=\"glossblock\">PRO.3.[NOM]-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">manakan</div>\n\t\t<div class=\"glossblock\">self.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ataman-tin</div>\n\t\t<div class=\"glossblock\">ataman.[NOM]-3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sudna-du</div>\n\t\t<div class=\"glossblock\">ship-DAT/LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tugi</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">girku-dʼa-ra-n</div>\n\t\t<div class=\"glossblock\">walk-IPFV-AOR-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tpru</div>\n\t\t<div class=\"glossblock\">ONOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tpru</div>\n\t\t<div class=\"glossblock\">ONOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tpru</div>\n\t\t<div class=\"glossblock\">ONOM</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "PRO.3.[NOM]-3SG self.[NOM] ataman.[NOM]-3PL ship-DAT/LOC so walk-IPFV-AOR-3SG ONOM ONOM ONOM"
+            "PRO.3.[NOM]-3SG",
+            "self.[NOM]",
+            "ataman.[NOM]-3PL",
+            "ship-DAT/LOC",
+            "so",
+            "walk-IPFV-AOR-3SG",
+            "ONOM",
+            "ONOM",
+            "ONOM"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -4561,10 +4849,18 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "nuɣa-n manakan ataman-tin sudna-du tugi girku-dʼa-ra-n tpru tpru tpru"
+            "nuɣa-n",
+            "manakan",
+            "ataman-tin",
+            "sudna-du",
+            "tugi",
+            "girku-dʼa-ra-n",
+            "tpru",
+            "tpru",
+            "tpru"
         ],
         "trs": "He himself, their ataman, walks around the ship like this: \"Tpru-tpru-tpru!\"",
-        "wlength": 1
+        "wlength": 9
     },
     {
         "ID": "inelevenki2468293277_273_278",
@@ -4616,9 +4912,13 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tar-i-tʼ muŋu-r-wa uša-ɣə-t-ə birʼa-la mu-la</div>\n\t\t<div class=\"glossblock\">that-EP-INS silver/money-PL-ACC throw-TR2-DUR-AOR.[3PL] river-LAT water-LAT</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tar-i-tʼ</div>\n\t\t<div class=\"glossblock\">that-EP-INS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">muŋu-r-wa</div>\n\t\t<div class=\"glossblock\">silver/money-PL-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">uša-ɣə-t-ə</div>\n\t\t<div class=\"glossblock\">throw-TR2-DUR-AOR.[3PL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">birʼa-la</div>\n\t\t<div class=\"glossblock\">river-LAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mu-la</div>\n\t\t<div class=\"glossblock\">water-LAT</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "that-EP-INS silver/money-PL-ACC throw-TR2-DUR-AOR.[3PL] river-LAT water-LAT"
+            "that-EP-INS",
+            "silver/money-PL-ACC",
+            "throw-TR2-DUR-AOR.[3PL]",
+            "river-LAT",
+            "water-LAT"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -4631,10 +4931,14 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "tar-i-tʼ muŋu-r-wa uša-ɣə-t-ə birʼa-la mu-la"
+            "tar-i-tʼ",
+            "muŋu-r-wa",
+            "uša-ɣə-t-ə",
+            "birʼa-la",
+            "mu-la"
         ],
         "trs": "hen they threw the money — into the river, into the water.",
-        "wlength": 1
+        "wlength": 5
     },
     {
         "ID": "inelevenki2468293277_278_280",
@@ -4681,9 +4985,10 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hal-wa-tin wa-rə</div>\n\t\t<div class=\"glossblock\">part-ACC-3PL kill-AOR.[3PL]</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hal-wa-tin</div>\n\t\t<div class=\"glossblock\">part-ACC-3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wa-rə</div>\n\t\t<div class=\"glossblock\">kill-AOR.[3PL]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "part-ACC-3PL kill-AOR.[3PL]"
+            "part-ACC-3PL",
+            "kill-AOR.[3PL]"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -4696,10 +5001,11 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "hal-wa-tin wa-rə"
+            "hal-wa-tin",
+            "wa-rə"
         ],
         "trs": "They killed some of them.",
-        "wlength": 1
+        "wlength": 2
     },
     {
         "ID": "inelevenki2468293277_280_283",
@@ -4753,9 +5059,11 @@
                 "wdid": "Q727229"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ataman-tin ə-ši wa-ri</div>\n\t\t<div class=\"glossblock\">ataman.[NOM]-3PL NEG-AOR.[3PL] kill-CNG</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ataman-tin</div>\n\t\t<div class=\"glossblock\">ataman.[NOM]-3PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ə-ši</div>\n\t\t<div class=\"glossblock\">NEG-AOR.[3PL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wa-ri</div>\n\t\t<div class=\"glossblock\">kill-CNG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "ataman.[NOM]-3PL NEG-AOR.[3PL] kill-CNG"
+            "ataman.[NOM]-3PL",
+            "NEG-AOR.[3PL]",
+            "kill-CNG"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -4768,10 +5076,12 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "ataman-tin ə-ši wa-ri"
+            "ataman-tin",
+            "ə-ši",
+            "wa-ri"
         ],
         "trs": "They didn't kill their ataman.",
-        "wlength": 1
+        "wlength": 3
     },
     {
         "ID": "inelevenki2468293277_283_287",
@@ -4822,9 +5132,12 @@
         ],
         "doc_ID": 2468293277,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dʼur bi-nə šuru-rə bargi-ški</div>\n\t\t<div class=\"glossblock\">two.[NOM] be-CVB.SIM1 leave-AOR.[3PL] opposite.side-LAT.ADV</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dʼur</div>\n\t\t<div class=\"glossblock\">two.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bi-nə</div>\n\t\t<div class=\"glossblock\">be-CVB.SIM1</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šuru-rə</div>\n\t\t<div class=\"glossblock\">leave-AOR.[3PL]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bargi-ški</div>\n\t\t<div class=\"glossblock\">opposite.side-LAT.ADV</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "two.[NOM] be-CVB.SIM1 leave-AOR.[3PL] opposite.side-LAT.ADV"
+            "two.[NOM]",
+            "be-CVB.SIM1",
+            "leave-AOR.[3PL]",
+            "opposite.side-LAT.ADV"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -4837,9 +5150,12 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "dʼur bi-nə šuru-rə bargi-ški"
+            "dʼur",
+            "bi-nə",
+            "šuru-rə",
+            "bargi-ški"
         ],
         "trs": "The two of them went to the other side [of the river].",
-        "wlength": 1
+        "wlength": 4
     }
 ]

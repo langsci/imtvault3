@@ -42,9 +42,10 @@
         ],
         "doc_ID": 3626743759,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sarana tukala</div>\n\t\t<div class=\"glossblock\">lilium.martagon.[NOM] lilium.martagon.[NOM]</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sarana</div>\n\t\t<div class=\"glossblock\">lilium.martagon.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tukala</div>\n\t\t<div class=\"glossblock\">lilium.martagon.[NOM]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "lilium.martagon.[NOM] lilium.martagon.[NOM]"
+            "lilium.martagon.[NOM]",
+            "lilium.martagon.[NOM]"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -57,10 +58,11 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "sarana tukala"
+            "sarana",
+            "tukala"
         ],
         "trs": "The lilium martagon.",
-        "wlength": 1
+        "wlength": 2
     },
     {
         "ID": "inelevenki3626743759_2_5",
@@ -117,9 +119,11 @@
                 "wdid": "Q156363"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tukala ulə-ɣnə-rə ulə-ča-wun</div>\n\t\t<div class=\"glossblock\">lilium.martagon.[NOM] dig-HAB.DRV-AOR.[PN] dig-PST-1PL.EX</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tukala</div>\n\t\t<div class=\"glossblock\">lilium.martagon.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ulə-ɣnə-rə</div>\n\t\t<div class=\"glossblock\">dig-HAB.DRV-AOR.[PN]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ulə-ča-wun</div>\n\t\t<div class=\"glossblock\">dig-PST-1PL.EX</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "lilium.martagon.[NOM] dig-HAB.DRV-AOR.[PN] dig-PST-1PL.EX"
+            "lilium.martagon.[NOM]",
+            "dig-HAB.DRV-AOR.[PN]",
+            "dig-PST-1PL.EX"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -132,28 +136,16 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "tukala ulə-ɣnə-rə ulə-ča-wun"
+            "tukala",
+            "ulə-ɣnə-rə",
+            "ulə-ča-wun"
         ],
         "trs": "We dug lilium martagon — we dug it out.",
-        "wlength": 1
+        "wlength": 3
     },
     {
-        "ID": "inelevenki3626743759_5_13",
         "abbrkey": {},
-        "ancestors": [
-            {
-                "id": "tung1282",
-                "label": "Tungusic"
-            },
-            {
-                "id": "nort3417",
-                "label": "Northeastern Tungusic"
-            },
-            {
-                "id": "nort3147",
-                "label": "Northern Tungusic"
-            }
-        ],
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABL",
@@ -167,52 +159,13 @@
             "PL",
             "SG"
         ],
-        "citation": "https://hdl.handle.net/11022/0000-0007-FE38-D",
-        "clength": 80,
-        "coords": [
-            94.689,
-            61.972
-        ],
-        "countries": [
-            {
-                "ISO3166": "CN",
-                "label": "China"
-            },
-            {
-                "ISO3166": "MN",
-                "label": "Mongolia"
-            },
-            {
-                "ISO3166": "RU",
-                "label": "Russian Federation"
-            }
-        ],
         "doc_ID": 3626743759,
-        "entities": [
-            {
-                "label": "kettle",
-                "wdid": "Q1459907"
-            }
-        ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ta-duk šilki-ɣna-ra šilki-dʼa-na ta-duk kalan-du iliwuktiki iliwuktiki na-dʼa-ni</div>\n\t\t<div class=\"glossblock\">that-ABL wash-HAB.DRV-AOR.[3PL] wash-FUT.IMM-2SG that-ABL kettle-DAT/LOC </div>\n\t</div>\n</div>\n",
-        "imtwordsbare": [
-            "that-ABL wash-HAB.DRV-AOR.[3PL] wash-FUT.IMM-2SG that-ABL kettle-DAT/LOC "
-        ],
-        "language_glottocode": "even1259",
-        "language_iso6393": "evn",
-        "language_name": "Evenki",
+        "entities": [],
         "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [
-            "Eurasia"
-        ],
+        "macroareas": [],
         "parententities": [],
         "provider": "inelevenki",
-        "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
-        "srcwordsbare": [
-            "ta-duk šilki-ɣna-ra šilki-dʼa-na ta-duk kalan-du iliwuktiki iliwuktiki na-dʼa-ni"
-        ],
-        "trs": "Then they wash it, you wash it, you put it in a kettle upright, you put it upright.",
-        "wlength": 1
+        "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D"
     },
     {
         "ID": "inelevenki3626743759_13_17",
@@ -262,9 +215,12 @@
         ],
         "doc_ID": 3626743759,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ta-duk gʼa-wa hərgi-ški pompo-dʼa-n</div>\n\t\t<div class=\"glossblock\">that-ABL second-ACC bottom-LAT.ADV head-INS-3SG</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ta-duk</div>\n\t\t<div class=\"glossblock\">that-ABL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gʼa-wa</div>\n\t\t<div class=\"glossblock\">second-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hərgi-ški</div>\n\t\t<div class=\"glossblock\">bottom-LAT.ADV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pompo-dʼa-n</div>\n\t\t<div class=\"glossblock\">head-INS-3SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "that-ABL second-ACC bottom-LAT.ADV head-INS-3SG"
+            "that-ABL",
+            "second-ACC",
+            "bottom-LAT.ADV",
+            "head-INS-3SG"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -277,10 +233,13 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "ta-duk gʼa-wa hərgi-ški pompo-dʼa-n"
+            "ta-duk",
+            "gʼa-wa",
+            "hərgi-ški",
+            "pompo-dʼa-n"
         ],
         "trs": "Then you [put] another [row] upside down.",
-        "wlength": 1
+        "wlength": 4
     },
     {
         "ID": "inelevenki3626743759_17_24",
@@ -333,9 +292,15 @@
         ],
         "doc_ID": 3626743759,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">opetʼ uwi-ški pompo-dʼa-n opetʼ kalan-du dʼalam na-dʼa-ndi</div>\n\t\t<div class=\"glossblock\">again top-LAT.ADV head-INS-3SG again kettle-DAT/LOC full.[NOM] put-FUT.IMM-2SG</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">opetʼ</div>\n\t\t<div class=\"glossblock\">again</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">uwi-ški</div>\n\t\t<div class=\"glossblock\">top-LAT.ADV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pompo-dʼa-n</div>\n\t\t<div class=\"glossblock\">head-INS-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">opetʼ</div>\n\t\t<div class=\"glossblock\">again</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kalan-du</div>\n\t\t<div class=\"glossblock\">kettle-DAT/LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dʼalam</div>\n\t\t<div class=\"glossblock\">full.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na-dʼa-ndi</div>\n\t\t<div class=\"glossblock\">put-FUT.IMM-2SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "again top-LAT.ADV head-INS-3SG again kettle-DAT/LOC full.[NOM] put-FUT.IMM-2SG"
+            "again",
+            "top-LAT.ADV",
+            "head-INS-3SG",
+            "again",
+            "kettle-DAT/LOC",
+            "full.[NOM]",
+            "put-FUT.IMM-2SG"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -348,10 +313,16 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "opetʼ uwi-ški pompo-dʼa-n opetʼ kalan-du dʼalam na-dʼa-ndi"
+            "opetʼ",
+            "uwi-ški",
+            "pompo-dʼa-n",
+            "opetʼ",
+            "kalan-du",
+            "dʼalam",
+            "na-dʼa-ndi"
         ],
         "trs": "In the next [row], you will put it upside down again.",
-        "wlength": 1
+        "wlength": 7
     },
     {
         "ID": "inelevenki3626743759_24_35",
@@ -426,9 +397,19 @@
                 "wdid": "Q5941094"
             }
         ],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pučika-m abdana-ja-n abdana-ja-n pučika tukala-wa kalan-ma kupu-dʼa-ni šuɣnikan-mə ta-duk nʼan šuɣni</div>\n\t\t<div class=\"glossblock\">heracleum-ADJZ.MAT.[NOM] leaf-ACC.INDF-3SG leaf-ACC.INDF-3SG heracleum.[NOM] lilium.martagon-ACC kettle-ACC cover-FUT.IMM-2SG hummock-ACC that-ABL again hummock.[NOM]</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pučika-m</div>\n\t\t<div class=\"glossblock\">heracleum-ADJZ.MAT.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">abdana-ja-n</div>\n\t\t<div class=\"glossblock\">leaf-ACC.INDF-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">abdana-ja-n</div>\n\t\t<div class=\"glossblock\">leaf-ACC.INDF-3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pučika</div>\n\t\t<div class=\"glossblock\">heracleum.[NOM]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tukala-wa</div>\n\t\t<div class=\"glossblock\">lilium.martagon-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kalan-ma</div>\n\t\t<div class=\"glossblock\">kettle-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kupu-dʼa-ni</div>\n\t\t<div class=\"glossblock\">cover-FUT.IMM-2SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šuɣnikan-mə</div>\n\t\t<div class=\"glossblock\">hummock-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ta-duk</div>\n\t\t<div class=\"glossblock\">that-ABL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nʼan</div>\n\t\t<div class=\"glossblock\">again</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">šuɣni</div>\n\t\t<div class=\"glossblock\">hummock.[NOM]</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "heracleum-ADJZ.MAT.[NOM] leaf-ACC.INDF-3SG leaf-ACC.INDF-3SG heracleum.[NOM] lilium.martagon-ACC kettle-ACC cover-FUT.IMM-2SG hummock-ACC that-ABL again hummock.[NOM]"
+            "heracleum-ADJZ.MAT.[NOM]",
+            "leaf-ACC.INDF-3SG",
+            "leaf-ACC.INDF-3SG",
+            "heracleum.[NOM]",
+            "lilium.martagon-ACC",
+            "kettle-ACC",
+            "cover-FUT.IMM-2SG",
+            "hummock-ACC",
+            "that-ABL",
+            "again",
+            "hummock.[NOM]"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -441,10 +422,20 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "pučika-m abdana-ja-n abdana-ja-n pučika tukala-wa kalan-ma kupu-dʼa-ni šuɣnikan-mə ta-duk nʼan šuɣni"
+            "pučika-m",
+            "abdana-ja-n",
+            "abdana-ja-n",
+            "pučika",
+            "tukala-wa",
+            "kalan-ma",
+            "kupu-dʼa-ni",
+            "šuɣnikan-mə",
+            "ta-duk",
+            "nʼan",
+            "šuɣni"
         ],
         "trs": "Cover the kettle with a heracleum leaf, a lilium martagon leaf, a hummock and then another hummock.",
-        "wlength": 1
+        "wlength": 11
     },
     {
         "ID": "inelevenki3626743759_35_40",
@@ -498,9 +489,13 @@
         ],
         "doc_ID": 3626743759,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ta-duk əlbi-du olon-dʼa-ni mu-ja ačin</div>\n\t\t<div class=\"glossblock\">that-ABL coals-DAT/LOC hang.on.hook-FUT.IMM-2SG water-ACC.INDF NEG.EX</div>\n\t</div>\n</div>\n",
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ta-duk</div>\n\t\t<div class=\"glossblock\">that-ABL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əlbi-du</div>\n\t\t<div class=\"glossblock\">coals-DAT/LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">olon-dʼa-ni</div>\n\t\t<div class=\"glossblock\">hang.on.hook-FUT.IMM-2SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mu-ja</div>\n\t\t<div class=\"glossblock\">water-ACC.INDF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ačin</div>\n\t\t<div class=\"glossblock\">NEG.EX</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
-            "that-ABL coals-DAT/LOC hang.on.hook-FUT.IMM-2SG water-ACC.INDF NEG.EX"
+            "that-ABL",
+            "coals-DAT/LOC",
+            "hang.on.hook-FUT.IMM-2SG",
+            "water-ACC.INDF",
+            "NEG.EX"
         ],
         "language_glottocode": "even1259",
         "language_iso6393": "evn",
@@ -513,28 +508,18 @@
         "provider": "inelevenki",
         "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
         "srcwordsbare": [
-            "ta-duk əlbi-du olon-dʼa-ni mu-ja ačin"
+            "ta-duk",
+            "əlbi-du",
+            "olon-dʼa-ni",
+            "mu-ja",
+            "ačin"
         ],
         "trs": "Then hang it in the heat [lit. in coals], without water.",
-        "wlength": 1
+        "wlength": 5
     },
     {
-        "ID": "inelevenki3626743759_40_44",
         "abbrkey": {},
-        "ancestors": [
-            {
-                "id": "tung1282",
-                "label": "Tungusic"
-            },
-            {
-                "id": "nort3417",
-                "label": "Northeastern Tungusic"
-            },
-            {
-                "id": "nort3147",
-                "label": "Northern Tungusic"
-            }
-        ],
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -546,65 +531,17 @@
             "PASS",
             "SG"
         ],
-        "citation": "https://hdl.handle.net/11022/0000-0007-FE38-D",
-        "clength": 29,
-        "coords": [
-            94.689,
-            61.972
-        ],
-        "countries": [
-            {
-                "ISO3166": "CN",
-                "label": "China"
-            },
-            {
-                "ISO3166": "MN",
-                "label": "Mongolia"
-            },
-            {
-                "ISO3166": "RU",
-                "label": "Russian Federation"
-            }
-        ],
         "doc_ID": 3626743759,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ara nʼurə-p-i-n mu-ja ačin-də</div>\n\t\t<div class=\"glossblock\">barely </div>\n\t</div>\n</div>\n",
-        "imtwordsbare": [
-            "barely "
-        ],
-        "language_glottocode": "even1259",
-        "language_iso6393": "evn",
-        "language_name": "Evenki",
         "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [
-            "Eurasia"
-        ],
+        "macroareas": [],
         "parententities": [],
         "provider": "inelevenki",
-        "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
-        "srcwordsbare": [
-            "ara nʼurə-p-i-n mu-ja ačin-də"
-        ],
-        "trs": "It will warm up a little, without water.",
-        "wlength": 1
+        "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D"
     },
     {
-        "ID": "inelevenki3626743759_44_48",
         "abbrkey": {},
-        "ancestors": [
-            {
-                "id": "tung1282",
-                "label": "Tungusic"
-            },
-            {
-                "id": "nort3417",
-                "label": "Northeastern Tungusic"
-            },
-            {
-                "id": "nort3147",
-                "label": "Northern Tungusic"
-            }
-        ],
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -615,65 +552,17 @@
             "NEG",
             "SG"
         ],
-        "citation": "https://hdl.handle.net/11022/0000-0007-FE38-D",
-        "clength": 32,
-        "coords": [
-            94.689,
-            61.972
-        ],
-        "countries": [
-            {
-                "ISO3166": "CN",
-                "label": "China"
-            },
-            {
-                "ISO3166": "MN",
-                "label": "Mongolia"
-            },
-            {
-                "ISO3166": "RU",
-                "label": "Russian Federation"
-            }
-        ],
         "doc_ID": 3626743759,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nʼurə-dʼa-n arakun toɣo-j ačin-ə</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
-        "imtwordsbare": [
-            ""
-        ],
-        "language_glottocode": "even1259",
-        "language_iso6393": "evn",
-        "language_name": "Evenki",
         "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [
-            "Eurasia"
-        ],
+        "macroareas": [],
         "parententities": [],
         "provider": "inelevenki",
-        "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
-        "srcwordsbare": [
-            "nʼurə-dʼa-n arakun toɣo-j ačin-ə"
-        ],
-        "trs": "It will warm up a little, without fire,",
-        "wlength": 1
+        "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D"
     },
     {
-        "ID": "inelevenki3626743759_48_53",
         "abbrkey": {},
-        "ancestors": [
-            {
-                "id": "tung1282",
-                "label": "Tungusic"
-            },
-            {
-                "id": "nort3417",
-                "label": "Northeastern Tungusic"
-            },
-            {
-                "id": "nort3147",
-                "label": "Northern Tungusic"
-            }
-        ],
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "DAT",
@@ -682,47 +571,12 @@
             "LOC",
             "SG"
         ],
-        "citation": "https://hdl.handle.net/11022/0000-0007-FE38-D",
-        "clength": 37,
-        "coordination": "and",
-        "coords": [
-            94.689,
-            61.972
-        ],
-        "countries": [
-            {
-                "ISO3166": "CN",
-                "label": "China"
-            },
-            {
-                "ISO3166": "MN",
-                "label": "Mongolia"
-            },
-            {
-                "ISO3166": "RU",
-                "label": "Russian Federation"
-            }
-        ],
         "doc_ID": 3626743759,
         "entities": [],
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">əlbi-du arakun nʼurə-dʼa-n da ir-ča-n</div>\n\t\t<div class=\"glossblock\">coals-DAT/LOC slowly </div>\n\t</div>\n</div>\n",
-        "imtwordsbare": [
-            "coals-DAT/LOC slowly "
-        ],
-        "language_glottocode": "even1259",
-        "language_iso6393": "evn",
-        "language_name": "Evenki",
         "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-        "macroareas": [
-            "Eurasia"
-        ],
+        "macroareas": [],
         "parententities": [],
         "provider": "inelevenki",
-        "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D",
-        "srcwordsbare": [
-            "əlbi-du arakun nʼurə-dʼa-n da ir-ča-n"
-        ],
-        "trs": "It will slowly heat up on the coals and cook.",
-        "wlength": 1
+        "rightsholder": "Däbritz, Chris Lasse; Gusev, Valentin; Stoynova, Natalia. 2024. INEL Evenki Corpus. Version 2.0. Publication date 2024-12-31. Archived at Universität Hamburg. https://hdl.handle.net/11022/0000-0007-FE38-D"
     }
 ]
