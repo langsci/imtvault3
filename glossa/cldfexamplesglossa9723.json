@@ -6,6 +6,7 @@
             "PFV": "perfective",
             "SFP": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "C",
@@ -17,10 +18,29 @@
         ],
         "citation": "zhang:an:etal:24[1]",
         "clength": 81,
+        "coords": [],
+        "countries": [],
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Wǒ</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">liǎng</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tiān</div>\n\t\t<div class=\"glossblock\">day</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qián</div>\n\t\t<div class=\"glossblock\">ago</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dìnggòu</div>\n\t\t<div class=\"glossblock\">order</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">PFV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yī-bù</div>\n\t\t<div class=\"glossblock\">one-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yīng-hàn</div>\n\t\t<div class=\"glossblock\">English-Chinese</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cídiǎn.</div>\n\t\t<div class=\"glossblock\">dictionary</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Zhè-bù</div>\n\t\t<div class=\"glossblock\">this-CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cídiǎn</div>\n\t\t<div class=\"glossblock\">dictionary</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yǐ</div>\n\t\t<div class=\"glossblock\">already</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shōudào</div>\n\t\t<div class=\"glossblock\">arrive</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le.</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "English",
+                "wdid": "Q1860"
+            },
+            {
+                "label": "Chinese dictionary",
+                "wdid": "Q37784323"
+            },
+            {
+                "label": "human language",
+                "wdid": "Q20162172"
+            },
+            {
+                "label": "North_Sea_Germanic",
+                "wdid": "Q30134"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Wǒ</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">liǎng</div>\n\t\t<div class=\"glossblock\">two</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tiān</div>\n\t\t<div class=\"glossblock\">day</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qián</div>\n\t\t<div class=\"glossblock\">ago</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dìnggòu</div>\n\t\t<div class=\"glossblock\">order</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>PFV<span class='abbrexpansion'>perfective</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yī-bù</div>\n\t\t<div class=\"glossblock\">one-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yīng-hàn</div>\n\t\t<div class=\"glossblock\">English-Chinese</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cídiǎn.</div>\n\t\t<div class=\"glossblock\">dictionary</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Zhè-bù</div>\n\t\t<div class=\"glossblock\">this-CL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cídiǎn</div>\n\t\t<div class=\"glossblock\">dictionary</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yǐ</div>\n\t\t<div class=\"glossblock\">already</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shōudào</div>\n\t\t<div class=\"glossblock\">arrive</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le.</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
             "two",
@@ -40,8 +60,20 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [
+            {
+                "label": "human language",
+                "wdid": "Q20162172"
+            },
+            {
+                "label": "North_Sea_Germanic",
+                "wdid": "Q30134"
+            }
+        ],
         "provider": "glossa",
+        "rightsholder": "unknown",
         "srcwordsbare": [
             "Wǒ",
             "liǎng",
@@ -65,13 +97,16 @@
     {
         "ID": "glossa9723-2",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "zhang:an:etal:24[2a]",
         "clength": 17,
+        "coords": [],
+        "countries": [],
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gǒu</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hěn</div>\n\t\t<div class=\"glossblock\">very</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">cōngmíng.</div>\n\t\t<div class=\"glossblock\">intelligent</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "dog",
@@ -81,8 +116,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "unknown",
         "srcwordsbare": [
             "Gǒu",
             "hěn",
@@ -96,6 +134,7 @@
         "abbrkey": {
             "SFP": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "I",
@@ -103,9 +142,11 @@
         ],
         "citation": "zhang:an:etal:24[2b]",
         "clength": 17,
+        "coords": [],
+        "countries": [],
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Wǒ</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kàndào</div>\n\t\t<div class=\"glossblock\">see</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gǒu</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le.</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -116,8 +157,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "unknown",
         "srcwordsbare": [
             "Wǒ",
             "kàndào",
@@ -132,15 +176,18 @@
         "abbrkey": {
             "SFP": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "SFP"
         ],
         "citation": "zhang:an:etal:24[2c]",
         "clength": 15,
+        "coords": [],
+        "countries": [],
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gǒu</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pǎo-zǒu-le.</div>\n\t\t<div class=\"glossblock\">run-away-SFP</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "dog",
@@ -149,8 +196,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "unknown",
         "srcwordsbare": [
             "Gǒu",
             "pǎo-zǒu-le."
@@ -161,15 +211,18 @@
     {
         "ID": "glossa9723-5",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "I"
         ],
         "citation": "zhang:an:etal:24[2d]",
         "clength": 17,
+        "coords": [],
+        "countries": [],
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Wǒ</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xiǎng</div>\n\t\t<div class=\"glossblock\">want</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mǎi</div>\n\t\t<div class=\"glossblock\">buy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gǒu.</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -180,9 +233,12 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
         "modality": "volitive",
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "unknown",
         "srcwordsbare": [
             "Wǒ",
             "xiǎng",
@@ -197,6 +253,7 @@
         "abbrkey": {
             "DE": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "C",
@@ -205,9 +262,16 @@
         ],
         "citation": "zhang:an:etal:24[3a]",
         "clength": 83,
+        "coords": [],
+        "countries": [],
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": null,
+        "entities": [
+            {
+                "label": "language impairment",
+                "wdid": "Q10469820"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Wǒ</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gāngcái</div>\n\t\t<div class=\"glossblock\">just</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yùdào</div>\n\t\t<div class=\"glossblock\">meet</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yī-wèi</div>\n\t\t<div class=\"glossblock\">one-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jiàoshòu,</div>\n\t\t<div class=\"glossblock\">professor</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tā</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shì</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yǔyán</div>\n\t\t<div class=\"glossblock\">language</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zhàngài</div>\n\t\t<div class=\"glossblock\">impairment</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lǐngyù</div>\n\t\t<div class=\"glossblock\">field</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">DE</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dǐngjiān</div>\n\t\t<div class=\"glossblock\">top</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zhuānjiā.</div>\n\t\t<div class=\"glossblock\">expert</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -227,8 +291,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "unknown",
         "srcwordsbare": [
             "Wǒ",
             "gāngcái",
@@ -250,13 +317,16 @@
     {
         "ID": "glossa9723-7",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "zhang:an:etal:24[3b]",
         "clength": 32,
+        "coords": [],
+        "countries": [],
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Nǐ</div>\n\t\t<div class=\"glossblock\">you</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kàn,</div>\n\t\t<div class=\"glossblock\">see,</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tā</div>\n\t\t<div class=\"glossblock\">she</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zài</div>\n\t\t<div class=\"glossblock\">at</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nà-lǐ</div>\n\t\t<div class=\"glossblock\">there</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zuò</div>\n\t\t<div class=\"glossblock\">do</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shénme?</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "you",
@@ -270,8 +340,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "unknown",
         "srcwordsbare": [
             "Nǐ",
             "kàn,",
@@ -290,6 +363,7 @@
             "BA": null,
             "SFP": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "BA",
@@ -297,9 +371,11 @@
         ],
         "citation": "zhang:an:etal:24[4]",
         "clength": 19,
+        "coords": [],
+        "countries": [],
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Tā</div>\n\t\t<div class=\"glossblock\">she</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bǎ</div>\n\t\t<div class=\"glossblock\">BA</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shū</div>\n\t\t<div class=\"glossblock\">book</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ná-zǒu</div>\n\t\t<div class=\"glossblock\">take-away</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "she",
@@ -311,8 +387,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "unknown",
         "srcwordsbare": [
             "Tā",
             "bǎ",
@@ -330,6 +409,7 @@
             "Q": "question particle/marker",
             "SFP": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "C",
@@ -339,10 +419,17 @@
         ],
         "citation": "zhang:an:etal:24[5a]",
         "clength": 55,
+        "coords": [],
+        "countries": [],
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Xiǎo</div>\n\t\t<div class=\"glossblock\">little</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nánhái</div>\n\t\t<div class=\"glossblock\">boy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shǒu-lǐ</div>\n\t\t<div class=\"glossblock\">hand-in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bào-zhē</div>\n\t\t<div class=\"glossblock\">hold-DUR</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yí-gè</div>\n\t\t<div class=\"glossblock\">one-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">huāpén,</div>\n\t\t<div class=\"glossblock\">flowerpot</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kàndào-le</div>\n\t\t<div class=\"glossblock\">see-SFP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma?</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "flowerpot",
+                "wdid": "Q869381"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Xiǎo</div>\n\t\t<div class=\"glossblock\">little</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nánhái</div>\n\t\t<div class=\"glossblock\">boy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shǒu-lǐ</div>\n\t\t<div class=\"glossblock\">hand-in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bào-zhē</div>\n\t\t<div class=\"glossblock\">hold-<span class='abbr'>DUR<span class='abbrexpansion'>durative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yí-gè</div>\n\t\t<div class=\"glossblock\">one-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">huāpén,</div>\n\t\t<div class=\"glossblock\">flowerpot</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kàndào-le</div>\n\t\t<div class=\"glossblock\">see-SFP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma?</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "little",
             "boy",
@@ -356,8 +443,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "unknown",
         "srcwordsbare": [
             "Xiǎo",
             "nánhái",
@@ -374,6 +464,7 @@
     {
         "ID": "glossa9723-10",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "Q",
@@ -381,9 +472,16 @@
         ],
         "citation": "zhang:an:etal:24[5b]",
         "clength": 26,
+        "coords": [],
+        "countries": [],
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": null,
+        "entities": [
+            {
+                "label": "flowerpot",
+                "wdid": "Q869381"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Xiànzaì,</div>\n\t\t<div class=\"glossblock\">now</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">huāpén</div>\n\t\t<div class=\"glossblock\">flowerpot</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dǎo-le</div>\n\t\t<div class=\"glossblock\">fall-down-SFP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma?</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "now",
@@ -394,8 +492,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "unknown",
         "srcwordsbare": [
             "Xiànzaì,",
             "huāpén",
@@ -408,13 +509,21 @@
     {
         "ID": "glossa9723-11",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "zhang:an:etal:24[5c]",
         "clength": 26,
+        "coords": [],
+        "countries": [],
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": null,
+        "entities": [
+            {
+                "label": "flowerpot",
+                "wdid": "Q869381"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Xiànzaì,</div>\n\t\t<div class=\"glossblock\">now</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">huāpén</div>\n\t\t<div class=\"glossblock\">flowerpot</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zài</div>\n\t\t<div class=\"glossblock\">at</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nǎ-er?</div>\n\t\t<div class=\"glossblock\">where?</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "now",
@@ -425,8 +534,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "unknown",
         "srcwordsbare": [
             "Xiànzaì,",
             "huāpén",
@@ -439,6 +551,7 @@
     {
         "ID": "glossa9723-12",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "C",
@@ -448,9 +561,11 @@
         ],
         "citation": "zhang:an:etal:24[6a]",
         "clength": 48,
+        "coords": [],
+        "countries": [],
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Yǒu</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yī-gè</div>\n\t\t<div class=\"glossblock\">one-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nánhái</div>\n\t\t<div class=\"glossblock\">boy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zài</div>\n\t\t<div class=\"glossblock\">PROG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dàng-qīuqiān,</div>\n\t\t<div class=\"glossblock\">play-on-the-swing</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kàndào</div>\n\t\t<div class=\"glossblock\">see</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma?</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "have",
@@ -465,8 +580,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "unknown",
         "srcwordsbare": [
             "Yǒu",
             "yī-gè",
@@ -483,6 +601,7 @@
     {
         "ID": "glossa9723-13",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "C",
@@ -491,9 +610,16 @@
         ],
         "citation": "zhang:an:etal:24[6b]",
         "clength": 37,
+        "coords": [],
+        "countries": [],
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": null,
+        "entities": [
+            {
+                "label": "Target",
+                "wdid": "Q1046951"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hòulái,</div>\n\t\t<div class=\"glossblock\">later</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zhè-ge</div>\n\t\t<div class=\"glossblock\">this-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nánhái</div>\n\t\t<div class=\"glossblock\">boy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qù</div>\n\t\t<div class=\"glossblock\">go</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tīqíu</div>\n\t\t<div class=\"glossblock\">play-football</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma?</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "later",
@@ -507,8 +633,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "unknown",
         "srcwordsbare": [
             "Hòulái,",
             "zhè-ge",
@@ -524,6 +653,7 @@
     {
         "ID": "glossa9723-14",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "C",
@@ -532,9 +662,11 @@
         ],
         "citation": "zhang:an:etal:24[7a]",
         "clength": 53,
+        "coords": [],
+        "countries": [],
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Yǒu</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yī-zhī</div>\n\t\t<div class=\"glossblock\">one-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xiǎoniǎo</div>\n\t\t<div class=\"glossblock\">little-bird</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zhàn</div>\n\t\t<div class=\"glossblock\">stand</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zài</div>\n\t\t<div class=\"glossblock\">at</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shù-shàng,</div>\n\t\t<div class=\"glossblock\">tree-on</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kàndào</div>\n\t\t<div class=\"glossblock\">see</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma?</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "have",
@@ -550,8 +682,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "unknown",
         "srcwordsbare": [
             "Yǒu",
             "yī-zhī",
@@ -569,15 +704,23 @@
     {
         "ID": "glossa9723-15",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "C"
         ],
         "citation": "zhang:an:etal:24[7b]",
         "clength": 36,
+        "coords": [],
+        "countries": [],
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": null,
+        "entities": [
+            {
+                "label": "Target",
+                "wdid": "Q1046951"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Xiànzài,</div>\n\t\t<div class=\"glossblock\">now</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zhè-zhī</div>\n\t\t<div class=\"glossblock\">this-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xiǎoniǎo</div>\n\t\t<div class=\"glossblock\">little-bird</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zài</div>\n\t\t<div class=\"glossblock\">at</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nǎ-er?</div>\n\t\t<div class=\"glossblock\">where</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "now",
@@ -589,8 +732,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "unknown",
         "srcwordsbare": [
             "Xiànzài,",
             "zhè-zhī",
@@ -608,6 +754,7 @@
             "Q": "question particle/marker",
             "SFP": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "C",
@@ -617,10 +764,61 @@
         ],
         "citation": "zhang:an:etal:24[8a]",
         "clength": 55,
+        "coords": [],
+        "countries": [],
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Yǒu</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yī-zhī</div>\n\t\t<div class=\"glossblock\">one-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xiǎo-hóuzi</div>\n\t\t<div class=\"glossblock\">little-monkey</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zài</div>\n\t\t<div class=\"glossblock\">PROG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zhāi</div>\n\t\t<div class=\"glossblock\">pick</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xiāngjiāo,</div>\n\t\t<div class=\"glossblock\">banana</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kàndào</div>\n\t\t<div class=\"glossblock\">see</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma?</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "bananas",
+                "wdid": "Q503"
+            },
+            {
+                "label": "plant product",
+                "wdid": "Q107122793"
+            },
+            {
+                "label": "vegetarian food",
+                "wdid": "Q107126067"
+            },
+            {
+                "label": "Vegetable",
+                "wdid": "Q11004"
+            },
+            {
+                "label": "Berry_(botany)",
+                "wdid": "Q13184"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "biological material",
+                "wdid": "Q28969293"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Plant",
+                "wdid": "Q756"
+            },
+            {
+                "label": "tropical_fruit",
+                "wdid": "Q844144"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Yǒu</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yī-zhī</div>\n\t\t<div class=\"glossblock\">one-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xiǎo-hóuzi</div>\n\t\t<div class=\"glossblock\">little-monkey</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zài</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>PROG<span class='abbrexpansion'>progressive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zhāi</div>\n\t\t<div class=\"glossblock\">pick</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xiāngjiāo,</div>\n\t\t<div class=\"glossblock\">banana</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kàndào</div>\n\t\t<div class=\"glossblock\">see</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma?</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "have",
             "one-Cl",
@@ -635,8 +833,56 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [
+            {
+                "label": "plant product",
+                "wdid": "Q107122793"
+            },
+            {
+                "label": "vegetarian food",
+                "wdid": "Q107126067"
+            },
+            {
+                "label": "Vegetable",
+                "wdid": "Q11004"
+            },
+            {
+                "label": "Berry_(botany)",
+                "wdid": "Q13184"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "biological material",
+                "wdid": "Q28969293"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Plant",
+                "wdid": "Q756"
+            },
+            {
+                "label": "tropical_fruit",
+                "wdid": "Q844144"
+            }
+        ],
         "provider": "glossa",
+        "rightsholder": "unknown",
         "srcwordsbare": [
             "Yǒu",
             "yī-zhī",
@@ -654,6 +900,7 @@
     {
         "ID": "glossa9723-17",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "C",
@@ -662,9 +909,11 @@
         "citation": "zhang:an:etal:24[8b]",
         "clength": 53,
         "coordination": "or",
+        "coords": [],
+        "countries": [],
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hòulái,</div>\n\t\t<div class=\"glossblock\">later</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yǒu</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yī-zhī</div>\n\t\t<div class=\"glossblock\">one-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xiǎogǒu</div>\n\t\t<div class=\"glossblock\">little-dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zǒu</div>\n\t\t<div class=\"glossblock\">walk</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">guòlái</div>\n\t\t<div class=\"glossblock\">come-over</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le,</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">duì-bú-duì?</div>\n\t\t<div class=\"glossblock\">yes-or-no</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "later",
@@ -679,8 +928,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "unknown",
         "srcwordsbare": [
             "Hòulái,",
             "yǒu",
@@ -699,6 +951,7 @@
         "abbrkey": {
             "PROG": "progressive"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "C",
@@ -706,10 +959,17 @@
         ],
         "citation": "zhang:an:etal:24[8c]",
         "clength": 43,
+        "coords": [],
+        "countries": [],
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Xiànzài,</div>\n\t\t<div class=\"glossblock\">now</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zhè-zhī</div>\n\t\t<div class=\"glossblock\">this-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xiǎo-hóuzi</div>\n\t\t<div class=\"glossblock\">little-monkey</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zài</div>\n\t\t<div class=\"glossblock\">PROG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gàn</div>\n\t\t<div class=\"glossblock\">do</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shénme?</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "Target",
+                "wdid": "Q1046951"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Xiànzài,</div>\n\t\t<div class=\"glossblock\">now</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zhè-zhī</div>\n\t\t<div class=\"glossblock\">this-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xiǎo-hóuzi</div>\n\t\t<div class=\"glossblock\">little-monkey</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zài</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>PROG<span class='abbrexpansion'>progressive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gàn</div>\n\t\t<div class=\"glossblock\">do</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shénme?</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "now",
             "this-Cl",
@@ -721,8 +981,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "unknown",
         "srcwordsbare": [
             "Xiànzài,",
             "zhè-zhī",
@@ -740,6 +1003,7 @@
             "Q": "question particle/marker",
             "SFP": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "C",
@@ -748,9 +1012,44 @@
         ],
         "citation": "zhang:an:etal:24[9a]",
         "clength": 45,
+        "coords": [],
+        "countries": [],
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": null,
+        "entities": [
+            {
+                "label": "bicycle",
+                "wdid": "Q11442"
+            },
+            {
+                "label": "Machine",
+                "wdid": "Q11019"
+            },
+            {
+                "label": "Land_vehicle",
+                "wdid": "Q1301433"
+            },
+            {
+                "label": "two-wheeler",
+                "wdid": "Q233040"
+            },
+            {
+                "label": "Vehicle",
+                "wdid": "Q42889"
+            },
+            {
+                "label": "Velocipede",
+                "wdid": "Q595658"
+            },
+            {
+                "label": "sports equipment",
+                "wdid": "Q768186"
+            },
+            {
+                "label": "storage",
+                "wdid": "Q9158768"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Shù-xià</div>\n\t\t<div class=\"glossblock\">tree-under</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yǒu</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yī-liàng</div>\n\t\t<div class=\"glossblock\">one-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zìxíngchē,</div>\n\t\t<div class=\"glossblock\">bicycle</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kàndào</div>\n\t\t<div class=\"glossblock\">see</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma?</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "tree-under",
@@ -764,8 +1063,40 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [
+            {
+                "label": "Machine",
+                "wdid": "Q11019"
+            },
+            {
+                "label": "Land_vehicle",
+                "wdid": "Q1301433"
+            },
+            {
+                "label": "two-wheeler",
+                "wdid": "Q233040"
+            },
+            {
+                "label": "Vehicle",
+                "wdid": "Q42889"
+            },
+            {
+                "label": "Velocipede",
+                "wdid": "Q595658"
+            },
+            {
+                "label": "sports equipment",
+                "wdid": "Q768186"
+            },
+            {
+                "label": "storage",
+                "wdid": "Q9158768"
+            }
+        ],
         "provider": "glossa",
+        "rightsholder": "unknown",
         "srcwordsbare": [
             "Shù-xià",
             "yǒu",
@@ -784,6 +1115,7 @@
             "Q": "question particle/marker",
             "SFP": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "C",
@@ -792,9 +1124,48 @@
         ],
         "citation": "zhang:an:etal:24[9b]",
         "clength": 49,
+        "coords": [],
+        "countries": [],
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": null,
+        "entities": [
+            {
+                "label": "bicycle",
+                "wdid": "Q11442"
+            },
+            {
+                "label": "Target",
+                "wdid": "Q1046951"
+            },
+            {
+                "label": "Machine",
+                "wdid": "Q11019"
+            },
+            {
+                "label": "Land_vehicle",
+                "wdid": "Q1301433"
+            },
+            {
+                "label": "two-wheeler",
+                "wdid": "Q233040"
+            },
+            {
+                "label": "Vehicle",
+                "wdid": "Q42889"
+            },
+            {
+                "label": "Velocipede",
+                "wdid": "Q595658"
+            },
+            {
+                "label": "sports equipment",
+                "wdid": "Q768186"
+            },
+            {
+                "label": "storage",
+                "wdid": "Q9158768"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hòulái,</div>\n\t\t<div class=\"glossblock\">later</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xiǎo-nánhái</div>\n\t\t<div class=\"glossblock\">little-boy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qí</div>\n\t\t<div class=\"glossblock\">ride</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zhè-liǎng</div>\n\t\t<div class=\"glossblock\">this-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zìxíngchē</div>\n\t\t<div class=\"glossblock\">bicycle</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma?</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "later",
@@ -808,8 +1179,40 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [
+            {
+                "label": "Machine",
+                "wdid": "Q11019"
+            },
+            {
+                "label": "Land_vehicle",
+                "wdid": "Q1301433"
+            },
+            {
+                "label": "two-wheeler",
+                "wdid": "Q233040"
+            },
+            {
+                "label": "Vehicle",
+                "wdid": "Q42889"
+            },
+            {
+                "label": "Velocipede",
+                "wdid": "Q595658"
+            },
+            {
+                "label": "sports equipment",
+                "wdid": "Q768186"
+            },
+            {
+                "label": "storage",
+                "wdid": "Q9158768"
+            }
+        ],
         "provider": "glossa",
+        "rightsholder": "unknown",
         "srcwordsbare": [
             "Hòulái,",
             "xiǎo-nánhái",
@@ -825,6 +1228,7 @@
     {
         "ID": "glossa9723-21",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "C",
@@ -833,9 +1237,11 @@
         ],
         "citation": "zhang:an:etal:24[10a]",
         "clength": 49,
+        "coords": [],
+        "countries": [],
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hòulái,</div>\n\t\t<div class=\"glossblock\">later</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zhè-ge</div>\n\t\t<div class=\"glossblock\">this-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xiǎo-nánhái</div>\n\t\t<div class=\"glossblock\">little-boy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qù</div>\n\t\t<div class=\"glossblock\">go</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dàng-qīuqīan</div>\n\t\t<div class=\"glossblock\">play-on-the-swing</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma?</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "later",
@@ -849,8 +1255,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "unknown",
         "srcwordsbare": [
             "Hòulái,",
             "zhè-ge",
@@ -868,15 +1277,18 @@
         "abbrkey": {
             "SFP": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "SFP"
         ],
         "citation": "zhang:an:etal:24[10a]",
         "clength": 6,
+        "coords": [],
+        "countries": [],
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Qù-le.</div>\n\t\t<div class=\"glossblock\">go-SFP</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "go-SFP"
@@ -884,8 +1296,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "unknown",
         "srcwordsbare": [
             "Qù-le."
         ],
@@ -895,6 +1310,7 @@
     {
         "ID": "glossa9723-23",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "C",
@@ -903,9 +1319,11 @@
         ],
         "citation": "zhang:an:etal:24[10b]",
         "clength": 42,
+        "coords": [],
+        "countries": [],
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hòulái,</div>\n\t\t<div class=\"glossblock\">later</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zhè-ge</div>\n\t\t<div class=\"glossblock\">this-Cl</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xiǎo-nánhái</div>\n\t\t<div class=\"glossblock\">little-boy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qù</div>\n\t\t<div class=\"glossblock\">go</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tīqíu</div>\n\t\t<div class=\"glossblock\">play-football</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma?</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "later",
@@ -919,8 +1337,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "unknown",
         "srcwordsbare": [
             "Hòulái,",
             "zhè-ge",
@@ -938,15 +1359,18 @@
         "abbrkey": {
             "SFP": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "SFP"
         ],
         "citation": "zhang:an:etal:24[10b]",
         "clength": 13,
+        "coords": [],
+        "countries": [],
         "doc_ID": 9723,
         "doc_URL": "https://www.glossa-journal.org/article/id/9723",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Tā</div>\n\t\t<div class=\"glossblock\">he</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tī-qíu</div>\n\t\t<div class=\"glossblock\">play-football</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">le.</div>\n\t\t<div class=\"glossblock\">SFP</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "he",
@@ -956,8 +1380,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "unknown",
         "srcwordsbare": [
             "Tā",
             "tī-qíu",

@@ -9,6 +9,7 @@
             "PAST": "past tense",
             "TOP": "topic marker"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -23,10 +24,25 @@
         "citation": "grosu:hoshi:19[2]",
         "clength": 99,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Taro-wa [[</div>\n\t\t<div class=\"glossblock\">Taro-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Yoko-ga</div>\n\t\t<div class=\"glossblock\">Yoko-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">asa</div>\n\t\t<div class=\"glossblock\">morning</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">reezooko-ni</div>\n\t\t<div class=\"glossblock\">refrigerator-LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kukkii-o</div>\n\t\t<div class=\"glossblock\">cookie-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hotondo</div>\n\t\t<div class=\"glossblock\">most</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">irete-oita]-no]-o</div>\n\t\t<div class=\"glossblock\">put-AUX-no-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">paatii-ni</div>\n\t\t<div class=\"glossblock\">party-to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yuugata</div>\n\t\t<div class=\"glossblock\">evening</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">motteit-ta.</div>\n\t\t<div class=\"glossblock\">bring-PAST</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "refrigerator",
+                "wdid": "Q37828"
+            },
+            {
+                "label": "Taro",
+                "wdid": "Q227997"
+            },
+            {
+                "label": "electric household appliance",
+                "wdid": "Q20076681"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Taro-wa [[</div>\n\t\t<div class=\"glossblock\">Taro-<span class='abbr'>TOP<span class='abbrexpansion'>topic marker</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Yoko-ga</div>\n\t\t<div class=\"glossblock\">Yoko-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">asa</div>\n\t\t<div class=\"glossblock\">morning</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">reezooko-ni</div>\n\t\t<div class=\"glossblock\">refrigerator-<span class='abbr'>LOC<span class='abbrexpansion'>locative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kukkii-o</div>\n\t\t<div class=\"glossblock\">cookie-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hotondo</div>\n\t\t<div class=\"glossblock\">most</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">irete-oita]-no]-o</div>\n\t\t<div class=\"glossblock\">put-<span class='abbr'>AUX<span class='abbrexpansion'>auxiliary element</span></span>-no-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">paatii-ni</div>\n\t\t<div class=\"glossblock\">party-to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yuugata</div>\n\t\t<div class=\"glossblock\">evening</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">motteit-ta.</div>\n\t\t<div class=\"glossblock\">bring-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Taro-TOP",
             "Yoko-NOM",
@@ -42,8 +58,16 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [
+            {
+                "label": "electric household appliance",
+                "wdid": "Q20076681"
+            }
+        ],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Taro-wa [[",
             "Yoko-ga",
@@ -62,6 +86,7 @@
     {
         "ID": "glossa5235-2",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -75,9 +100,20 @@
         "citation": "grosu:hoshi:19[4]",
         "clength": 68,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
+        "entities": [
+            {
+                "label": "Taro",
+                "wdid": "Q227997"
+            },
+            {
+                "label": "sushi",
+                "wdid": "Q46383"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#[Taro-ga</div>\n\t\t<div class=\"glossblock\">Taro-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\">daughter-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\">one-CL-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sushi-o</div>\n\t\t<div class=\"glossblock\">sushi-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kyaku-ni</div>\n\t\t<div class=\"glossblock\">guest-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dasi-ta-no]-o</div>\n\t\t<div class=\"glossblock\">serve-PAST-no-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kyaku-ga</div>\n\t\t<div class=\"glossblock\">guest-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">suguni</div>\n\t\t<div class=\"glossblock\">immediately</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">home-ta.</div>\n\t\t<div class=\"glossblock\">praise-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Taro-NOM",
@@ -94,8 +130,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "#[Taro-ga",
             "",
@@ -121,6 +160,7 @@
             "PAST": "past tense",
             "TOP": "topic marker"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -136,10 +176,12 @@
         "citation": "grosu:hoshi:19[5]",
         "clength": 71,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?*Ken-wa</div>\n\t\t<div class=\"glossblock\">Ken-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[[Naomi-ga</div>\n\t\t<div class=\"glossblock\">Naomi-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ofisu-ni</div>\n\t\t<div class=\"glossblock\">office-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Lucky-o</div>\n\t\t<div class=\"glossblock\">Lucky-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tureteki-ta]-no]-no</div>\n\t\t<div class=\"glossblock\">bring-PAST-no-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ke]-o</div>\n\t\t<div class=\"glossblock\">hair-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kat-ta.</div>\n\t\t<div class=\"glossblock\">cut-PAST</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?*Ken-wa</div>\n\t\t<div class=\"glossblock\">Ken-<span class='abbr'>TOP<span class='abbrexpansion'>topic marker</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[[Naomi-ga</div>\n\t\t<div class=\"glossblock\">Naomi-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ofisu-ni</div>\n\t\t<div class=\"glossblock\">office-<span class='abbr'>DAT<span class='abbrexpansion'>dative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Lucky-o</div>\n\t\t<div class=\"glossblock\">Lucky-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tureteki-ta]-no]-no</div>\n\t\t<div class=\"glossblock\">bring-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span>-no-<span class='abbr'>GEN<span class='abbrexpansion'>genitive case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ke]-o</div>\n\t\t<div class=\"glossblock\">hair-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kat-ta.</div>\n\t\t<div class=\"glossblock\">cut-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Ken-TOP",
             "Naomi-NOM",
@@ -152,8 +194,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "?*Ken-wa",
             "[[[Naomi-ga",
@@ -176,6 +221,7 @@
             "PAST": "past tense",
             "TOP": "topic marker"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -190,10 +236,12 @@
         "citation": "grosu:hoshi:19[6]",
         "clength": 85,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?*Ken-wa</div>\n\t\t<div class=\"glossblock\">Ken-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[[Naomi-ga</div>\n\t\t<div class=\"glossblock\">Naomi-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ofisu-ni</div>\n\t\t<div class=\"glossblock\">office-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">haiiro-no</div>\n\t\t<div class=\"glossblock\">grey-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">neko-o</div>\n\t\t<div class=\"glossblock\">cat-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tureteki-ta]-no]-no</div>\n\t\t<div class=\"glossblock\">bring-PAST-no-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ke]-o</div>\n\t\t<div class=\"glossblock\">hair-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kat-ta.</div>\n\t\t<div class=\"glossblock\">cut-PAST</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?*Ken-wa</div>\n\t\t<div class=\"glossblock\">Ken-<span class='abbr'>TOP<span class='abbrexpansion'>topic marker</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[[Naomi-ga</div>\n\t\t<div class=\"glossblock\">Naomi-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ofisu-ni</div>\n\t\t<div class=\"glossblock\">office-<span class='abbr'>DAT<span class='abbrexpansion'>dative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">haiiro-no</div>\n\t\t<div class=\"glossblock\">grey-<span class='abbr'>GEN<span class='abbrexpansion'>genitive case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">neko-o</div>\n\t\t<div class=\"glossblock\">cat-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tureteki-ta]-no]-no</div>\n\t\t<div class=\"glossblock\">bring-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span>-no-<span class='abbr'>GEN<span class='abbrexpansion'>genitive case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ke]-o</div>\n\t\t<div class=\"glossblock\">hair-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kat-ta.</div>\n\t\t<div class=\"glossblock\">cut-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Ken-TOP",
             "Naomi-NOM",
@@ -208,8 +256,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "?*Ken-wa",
             "[[[Naomi-ga",
@@ -234,6 +285,7 @@
             "PAST": "past tense",
             "TOP": "topic marker"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -248,10 +300,12 @@
         "citation": "grosu:hoshi:19[7]",
         "clength": 78,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ken-wa</div>\n\t\t<div class=\"glossblock\">Ken-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[[Naomi-ga</div>\n\t\t<div class=\"glossblock\">Naomi-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ofisu-ni</div>\n\t\t<div class=\"glossblock\">office-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">haiiro-no</div>\n\t\t<div class=\"glossblock\">gray-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">neko-o</div>\n\t\t<div class=\"glossblock\">cat-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tureteki-ta]-no]-no</div>\n\t\t<div class=\"glossblock\">bring-PAST-no-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ke]-o</div>\n\t\t<div class=\"glossblock\">hair-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kat-ta.</div>\n\t\t<div class=\"glossblock\">cut-PAST</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ken-wa</div>\n\t\t<div class=\"glossblock\">Ken-<span class='abbr'>TOP<span class='abbrexpansion'>topic marker</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[[Naomi-ga</div>\n\t\t<div class=\"glossblock\">Naomi-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ofisu-ni</div>\n\t\t<div class=\"glossblock\">office-<span class='abbr'>DAT<span class='abbrexpansion'>dative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">haiiro-no</div>\n\t\t<div class=\"glossblock\">gray-<span class='abbr'>GEN<span class='abbrexpansion'>genitive case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">neko-o</div>\n\t\t<div class=\"glossblock\">cat-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tureteki-ta]-no]-no</div>\n\t\t<div class=\"glossblock\">bring-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span>-no-<span class='abbr'>GEN<span class='abbrexpansion'>genitive case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ke]-o</div>\n\t\t<div class=\"glossblock\">hair-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kat-ta.</div>\n\t\t<div class=\"glossblock\">cut-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Ken-TOP",
             "Naomi-NOM",
@@ -265,8 +319,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Ken-wa",
             "[[[Naomi-ga",
@@ -283,6 +340,7 @@
     {
         "ID": "glossa5235-6",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -294,9 +352,11 @@
         ],
         "citation": "grosu:hoshi:19[8a]",
         "clength": 66,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[dare-ga</div>\n\t\t<div class=\"glossblock\">who-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no.</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">← restrictive EHRC</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -310,8 +370,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Junya-wa",
             "[[dare-ga",
@@ -327,6 +390,7 @@
     {
         "ID": "glossa5235-7",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -338,9 +402,40 @@
         ],
         "citation": "grosu:hoshi:19[8b]",
         "clength": 70,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
+        "entities": [
+            {
+                "label": "apples",
+                "wdid": "Q89"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[dare-ga</div>\n\t\t<div class=\"glossblock\">who-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ano</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no.</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">← appositive EHRC</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -355,8 +450,36 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "*Junya-wa",
             "[[dare-ga",
@@ -373,6 +496,7 @@
     {
         "ID": "glossa5235-8",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -385,9 +509,40 @@
         "citation": "grosu:hoshi:19[8c]",
         "clength": 59,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
+        "entities": [
+            {
+                "label": "apples",
+                "wdid": "Q89"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[dare-ga</div>\n\t\t<div class=\"glossblock\">who-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no]-o</div>\n\t\t<div class=\"glossblock\">no-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no.</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">← IHRC</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -402,8 +557,36 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Junya-wa",
             "[[dare-ga",
@@ -420,6 +603,7 @@
     {
         "ID": "glossa5235-9",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -434,9 +618,16 @@
         ],
         "citation": "grosu:hoshi:19[9a]",
         "clength": 80,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
+        "entities": [
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wake-de-wa</div>\n\t\t<div class=\"glossblock\">reason-COP-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na-i.</div>\n\t\t<div class=\"glossblock\">NEG-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">← restrictive EHRC</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -451,9 +642,12 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Junya-wa",
             "[[Ayaka-ga",
@@ -470,6 +664,7 @@
     {
         "ID": "glossa5235-10",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -484,9 +679,20 @@
         ],
         "citation": "grosu:hoshi:19[9b]",
         "clength": 83,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
+        "entities": [
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            },
+            {
+                "label": "negation",
+                "wdid": "Q190558"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ano</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wake-de-wa</div>\n\t\t<div class=\"glossblock\">reason-COP-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na-i.</div>\n\t\t<div class=\"glossblock\">NEG-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">← appositive EHRC</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -502,9 +708,12 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Junya-wa",
             "[[Ayaka-ga",
@@ -522,6 +731,7 @@
     {
         "ID": "glossa5235-11",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -537,9 +747,44 @@
         "citation": "grosu:hoshi:19[9c]",
         "clength": 73,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
+        "entities": [
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            },
+            {
+                "label": "apples",
+                "wdid": "Q89"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no]-o</div>\n\t\t<div class=\"glossblock\">no-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wake-de-wa</div>\n\t\t<div class=\"glossblock\">reason-COP-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na-i.</div>\n\t\t<div class=\"glossblock\">NEG-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">← IHRC</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -555,9 +800,37 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
         "polarity": "negative",
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Junya-wa",
             "[[Ayaka-ga",
@@ -581,6 +854,7 @@
             "NOM": "nominative case",
             "PAST": "past tense"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -594,10 +868,21 @@
         "citation": "grosu:hoshi:19[10a]",
         "clength": 120,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mary-ga</div>\n\t\t<div class=\"glossblock\">Mary-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[John-ga</div>\n\t\t<div class=\"glossblock\">John-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[zibun-no</div>\n\t\t<div class=\"glossblock\">self-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gakusei-ga</div>\n\t\t<div class=\"glossblock\">student-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">juuyoona</div>\n\t\t<div class=\"glossblock\">important</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kasetsu-o</div>\n\t\t<div class=\"glossblock\">hypothesis-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">teian-shi-ta</div>\n\t\t<div class=\"glossblock\">propose-do-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">to]</div>\n\t\t<div class=\"glossblock\">COMP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jimanshite-ita-no]-no</div>\n\t\t<div class=\"glossblock\">boasted-had-no-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kekkan-o</div>\n\t\t<div class=\"glossblock\">defect-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shiteki-shi-ta.</div>\n\t\t<div class=\"glossblock\">point.out-do-PAST</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "John",
+                "wdid": "Q129308"
+            },
+            {
+                "label": "boasted",
+                "wdid": "Q27920165"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mary-ga</div>\n\t\t<div class=\"glossblock\">Mary-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[John-ga</div>\n\t\t<div class=\"glossblock\">John-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[zibun-no</div>\n\t\t<div class=\"glossblock\">self-<span class='abbr'>GEN<span class='abbrexpansion'>genitive case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gakusei-ga</div>\n\t\t<div class=\"glossblock\">student-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">juuyoona</div>\n\t\t<div class=\"glossblock\">important</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kasetsu-o</div>\n\t\t<div class=\"glossblock\">hypothesis-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">teian-shi-ta</div>\n\t\t<div class=\"glossblock\">propose-do-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">to]</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>COMP<span class='abbrexpansion'>complementizer</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jimanshite-ita-no]-no</div>\n\t\t<div class=\"glossblock\">boasted-had-no-<span class='abbr'>GEN<span class='abbrexpansion'>genitive case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kekkan-o</div>\n\t\t<div class=\"glossblock\">defect-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shiteki-shi-ta.</div>\n\t\t<div class=\"glossblock\">point.out-do-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mary-NOM",
             "John-NOM",
@@ -614,8 +899,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Mary-ga",
             "[John-ga",
@@ -641,6 +929,7 @@
             "NOM": "nominative case",
             "Q": "question particle"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -655,10 +944,12 @@
         "citation": "grosu:hoshi:19[10b]",
         "clength": 91,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Mary-ga</div>\n\t\t<div class=\"glossblock\">Mary-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">itsu</div>\n\t\t<div class=\"glossblock\">when</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ronbun-o</div>\n\t\t<div class=\"glossblock\">paper-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shiageru-ka]</div>\n\t\t<div class=\"glossblock\">finish-Q</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">John-ga</div>\n\t\t<div class=\"glossblock\">John-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Tom-ni</div>\n\t\t<div class=\"glossblock\">Tom-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tazunete-ita]-no-no</div>\n\t\t<div class=\"glossblock\">asked-had-no-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shuppan-ga</div>\n\t\t<div class=\"glossblock\">publication-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">okureta.</div>\n\t\t<div class=\"glossblock\">was delayed</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Mary-ga</div>\n\t\t<div class=\"glossblock\">Mary-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">itsu</div>\n\t\t<div class=\"glossblock\">when</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ronbun-o</div>\n\t\t<div class=\"glossblock\">paper-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shiageru-ka]</div>\n\t\t<div class=\"glossblock\">finish-Q</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">John-ga</div>\n\t\t<div class=\"glossblock\">John-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Tom-ni</div>\n\t\t<div class=\"glossblock\">Tom-<span class='abbr'>DAT<span class='abbrexpansion'>dative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tazunete-ita]-no-no</div>\n\t\t<div class=\"glossblock\">asked-had-no-<span class='abbr'>GEN<span class='abbrexpansion'>genitive case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shuppan-ga</div>\n\t\t<div class=\"glossblock\">publication-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">okureta.</div>\n\t\t<div class=\"glossblock\">was delayed</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mary-NOM",
             "when",
@@ -673,8 +964,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "[[Mary-ga",
             "itsu",
@@ -697,6 +991,7 @@
             "NOM": "nominative case",
             "PAST": "past tense"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -709,14 +1004,16 @@
         "citation": "grosu:hoshi:19[11a]",
         "clength": 105,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Mary-ga</div>\n\t\t<div class=\"glossblock\">Mary-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[[John-ga</div>\n\t\t<div class=\"glossblock\">John-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[atarasii kasetu-o</div>\n\t\t<div class=\"glossblock\">new\n                                                hypothesis-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">teiansi-ta]</div>\n\t\t<div class=\"glossblock\">propose-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gakusei]-o</div>\n\t\t<div class=\"glossblock\">student-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">homete-ita]-no]-no</div>\n\t\t<div class=\"glossblock\">praise-had-no-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kekkan]-o</div>\n\t\t<div class=\"glossblock\">defect-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">siteki-si-ta.</div>\n\t\t<div class=\"glossblock\">point.out-do-PAST</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Mary-ga</div>\n\t\t<div class=\"glossblock\">Mary-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[[John-ga</div>\n\t\t<div class=\"glossblock\">John-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[atarasii kasetu-o</div>\n\t\t<div class=\"glossblock\">new\r\n                                                hypothesis-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">teiansi-ta]</div>\n\t\t<div class=\"glossblock\">propose-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gakusei]-o</div>\n\t\t<div class=\"glossblock\">student-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">homete-ita]-no]-no</div>\n\t\t<div class=\"glossblock\">praise-had-no-<span class='abbr'>GEN<span class='abbrexpansion'>genitive case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kekkan]-o</div>\n\t\t<div class=\"glossblock\">defect-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">siteki-si-ta.</div>\n\t\t<div class=\"glossblock\">point.out-do-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mary-NOM",
             "John-NOM",
-            "new\n                                                hypothesis-ACC",
+            "new\r\n                                                hypothesis-ACC",
             "propose-PAST",
             "student-ACC",
             "praise-had-no-GEN",
@@ -726,8 +1023,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "*Mary-ga",
             "[[[John-ga",
@@ -744,6 +1044,7 @@
     {
         "ID": "glossa5235-15",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -757,10 +1058,17 @@
         "citation": "grosu:hoshi:19[11b]",
         "clength": 146,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?*Mary-wa</div>\n\t\t<div class=\"glossblock\">Mary-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[[John-ga</div>\n\t\t<div class=\"glossblock\">John-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[kare-no</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gakusei-ga</div>\n\t\t<div class=\"glossblock\">student-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">atarasii kasetu-o</div>\n\t\t<div class=\"glossblock\">new hypothesis-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">teiansi-ta]-node</div>\n\t\t<div class=\"glossblock\">propose-PAST because</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kanki-no</div>\n\t\t<div class=\"glossblock\">joy-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koe-o age-ta]-no]-no</div>\n\t\t<div class=\"glossblock\">voice-ACC\n                                            raise-PAST-no-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">akirakana kekkan]-o</div>\n\t\t<div class=\"glossblock\">obvious defect-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">suguni siteki-si-ta.</div>\n\t\t<div class=\"glossblock\">promptly point.out-do-PAST</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "promptly",
+                "wdid": "Q4607639"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?*Mary-wa</div>\n\t\t<div class=\"glossblock\">Mary-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[[John-ga</div>\n\t\t<div class=\"glossblock\">John-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[kare-no</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gakusei-ga</div>\n\t\t<div class=\"glossblock\">student-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">atarasii kasetu-o</div>\n\t\t<div class=\"glossblock\">new hypothesis-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">teiansi-ta]-node</div>\n\t\t<div class=\"glossblock\">propose-PAST because</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kanki-no</div>\n\t\t<div class=\"glossblock\">joy-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koe-o age-ta]-no]-no</div>\n\t\t<div class=\"glossblock\">voice-ACC\r\n                                            raise-PAST-no-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">akirakana kekkan]-o</div>\n\t\t<div class=\"glossblock\">obvious defect-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">suguni siteki-si-ta.</div>\n\t\t<div class=\"glossblock\">promptly point.out-do-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mary-TOP",
             "John-NOM",
@@ -769,15 +1077,18 @@
             "new hypothesis-ACC",
             "propose-PAST because",
             "joy-GEN",
-            "voice-ACC\n                                            raise-PAST-no-GEN",
+            "voice-ACC\r\n                                            raise-PAST-no-GEN",
             "obvious defect-ACC",
             "promptly point.out-do-PAST"
         ],
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "?*Mary-wa",
             "[[[John-ga",
@@ -796,6 +1107,7 @@
     {
         "ID": "glossa5235-16",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -810,9 +1122,11 @@
         "citation": "grosu:hoshi:19[15]",
         "clength": 175,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Boku-wa [ [</div>\n\t\t<div class=\"glossblock\">I-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">toppina kaiketuhoo-o</div>\n\t\t<div class=\"glossblock\">preposterous solution-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">teiansi-ta</div>\n\t\t<div class=\"glossblock\">propose-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[seibisi]-ga</div>\n\t\t<div class=\"glossblock\">engineer-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">imadewa</div>\n\t\t<div class=\"glossblock\">now</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">moo</div>\n\t\t<div class=\"glossblock\">already</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Amerika</div>\n\t\t<div class=\"glossblock\">U.S.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no</div>\n\t\t<div class=\"glossblock\">no</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaisya-de</div>\n\t\t<div class=\"glossblock\">company-in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">erakunattei-ru]</div>\n\t\t<div class=\"glossblock\">big.shot.be-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no</div>\n\t\t<div class=\"glossblock\">no</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[pro]]</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no</div>\n\t\t<div class=\"glossblock\">no</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">habahiroi</div>\n\t\t<div class=\"glossblock\">wide.range</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zituyoosei-ni</div>\n\t\t<div class=\"glossblock\">applicability-at</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">imasaranagara</div>\n\t\t<div class=\"glossblock\">again</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kantansi-ta.</div>\n\t\t<div class=\"glossblock\">marvel.at-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I-TOP",
@@ -837,8 +1151,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Boku-wa [ [",
             "[sono",
@@ -866,6 +1183,7 @@
     {
         "ID": "glossa5235-17",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -878,9 +1196,11 @@
         "citation": "grosu:hoshi:19[16]",
         "clength": 85,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Otoko-wa</div>\n\t\t<div class=\"glossblock\">man-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[[Yuuzi-ga</div>\n\t\t<div class=\"glossblock\">Yuuji-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nige-yoo-to su-ru]</div>\n\t\t<div class=\"glossblock\">escape.try.attempt-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no [pro]]</div>\n\t\t<div class=\"glossblock\">no</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no</div>\n\t\t<div class=\"glossblock\">no</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kata]-o,</div>\n\t\t<div class=\"glossblock\">shoulder-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tukan-de hikimodosi-ta.</div>\n\t\t<div class=\"glossblock\">grab-and pull.back-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "man-TOP",
@@ -894,8 +1214,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Otoko-wa",
             "[[[Yuuzi-ga",
@@ -916,6 +1239,7 @@
             "PAST": "past tense",
             "TOP": "topic marker"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -928,10 +1252,53 @@
         "citation": "grosu:hoshi:19[17]",
         "clength": 58,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta.</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            },
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            },
+            {
+                "label": "apples",
+                "wdid": "Q89"
+            },
+            {
+                "label": "peeled apples",
+                "wdid": "Q16966699"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-<span class='abbr'>TOP<span class='abbrexpansion'>topic marker</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta.</div>\n\t\t<div class=\"glossblock\">eat-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
             "Ayaka-NOM",
@@ -944,8 +1311,36 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Junya-wa",
             "[[Ayaka-ga",
@@ -967,6 +1362,7 @@
             "Q": "question particle",
             "TOP": "topic marker"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -979,10 +1375,41 @@
         "citation": "grosu:hoshi:19[20a]",
         "clength": 60,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[dare-ga</div>\n\t\t<div class=\"glossblock\">who-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no.</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "apples",
+                "wdid": "Q89"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-<span class='abbr'>TOP<span class='abbrexpansion'>topic marker</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[dare-ga</div>\n\t\t<div class=\"glossblock\">who-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta</div>\n\t\t<div class=\"glossblock\">eat-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no.</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
             "who-NOM",
@@ -996,8 +1423,36 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Junya-wa",
             "[[dare-ga",
@@ -1022,6 +1477,7 @@
             "PRES": "present tense",
             "TOP": "topic marker"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1037,10 +1493,73 @@
         "citation": "grosu:hoshi:19[20b]",
         "clength": 74,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wake-de-wa</div>\n\t\t<div class=\"glossblock\">reason-COP-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na-i.</div>\n\t\t<div class=\"glossblock\">NEG-PRES</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            },
+            {
+                "label": "apples",
+                "wdid": "Q89"
+            },
+            {
+                "label": "apples",
+                "wdid": "Q89"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-<span class='abbr'>TOP<span class='abbrexpansion'>topic marker</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta</div>\n\t\t<div class=\"glossblock\">eat-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wake-de-wa</div>\n\t\t<div class=\"glossblock\">reason-<span class='abbr'>COP<span class='abbrexpansion'>copula</span></span>-<span class='abbr'>TOP<span class='abbrexpansion'>topic marker</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na-i.</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>NEG<span class='abbrexpansion'>negative element</span></span>-<span class='abbr'>PRES<span class='abbrexpansion'>present tense</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
             "Ayaka-NOM",
@@ -1055,9 +1574,61 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
         "polarity": "negative",
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Junya-wa",
             "[[Ayaka-ga",
@@ -1080,6 +1651,7 @@
             "PAST": "past tense",
             "TOP": "topic marker"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1092,10 +1664,77 @@
         "citation": "grosu:hoshi:19[21a]",
         "clength": 68,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">akai</div>\n\t\t<div class=\"glossblock\">red</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">akai</div>\n\t\t<div class=\"glossblock\">red</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta.</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            },
+            {
+                "label": "red apple",
+                "wdid": "Q89"
+            },
+            {
+                "label": "red apples",
+                "wdid": "Q2117265"
+            },
+            {
+                "label": "red apple",
+                "wdid": "Q89"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-<span class='abbr'>TOP<span class='abbrexpansion'>topic marker</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">akai</div>\n\t\t<div class=\"glossblock\">red</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">akai</div>\n\t\t<div class=\"glossblock\">red</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta.</div>\n\t\t<div class=\"glossblock\">eat-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
             "Ayaka-NOM",
@@ -1110,8 +1749,60 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Junya-wa",
             "[[Ayaka-ga",
@@ -1134,6 +1825,7 @@
             "PAST": "past tense",
             "TOP": "topic marker"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1146,10 +1838,49 @@
         "citation": "grosu:hoshi:19[21b]",
         "clength": 63,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">akai</div>\n\t\t<div class=\"glossblock\">red</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta.</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            },
+            {
+                "label": "red apple",
+                "wdid": "Q89"
+            },
+            {
+                "label": "red apples",
+                "wdid": "Q2117265"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-<span class='abbr'>TOP<span class='abbrexpansion'>topic marker</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">akai</div>\n\t\t<div class=\"glossblock\">red</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta.</div>\n\t\t<div class=\"glossblock\">eat-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
             "Ayaka-NOM",
@@ -1163,8 +1894,36 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Junya-wa",
             "[[Ayaka-ga",
@@ -1186,6 +1945,7 @@
             "PAST": "past tense",
             "TOP": "topic marker"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1198,10 +1958,73 @@
         "citation": "grosu:hoshi:19[21c]",
         "clength": 65,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">??Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">akai</div>\n\t\t<div class=\"glossblock\">red</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta.</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            },
+            {
+                "label": "apples",
+                "wdid": "Q89"
+            },
+            {
+                "label": "red apple",
+                "wdid": "Q89"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">??Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-<span class='abbr'>TOP<span class='abbrexpansion'>topic marker</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">akai</div>\n\t\t<div class=\"glossblock\">red</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo]-o</div>\n\t\t<div class=\"glossblock\">apple-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta.</div>\n\t\t<div class=\"glossblock\">eat-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
             "Ayaka-NOM",
@@ -1215,8 +2038,60 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "fruit of Maloideae",
+                "wdid": "Q145150"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Pome",
+                "wdid": "Q41274"
+            }
+        ],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "??Junya-wa",
             "[[Ayaka-ga",
@@ -1238,6 +2113,7 @@
             "PRES": "present tense",
             "TOP": "topic marker"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1251,10 +2127,12 @@
         "citation": "grosu:hoshi:19[22a]",
         "clength": 68,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Masao-ga</div>\n\t\t<div class=\"glossblock\">Masao-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ayaka-o</div>\n\t\t<div class=\"glossblock\">Ayaka-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kirattei-ru]</div>\n\t\t<div class=\"glossblock\">hate-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kanozyo]-o</div>\n\t\t<div class=\"glossblock\">she-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aisitei-ru.</div>\n\t\t<div class=\"glossblock\">love-PRES</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-<span class='abbr'>TOP<span class='abbrexpansion'>topic marker</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Masao-ga</div>\n\t\t<div class=\"glossblock\">Masao-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ayaka-o</div>\n\t\t<div class=\"glossblock\">Ayaka-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kirattei-ru]</div>\n\t\t<div class=\"glossblock\">hate-<span class='abbr'>PRES<span class='abbrexpansion'>present tense</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kanozyo]-o</div>\n\t\t<div class=\"glossblock\">she-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aisitei-ru.</div>\n\t\t<div class=\"glossblock\">love-<span class='abbr'>PRES<span class='abbrexpansion'>present tense</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
             "Masao-NOM",
@@ -1267,8 +2145,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Junya-wa",
             "[[Masao-ga",
@@ -1289,6 +2170,7 @@
             "PRES": "present tense",
             "TOP": "topic marker"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1302,10 +2184,17 @@
         "citation": "grosu:hoshi:19[22b]",
         "clength": 70,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">??Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Masao-ga</div>\n\t\t<div class=\"glossblock\">Masao-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kanozyo-o</div>\n\t\t<div class=\"glossblock\">she-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kirattei-ru]</div>\n\t\t<div class=\"glossblock\">hate-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ayaka]-o</div>\n\t\t<div class=\"glossblock\">Ayaka-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aisitei-ru.</div>\n\t\t<div class=\"glossblock\">love-PRES</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">??Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-<span class='abbr'>TOP<span class='abbrexpansion'>topic marker</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Masao-ga</div>\n\t\t<div class=\"glossblock\">Masao-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kanozyo-o</div>\n\t\t<div class=\"glossblock\">she-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kirattei-ru]</div>\n\t\t<div class=\"glossblock\">hate-<span class='abbr'>PRES<span class='abbrexpansion'>present tense</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ayaka]-o</div>\n\t\t<div class=\"glossblock\">Ayaka-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aisitei-ru.</div>\n\t\t<div class=\"glossblock\">love-<span class='abbr'>PRES<span class='abbrexpansion'>present tense</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
             "Masao-NOM",
@@ -1318,8 +2207,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "??Junya-wa",
             "[[Masao-ga",
@@ -1342,6 +2234,7 @@
             "PRES": "present tense",
             "TOP": "topic marker"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1358,10 +2251,17 @@
         "citation": "grosu:hoshi:19[23a]",
         "clength": 87,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Masao-ga</div>\n\t\t<div class=\"glossblock\">Masao-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[Ayaka to Yoko]-o</div>\n\t\t<div class=\"glossblock\">Ayaka and Yoko-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kirattei-ru]</div>\n\t\t<div class=\"glossblock\">hate-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">huta-ri-no</div>\n\t\t<div class=\"glossblock\">two-CL-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zyosei]-o</div>\n\t\t<div class=\"glossblock\">woman-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aisitei-ru</div>\n\t\t<div class=\"glossblock\">love-PRES</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-<span class='abbr'>TOP<span class='abbrexpansion'>topic marker</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Masao-ga</div>\n\t\t<div class=\"glossblock\">Masao-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[Ayaka to Yoko]-o</div>\n\t\t<div class=\"glossblock\">Ayaka and Yoko-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kirattei-ru]</div>\n\t\t<div class=\"glossblock\">hate-<span class='abbr'>PRES<span class='abbrexpansion'>present tense</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">huta-ri-no</div>\n\t\t<div class=\"glossblock\">two-<span class='abbr'>CL<span class='abbrexpansion'>classifier</span></span>-<span class='abbr'>GEN<span class='abbrexpansion'>genitive case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zyosei]-o</div>\n\t\t<div class=\"glossblock\">woman-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aisitei-ru</div>\n\t\t<div class=\"glossblock\">love-<span class='abbr'>PRES<span class='abbrexpansion'>present tense</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
             "Masao-NOM",
@@ -1375,8 +2275,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Junya-wa",
             "[[Masao-ga",
@@ -1393,6 +2296,7 @@
     {
         "ID": "glossa5235-27",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1408,9 +2312,16 @@
         "citation": "grosu:hoshi:19[23b]",
         "clength": 75,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
+        "entities": [
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Yoko-o</div>\n\t\t<div class=\"glossblock\">Yoko-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aisitei-ru]</div>\n\t\t<div class=\"glossblock\">love-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hutari-no</div>\n\t\t<div class=\"glossblock\">two-CL-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zyosei]-o</div>\n\t\t<div class=\"glossblock\">woman-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kirattei-ru</div>\n\t\t<div class=\"glossblock\">hate-PRES</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -1425,8 +2336,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Junya-wa",
             "[[Ayaka-ga",
@@ -1443,6 +2357,7 @@
     {
         "ID": "glossa5235-28",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1455,9 +2370,11 @@
         ],
         "citation": "grosu:hoshi:19[24]",
         "clength": 80,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hotondo-no</div>\n\t\t<div class=\"glossblock\">most-of-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hotondo-no-ringo]-o</div>\n\t\t<div class=\"glossblock\">most-apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta.</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
@@ -1472,8 +2389,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Junya-wa",
             "[[Ayaka-ga",
@@ -1490,6 +2410,7 @@
     {
         "ID": "glossa5235-29",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -1503,9 +2424,11 @@
         "citation": "grosu:hoshi:19[25]",
         "clength": 127,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mary-wa</div>\n\t\t<div class=\"glossblock\">Mary-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[[John-ga</div>\n\t\t<div class=\"glossblock\">John-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[ [e]</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">atarasii kasetu-o</div>\n\t\t<div class=\"glossblock\">new hypothesis-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">teiansi-ta]</div>\n\t\t<div class=\"glossblock\">propose-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gakusei]-o</div>\n\t\t<div class=\"glossblock\">student-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">homete-ita]</div>\n\t\t<div class=\"glossblock\">praise-had</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">atarasii kasetu]-no</div>\n\t\t<div class=\"glossblock\">hypothesis-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kekkan]-o</div>\n\t\t<div class=\"glossblock\">defect-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">siteki-si-ta.</div>\n\t\t<div class=\"glossblock\">point.out-do-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mary-TOP",
@@ -1523,8 +2446,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Mary-wa",
             "[[[John-ga",
@@ -1550,6 +2476,7 @@
             "PAST": "past tense",
             "TOP": "topic marker"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -1563,10 +2490,12 @@
         "citation": "grosu:hoshi:19[26]",
         "clength": 162,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mary-wa</div>\n\t\t<div class=\"glossblock\">Mary-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[[John-ga</div>\n\t\t<div class=\"glossblock\">John-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[kare-no</div>\n\t\t<div class=\"glossblock\">he-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gakusei-ga</div>\n\t\t<div class=\"glossblock\">student-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">atarasii kasetu-o</div>\n\t\t<div class=\"glossblock\">new hypothesis-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">teiansi-ta]-node</div>\n\t\t<div class=\"glossblock\">propose-PAST-because</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kanki-no</div>\n\t\t<div class=\"glossblock\">joy-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koe-o</div>\n\t\t<div class=\"glossblock\">voice-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">age-ta]</div>\n\t\t<div class=\"glossblock\">raise-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono atarasii kasetu]-no</div>\n\t\t<div class=\"glossblock\">that new hypothesis-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">akirakana</div>\n\t\t<div class=\"glossblock\">obvious</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kekkan]-o</div>\n\t\t<div class=\"glossblock\">defect-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">suguni</div>\n\t\t<div class=\"glossblock\">promptly</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">siteki-si-ta.</div>\n\t\t<div class=\"glossblock\">point.out-do-PAST</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mary-wa</div>\n\t\t<div class=\"glossblock\">Mary-<span class='abbr'>TOP<span class='abbrexpansion'>topic marker</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[[John-ga</div>\n\t\t<div class=\"glossblock\">John-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[kare-no</div>\n\t\t<div class=\"glossblock\">he-<span class='abbr'>GEN<span class='abbrexpansion'>genitive case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gakusei-ga</div>\n\t\t<div class=\"glossblock\">student-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">atarasii kasetu-o</div>\n\t\t<div class=\"glossblock\">new hypothesis-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">teiansi-ta]-node</div>\n\t\t<div class=\"glossblock\">propose-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span>-because</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kanki-no</div>\n\t\t<div class=\"glossblock\">joy-<span class='abbr'>GEN<span class='abbrexpansion'>genitive case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koe-o</div>\n\t\t<div class=\"glossblock\">voice-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">age-ta]</div>\n\t\t<div class=\"glossblock\">raise-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono atarasii kasetu]-no</div>\n\t\t<div class=\"glossblock\">that new hypothesis-<span class='abbr'>GEN<span class='abbrexpansion'>genitive case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">akirakana</div>\n\t\t<div class=\"glossblock\">obvious</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kekkan]-o</div>\n\t\t<div class=\"glossblock\">defect-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">suguni</div>\n\t\t<div class=\"glossblock\">promptly</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">siteki-si-ta.</div>\n\t\t<div class=\"glossblock\">point.out-do-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mary-TOP",
             "John-NOM",
@@ -1586,8 +2515,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Mary-wa",
             "[[[John-ga",
@@ -1610,6 +2542,7 @@
     {
         "ID": "glossa5235-31",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -1622,9 +2555,11 @@
         "citation": "grosu:hoshi:19[27]",
         "clength": 110,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?*[[daidokoro-no</div>\n\t\t<div class=\"glossblock\">kitchen-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mado-kara</div>\n\t\t<div class=\"glossblock\">window-from</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">siroi</div>\n\t\t<div class=\"glossblock\">white</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">neko-ga</div>\n\t\t<div class=\"glossblock\">cat-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kinoo</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">deteit-ta]-no]-ga</div>\n\t\t<div class=\"glossblock\">go-out-PAST-no-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sakana-o</div>\n\t\t<div class=\"glossblock\">fish-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabete-i-ru.</div>\n\t\t<div class=\"glossblock\">eat-PROG-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">← if construed as IHRC8</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "kitchen-GEN",
@@ -1640,8 +2575,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "?*[[daidokoro-no",
             "mado-kara",
@@ -1659,6 +2597,7 @@
     {
         "ID": "glossa5235-32",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -1671,9 +2610,11 @@
         "citation": "grosu:hoshi:19[28]",
         "clength": 104,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[daidokoro-no</div>\n\t\t<div class=\"glossblock\">kitchen-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mado-kara</div>\n\t\t<div class=\"glossblock\">window-from</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">siroi</div>\n\t\t<div class=\"glossblock\">white</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">neko-ga</div>\n\t\t<div class=\"glossblock\">cat-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kinoo</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">deteit-ta]</div>\n\t\t<div class=\"glossblock\">go-out-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">siroi</div>\n\t\t<div class=\"glossblock\">white</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">neko]-ga</div>\n\t\t<div class=\"glossblock\">cat-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sakana-o</div>\n\t\t<div class=\"glossblock\">fish-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabete-i-ru.</div>\n\t\t<div class=\"glossblock\">eat-PROG-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">← DHRC</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "kitchen-GEN",
@@ -1692,8 +2633,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "[[daidokoro-no",
             "mado-kara",
@@ -1719,6 +2663,7 @@
             "PRES": "present tense",
             "TOP": "topic marker"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1732,10 +2677,12 @@
         "citation": "grosu:hoshi:19[29]",
         "clength": 66,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Masao-ga</div>\n\t\t<div class=\"glossblock\">Masao-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ayaka-o</div>\n\t\t<div class=\"glossblock\">Ayaka-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kirattei-ru]</div>\n\t\t<div class=\"glossblock\">hate-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ayaka]-o</div>\n\t\t<div class=\"glossblock\">Ayaka-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aisitei-ru9</div>\n\t\t<div class=\"glossblock\">love-PRES</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-<span class='abbr'>TOP<span class='abbrexpansion'>topic marker</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Masao-ga</div>\n\t\t<div class=\"glossblock\">Masao-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ayaka-o</div>\n\t\t<div class=\"glossblock\">Ayaka-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kirattei-ru]</div>\n\t\t<div class=\"glossblock\">hate-<span class='abbr'>PRES<span class='abbrexpansion'>present tense</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ayaka]-o</div>\n\t\t<div class=\"glossblock\">Ayaka-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aisitei-ru9</div>\n\t\t<div class=\"glossblock\">love-<span class='abbr'>PRES<span class='abbrexpansion'>present tense</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
             "Masao-NOM",
@@ -1748,8 +2695,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Junya-wa",
             "[[Masao-ga",
@@ -1765,6 +2715,7 @@
     {
         "ID": "glossa5235-34",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -1776,15 +2727,17 @@
             "Y"
         ],
         "citation": "grosu:hoshi:19[30]",
-        "clength": 148,
+        "clength": 149,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Otoko-wa</div>\n\t\t<div class=\"glossblock\">man-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Yuuzi-ga nige-yoo-to\n                                                  su-ru][ sono Yuuzi]]-no</div>\n\t\t<div class=\"glossblock\">Yuuzi-NOM escape.try.attempt-PRES that\n                                                Yuuzi-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kata-o</div>\n\t\t<div class=\"glossblock\">shoulder-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wasizukami-ni si-te,</div>\n\t\t<div class=\"glossblock\">eagle.hold-by do-ing</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hikimodosi-ta.</div>\n\t\t<div class=\"glossblock\">pull.back-PAST</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Otoko-wa</div>\n\t\t<div class=\"glossblock\">man-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Yuuzi-ga nige-yoo-to\r\n                                                  su-ru][ sono Yuuzi]]-no</div>\n\t\t<div class=\"glossblock\">Yuuzi-NOM escape.try.attempt-PRES that\r\n                                                Yuuzi-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kata-o</div>\n\t\t<div class=\"glossblock\">shoulder-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wasizukami-ni si-te,</div>\n\t\t<div class=\"glossblock\">eagle.hold-by do-ing</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hikimodosi-ta.</div>\n\t\t<div class=\"glossblock\">pull.back-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "man-TOP",
-            "Yuuzi-NOM escape.try.attempt-PRES that\n                                                Yuuzi-GEN",
+            "Yuuzi-NOM escape.try.attempt-PRES that\r\n                                                Yuuzi-GEN",
             "shoulder-ACC",
             "eagle.hold-by do-ing",
             "pull.back-PAST"
@@ -1792,11 +2745,14 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Otoko-wa",
-            "[[Yuuzi-ga nige-yoo-to\n                                                  su-ru][ sono Yuuzi]]-no",
+            "[[Yuuzi-ga nige-yoo-to\r\n                                                  su-ru][ sono Yuuzi]]-no",
             "kata-o",
             "wasizukami-ni si-te,",
             "hikimodosi-ta."
@@ -1813,6 +2769,7 @@
             "Q": "question particle",
             "TOP": "topic marker"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1826,10 +2783,17 @@
         "citation": "grosu:hoshi:19[31a]",
         "clength": 68,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[dare-ga</div>\n\t\t<div class=\"glossblock\">who-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ayaka-o</div>\n\t\t<div class=\"glossblock\">Ayaka-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kirattei-ru]</div>\n\t\t<div class=\"glossblock\">hate-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ayaka]-o</div>\n\t\t<div class=\"glossblock\">Ayaka-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aisitei-ru</div>\n\t\t<div class=\"glossblock\">love-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no.</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-<span class='abbr'>TOP<span class='abbrexpansion'>topic marker</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[dare-ga</div>\n\t\t<div class=\"glossblock\">who-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ayaka-o</div>\n\t\t<div class=\"glossblock\">Ayaka-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kirattei-ru]</div>\n\t\t<div class=\"glossblock\">hate-<span class='abbr'>PRES<span class='abbrexpansion'>present tense</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ayaka]-o</div>\n\t\t<div class=\"glossblock\">Ayaka-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aisitei-ru</div>\n\t\t<div class=\"glossblock\">love-<span class='abbr'>PRES<span class='abbrexpansion'>present tense</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no.</div>\n\t\t<div class=\"glossblock\">Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
             "who-NOM",
@@ -1843,8 +2807,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Junya-wa",
             "[[dare-ga",
@@ -1868,6 +2835,7 @@
             "PRES": "present tense",
             "TOP": "topic marker"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1883,10 +2851,21 @@
         "citation": "grosu:hoshi:19[31b]",
         "clength": 82,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Masao-ga</div>\n\t\t<div class=\"glossblock\">Masao-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ayaka-o</div>\n\t\t<div class=\"glossblock\">Ayaka-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kirattei-ru]</div>\n\t\t<div class=\"glossblock\">hate-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ayaka]-o</div>\n\t\t<div class=\"glossblock\">Ayaka-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aisitei-ru</div>\n\t\t<div class=\"glossblock\">love-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wake-de-wa</div>\n\t\t<div class=\"glossblock\">reason-COP-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na-i.</div>\n\t\t<div class=\"glossblock\">NEG-PRES</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            },
+            {
+                "label": "Taroo",
+                "wdid": "Q7686704"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-<span class='abbr'>TOP<span class='abbrexpansion'>topic marker</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Masao-ga</div>\n\t\t<div class=\"glossblock\">Masao-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ayaka-o</div>\n\t\t<div class=\"glossblock\">Ayaka-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kirattei-ru]</div>\n\t\t<div class=\"glossblock\">hate-<span class='abbr'>PRES<span class='abbrexpansion'>present tense</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ayaka]-o</div>\n\t\t<div class=\"glossblock\">Ayaka-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aisitei-ru</div>\n\t\t<div class=\"glossblock\">love-<span class='abbr'>PRES<span class='abbrexpansion'>present tense</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wake-de-wa</div>\n\t\t<div class=\"glossblock\">reason-<span class='abbr'>COP<span class='abbrexpansion'>copula</span></span>-<span class='abbr'>TOP<span class='abbrexpansion'>topic marker</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na-i.</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>NEG<span class='abbrexpansion'>negative element</span></span>-<span class='abbr'>PRES<span class='abbrexpansion'>present tense</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
             "Masao-NOM",
@@ -1901,9 +2880,12 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Junya-wa",
             "[[Masao-ga",
@@ -1921,6 +2903,7 @@
     {
         "ID": "glossa5235-37",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -1936,9 +2919,11 @@
         "citation": "grosu:hoshi:19[32]",
         "clength": 213,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Boku-wa [ [</div>\n\t\t<div class=\"glossblock\">I-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[sono/kono/ano</div>\n\t\t<div class=\"glossblock\">that(medial)/this/that(distal)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">toppina kaiketuhoo</div>\n\t\t<div class=\"glossblock\">preposterous solution-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">teiansi-ta</div>\n\t\t<div class=\"glossblock\">propose-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[seibisi]-ga</div>\n\t\t<div class=\"glossblock\">engineer-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">imadewa</div>\n\t\t<div class=\"glossblock\">now</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">moo</div>\n\t\t<div class=\"glossblock\">already</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Amerika</div>\n\t\t<div class=\"glossblock\">U.S.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">no</div>\n\t\t<div class=\"glossblock\">no</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaisya-de</div>\n\t\t<div class=\"glossblock\">company-in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">erakunattei-ru]</div>\n\t\t<div class=\"glossblock\">big.shot.be-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono/kono/ano</div>\n\t\t<div class=\"glossblock\">that(medial)/this/that (distal)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">toppina kaiketuhoo]]-no</div>\n\t\t<div class=\"glossblock\">preposterous solution-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">habahiroi</div>\n\t\t<div class=\"glossblock\">wide.range</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zituyoosei-ni</div>\n\t\t<div class=\"glossblock\">applicability-at</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">imasaranagara</div>\n\t\t<div class=\"glossblock\">again</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kantansi-ta.</div>\n\t\t<div class=\"glossblock\">marvel.at-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I-TOP",
@@ -1963,8 +2948,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Boku-wa [ [",
             "[sono/kono/ano",
@@ -1992,6 +2980,7 @@
     {
         "ID": "glossa5235-38",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -2005,13 +2994,24 @@
         "citation": "grosu:hoshi:19[33]",
         "clength": 76,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Taro-ga</div>\n\t\t<div class=\"glossblock\">Taro-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\">his daughter-GEN\n                                                one-CL-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sushi-o</div>\n\t\t<div class=\"glossblock\">sushi-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kyaku-ni</div>\n\t\t<div class=\"glossblock\">guest-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dasi-ta]</div>\n\t\t<div class=\"glossblock\">serve-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">musume]-o</div>\n\t\t<div class=\"glossblock\">daughter-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kyaku-ga</div>\n\t\t<div class=\"glossblock\">guest-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">suguni</div>\n\t\t<div class=\"glossblock\">immediately</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">home-ta.</div>\n\t\t<div class=\"glossblock\">praise-PAST</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "Taro",
+                "wdid": "Q227997"
+            },
+            {
+                "label": "sushi",
+                "wdid": "Q46383"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Taro-ga</div>\n\t\t<div class=\"glossblock\">Taro-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\">his daughter-GEN\r\n                                                one-CL-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sushi-o</div>\n\t\t<div class=\"glossblock\">sushi-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kyaku-ni</div>\n\t\t<div class=\"glossblock\">guest-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dasi-ta]</div>\n\t\t<div class=\"glossblock\">serve-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">musume]-o</div>\n\t\t<div class=\"glossblock\">daughter-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kyaku-ga</div>\n\t\t<div class=\"glossblock\">guest-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">suguni</div>\n\t\t<div class=\"glossblock\">immediately</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">home-ta.</div>\n\t\t<div class=\"glossblock\">praise-PAST</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Taro-NOM",
-            "his daughter-GEN\n                                                one-CL-GEN",
+            "his daughter-GEN\r\n                                                one-CL-GEN",
             "sushi-ACC",
             "guest-DAT",
             "serve-PAST",
@@ -2024,8 +3024,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "[[Taro-ga",
             "",
@@ -2049,6 +3052,7 @@
             "PAST": "past tense",
             "TOP": "topic marker"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -2061,10 +3065,17 @@
         "citation": "grosu:hoshi:19[i]",
         "clength": 52,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sore]-o</div>\n\t\t<div class=\"glossblock\">that-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta.</div>\n\t\t<div class=\"glossblock\">eat-PAST</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-<span class='abbr'>TOP<span class='abbrexpansion'>topic marker</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ringo-o</div>\n\t\t<div class=\"glossblock\">apple-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mui-ta]</div>\n\t\t<div class=\"glossblock\">peel-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sore]-o</div>\n\t\t<div class=\"glossblock\">that-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabe-ta.</div>\n\t\t<div class=\"glossblock\">eat-<span class='abbr'>PAST<span class='abbrexpansion'>past tense</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
             "Ayaka-NOM",
@@ -2076,8 +3087,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Junya-wa",
             "[[Ayaka-ga",
@@ -2097,6 +3111,7 @@
             "PRES": "present tense",
             "TOP": "topic marker"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -2109,10 +3124,17 @@
         "citation": "grosu:hoshi:19[i]",
         "clength": 70,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5235,
         "doc_URL": "https://www.glossa-journal.org/article/id/5235",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kanozyo-o</div>\n\t\t<div class=\"glossblock\">she-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kirattei-ru]</div>\n\t\t<div class=\"glossblock\">hate-PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kanozyo]-o</div>\n\t\t<div class=\"glossblock\">she-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aisitei-ru.</div>\n\t\t<div class=\"glossblock\">love-PRES</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "Ayaka",
+                "wdid": "Q239348"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Junya-wa</div>\n\t\t<div class=\"glossblock\">Junya-<span class='abbr'>TOP<span class='abbrexpansion'>topic marker</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[Ayaka-ga</div>\n\t\t<div class=\"glossblock\">Ayaka-<span class='abbr'>NOM<span class='abbrexpansion'>nominative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kanozyo-o</div>\n\t\t<div class=\"glossblock\">she-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kirattei-ru]</div>\n\t\t<div class=\"glossblock\">hate-<span class='abbr'>PRES<span class='abbrexpansion'>present tense</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sono</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kanozyo]-o</div>\n\t\t<div class=\"glossblock\">she-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aisitei-ru.</div>\n\t\t<div class=\"glossblock\">love-<span class='abbr'>PRES<span class='abbrexpansion'>present tense</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Junya-TOP",
             "Ayaka-NOM",
@@ -2125,8 +3147,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Grosu, Alexander and Hoshi, Koji. 2019. Japanese internally-headed and doubly-headed relative constructions, and a comparison of two approaches. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Junya-wa",
             "[[Ayaka-ga",

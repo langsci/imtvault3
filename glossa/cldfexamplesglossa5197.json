@@ -2,6 +2,20 @@
     {
         "ID": "glossa5197-1",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "japo1237",
+                "label": "Japonic"
+            },
+            {
+                "id": "japa1256",
+                "label": "Japanesic"
+            },
+            {
+                "id": "japa1258",
+                "label": "Japan-Taiwan Japanese"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -11,9 +25,24 @@
         ],
         "citation": "kuno:73;yano:19[via:4]",
         "clength": 60,
+        "coords": [
+            135.0,
+            35.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "JP",
+                "label": "Japan"
+            }
+        ],
         "doc_ID": 5197,
         "doc_URL": "https://www.glossa-journal.org/article/id/5197",
-        "entities": null,
+        "entities": [
+            {
+                "label": "Taro",
+                "wdid": "Q227997"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sono-e-wa</div>\n\t\t<div class=\"glossblock\">that.picture-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Taro-ga</div>\n\t\t<div class=\"glossblock\">Taro-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sore-o/e</div>\n\t\t<div class=\"glossblock\">it-ACC/e</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaita]</div>\n\t\t<div class=\"glossblock\">drew</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hito]-o</div>\n\t\t<div class=\"glossblock\">person-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yoku</div>\n\t\t<div class=\"glossblock\">well</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shitteiru.</div>\n\t\t<div class=\"glossblock\">know</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "that.picture-TOP",
@@ -28,8 +57,13 @@
         "language_glottocode": "nucl1643",
         "language_iso6393": "jpn",
         "language_name": "Japanese",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Yano, Masataka. 2019. On the nature of the discourse effect on extraction in Japanese. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Sono-e-wa",
             "Taro-ga",
@@ -51,6 +85,20 @@
             "NOM": "nominative",
             "Q": "question particle"
         },
+        "ancestors": [
+            {
+                "id": "japo1237",
+                "label": "Japonic"
+            },
+            {
+                "id": "japa1256",
+                "label": "Japanesic"
+            },
+            {
+                "id": "japa1258",
+                "label": "Japan-Taiwan Japanese"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -60,10 +108,20 @@
         ],
         "citation": "tada:93[17];yano:19[via:5a]",
         "clength": 42,
+        "coords": [
+            135.0,
+            35.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "JP",
+                "label": "Japan"
+            }
+        ],
         "doc_ID": 5197,
         "doc_URL": "https://www.glossa-journal.org/article/id/5197",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?Dare-ga</div>\n\t\t<div class=\"glossblock\">who-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">soitsu-no</div>\n\t\t<div class=\"glossblock\">the.guy-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sensei-o</div>\n\t\t<div class=\"glossblock\">teacher-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hinanshita-no.</div>\n\t\t<div class=\"glossblock\">criticized-Q</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?Dare-ga</div>\n\t\t<div class=\"glossblock\">who-<span class='abbr'>NOM<span class='abbrexpansion'>nominative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">soitsu-no</div>\n\t\t<div class=\"glossblock\">the.guy-<span class='abbr'>GEN<span class='abbrexpansion'>genitive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sensei-o</div>\n\t\t<div class=\"glossblock\">teacher-<span class='abbr'>ACC<span class='abbrexpansion'>accusative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hinanshita-no.</div>\n\t\t<div class=\"glossblock\">criticized-Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "who-NOM",
             "the.guy-GEN",
@@ -73,8 +131,13 @@
         "language_glottocode": "nucl1643",
         "language_iso6393": "jpn",
         "language_name": "Japanese",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Yano, Masataka. 2019. On the nature of the discourse effect on extraction in Japanese. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "?Dare-ga",
             "soitsu-no",
@@ -92,6 +155,20 @@
             "NOM": "nominative",
             "Q": "question particle"
         },
+        "ancestors": [
+            {
+                "id": "japo1237",
+                "label": "Japonic"
+            },
+            {
+                "id": "japa1256",
+                "label": "Japanesic"
+            },
+            {
+                "id": "japa1258",
+                "label": "Japan-Taiwan Japanese"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -101,10 +178,20 @@
         ],
         "citation": "tada:93[17];yano:19[via:5b]",
         "clength": 42,
+        "coords": [
+            135.0,
+            35.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "JP",
+                "label": "Japan"
+            }
+        ],
         "doc_ID": 5197,
         "doc_URL": "https://www.glossa-journal.org/article/id/5197",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Soitsu-no</div>\n\t\t<div class=\"glossblock\">the.guy-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sensei-ga</div>\n\t\t<div class=\"glossblock\">teacher-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dare-o</div>\n\t\t<div class=\"glossblock\">who-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hinanshita-no.</div>\n\t\t<div class=\"glossblock\">criticized-Q</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Soitsu-no</div>\n\t\t<div class=\"glossblock\">the.guy-<span class='abbr'>GEN<span class='abbrexpansion'>genitive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sensei-ga</div>\n\t\t<div class=\"glossblock\">teacher-<span class='abbr'>NOM<span class='abbrexpansion'>nominative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dare-o</div>\n\t\t<div class=\"glossblock\">who-<span class='abbr'>ACC<span class='abbrexpansion'>accusative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hinanshita-no.</div>\n\t\t<div class=\"glossblock\">criticized-Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the.guy-GEN",
             "teacher-NOM",
@@ -114,8 +201,13 @@
         "language_glottocode": "nucl1643",
         "language_iso6393": "jpn",
         "language_name": "Japanese",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Yano, Masataka. 2019. On the nature of the discourse effect on extraction in Japanese. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "*Soitsu-no",
             "sensei-ga",
@@ -128,6 +220,20 @@
     {
         "ID": "glossa5197-4",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "japo1237",
+                "label": "Japonic"
+            },
+            {
+                "id": "japa1256",
+                "label": "Japanesic"
+            },
+            {
+                "id": "japa1258",
+                "label": "Japan-Taiwan Japanese"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -136,9 +242,32 @@
         ],
         "citation": "tada:93[17];yano:19[via:6a]",
         "clength": 56,
+        "coords": [
+            135.0,
+            35.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "JP",
+                "label": "Japan"
+            }
+        ],
         "doc_ID": 5197,
         "doc_URL": "https://www.glossa-journal.org/article/id/5197",
-        "entities": null,
+        "entities": [
+            {
+                "label": "fell in love",
+                "wdid": "Q1070872"
+            },
+            {
+                "label": "fall in love",
+                "wdid": "Q1189047"
+            },
+            {
+                "label": "interpersonal relationship",
+                "wdid": "Q223642"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*[e</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Soitsu-o</div>\n\t\t<div class=\"glossblock\">the.guy-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hitome</div>\n\t\t<div class=\"glossblock\">one.glance</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mita]</div>\n\t\t<div class=\"glossblock\">saw</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hito-ga</div>\n\t\t<div class=\"glossblock\">person-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dare-o</div>\n\t\t<div class=\"glossblock\">who-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sukininatta-no.</div>\n\t\t<div class=\"glossblock\">fell.in.love.with-Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -152,8 +281,18 @@
         "language_glottocode": "nucl1643",
         "language_iso6393": "jpn",
         "language_name": "Japanese",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [
+            {
+                "label": "interpersonal relationship",
+                "wdid": "Q223642"
+            }
+        ],
         "provider": "glossa",
+        "rightsholder": "Yano, Masataka. 2019. On the nature of the discourse effect on extraction in Japanese. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "*[e",
             "Soitsu-o",
@@ -169,6 +308,20 @@
     {
         "ID": "glossa5197-5",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "japo1237",
+                "label": "Japonic"
+            },
+            {
+                "id": "japa1256",
+                "label": "Japanesic"
+            },
+            {
+                "id": "japa1258",
+                "label": "Japan-Taiwan Japanese"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -177,9 +330,28 @@
         ],
         "citation": "tada:93[17];yano:19[via:6b]",
         "clength": 57,
+        "coords": [
+            135.0,
+            35.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "JP",
+                "label": "Japan"
+            }
+        ],
         "doc_ID": 5197,
         "doc_URL": "https://www.glossa-journal.org/article/id/5197",
-        "entities": null,
+        "entities": [
+            {
+                "label": "fell in love",
+                "wdid": "Q1070872"
+            },
+            {
+                "label": "interpersonal relationship",
+                "wdid": "Q223642"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dare-o</div>\n\t\t<div class=\"glossblock\">who-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[e</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">soitsu-o</div>\n\t\t<div class=\"glossblock\">the.guy-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hitome</div>\n\t\t<div class=\"glossblock\">one.glance</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mita]</div>\n\t\t<div class=\"glossblock\">saw</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hito-ga</div>\n\t\t<div class=\"glossblock\">person-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sukininatta-no.</div>\n\t\t<div class=\"glossblock\">fell.in.love.with-Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "who-ACC",
@@ -194,8 +366,18 @@
         "language_glottocode": "nucl1643",
         "language_iso6393": "jpn",
         "language_name": "Japanese",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [
+            {
+                "label": "interpersonal relationship",
+                "wdid": "Q223642"
+            }
+        ],
         "provider": "glossa",
+        "rightsholder": "Yano, Masataka. 2019. On the nature of the discourse effect on extraction in Japanese. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Dare-o",
             "[e",
@@ -217,6 +399,7 @@
             "NOM": "nominative",
             "TOP": "topic"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -226,10 +409,12 @@
         ],
         "citation": "yano:19[8a]",
         "clength": 62,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5197,
         "doc_URL": "https://www.glossa-journal.org/article/id/5197",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">chonan-wa</div>\n\t\t<div class=\"glossblock\">brother-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sakki</div>\n\t\t<div class=\"glossblock\">a while ago</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">imouto-ga</div>\n\t\t<div class=\"glossblock\">sister-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(sono)</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">okashi-o</div>\n\t\t<div class=\"glossblock\">snacks-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabeta-to</div>\n\t\t<div class=\"glossblock\">ate-C</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">omotteiru.</div>\n\t\t<div class=\"glossblock\">think</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">chonan-wa</div>\n\t\t<div class=\"glossblock\">brother-<span class='abbr'>TOP<span class='abbrexpansion'>topic</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sakki</div>\n\t\t<div class=\"glossblock\">a while ago</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">imouto-ga</div>\n\t\t<div class=\"glossblock\">sister-<span class='abbr'>NOM<span class='abbrexpansion'>nominative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(sono)</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">okashi-o</div>\n\t\t<div class=\"glossblock\">snacks-<span class='abbr'>ACC<span class='abbrexpansion'>accusative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabeta-to</div>\n\t\t<div class=\"glossblock\">ate-C</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">omotteiru.</div>\n\t\t<div class=\"glossblock\">think</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "brother-TOP",
             "a while ago",
@@ -242,8 +427,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Yano, Masataka. 2019. On the nature of the discourse effect on extraction in Japanese. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "chonan-wa",
             "sakki",
@@ -263,6 +451,7 @@
             "NOM": "nominative",
             "TOP": "topic"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -271,10 +460,12 @@
         ],
         "citation": "yano:19[8b]",
         "clength": 65,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5197,
         "doc_URL": "https://www.glossa-journal.org/article/id/5197",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">choonan-wa</div>\n\t\t<div class=\"glossblock\">brother-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sakki</div>\n\t\t<div class=\"glossblock\">a while ago</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">imouto-ga</div>\n\t\t<div class=\"glossblock\">sister-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(sono)</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">okashi-o</div>\n\t\t<div class=\"glossblock\">snacks-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabeta-node</div>\n\t\t<div class=\"glossblock\">ate-because</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">okotteiru.</div>\n\t\t<div class=\"glossblock\">angry</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">choonan-wa</div>\n\t\t<div class=\"glossblock\">brother-<span class='abbr'>TOP<span class='abbrexpansion'>topic</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sakki</div>\n\t\t<div class=\"glossblock\">a while ago</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">imouto-ga</div>\n\t\t<div class=\"glossblock\">sister-<span class='abbr'>NOM<span class='abbrexpansion'>nominative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(sono)</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">okashi-o</div>\n\t\t<div class=\"glossblock\">snacks-<span class='abbr'>ACC<span class='abbrexpansion'>accusative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabeta-node</div>\n\t\t<div class=\"glossblock\">ate-because</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">okotteiru.</div>\n\t\t<div class=\"glossblock\">angry</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "brother-TOP",
             "a while ago",
@@ -287,8 +478,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Yano, Masataka. 2019. On the nature of the discourse effect on extraction in Japanese. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "choonan-wa",
             "sakki",
@@ -304,6 +498,7 @@
     {
         "ID": "glossa5197-8",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -313,9 +508,11 @@
         ],
         "citation": "yano:19[8c]",
         "clength": 66,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5197,
         "doc_URL": "https://www.glossa-journal.org/article/id/5197",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(sono)</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">okashi-o</div>\n\t\t<div class=\"glossblock\">snacks-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">choonan-wa</div>\n\t\t<div class=\"glossblock\">brother-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sakki</div>\n\t\t<div class=\"glossblock\">a while ago</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">imouto-ga</div>\n\t\t<div class=\"glossblock\">sister-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabeta-to</div>\n\t\t<div class=\"glossblock\">ate-C</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">omotteiru.</div>\n\t\t<div class=\"glossblock\">think</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -330,8 +527,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Yano, Masataka. 2019. On the nature of the discourse effect on extraction in Japanese. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "(sono)",
             "okashi-o",
@@ -348,6 +548,7 @@
     {
         "ID": "glossa5197-9",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -356,9 +557,11 @@
         ],
         "citation": "yano:19[8d]",
         "clength": 69,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5197,
         "doc_URL": "https://www.glossa-journal.org/article/id/5197",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(sono)</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">okashi- o</div>\n\t\t<div class=\"glossblock\">snacks-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">choonan-wa</div>\n\t\t<div class=\"glossblock\">brother-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sakki</div>\n\t\t<div class=\"glossblock\">a while ago</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">imouto-ga</div>\n\t\t<div class=\"glossblock\">sister-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tabeta-node</div>\n\t\t<div class=\"glossblock\">ate-because</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">okotteiru.</div>\n\t\t<div class=\"glossblock\">angry</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -373,8 +576,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Yano, Masataka. 2019. On the nature of the discourse effect on extraction in Japanese. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "(sono)",
             "okashi- o",
@@ -396,6 +602,7 @@
             "NOM": "nominative",
             "TOP": "topic"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -405,10 +612,17 @@
         ],
         "citation": "yano:19[9a]",
         "clength": 76,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5197,
         "doc_URL": "https://www.glossa-journal.org/article/id/5197",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hyouronka-wa</div>\n\t\t<div class=\"glossblock\">commentator-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kyonen</div>\n\t\t<div class=\"glossblock\">last year</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">goosutoraita-ga</div>\n\t\t<div class=\"glossblock\">ghost.writer-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(sono)</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shousetsu-o</div>\n\t\t<div class=\"glossblock\">novel-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaita-to</div>\n\t\t<div class=\"glossblock\">wrote-C</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shinjiteiru.</div>\n\t\t<div class=\"glossblock\">believe</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "ghost-writer",
+                "wdid": "Q623386"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hyouronka-wa</div>\n\t\t<div class=\"glossblock\">commentator-<span class='abbr'>TOP<span class='abbrexpansion'>topic</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kyonen</div>\n\t\t<div class=\"glossblock\">last year</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">goosutoraita-ga</div>\n\t\t<div class=\"glossblock\">ghost.writer-<span class='abbr'>NOM<span class='abbrexpansion'>nominative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(sono)</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shousetsu-o</div>\n\t\t<div class=\"glossblock\">novel-<span class='abbr'>ACC<span class='abbrexpansion'>accusative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaita-to</div>\n\t\t<div class=\"glossblock\">wrote-C</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shinjiteiru.</div>\n\t\t<div class=\"glossblock\">believe</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "commentator-TOP",
             "last year",
@@ -421,8 +635,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Yano, Masataka. 2019. On the nature of the discourse effect on extraction in Japanese. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "hyouronka-wa",
             "kyonen",
@@ -442,6 +659,7 @@
             "NOM": "nominative",
             "TOP": "topic"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -450,10 +668,17 @@
         ],
         "citation": "yano:19[9b]",
         "clength": 85,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5197,
         "doc_URL": "https://www.glossa-journal.org/article/id/5197",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hyouronka-wa</div>\n\t\t<div class=\"glossblock\">commentator-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kyonen</div>\n\t\t<div class=\"glossblock\">last year</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">goosutoraita-ga</div>\n\t\t<div class=\"glossblock\">ghost.writer-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(sono)</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shousetsu-o</div>\n\t\t<div class=\"glossblock\">novel-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaita-toiu</div>\n\t\t<div class=\"glossblock\">wrote-that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hodo-o</div>\n\t\t<div class=\"glossblock\">news-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shinjiteiru.</div>\n\t\t<div class=\"glossblock\">believe</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "ghost-writer",
+                "wdid": "Q623386"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hyouronka-wa</div>\n\t\t<div class=\"glossblock\">commentator-<span class='abbr'>TOP<span class='abbrexpansion'>topic</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kyonen</div>\n\t\t<div class=\"glossblock\">last year</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">goosutoraita-ga</div>\n\t\t<div class=\"glossblock\">ghost.writer-<span class='abbr'>NOM<span class='abbrexpansion'>nominative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(sono)</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shousetsu-o</div>\n\t\t<div class=\"glossblock\">novel-<span class='abbr'>ACC<span class='abbrexpansion'>accusative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaita-toiu</div>\n\t\t<div class=\"glossblock\">wrote-that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hodo-o</div>\n\t\t<div class=\"glossblock\">news-<span class='abbr'>ACC<span class='abbrexpansion'>accusative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shinjiteiru.</div>\n\t\t<div class=\"glossblock\">believe</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "commentator-TOP",
             "last year",
@@ -467,8 +692,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Yano, Masataka. 2019. On the nature of the discourse effect on extraction in Japanese. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "hyouronka-wa",
             "kyonen",
@@ -485,6 +713,7 @@
     {
         "ID": "glossa5197-12",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -494,9 +723,11 @@
         ],
         "citation": "yano:19[9c]",
         "clength": 79,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5197,
         "doc_URL": "https://www.glossa-journal.org/article/id/5197",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(sono)</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shousetsu-o</div>\n\t\t<div class=\"glossblock\">novel-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hyouronka-wa</div>\n\t\t<div class=\"glossblock\">commentator-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kyonen</div>\n\t\t<div class=\"glossblock\">last year</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">goosutoraita-ga</div>\n\t\t<div class=\"glossblock\">ghost.writer-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaita-to</div>\n\t\t<div class=\"glossblock\">wrote-C</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shinjiteiru.</div>\n\t\t<div class=\"glossblock\">believe</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -511,8 +742,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Yano, Masataka. 2019. On the nature of the discourse effect on extraction in Japanese. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "(sono)",
             "shousetsu-o",
@@ -529,6 +763,7 @@
     {
         "ID": "glossa5197-13",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -537,9 +772,11 @@
         ],
         "citation": "yano:19[9d]",
         "clength": 88,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5197,
         "doc_URL": "https://www.glossa-journal.org/article/id/5197",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(sono)</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shousetsu-o</div>\n\t\t<div class=\"glossblock\">novel-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hyouronka-wa</div>\n\t\t<div class=\"glossblock\">commentator-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kyonen</div>\n\t\t<div class=\"glossblock\">last year</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">goosutoraita-ga</div>\n\t\t<div class=\"glossblock\">ghost.writer-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaita-toiu</div>\n\t\t<div class=\"glossblock\">wrote-that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hodo-o</div>\n\t\t<div class=\"glossblock\">news-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shinjiteiru.</div>\n\t\t<div class=\"glossblock\">believe</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -555,8 +792,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Yano, Masataka. 2019. On the nature of the discourse effect on extraction in Japanese. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "(sono)",
             "shousetsu-o",
@@ -577,6 +817,7 @@
             "ACC": "accusative",
             "NOM": "nominative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -585,10 +826,17 @@
         ],
         "citation": "yano:19[10]",
         "clength": 84,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5197,
         "doc_URL": "https://www.glossa-journal.org/article/id/5197",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[Kinou</div>\n\t\t<div class=\"glossblock\">[yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tencho-ga</div>\n\t\t<div class=\"glossblock\">manager-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\">__</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hometa-to]</div>\n\t\t<div class=\"glossblock\">praised-C]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yuushuuna</div>\n\t\t<div class=\"glossblock\">talented</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shinjin-o</div>\n\t\t<div class=\"glossblock\">newcomer-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">arubaitoten’in-ga</div>\n\t\t<div class=\"glossblock\">part.timer-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\">__</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shinjiteiru.</div>\n\t\t<div class=\"glossblock\">believe</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "part-timer",
+                "wdid": "Q587972"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[Kinou</div>\n\t\t<div class=\"glossblock\">[yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tencho-ga</div>\n\t\t<div class=\"glossblock\">manager-<span class='abbr'>NOM<span class='abbrexpansion'>nominative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\">__</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hometa-to]</div>\n\t\t<div class=\"glossblock\">praised-C]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yuushuuna</div>\n\t\t<div class=\"glossblock\">talented</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shinjin-o</div>\n\t\t<div class=\"glossblock\">newcomer-<span class='abbr'>ACC<span class='abbrexpansion'>accusative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">arubaitoten’in-ga</div>\n\t\t<div class=\"glossblock\">part.timer-<span class='abbr'>NOM<span class='abbrexpansion'>nominative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">__</div>\n\t\t<div class=\"glossblock\">__</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shinjiteiru.</div>\n\t\t<div class=\"glossblock\">believe</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "[yesterday",
             "manager-NOM",
@@ -603,8 +851,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Yano, Masataka. 2019. On the nature of the discourse effect on extraction in Japanese. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "[Kinou",
             "tencho-ga",
@@ -627,6 +878,7 @@
             "POL": "polite form",
             "PST": "past"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "LOC",
@@ -636,10 +888,21 @@
         ],
         "citation": "yano:19[11]",
         "clength": 36,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5197,
         "doc_URL": "https://www.glossa-journal.org/article/id/5197",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Daidokoro-ni</div>\n\t\t<div class=\"glossblock\">kitchen-LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">okashi-ga</div>\n\t\t<div class=\"glossblock\">snack-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ari-mashi-ta.</div>\n\t\t<div class=\"glossblock\">is-POL-PST</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "snack",
+                "wdid": "Q749316"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Daidokoro-ni</div>\n\t\t<div class=\"glossblock\">kitchen-<span class='abbr'>LOC<span class='abbrexpansion'>locative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">okashi-ga</div>\n\t\t<div class=\"glossblock\">snack-<span class='abbr'>NOM<span class='abbrexpansion'>nominative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ari-mashi-ta.</div>\n\t\t<div class=\"glossblock\">is-<span class='abbr'>POL<span class='abbrexpansion'>polite form</span></span>-<span class='abbr'>PST<span class='abbrexpansion'>past</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "kitchen-LOC",
             "snack-NOM",
@@ -648,8 +911,16 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            }
+        ],
         "provider": "glossa",
+        "rightsholder": "Yano, Masataka. 2019. On the nature of the discourse effect on extraction in Japanese. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Daidokoro-ni",
             "okashi-ga",
@@ -666,6 +937,7 @@
             "POL": "polite form",
             "PST": "past"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -676,10 +948,17 @@
         ],
         "citation": "yano:19[12]",
         "clength": 44,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5197,
         "doc_URL": "https://www.glossa-journal.org/article/id/5197",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Shousetsu-ga</div>\n\t\t<div class=\"glossblock\">novel-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">naokishou-o</div>\n\t\t<div class=\"glossblock\">Naoki.prize-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jushoushi-mashi-ta.</div>\n\t\t<div class=\"glossblock\">receive-POL-PST</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "Naoki Prize",
+                "wdid": "Q224573"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Shousetsu-ga</div>\n\t\t<div class=\"glossblock\">novel-<span class='abbr'>NOM<span class='abbrexpansion'>nominative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">naokishou-o</div>\n\t\t<div class=\"glossblock\">Naoki.prize-<span class='abbr'>ACC<span class='abbrexpansion'>accusative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jushoushi-mashi-ta.</div>\n\t\t<div class=\"glossblock\">receive-<span class='abbr'>POL<span class='abbrexpansion'>polite form</span></span>-<span class='abbr'>PST<span class='abbrexpansion'>past</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "novel-NOM",
             "Naoki.prize-ACC",
@@ -688,8 +967,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Yano, Masataka. 2019. On the nature of the discourse effect on extraction in Japanese. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Shousetsu-ga",
             "naokishou-o",
@@ -701,6 +983,20 @@
     {
         "ID": "glossa5197-17",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "japo1237",
+                "label": "Japonic"
+            },
+            {
+                "id": "japa1256",
+                "label": "Japanesic"
+            },
+            {
+                "id": "japa1258",
+                "label": "Japan-Taiwan Japanese"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -712,9 +1008,28 @@
         ],
         "citation": "yano:19[13a]",
         "clength": 58,
+        "coords": [
+            135.0,
+            35.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "JP",
+                "label": "Japan"
+            }
+        ],
         "doc_ID": 5197,
         "doc_URL": "https://www.glossa-journal.org/article/id/5197",
-        "entities": null,
+        "entities": [
+            {
+                "label": "Taroo",
+                "wdid": "Q7686704"
+            },
+            {
+                "label": "Hanako",
+                "wdid": "Q5646862"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?Taroo o</div>\n\t\t<div class=\"glossblock\">Taroo-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">watasi wa</div>\n\t\t<div class=\"glossblock\">I-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hanako ga</div>\n\t\t<div class=\"glossblock\">Hanako-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aisite iru toiu</div>\n\t\t<div class=\"glossblock\">loving is saying</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">koto o</div>\n\t\t<div class=\"glossblock\">that-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kiita.</div>\n\t\t<div class=\"glossblock\">heard</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Taroo-ACC",
@@ -727,8 +1042,13 @@
         "language_glottocode": "nucl1643",
         "language_iso6393": "jpn",
         "language_name": "Japanese",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Yano, Masataka. 2019. On the nature of the discourse effect on extraction in Japanese. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "?Taroo o",
             "watasi wa",
@@ -743,6 +1063,20 @@
     {
         "ID": "glossa5197-18",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "japo1237",
+                "label": "Japonic"
+            },
+            {
+                "id": "japa1256",
+                "label": "Japanesic"
+            },
+            {
+                "id": "japa1258",
+                "label": "Japan-Taiwan Japanese"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -752,9 +1086,19 @@
         ],
         "citation": "yano:19[13b]",
         "clength": 41,
+        "coords": [
+            135.0,
+            35.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "JP",
+                "label": "Japan"
+            }
+        ],
         "doc_ID": 5197,
         "doc_URL": "https://www.glossa-journal.org/article/id/5197",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Ano</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hon o</div>\n\t\t<div class=\"glossblock\">book-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">watasi wa</div>\n\t\t<div class=\"glossblock\">I-TOP</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaita</div>\n\t\t<div class=\"glossblock\">wrote</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hito ni</div>\n\t\t<div class=\"glossblock\">person-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aitai.</div>\n\t\t<div class=\"glossblock\">want to meet</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "that",
@@ -767,9 +1111,14 @@
         "language_glottocode": "nucl1643",
         "language_iso6393": "jpn",
         "language_name": "Japanese",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
         "modality": "volitive",
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Yano, Masataka. 2019. On the nature of the discourse effect on extraction in Japanese. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "*Ano",
             "hon o",
@@ -786,6 +1135,7 @@
         "abbrkey": {
             "NOM": "nominative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "K",
@@ -795,10 +1145,17 @@
         ],
         "citation": "yano:19[16]",
         "clength": 54,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5197,
         "doc_URL": "https://www.glossa-journal.org/article/id/5197",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kooban-ni</div>\n\t\t<div class=\"glossblock\">police.box-in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(a) Yoshida-san-ga /(b) Kimura-san-ga</div>\n\t\t<div class=\"glossblock\">Yoshida-Mr-NOM / Kimura-Mr-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">imasu.</div>\n\t\t<div class=\"glossblock\">be</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "police box",
+                "wdid": "Q933402"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kooban-ni</div>\n\t\t<div class=\"glossblock\">police.box-in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(a) Yoshida-san-ga /(b) Kimura-san-ga</div>\n\t\t<div class=\"glossblock\">Yoshida-Mr-<span class='abbr'><span class='abbr'>NOM<span class='abbrexpansion'>nominative</span></span><span class='abbrexpansion'>nominative</span></span> / Kimura-Mr-<span class='abbr'><span class='abbr'>NOM<span class='abbrexpansion'>nominative</span></span><span class='abbrexpansion'>nominative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">imasu.</div>\n\t\t<div class=\"glossblock\">be</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "police.box-in",
             "Yoshida-Mr-NOM / Kimura-Mr-NOM",
@@ -807,8 +1164,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Yano, Masataka. 2019. On the nature of the discourse effect on extraction in Japanese. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Kooban-ni",
             "(a) Yoshida-san-ga /(b) Kimura-san-ga",
@@ -824,6 +1184,20 @@
             "GEN": "genitive",
             "NOM": "nominative"
         },
+        "ancestors": [
+            {
+                "id": "japo1237",
+                "label": "Japonic"
+            },
+            {
+                "id": "japa1256",
+                "label": "Japanesic"
+            },
+            {
+                "id": "japa1258",
+                "label": "Japan-Taiwan Japanese"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -835,10 +1209,25 @@
         ],
         "citation": "yano:koizumi:18[1342];yano:19[via:17a]",
         "clength": 59,
+        "coords": [
+            135.0,
+            35.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "JP",
+                "label": "Japan"
+            }
+        ],
         "doc_ID": 5197,
         "doc_URL": "https://www.glossa-journal.org/article/id/5197",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Yoshida-san-ga</div>\n\t\t<div class=\"glossblock\">Yoshida-Mr-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kinoo-no</div>\n\t\t<div class=\"glossblock\">yesterday-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yoru</div>\n\t\t<div class=\"glossblock\">night</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kimura-san-o</div>\n\t\t<div class=\"glossblock\">Kimura-Mr-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yurushita</div>\n\t\t<div class=\"glossblock\">forgave</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rashii.</div>\n\t\t<div class=\"glossblock\">seem</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "forgave",
+                "wdid": "Q651936"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Yoshida-san-ga</div>\n\t\t<div class=\"glossblock\">Yoshida-Mr-<span class='abbr'>NOM<span class='abbrexpansion'>nominative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kinoo-no</div>\n\t\t<div class=\"glossblock\">yesterday-<span class='abbr'>GEN<span class='abbrexpansion'>genitive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yoru</div>\n\t\t<div class=\"glossblock\">night</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kimura-san-o</div>\n\t\t<div class=\"glossblock\">Kimura-Mr-<span class='abbr'>ACC<span class='abbrexpansion'>accusative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yurushita</div>\n\t\t<div class=\"glossblock\">forgave</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rashii.</div>\n\t\t<div class=\"glossblock\">seem</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Yoshida-Mr-NOM",
             "yesterday-GEN",
@@ -850,8 +1239,13 @@
         "language_glottocode": "nucl1643",
         "language_iso6393": "jpn",
         "language_name": "Japanese",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Yano, Masataka. 2019. On the nature of the discourse effect on extraction in Japanese. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Yoshida-san-ga",
             "kinoo-no",
@@ -870,6 +1264,20 @@
             "GEN": "genitive",
             "NOM": "nominative"
         },
+        "ancestors": [
+            {
+                "id": "japo1237",
+                "label": "Japonic"
+            },
+            {
+                "id": "japa1256",
+                "label": "Japanesic"
+            },
+            {
+                "id": "japa1258",
+                "label": "Japan-Taiwan Japanese"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -881,10 +1289,20 @@
         ],
         "citation": "yano:koizumi:18[1342];yano:19[via:17b]",
         "clength": 59,
+        "coords": [
+            135.0,
+            35.0
+        ],
+        "countries": [
+            {
+                "ISO3166": "JP",
+                "label": "Japan"
+            }
+        ],
         "doc_ID": 5197,
         "doc_URL": "https://www.glossa-journal.org/article/id/5197",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kimura-san-o</div>\n\t\t<div class=\"glossblock\">Kimura-Mr-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kinoo-no</div>\n\t\t<div class=\"glossblock\">yesterday-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yoru</div>\n\t\t<div class=\"glossblock\">night</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Yoshida-san-ga</div>\n\t\t<div class=\"glossblock\">Yoshida-Mr-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yurushita</div>\n\t\t<div class=\"glossblock\">forgave</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rashii.</div>\n\t\t<div class=\"glossblock\">seem</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kimura-san-o</div>\n\t\t<div class=\"glossblock\">Kimura-Mr-<span class='abbr'>ACC<span class='abbrexpansion'>accusative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kinoo-no</div>\n\t\t<div class=\"glossblock\">yesterday-<span class='abbr'>GEN<span class='abbrexpansion'>genitive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yoru</div>\n\t\t<div class=\"glossblock\">night</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Yoshida-san-ga</div>\n\t\t<div class=\"glossblock\">Yoshida-Mr-<span class='abbr'>NOM<span class='abbrexpansion'>nominative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yurushita</div>\n\t\t<div class=\"glossblock\">forgave</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rashii.</div>\n\t\t<div class=\"glossblock\">seem</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Kimura-Mr-ACC",
             "yesterday-GEN",
@@ -896,8 +1314,13 @@
         "language_glottocode": "nucl1643",
         "language_iso6393": "jpn",
         "language_name": "Japanese",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Yano, Masataka. 2019. On the nature of the discourse effect on extraction in Japanese. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Kimura-san-o",
             "kinoo-no",

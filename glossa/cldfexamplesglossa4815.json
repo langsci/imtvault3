@@ -10,6 +10,40 @@
             "PST": "past",
             "SG": "singular"
         },
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABS",
@@ -23,10 +57,20 @@
         ],
         "citation": "ahn:16[1a]",
         "clength": 64,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">te</div>\n\t\t<div class=\"glossblock\">FUT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">1.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘aka</div>\n\t\t<div class=\"glossblock\">kick</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tangata-ná   -a</div>\n\t\t<div class=\"glossblock\">man     -DEM-DEFACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[na‘e</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘uma</div>\n\t\t<div class=\"glossblock\">kiss</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kia</div>\n\t\t<div class=\"glossblock\">DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mele</div>\n\t\t<div class=\"glossblock\">Mary</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘aneafi     ]</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">te</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>FUT<span class='abbrexpansion'>future</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">1.<span class='abbr'>SG<span class='abbrexpansion'>singular</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘aka</div>\n\t\t<div class=\"glossblock\">kick</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>ABS<span class='abbrexpansion'>absolutive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tangata-ná   -a</div>\n\t\t<div class=\"glossblock\">man     -<span class='abbr'>DEM<span class='abbrexpansion'>demonstrative</span></span>-DEFACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[na‘e</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>PST<span class='abbrexpansion'>past</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘uma</div>\n\t\t<div class=\"glossblock\">kiss</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kia</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>DAT<span class='abbrexpansion'>dative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mele</div>\n\t\t<div class=\"glossblock\">Mary</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘aneafi     ]</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "FUT",
             "1.SG",
@@ -43,8 +87,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "te",
             "u",
@@ -64,6 +113,40 @@
     {
         "ID": "glossa4815-2",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABS",
@@ -77,9 +160,19 @@
         ],
         "citation": "ahn:16[1b]",
         "clength": 62,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">te</div>\n\t\t<div class=\"glossblock\">FUT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u</div>\n\t\t<div class=\"glossblock\">1.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘aka</div>\n\t\t<div class=\"glossblock\">kick</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tangata-na</div>\n\t\t<div class=\"glossblock\">man     -DEM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[na‘e</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘uma</div>\n\t\t<div class=\"glossblock\">kiss</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kia</div>\n\t\t<div class=\"glossblock\">DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mele</div>\n\t\t<div class=\"glossblock\">Mary</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘aneafí     ]</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-i</div>\n\t\t<div class=\"glossblock\">-DEFACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "FUT",
@@ -98,8 +191,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "te",
             "u",
@@ -125,6 +223,40 @@
             "LOC": "locative",
             "PRS": "present"
         },
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABS",
@@ -134,10 +266,20 @@
         ],
         "citation": "ahn:16[3a]",
         "clength": 39,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘oku</div>\n\t\t<div class=\"glossblock\">PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lele</div>\n\t\t<div class=\"glossblock\">run</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kumaa</div>\n\t\t<div class=\"glossblock\">mouse</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘i</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fale    -ni.</div>\n\t\t<div class=\"glossblock\">house-DEM</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘oku</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>PRS<span class='abbrexpansion'>present</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lele</div>\n\t\t<div class=\"glossblock\">run</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>ABS<span class='abbrexpansion'>absolutive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kumaa</div>\n\t\t<div class=\"glossblock\">mouse</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘i</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>LOC<span class='abbrexpansion'>locative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fale    -ni.</div>\n\t\t<div class=\"glossblock\">house-<span class='abbr'>DEM<span class='abbrexpansion'>demonstrative</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PRS",
             "run",
@@ -151,8 +293,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "‘oku",
             "lele",
@@ -174,6 +321,40 @@
             "LOC": "locative",
             "PRS": "present"
         },
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABS",
@@ -183,10 +364,20 @@
         ],
         "citation": "ahn:16[3b]",
         "clength": 41,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘oku</div>\n\t\t<div class=\"glossblock\">PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lele</div>\n\t\t<div class=\"glossblock\">run</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kumaa</div>\n\t\t<div class=\"glossblock\">mouse</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘i</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fale</div>\n\t\t<div class=\"glossblock\">house</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fo‘ou-ni.</div>\n\t\t<div class=\"glossblock\">new -DEM</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘oku</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>PRS<span class='abbrexpansion'>present</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lele</div>\n\t\t<div class=\"glossblock\">run</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>ABS<span class='abbrexpansion'>absolutive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kumaa</div>\n\t\t<div class=\"glossblock\">mouse</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘i</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>LOC<span class='abbrexpansion'>locative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fale</div>\n\t\t<div class=\"glossblock\">house</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fo‘ou-ni.</div>\n\t\t<div class=\"glossblock\">new -<span class='abbr'>DEM<span class='abbrexpansion'>demonstrative</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PRS",
             "run",
@@ -201,8 +392,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "‘oku",
             "lele",
@@ -220,6 +416,40 @@
     {
         "ID": "glossa4815-5",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABS",
@@ -229,9 +459,19 @@
         ],
         "citation": "ahn:16[3c]",
         "clength": 51,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*‘oku</div>\n\t\t<div class=\"glossblock\">PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lele</div>\n\t\t<div class=\"glossblock\">run</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kumaa</div>\n\t\t<div class=\"glossblock\">mouse</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘i</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[NP</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fale    -ni</div>\n\t\t<div class=\"glossblock\">house-DEM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fo‘ou ]</div>\n\t\t<div class=\"glossblock\">new</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PRS",
@@ -248,8 +488,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "*‘oku",
             "lele",
@@ -268,13 +513,57 @@
     {
         "ID": "glossa4815-6",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "ahn:16[6a]",
         "clength": 7,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fále</div>\n\t\t<div class=\"glossblock\">house</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -283,8 +572,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "he",
             "fále"
@@ -297,15 +591,59 @@
         "abbrkey": {
             "DEFACC": null
         },
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEFACC"
         ],
         "citation": "ahn:16[6b]",
         "clength": 7,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">falé</div>\n\t\t<div class=\"glossblock\">house.DEFACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -314,8 +652,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "he",
             "falé"
@@ -326,15 +669,59 @@
     {
         "ID": "glossa4815-8",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEFACC"
         ],
         "citation": "ahn:16[9a]",
         "clength": 18,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[NP</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">falé    ]-V</div>\n\t\t<div class=\"glossblock\">house  -DEFACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -344,8 +731,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "he",
             "[NP",
@@ -357,15 +749,59 @@
     {
         "ID": "glossa4815-9",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEFACC"
         ],
         "citation": "ahn:16[9b]",
         "clength": 21,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[NP</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fale</div>\n\t\t<div class=\"glossblock\">house</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fo‘oú ]-V</div>\n\t\t<div class=\"glossblock\">new    -DEFACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -376,8 +812,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "he",
             "[NP",
@@ -390,15 +831,59 @@
     {
         "ID": "glossa4815-10",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEFACC"
         ],
         "citation": "ahn:16[9c]",
         "clength": 25,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*he</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[NP</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">falé    -V</div>\n\t\t<div class=\"glossblock\">house-DEFACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fo‘ou]</div>\n\t\t<div class=\"glossblock\">new</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -409,8 +894,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "*he",
             "[NP",
@@ -423,15 +913,59 @@
     {
         "ID": "glossa4815-11",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEFACC"
         ],
         "citation": "ahn:16[10a]",
         "clength": 18,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[NP</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">saalioté]-V</div>\n\t\t<div class=\"glossblock\">cart       -DEFACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -441,8 +975,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "he",
             "[NP",
@@ -454,6 +993,40 @@
     {
         "ID": "glossa4815-12",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEFACC",
@@ -462,9 +1035,19 @@
         ],
         "citation": "ahn:16[10b]",
         "clength": 29,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[NP</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">saaliote</div>\n\t\t<div class=\"glossblock\">cart</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\">POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Feletí ]-V</div>\n\t\t<div class=\"glossblock\">Feleti  -DEFACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -476,8 +1059,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "he",
             "[NP",
@@ -491,6 +1079,40 @@
     {
         "ID": "glossa4815-13",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEFACC",
@@ -500,9 +1122,19 @@
         "citation": "ahn:16[10c]",
         "clength": 37,
         "coordination": "and",
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[NP</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">saaliote</div>\n\t\t<div class=\"glossblock\">cart</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\">POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Feleti</div>\n\t\t<div class=\"glossblock\">Feleti</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mo</div>\n\t\t<div class=\"glossblock\">-DEFACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sioné]-V</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -516,8 +1148,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "he",
             "[NP",
@@ -533,6 +1170,40 @@
     {
         "ID": "glossa4815-14",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEFACC",
@@ -542,9 +1213,19 @@
         ],
         "citation": "ahn:16[10d]",
         "clength": 34,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘ene</div>\n\t\t<div class=\"glossblock\">3SG.POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[NP</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fakahaofi</div>\n\t\t<div class=\"glossblock\">rescuing</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kinautolú]-V</div>\n\t\t<div class=\"glossblock\">3PL           -DEFACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -556,8 +1237,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "he",
             "‘ene",
@@ -574,6 +1260,40 @@
             "ABS": "absolutive",
             "PST": "past"
         },
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABS",
@@ -583,10 +1303,20 @@
         ],
         "citation": "ahn:16[11a]",
         "clength": 22,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Na‘e</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lea</div>\n\t\t<div class=\"glossblock\">speak</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sione(*-V)</div>\n\t\t<div class=\"glossblock\">Sione(*-DEFACC)</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Na‘e</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>PST<span class='abbrexpansion'>past</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lea</div>\n\t\t<div class=\"glossblock\">speak</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>ABS<span class='abbrexpansion'>absolutive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sione(*-V)</div>\n\t\t<div class=\"glossblock\">Sione(*-DEFACC)</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PST",
             "speak",
@@ -596,8 +1326,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Na‘e",
             "lea",
@@ -613,6 +1348,40 @@
             "ABS": "absolutive",
             "PST": "past"
         },
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABS",
@@ -622,10 +1391,20 @@
         ],
         "citation": "ahn:16[11b]",
         "clength": 26,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Na‘e</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lea</div>\n\t\t<div class=\"glossblock\">speak</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kinautolu(*-V)</div>\n\t\t<div class=\"glossblock\">3PL         (*-DEFACC)</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Na‘e</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>PST<span class='abbrexpansion'>past</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lea</div>\n\t\t<div class=\"glossblock\">speak</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>ABS<span class='abbrexpansion'>absolutive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kinautolu(*-V)</div>\n\t\t<div class=\"glossblock\">3PL         (*-DEFACC)</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PST",
             "speak",
@@ -635,8 +1414,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Na‘e",
             "lea",
@@ -652,6 +1436,40 @@
             "ABS": "absolutive",
             "PST": "past"
         },
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABS",
@@ -660,10 +1478,20 @@
         ],
         "citation": "ahn:16[12a]",
         "clength": 26,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Na‘e</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lea</div>\n\t\t<div class=\"glossblock\">speak</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tamaiki (-V)</div>\n\t\t<div class=\"glossblock\">children(-DEFACC)</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Na‘e</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>PST<span class='abbrexpansion'>past</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lea</div>\n\t\t<div class=\"glossblock\">speak</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>ABS<span class='abbrexpansion'>absolutive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tamaiki (-V)</div>\n\t\t<div class=\"glossblock\">children(-DEFACC)</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PST",
             "speak",
@@ -674,8 +1502,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Na‘e",
             "lea",
@@ -692,6 +1525,40 @@
             "INDEF": null,
             "PST": "past"
         },
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEFACC",
@@ -700,10 +1567,20 @@
         ],
         "citation": "ahn:16[12b]",
         "clength": 25,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Na‘e</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lea</div>\n\t\t<div class=\"glossblock\">speak</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha</div>\n\t\t<div class=\"glossblock\">INDEF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tamaiki (*-V)</div>\n\t\t<div class=\"glossblock\">children(*-DEFACC)</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Na‘e</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>PST<span class='abbrexpansion'>past</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lea</div>\n\t\t<div class=\"glossblock\">speak</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha</div>\n\t\t<div class=\"glossblock\">INDEF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tamaiki (*-V)</div>\n\t\t<div class=\"glossblock\">children(*-DEFACC)</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PST",
             "speak",
@@ -713,8 +1590,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Na‘e",
             "lea",
@@ -730,6 +1612,40 @@
             "DEFACC": null,
             "DEM": "demonstrative"
         },
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEFACC",
@@ -737,10 +1653,20 @@
         ],
         "citation": "ahn:16[13a]",
         "clength": 22,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fale</div>\n\t\t<div class=\"glossblock\">house</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fo‘ou-ní    -i</div>\n\t\t<div class=\"glossblock\">new -DEM-DEFACC</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fale</div>\n\t\t<div class=\"glossblock\">house</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fo‘ou-ní    -i</div>\n\t\t<div class=\"glossblock\">new -<span class='abbr'>DEM<span class='abbrexpansion'>demonstrative</span></span>-DEFACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
             "house",
@@ -749,8 +1675,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "he",
             "fale",
@@ -765,6 +1696,40 @@
             "DEFACC": null,
             "DEM": "demonstrative"
         },
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEFACC",
@@ -772,10 +1737,20 @@
         ],
         "citation": "ahn:16[13b]",
         "clength": 28,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*he</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fale</div>\n\t\t<div class=\"glossblock\">house</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fo‘ou-ú         -ni</div>\n\t\t<div class=\"glossblock\">new -DEFACC-DEM</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*he</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fale</div>\n\t\t<div class=\"glossblock\">house</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fo‘ou-ú         -ni</div>\n\t\t<div class=\"glossblock\">new -DEFACC-<span class='abbr'>DEM<span class='abbrexpansion'>demonstrative</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
             "house",
@@ -784,8 +1759,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "*he",
             "fale",
@@ -797,13 +1777,57 @@
     {
         "ID": "glossa4815-21",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "ahn:16[14]",
         "clength": 15,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">afto</div>\n\t\t<div class=\"glossblock\">this</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">to</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vivlio</div>\n\t\t<div class=\"glossblock\">book</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "this",
@@ -814,8 +1838,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "afto",
             "to",
@@ -828,13 +1857,57 @@
     {
         "ID": "glossa4815-22",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "ahn:16[15]",
         "clength": 19,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">den</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gamla</div>\n\t\t<div class=\"glossblock\">old</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">häst -en</div>\n\t\t<div class=\"glossblock\">horse-</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -845,8 +1918,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "den",
             "gamla",
@@ -859,13 +1937,57 @@
     {
         "ID": "glossa4815-23",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "ahn:16[16]",
         "clength": 19,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ce</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">livre</div>\n\t\t<div class=\"glossblock\">book</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jaune -ci</div>\n\t\t<div class=\"glossblock\">yellow-</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -876,8 +1998,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "ce",
             "livre",
@@ -896,6 +2023,40 @@
             "PRS": "present",
             "SG": "singular"
         },
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABS",
@@ -908,10 +2069,20 @@
         ],
         "citation": "ahn:16[17]",
         "clength": 71,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">KO</div>\n\t\t<div class=\"glossblock\">KO</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Piúla,</div>\n\t\t<div class=\"glossblock\">Piula,</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘óku</div>\n\t\t<div class=\"glossblock\">PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">túli</div>\n\t\t<div class=\"glossblock\">chase</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[teevólo</div>\n\t\t<div class=\"glossblock\">devil</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘okú</div>\n\t\t<div class=\"glossblock\">PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ne</div>\n\t\t<div class=\"glossblock\">3.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">túi</div>\n\t\t<div class=\"glossblock\">believe</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘óku</div>\n\t\t<div class=\"glossblock\">PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘i</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tu‘a      ]</div>\n\t\t<div class=\"glossblock\">outside</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(#-a)</div>\n\t\t<div class=\"glossblock\">(#-DEFACC)</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">KO</div>\n\t\t<div class=\"glossblock\">KO</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Piúla,</div>\n\t\t<div class=\"glossblock\">Piula,</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘óku</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>PRS<span class='abbrexpansion'>present</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">túli</div>\n\t\t<div class=\"glossblock\">chase</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>ABS<span class='abbrexpansion'>absolutive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[teevólo</div>\n\t\t<div class=\"glossblock\">devil</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘okú</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>PRS<span class='abbrexpansion'>present</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ne</div>\n\t\t<div class=\"glossblock\">3.<span class='abbr'>SG<span class='abbrexpansion'>singular</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">túi</div>\n\t\t<div class=\"glossblock\">believe</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘óku</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>PRS<span class='abbrexpansion'>present</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘i</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>LOC<span class='abbrexpansion'>locative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tu‘a      ]</div>\n\t\t<div class=\"glossblock\">outside</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(#-a)</div>\n\t\t<div class=\"glossblock\">(#-DEFACC)</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "KO",
             "Piula,",
@@ -931,8 +2102,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "KO",
             "Piúla,",
@@ -958,6 +2134,40 @@
             "DEFACC": null,
             "DEM": "demonstrative"
         },
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEFACC",
@@ -965,10 +2175,20 @@
         ],
         "citation": "ahn:16[19]",
         "clength": 22,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">íka</div>\n\t\t<div class=\"glossblock\">fish</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vale    -ní   -i</div>\n\t\t<div class=\"glossblock\">stupid-DEM-DEFACC</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">íka</div>\n\t\t<div class=\"glossblock\">fish</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vale    -ní   -i</div>\n\t\t<div class=\"glossblock\">stupid-<span class='abbr'>DEM<span class='abbrexpansion'>demonstrative</span></span>-DEFACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
             "fish",
@@ -977,8 +2197,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "e",
             "íka",
@@ -990,15 +2215,59 @@
     {
         "ID": "glossa4815-26",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEM"
         ],
         "citation": "ahn:16[21]",
         "clength": 20,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ce</div>\n\t\t<div class=\"glossblock\">DEM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">livre</div>\n\t\t<div class=\"glossblock\">book</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jaune  -ci</div>\n\t\t<div class=\"glossblock\">yellow-DEM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"></div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "DEM",
@@ -1009,8 +2278,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "ce",
             "livre",
@@ -1023,6 +2297,40 @@
     {
         "ID": "glossa4815-27",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABS",
@@ -1034,9 +2342,19 @@
         ],
         "citation": "ahn:16[23a]",
         "clength": 48,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘oku</div>\n\t\t<div class=\"glossblock\">PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma‘a</div>\n\t\t<div class=\"glossblock\">clean</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sote</div>\n\t\t<div class=\"glossblock\">shirt</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(-na)</div>\n\t\t<div class=\"glossblock\">(-DEM)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(-a)</div>\n\t\t<div class=\"glossblock\">-DEFACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[na‘a</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku</div>\n\t\t<div class=\"glossblock\">1.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">foo    ]</div>\n\t\t<div class=\"glossblock\">wash</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PRS",
@@ -1053,8 +2371,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "‘oku",
             "ma‘a",
@@ -1073,6 +2396,40 @@
     {
         "ID": "glossa4815-28",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABS",
@@ -1084,9 +2441,19 @@
         ],
         "citation": "ahn:16[23b]",
         "clength": 47,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘oku</div>\n\t\t<div class=\"glossblock\">PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma‘a</div>\n\t\t<div class=\"glossblock\">clean</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sote</div>\n\t\t<div class=\"glossblock\">shirt</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(-na)</div>\n\t\t<div class=\"glossblock\">(-DEM)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[na‘a</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku</div>\n\t\t<div class=\"glossblock\">1.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">foo   ]</div>\n\t\t<div class=\"glossblock\">wash</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(-o)</div>\n\t\t<div class=\"glossblock\">-DEFACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PRS",
@@ -1103,8 +2470,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "‘oku",
             "ma‘a",
@@ -1123,6 +2495,40 @@
     {
         "ID": "glossa4815-29",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABS",
@@ -1133,9 +2539,19 @@
         ],
         "citation": "ahn:16[23c]",
         "clength": 41,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*‘oku</div>\n\t\t<div class=\"glossblock\">PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma‘a</div>\n\t\t<div class=\"glossblock\">clean</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sote</div>\n\t\t<div class=\"glossblock\">shirt</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[na‘a</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku</div>\n\t\t<div class=\"glossblock\">1.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">foo   ]</div>\n\t\t<div class=\"glossblock\">wash</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-na</div>\n\t\t<div class=\"glossblock\">-DEM</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PRS",
@@ -1151,8 +2567,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "*‘oku",
             "ma‘a",
@@ -1170,6 +2591,40 @@
     {
         "ID": "glossa4815-30",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABS",
@@ -1181,9 +2636,19 @@
         ],
         "citation": "ahn:16[23d]",
         "clength": 44,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*‘oku</div>\n\t\t<div class=\"glossblock\">PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma‘a</div>\n\t\t<div class=\"glossblock\">clean</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sote</div>\n\t\t<div class=\"glossblock\">shirt</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[na‘a</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku</div>\n\t\t<div class=\"glossblock\">1.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">foo   ]</div>\n\t\t<div class=\"glossblock\">wash</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-na</div>\n\t\t<div class=\"glossblock\">-DEM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-a</div>\n\t\t<div class=\"glossblock\">-DEFACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PRS",
@@ -1200,8 +2665,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "*‘oku",
             "ma‘a",
@@ -1220,6 +2690,40 @@
     {
         "ID": "glossa4815-31",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABS",
@@ -1230,9 +2734,19 @@
         ],
         "citation": "ahn:16[24]",
         "clength": 97,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘oku</div>\n\t\t<div class=\"glossblock\">PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fiefia</div>\n\t\t<div class=\"glossblock\">happy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ahoni</div>\n\t\t<div class=\"glossblock\">today</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[tangata fa‘utohi</div>\n\t\t<div class=\"glossblock\">authors</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[na‘e</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">paaki‘enau</div>\n\t\t<div class=\"glossblock\">print their</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tohi</div>\n\t\t<div class=\"glossblock\">book</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">aneafi      ]]</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">{ -i</div>\n\t\t<div class=\"glossblock\">-DEFACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">/</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*-ni    }</div>\n\t\t<div class=\"glossblock\">*-DEM</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PRS",
@@ -1253,8 +2767,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "‘oku",
             "fiefia",
@@ -1286,6 +2805,40 @@
             "OBJ": "object",
             "PST": "past"
         },
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABS",
@@ -1299,10 +2852,29 @@
         ],
         "citation": "ahn:16[27b]",
         "clength": 79,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Na‘a</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ne</div>\n\t\t<div class=\"glossblock\">3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fakapuliki</div>\n\t\t<div class=\"glossblock\">lose</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pousikaati</div>\n\t\t<div class=\"glossblock\">postcard</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[na‘e</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘omai</div>\n\t\t<div class=\"glossblock\">give</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘e</div>\n\t\t<div class=\"glossblock\">ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hono</div>\n\t\t<div class=\"glossblock\">3SG.OBJ.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaume‘a</div>\n\t\t<div class=\"glossblock\">friend</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nofo</div>\n\t\t<div class=\"glossblock\">reside</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘i</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ha‘amoa]</div>\n\t\t<div class=\"glossblock\">Samoa</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "postcard",
+                "wdid": "Q192425"
+            },
+            {
+                "label": "Samoa",
+                "wdid": "Q1138539"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Na‘a</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>PST<span class='abbrexpansion'>past</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ne</div>\n\t\t<div class=\"glossblock\">3SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fakapuliki</div>\n\t\t<div class=\"glossblock\">lose</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>ABS<span class='abbrexpansion'>absolutive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pousikaati</div>\n\t\t<div class=\"glossblock\">postcard</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[na‘e</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>PST<span class='abbrexpansion'>past</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘omai</div>\n\t\t<div class=\"glossblock\">give</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘e</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>ERG<span class='abbrexpansion'>ergative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hono</div>\n\t\t<div class=\"glossblock\">3SG.<span class='abbr'>OBJ<span class='abbrexpansion'>object</span></span>.<span class='abbr'>GEN<span class='abbrexpansion'>genitive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kaume‘a</div>\n\t\t<div class=\"glossblock\">friend</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nofo</div>\n\t\t<div class=\"glossblock\">reside</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘i</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>LOC<span class='abbrexpansion'>locative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ha‘amoa]</div>\n\t\t<div class=\"glossblock\">Samoa</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PST",
             "3SG",
@@ -1322,8 +2894,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Na‘a",
             "ne",
@@ -1351,6 +2928,40 @@
             "PST": "past",
             "SG": "singular"
         },
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEFACC",
@@ -1360,10 +2971,20 @@
         ],
         "citation": "ahn:16[32]",
         "clength": 34,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sóte</div>\n\t\t<div class=\"glossblock\">shirt</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lahi  -ní    -i</div>\n\t\t<div class=\"glossblock\">large-DEM-DEFACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na‘á</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku</div>\n\t\t<div class=\"glossblock\">1.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fóo</div>\n\t\t<div class=\"glossblock\">wash</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sóte</div>\n\t\t<div class=\"glossblock\">shirt</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lahi  -ní    -i</div>\n\t\t<div class=\"glossblock\">large-<span class='abbr'>DEM<span class='abbrexpansion'>demonstrative</span></span>-DEFACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na‘á</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>PST<span class='abbrexpansion'>past</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku</div>\n\t\t<div class=\"glossblock\">1.<span class='abbr'>SG<span class='abbrexpansion'>singular</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fóo</div>\n\t\t<div class=\"glossblock\">wash</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
             "shirt",
@@ -1375,8 +2996,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "e",
             "sóte",
@@ -1396,6 +3022,40 @@
             "PST": "past",
             "SG": "singular"
         },
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEFACC",
@@ -1405,10 +3065,20 @@
         ],
         "citation": "ahn:16[34]",
         "clength": 33,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sóte</div>\n\t\t<div class=\"glossblock\">shirt</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lahí  -ni</div>\n\t\t<div class=\"glossblock\">large-DEM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na‘á</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku</div>\n\t\t<div class=\"glossblock\">1.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">foó   -o</div>\n\t\t<div class=\"glossblock\">wash-DEFACC</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sóte</div>\n\t\t<div class=\"glossblock\">shirt</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lahí  -ni</div>\n\t\t<div class=\"glossblock\">large-<span class='abbr'>DEM<span class='abbrexpansion'>demonstrative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na‘á</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>PST<span class='abbrexpansion'>past</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku</div>\n\t\t<div class=\"glossblock\">1.<span class='abbr'>SG<span class='abbrexpansion'>singular</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">foó   -o</div>\n\t\t<div class=\"glossblock\">wash-DEFACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
             "shirt",
@@ -1420,8 +3090,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "e",
             "sóte",
@@ -1436,15 +3111,59 @@
     {
         "ID": "glossa4815-35",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "A"
         ],
         "citation": "ahn:16[37a]",
         "clength": 12,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">AFFIXSUPPORT</div>\n\t\t<div class=\"glossblock\">An affix must not be prosodically separated from its morpho-phonological host. Assign one violation for each prosodic boundary that separates the host and the affix.</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "An affix must not be prosodically separated from its morpho-phonological host. Assign one violation for each prosodic boundary that separates the host and the affix."
@@ -1452,8 +3171,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "AFFIXSUPPORT"
         ],
@@ -1463,6 +3187,40 @@
     {
         "ID": "glossa4815-36",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1470,9 +3228,19 @@
         ],
         "citation": "ahn:16[37b]",
         "clength": 19,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ALIGN(DefAcc,R;ω,R)</div>\n\t\t<div class=\"glossblock\">Align the right edge of DefAcc with the right edge of the prosodic word. Assign one violation for each syllable that separates the DefAcc’s and the prosodic word’s right edges.</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Align the right edge of DefAcc with the right edge of the prosodic word. Assign one violation for each syllable that separates the DefAcc’s and the prosodic word’s right edges."
@@ -1480,8 +3248,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "ALIGN(DefAcc,R;ω,R)"
         ],
@@ -1493,6 +3266,40 @@
         "abbrkey": {
             "IP": null
         },
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1503,9 +3310,19 @@
         ],
         "citation": "ahn:16[37c]",
         "clength": 16,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ALIGN(CP,L;IP,L)</div>\n\t\t<div class=\"glossblock\">Align the left edge of an Intonation Phrase (IP) to the left edge of a CP. Assign one violation for each syllable that separates the IP’s and CP’s left edges.</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Align the left edge of an Intonation Phrase (IP) to the left edge of a CP. Assign one violation for each syllable that separates the IP’s and CP’s left edges."
@@ -1513,8 +3330,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "ALIGN(CP,L;IP,L)"
         ],
@@ -1526,6 +3348,40 @@
         "abbrkey": {
             "IP": null
         },
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1537,9 +3393,19 @@
         ],
         "citation": "ahn:16[37d]",
         "clength": 20,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ALIGN(LowDP*,L;IP,L)</div>\n\t\t<div class=\"glossblock\">Align the left edge of an Intonation Phrase (IP) to the left edge of a lexically filled LowDP. Assign one violation for each syllable that separates the IP’s and the LowDP*’s left edges.</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Align the left edge of an Intonation Phrase (IP) to the left edge of a lexically filled LowDP. Assign one violation for each syllable that separates the IP’s and the LowDP*’s left edges."
@@ -1547,8 +3413,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "ALIGN(LowDP*,L;IP,L)"
         ],
@@ -1558,6 +3429,40 @@
     {
         "ID": "glossa4815-39",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABS",
@@ -1568,9 +3473,19 @@
         ],
         "citation": "ahn:16[39a]",
         "clength": 60,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[IP</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘óku</div>\n\t\t<div class=\"glossblock\">PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">má‘a</div>\n\t\t<div class=\"glossblock\">clean</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘á</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">soté -e           ]</div>\n\t\t<div class=\"glossblock\">shirt-DEFACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[IP</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na‘á</div>\n\t\t<div class=\"glossblock\">PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-ku</div>\n\t\t<div class=\"glossblock\">1.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fóo    ]</div>\n\t\t<div class=\"glossblock\">wash</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -1587,8 +3502,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "[IP",
             "‘óku",
@@ -1607,6 +3527,40 @@
     {
         "ID": "glossa4815-40",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABS",
@@ -1616,9 +3570,19 @@
         ],
         "citation": "ahn:16[42a]",
         "clength": 47,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[IP</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘oku</div>\n\t\t<div class=\"glossblock\">PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma‘a</div>\n\t\t<div class=\"glossblock\">clean</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sote  ]</div>\n\t\t<div class=\"glossblock\">shirt</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[IP</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na‘a</div>\n\t\t<div class=\"glossblock\">PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku</div>\n\t\t<div class=\"glossblock\">1.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">foo    ]</div>\n\t\t<div class=\"glossblock\">wash</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -1635,8 +3599,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "[IP",
             "‘oku",
@@ -1655,6 +3624,40 @@
     {
         "ID": "glossa4815-41",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABS",
@@ -1664,9 +3667,19 @@
         ],
         "citation": "ahn:16[42b]",
         "clength": 40,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[IP</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘oku</div>\n\t\t<div class=\"glossblock\">PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma‘a</div>\n\t\t<div class=\"glossblock\">clean</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘a</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sote</div>\n\t\t<div class=\"glossblock\">shirt</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na‘a</div>\n\t\t<div class=\"glossblock\">PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku</div>\n\t\t<div class=\"glossblock\">1.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">foo    ]</div>\n\t\t<div class=\"glossblock\">wash</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -1682,8 +3695,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "[IP",
             "‘oku",
@@ -1701,6 +3719,40 @@
     {
         "ID": "glossa4815-42",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABS",
@@ -1711,9 +3763,19 @@
         ],
         "citation": "ahn:16[44a]",
         "clength": 59,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[IP</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘óku</div>\n\t\t<div class=\"glossblock\">PRES</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">má‘a</div>\n\t\t<div class=\"glossblock\">clean</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘á</div>\n\t\t<div class=\"glossblock\">ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">(soté -e)      ]</div>\n\t\t<div class=\"glossblock\">shirt-DEFACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[IP(na‘á</div>\n\t\t<div class=\"glossblock\">PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-ku)</div>\n\t\t<div class=\"glossblock\">1.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fóo     ]</div>\n\t\t<div class=\"glossblock\">wash</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -1729,8 +3791,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "[IP",
             "‘óku",
@@ -1748,6 +3815,40 @@
     {
         "ID": "glossa4815-43",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEFACC",
@@ -1755,9 +3856,19 @@
         ],
         "citation": "ahn:16[46a]",
         "clength": 34,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘i</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[DP</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">púha</div>\n\t\t<div class=\"glossblock\">box</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lahí  -i          ]</div>\n\t\t<div class=\"glossblock\">large-DEFACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "LOC",
@@ -1769,8 +3880,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "‘i",
             "[DP",
@@ -1784,6 +3900,40 @@
     {
         "ID": "glossa4815-44",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEFACC",
@@ -1791,9 +3941,19 @@
         ],
         "citation": "ahn:16[46b]",
         "clength": 31,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘i</div>\n\t\t<div class=\"glossblock\">LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[DP</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">puhá-a         ]</div>\n\t\t<div class=\"glossblock\">box  -DEFACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fóki</div>\n\t\t<div class=\"glossblock\">also</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "LOC",
@@ -1805,8 +3965,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "‘i",
             "[DP",
@@ -1820,6 +3985,40 @@
     {
         "ID": "glossa4815-45",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEFACC",
@@ -1827,9 +4026,19 @@
         ],
         "citation": "ahn:16[47]",
         "clength": 28,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[DP</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">soté -e</div>\n\t\t<div class=\"glossblock\">shirt-DEFACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na‘e</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fóo    ]</div>\n\t\t<div class=\"glossblock\">wash</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -1841,8 +4050,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "[DP",
             "he",
@@ -1856,6 +4070,40 @@
     {
         "ID": "glossa4815-46",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEFACC",
@@ -1865,9 +4113,19 @@
         ],
         "citation": "ahn:16[58a]",
         "clength": 36,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hu‘akaú</div>\n\t\t<div class=\"glossblock\">milk</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-u</div>\n\t\t<div class=\"glossblock\">-DEFACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ná‘e</div>\n\t\t<div class=\"glossblock\">PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ínu</div>\n\t\t<div class=\"glossblock\">drink</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘e</div>\n\t\t<div class=\"glossblock\">ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sióne]]</div>\n\t\t<div class=\"glossblock\">Sione</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -1883,8 +4141,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "e",
             "hu‘akaú",
@@ -1902,6 +4165,40 @@
     {
         "ID": "glossa4815-47",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEFACC",
@@ -1911,9 +4208,19 @@
         ],
         "citation": "ahn:16[58b]",
         "clength": 36,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hu‘akáu</div>\n\t\t<div class=\"glossblock\">milk</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ná‘e</div>\n\t\t<div class=\"glossblock\">PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ínu</div>\n\t\t<div class=\"glossblock\">drink</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘e</div>\n\t\t<div class=\"glossblock\">ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sioné]]</div>\n\t\t<div class=\"glossblock\">Sione</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">-e</div>\n\t\t<div class=\"glossblock\">-DEFACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -1929,8 +4236,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "e",
             "hu‘akáu",
@@ -1952,6 +4264,40 @@
             "PST": "past",
             "SG": "singular"
         },
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEFACC",
@@ -1960,10 +4306,20 @@
         ],
         "citation": "ahn:16[62]",
         "clength": 27,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">soté -e</div>\n\t\t<div class=\"glossblock\">shirt-DEFACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na‘a</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku</div>\n\t\t<div class=\"glossblock\">1.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">foó    -o</div>\n\t\t<div class=\"glossblock\">wash-DEFACC</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">soté -e</div>\n\t\t<div class=\"glossblock\">shirt-DEFACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na‘a</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>PST<span class='abbrexpansion'>past</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku</div>\n\t\t<div class=\"glossblock\">1.<span class='abbr'>SG<span class='abbrexpansion'>singular</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">foó    -o</div>\n\t\t<div class=\"glossblock\">wash-DEFACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
             "shirt-DEFACC",
@@ -1974,8 +4330,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "e",
             "soté -e",
@@ -1994,6 +4355,40 @@
             "PAST": null,
             "SG": "singular"
         },
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEFACC",
@@ -2003,10 +4398,20 @@
         ],
         "citation": "ahn:16[64]",
         "clength": 33,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sote -ná   -a</div>\n\t\t<div class=\"glossblock\">shirt-DEM-DEFACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na‘á</div>\n\t\t<div class=\"glossblock\">PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku</div>\n\t\t<div class=\"glossblock\">1.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">foó   -o</div>\n\t\t<div class=\"glossblock\">wash-DEFACC</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sote -ná   -a</div>\n\t\t<div class=\"glossblock\">shirt-<span class='abbr'>DEM<span class='abbrexpansion'>demonstrative</span></span>-DEFACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na‘á</div>\n\t\t<div class=\"glossblock\">PAST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku</div>\n\t\t<div class=\"glossblock\">1.<span class='abbr'>SG<span class='abbrexpansion'>singular</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">foó   -o</div>\n\t\t<div class=\"glossblock\">wash-DEFACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
             "shirt-DEM-DEFACC",
@@ -2017,8 +4422,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "*e",
             "sote -ná   -a",
@@ -2036,6 +4446,40 @@
             "DET": "determiner",
             "PERF": null
         },
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEM",
@@ -2044,10 +4488,20 @@
         ],
         "citation": "ahn:16[65]",
         "clength": 28,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\">DET</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[ta‘u</div>\n\t\t<div class=\"glossblock\">year</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[kuo</div>\n\t\t<div class=\"glossblock\">PERF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘osi    ]] -na</div>\n\t\t<div class=\"glossblock\">finish    -DEM</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">he</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>DET<span class='abbrexpansion'>determiner</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[ta‘u</div>\n\t\t<div class=\"glossblock\">year</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[kuo</div>\n\t\t<div class=\"glossblock\">PERF</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘osi    ]] -na</div>\n\t\t<div class=\"glossblock\">finish    -<span class='abbr'>DEM<span class='abbrexpansion'>demonstrative</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "DET",
             "year",
@@ -2057,8 +4511,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "he",
             "[ta‘u",
@@ -2071,6 +4530,40 @@
     {
         "ID": "glossa4815-51",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEFACC",
@@ -2079,9 +4572,19 @@
         ],
         "citation": "ahn:16[66a]",
         "clength": 46,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[IP</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">…</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sote  ]</div>\n\t\t<div class=\"glossblock\">shirt</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[IP</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na‘a</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku</div>\n\t\t<div class=\"glossblock\">1.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">foo   -o         ]</div>\n\t\t<div class=\"glossblock\">wash-DEFACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -2096,8 +4599,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "[IP",
             "…",
@@ -2114,6 +4622,40 @@
     {
         "ID": "glossa4815-52",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEFACC",
@@ -2122,9 +4664,19 @@
         ],
         "citation": "ahn:16[66b]",
         "clength": 135,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\"><inline-graphic xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"figures/Icon1_web.jpg\"/>☹[IP</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">…</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sote</div>\n\t\t<div class=\"glossblock\">shirt</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na‘a</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku</div>\n\t\t<div class=\"glossblock\">1.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">foo   -o         ]</div>\n\t\t<div class=\"glossblock\">wash-DEFACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -2138,8 +4690,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "<inline-graphic xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"figures/Icon1_web.jpg\"/>☹[IP",
             "…",
@@ -2155,6 +4712,40 @@
     {
         "ID": "glossa4815-53",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEM",
@@ -2163,9 +4754,19 @@
         ],
         "citation": "ahn:16[68a]",
         "clength": 37,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[IP</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">…</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">e</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sote -ni]</div>\n\t\t<div class=\"glossblock\">shirt-DEM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[IP</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na‘a</div>\n\t\t<div class=\"glossblock\">PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ku</div>\n\t\t<div class=\"glossblock\">1.SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">foo   ]</div>\n\t\t<div class=\"glossblock\">wash</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -2180,8 +4781,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "[IP",
             "…",
@@ -2202,6 +4808,40 @@
             "PL": "plural",
             "PRS": "present"
         },
+        "ancestors": [
+            {
+                "id": "aust1307",
+                "label": "Austronesian"
+            },
+            {
+                "id": "mala1545",
+                "label": "Malayo-Polynesian"
+            },
+            {
+                "id": "east2712",
+                "label": "Eastern Malayo-Polynesian"
+            },
+            {
+                "id": "ocea1241",
+                "label": "Oceanic"
+            },
+            {
+                "id": "cent2060",
+                "label": "Central Pacific linkage"
+            },
+            {
+                "id": "east2445",
+                "label": "Tokalau Fijian"
+            },
+            {
+                "id": "poly1242",
+                "label": "Polynesian"
+            },
+            {
+                "id": "tong1324",
+                "label": "Tongic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEFACC",
@@ -2211,10 +4851,25 @@
         ],
         "citation": "ahn:16[i]",
         "clength": 37,
+        "coords": [
+            -175.25,
+            -21.17
+        ],
+        "countries": [
+            {
+                "ISO3166": "TO",
+                "label": "Tonga"
+            }
+        ],
         "doc_ID": 4815,
         "doc_URL": "https://www.glossa-journal.org/article/id/4815",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘oku</div>\n\t\t<div class=\"glossblock\">PRS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kau</div>\n\t\t<div class=\"glossblock\">pertain</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kiate</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kitautolu</div>\n\t\t<div class=\"glossblock\">1.PL</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Tonga    -Vµ</div>\n\t\t<div class=\"glossblock\">Tongans-DEFACC</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "Tongans",
+                "wdid": "Q1273397"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‘oku</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>PRS<span class='abbrexpansion'>present</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kau</div>\n\t\t<div class=\"glossblock\">pertain</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kiate</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kitautolu</div>\n\t\t<div class=\"glossblock\">1.<span class='abbr'>PL<span class='abbrexpansion'>plural</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Tonga    -Vµ</div>\n\t\t<div class=\"glossblock\">Tongans-DEFACC</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PRS",
             "pertain",
@@ -2225,8 +4880,13 @@
         "language_glottocode": "tong1325",
         "language_iso6393": "ton",
         "language_name": "Tonga (Tonga Islands)",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Papunesia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Ahn, Byron. 2016. Syntax-phonology mapping and the Tongan DP. Glossa: a journal of general linguistics 1(1). Open Library of Humanities.",
         "srcwordsbare": [
             "‘oku",
             "kau",

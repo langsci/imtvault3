@@ -5,6 +5,36 @@
             "ACC": "accusative",
             "DEF": "definite"
         },
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -12,10 +42,77 @@
         ],
         "citation": "shor:22[1]",
         "clength": 22,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ra'i-ti</div>\n\t\t<div class=\"glossblock\">saw-1</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et=ha=sa'lon ‖</div>\n\t\t<div class=\"glossblock\">ACC=DEF=living.room</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "living room",
+                "wdid": "Q475018"
+            },
+            {
+                "label": "interior space",
+                "wdid": "Q1299240"
+            },
+            {
+                "label": "facility",
+                "wdid": "Q13226383"
+            },
+            {
+                "label": "Room",
+                "wdid": "Q180516"
+            },
+            {
+                "label": "space",
+                "wdid": "Q2133296"
+            },
+            {
+                "label": "geographic location",
+                "wdid": "Q2221906"
+            },
+            {
+                "label": "geographic entity",
+                "wdid": "Q27096213"
+            },
+            {
+                "label": "building",
+                "wdid": "Q41176"
+            },
+            {
+                "label": "building division",
+                "wdid": "Q56052926"
+            },
+            {
+                "label": "architectural structure",
+                "wdid": "Q811979"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ra'i-ti</div>\n\t\t<div class=\"glossblock\">saw-1</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et=ha=sa'lon ‖</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>ACC<span class='abbrexpansion'>accusative</span></span>=<span class='abbr'>DEF<span class='abbrexpansion'>definite</span></span>=living.room</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "saw-1",
             "ACC=DEF=living.room"
@@ -23,8 +120,50 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [
+            {
+                "label": "interior space",
+                "wdid": "Q1299240"
+            },
+            {
+                "label": "facility",
+                "wdid": "Q13226383"
+            },
+            {
+                "label": "Room",
+                "wdid": "Q180516"
+            },
+            {
+                "label": "space",
+                "wdid": "Q2133296"
+            },
+            {
+                "label": "geographic location",
+                "wdid": "Q2221906"
+            },
+            {
+                "label": "geographic entity",
+                "wdid": "Q27096213"
+            },
+            {
+                "label": "building",
+                "wdid": "Q41176"
+            },
+            {
+                "label": "building division",
+                "wdid": "Q56052926"
+            },
+            {
+                "label": "architectural structure",
+                "wdid": "Q811979"
+            }
+        ],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "ra'i-ti",
             "et=ha=sa'lon ‖"
@@ -38,6 +177,36 @@
             "ACC": "accusative",
             "DEM": "demonstrative"
         },
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -45,10 +214,36 @@
         ],
         "citation": "shor:22[2]",
         "clength": 35,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'si-nu</div>\n\t\t<div class=\"glossblock\">did-1</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et=ze</div>\n\t\t<div class=\"glossblock\">ACC=DEM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">be=ʦu'ra mesu'deret ‖</div>\n\t\t<div class=\"glossblock\">in=shape organized</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'si-nu</div>\n\t\t<div class=\"glossblock\">did-1</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et=ze</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>ACC<span class='abbrexpansion'>accusative</span></span>=<span class='abbr'>DEM<span class='abbrexpansion'>demonstrative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">be=ʦu'ra mesu'deret ‖</div>\n\t\t<div class=\"glossblock\">in=shape organized</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "did-1",
             "ACC=DEM",
@@ -57,8 +252,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "a'si-nu",
             "et=ze",
@@ -70,13 +270,69 @@
     {
         "ID": "glossa7955-3",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "shor:22[3]",
         "clength": 24,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'vad-ta</div>\n\t\t<div class=\"glossblock\">worked-2</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">be=bet.ma'lon /</div>\n\t\t<div class=\"glossblock\">in=hotel</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "worked-2",
@@ -85,8 +341,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "a'vad-ta",
             "be=bet.ma'lon /"
@@ -97,13 +358,69 @@
     {
         "ID": "glossa7955-4",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "shor:22[4]",
         "clength": 12,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'mar-t</div>\n\t\t<div class=\"glossblock\">said-2</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">li ‖</div>\n\t\t<div class=\"glossblock\">to.me</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "said-2",
@@ -112,8 +429,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "a'mar-t",
             "li ‖"
@@ -126,6 +448,36 @@
         "abbrkey": {
             "DEF": "definite"
         },
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEF"
@@ -133,10 +485,36 @@
         "citation": "shor:22[5]",
         "clength": 35,
         "coordination": "and",
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha'ji-tem</div>\n\t\t<div class=\"glossblock\">was-2</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">b=a=ʦafon</div>\n\t\t<div class=\"glossblock\">in=DEF=place</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ve</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">b=a=merkaz ‖</div>\n\t\t<div class=\"glossblock\">in=DEF=center</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha'ji-tem</div>\n\t\t<div class=\"glossblock\">was-2</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">b=a=ʦafon</div>\n\t\t<div class=\"glossblock\">in=<span class='abbr'>DEF<span class='abbrexpansion'>definite</span></span>=place</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ve</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">b=a=merkaz ‖</div>\n\t\t<div class=\"glossblock\">in=<span class='abbr'>DEF<span class='abbrexpansion'>definite</span></span>=center</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "was-2",
             "in=DEF=place",
@@ -146,8 +524,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "ha'ji-tem",
             "b=a=ʦafon",
@@ -163,6 +546,36 @@
             "ACC": "accusative",
             "DEF": "definite"
         },
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -171,10 +584,36 @@
         ],
         "citation": "shor:22[6]",
         "clength": 37,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'ni</div>\n\t\t<div class=\"glossblock\">2</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ra'i-ti</div>\n\t\t<div class=\"glossblock\">saw-2</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et=ha='χeder</div>\n\t\t<div class=\"glossblock\">ACC=DEF=room</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʃel 'gadi ‖</div>\n\t\t<div class=\"glossblock\">of Gadi</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'ni</div>\n\t\t<div class=\"glossblock\">2</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ra'i-ti</div>\n\t\t<div class=\"glossblock\">saw-2</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et=ha='χeder</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>ACC<span class='abbrexpansion'>accusative</span></span>=<span class='abbr'>DEF<span class='abbrexpansion'>definite</span></span>=room</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʃel 'gadi ‖</div>\n\t\t<div class=\"glossblock\">of Gadi</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "2",
             "saw-2",
@@ -184,8 +623,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "a'ni",
             "ra'i-ti",
@@ -201,6 +645,36 @@
             "ACC": "accusative",
             "DEM": "demonstrative"
         },
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -208,10 +682,36 @@
         ],
         "citation": "shor:22[7]",
         "clength": 38,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'val</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'naχnu</div>\n\t\t<div class=\"glossblock\">1</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'si-nu</div>\n\t\t<div class=\"glossblock\">did-1</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et=ze</div>\n\t\t<div class=\"glossblock\">ACC=DEM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">be'jaχad ‖</div>\n\t\t<div class=\"glossblock\">together</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'val</div>\n\t\t<div class=\"glossblock\">but</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'naχnu</div>\n\t\t<div class=\"glossblock\">1</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'si-nu</div>\n\t\t<div class=\"glossblock\">did-1</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et=ze</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>ACC<span class='abbrexpansion'>accusative</span></span>=<span class='abbr'>DEM<span class='abbrexpansion'>demonstrative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">be'jaχad ‖</div>\n\t\t<div class=\"glossblock\">together</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "but",
             "1",
@@ -222,8 +722,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "a'val",
             "a'naχnu",
@@ -237,13 +742,69 @@
     {
         "ID": "glossa7955-8",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "shor:22[8]",
         "clength": 32,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'ta</div>\n\t\t<div class=\"glossblock\">1</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'vad-ta</div>\n\t\t<div class=\"glossblock\">worked-2</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tov</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">| kmo</div>\n\t\t<div class=\"glossblock\">like</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ta'mid ‖</div>\n\t\t<div class=\"glossblock\">always</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1",
@@ -255,8 +816,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "a'ta",
             "a'vad-ta",
@@ -270,15 +836,71 @@
     {
         "ID": "glossa7955-9",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "A"
         ],
         "citation": "shor:22[9]",
         "clength": 22,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">at</div>\n\t\t<div class=\"glossblock\">2</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'mar-t</div>\n\t\t<div class=\"glossblock\">said-2</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">al=aʃ'dod ‖</div>\n\t\t<div class=\"glossblock\">on=Ashdod</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "2",
@@ -288,8 +910,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "at",
             "a'mar-t",
@@ -303,16 +930,72 @@
         "abbrkey": {
             "NEG": "negation, negative"
         },
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "NEG"
         ],
         "citation": "shor:22[10]",
         "clength": 34,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'tem</div>\n\t\t<div class=\"glossblock\">2</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lo</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha'ji-tem</div>\n\t\t<div class=\"glossblock\">was-2</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">be=kol=ma'kom ‖</div>\n\t\t<div class=\"glossblock\">in=all=place</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'tem</div>\n\t\t<div class=\"glossblock\">2</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lo</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>NEG<span class='abbrexpansion'>negation, negative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ha'ji-tem</div>\n\t\t<div class=\"glossblock\">was-2</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">be=kol=ma'kom ‖</div>\n\t\t<div class=\"glossblock\">in=all=place</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "2",
             "NEG",
@@ -322,9 +1005,14 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "a'tem",
             "lo",
@@ -337,13 +1025,69 @@
     {
         "ID": "glossa7955-11",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "shor:22[11]",
         "clength": 18,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hu</div>\n\t\t<div class=\"glossblock\">3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'sa-Ø</div>\n\t\t<div class=\"glossblock\">did-3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʃam ‖</div>\n\t\t<div class=\"glossblock\">there</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "what",
@@ -354,8 +1098,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "ma",
             "hu",
@@ -370,16 +1119,72 @@
         "abbrkey": {
             "NEG": "negation, negative"
         },
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "NEG"
         ],
         "citation": "shor:22[12]",
         "clength": 15,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hi</div>\n\t\t<div class=\"glossblock\">3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lo</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bik'ʃ-a ‖</div>\n\t\t<div class=\"glossblock\">asked-3</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hi</div>\n\t\t<div class=\"glossblock\">3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lo</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>NEG<span class='abbrexpansion'>negation, negative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bik'ʃ-a ‖</div>\n\t\t<div class=\"glossblock\">asked-3</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3",
             "NEG",
@@ -388,8 +1193,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "hi",
             "lo",
@@ -401,15 +1211,76 @@
     {
         "ID": "glossa7955-13",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "C"
         ],
         "citation": "shor:22[13]",
         "clength": 52,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [
+            {
+                "label": "low quality",
+                "wdid": "Q1507298"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hem</div>\n\t\t<div class=\"glossblock\">3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pa'ʃut</div>\n\t\t<div class=\"glossblock\">just</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">|</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hit'χil-u</div>\n\t\t<div class=\"glossblock\">started-3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lik'not |</div>\n\t\t<div class=\"glossblock\">to.buy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">na'gid</div>\n\t\t<div class=\"glossblock\">let’s.say</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sug 'gimel ‖</div>\n\t\t<div class=\"glossblock\">type C</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3",
@@ -423,8 +1294,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "hem",
             "pa'ʃut",
@@ -443,6 +1319,36 @@
             "1SG": "first person singular",
             "ACC": "accusative"
         },
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -450,10 +1356,36 @@
         ],
         "citation": "shor:22[14]",
         "clength": 42,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">az</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hitka'shar-ti</div>\n\t\t<div class=\"glossblock\">called-1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">li'ʃol</div>\n\t\t<div class=\"glossblock\">to.ask</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">o't=o</div>\n\t\t<div class=\"glossblock\">ACC=3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daa't=o ‖</div>\n\t\t<div class=\"glossblock\">opinion=3</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">az</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hitka'shar-ti</div>\n\t\t<div class=\"glossblock\">called-1SG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">li'ʃol</div>\n\t\t<div class=\"glossblock\">to.ask</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">o't=o</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>ACC<span class='abbrexpansion'>accusative</span></span>=3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daa't=o ‖</div>\n\t\t<div class=\"glossblock\">opinion=3</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "so",
             "called-1SG",
@@ -465,8 +1397,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "az",
             "hitka'shar-ti",
@@ -481,13 +1418,69 @@
     {
         "ID": "glossa7955-15",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "shor:22[14]",
         "clength": 12,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'mar-Ø /</div>\n\t\t<div class=\"glossblock\">said-3</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "what",
@@ -496,8 +1489,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "ma",
             "a'mar-Ø /"
@@ -508,15 +1506,71 @@
     {
         "ID": "glossa7955-16",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "R"
         ],
         "citation": "shor:22[15]",
         "clength": 12,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">efo</div>\n\t\t<div class=\"glossblock\">where</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ro'nit /</div>\n\t\t<div class=\"glossblock\">Ronit</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "where",
@@ -525,8 +1579,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "efo",
             "ro'nit /"
@@ -539,16 +1598,72 @@
         "abbrkey": {
             "NEG": "negation, negative"
         },
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "NEG"
         ],
         "citation": "shor:22[15]",
         "clength": 10,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lo</div>\n\t\t<div class=\"glossblock\">NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">'ba-a /</div>\n\t\t<div class=\"glossblock\">came-3</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">lo</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>NEG<span class='abbrexpansion'>negation, negative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">'ba-a /</div>\n\t\t<div class=\"glossblock\">came-3</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "NEG",
             "came-3"
@@ -556,8 +1671,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "lo",
             "'ba-a /"
@@ -570,15 +1690,71 @@
         "abbrkey": {
             "EXT": null
         },
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "EXT"
         ],
         "citation": "shor:22[16]",
         "clength": 19,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">jeʃ</div>\n\t\t<div class=\"glossblock\">EXT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la='hem</div>\n\t\t<div class=\"glossblock\">to=3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">di'ra |</div>\n\t\t<div class=\"glossblock\">appartment</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "EXT",
@@ -588,8 +1764,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "jeʃ",
             "la='hem",
@@ -603,16 +1784,113 @@
         "abbrkey": {
             "DEM": "demonstrative"
         },
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEM"
         ],
         "citation": "shor:22[16]",
         "clength": 27,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pa'ʃut</div>\n\t\t<div class=\"glossblock\">just</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a's-u</div>\n\t\t<div class=\"glossblock\">did-3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mi=ze</div>\n\t\t<div class=\"glossblock\">from=DEM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sa'lon ‖</div>\n\t\t<div class=\"glossblock\">living.room</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "living room",
+                "wdid": "Q475018"
+            },
+            {
+                "label": "interior space",
+                "wdid": "Q1299240"
+            },
+            {
+                "label": "facility",
+                "wdid": "Q13226383"
+            },
+            {
+                "label": "Room",
+                "wdid": "Q180516"
+            },
+            {
+                "label": "space",
+                "wdid": "Q2133296"
+            },
+            {
+                "label": "geographic location",
+                "wdid": "Q2221906"
+            },
+            {
+                "label": "geographic entity",
+                "wdid": "Q27096213"
+            },
+            {
+                "label": "building",
+                "wdid": "Q41176"
+            },
+            {
+                "label": "building division",
+                "wdid": "Q56052926"
+            },
+            {
+                "label": "architectural structure",
+                "wdid": "Q811979"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">pa'ʃut</div>\n\t\t<div class=\"glossblock\">just</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a's-u</div>\n\t\t<div class=\"glossblock\">did-3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mi=ze</div>\n\t\t<div class=\"glossblock\">from=<span class='abbr'>DEM<span class='abbrexpansion'>demonstrative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sa'lon ‖</div>\n\t\t<div class=\"glossblock\">living.room</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "just",
             "did-3",
@@ -622,8 +1900,50 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [
+            {
+                "label": "interior space",
+                "wdid": "Q1299240"
+            },
+            {
+                "label": "facility",
+                "wdid": "Q13226383"
+            },
+            {
+                "label": "Room",
+                "wdid": "Q180516"
+            },
+            {
+                "label": "space",
+                "wdid": "Q2133296"
+            },
+            {
+                "label": "geographic location",
+                "wdid": "Q2221906"
+            },
+            {
+                "label": "geographic entity",
+                "wdid": "Q27096213"
+            },
+            {
+                "label": "building",
+                "wdid": "Q41176"
+            },
+            {
+                "label": "building division",
+                "wdid": "Q56052926"
+            },
+            {
+                "label": "architectural structure",
+                "wdid": "Q811979"
+            }
+        ],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "pa'ʃut",
             "a's-u",
@@ -636,13 +1956,69 @@
     {
         "ID": "glossa7955-20",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "shor:22[16]",
         "clength": 10,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ka'tav-ti.</div>\n\t\t<div class=\"glossblock\">wrote-1</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "wrote-1"
@@ -650,8 +2026,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "ka'tav-ti."
         ],
@@ -661,13 +2042,69 @@
     {
         "ID": "glossa7955-21",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "shor:22[16]",
         "clength": 10,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ka'tav-ta.</div>\n\t\t<div class=\"glossblock\">wrote-2</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "wrote-2"
@@ -675,8 +2112,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "ka'tav-ta."
         ],
@@ -686,13 +2128,69 @@
     {
         "ID": "glossa7955-22",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "shor:22[16]",
         "clength": 11,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hi</div>\n\t\t<div class=\"glossblock\">3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kat'v-a.</div>\n\t\t<div class=\"glossblock\">wrote-3</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3",
@@ -701,8 +2199,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "hi",
             "kat'v-a."
@@ -713,13 +2216,69 @@
     {
         "ID": "glossa7955-23",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "shor:22[16]",
         "clength": 15,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'ni</div>\n\t\t<div class=\"glossblock\">1</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ka'tav-ti.</div>\n\t\t<div class=\"glossblock\">wrote-1</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1",
@@ -728,8 +2287,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "a'ni",
             "ka'tav-ti."
@@ -740,13 +2304,69 @@
     {
         "ID": "glossa7955-24",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "shor:22[16]",
         "clength": 15,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'ta</div>\n\t\t<div class=\"glossblock\">2</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ka'tav-ta.</div>\n\t\t<div class=\"glossblock\">wrote-2</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "2",
@@ -755,8 +2375,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "a'ta",
             "ka'tav-ta."
@@ -767,13 +2392,69 @@
     {
         "ID": "glossa7955-25",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "shor:22[16]",
         "clength": 8,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kat'v-a.</div>\n\t\t<div class=\"glossblock\">wrote-3</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "wrote-3"
@@ -781,8 +2462,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "kat'v-a."
         ],
@@ -794,16 +2480,72 @@
         "abbrkey": {
             "DEM": "demonstrative"
         },
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEM"
         ],
         "citation": "shor:22[17]",
         "clength": 21,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">'ani</div>\n\t\t<div class=\"glossblock\">1</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ø-eχa'ke</div>\n\t\t<div class=\"glossblock\">1-will.wait</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">im=ze ‖</div>\n\t\t<div class=\"glossblock\">with=DEM</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">'ani</div>\n\t\t<div class=\"glossblock\">1</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ø-eχa'ke</div>\n\t\t<div class=\"glossblock\">1-will.wait</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">im=ze ‖</div>\n\t\t<div class=\"glossblock\">with=<span class='abbr'>DEM<span class='abbrexpansion'>demonstrative</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "1",
             "1-will.wait",
@@ -812,8 +2554,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "'ani",
             "Ø-eχa'ke",
@@ -825,13 +2572,69 @@
     {
         "ID": "glossa7955-27",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "shor:22[18]",
         "clength": 30,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tov</div>\n\t\t<div class=\"glossblock\">good</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'naχnu</div>\n\t\t<div class=\"glossblock\">1</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">n-eda'ber</div>\n\t\t<div class=\"glossblock\">1-will.talk</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma'χar ‖</div>\n\t\t<div class=\"glossblock\">tomorrow</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "good",
@@ -842,8 +2645,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "tov",
             "a'naχnu",
@@ -856,6 +2664,36 @@
     {
         "ID": "glossa7955-28",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "S",
@@ -863,9 +2701,35 @@
         ],
         "citation": "shor:22[19]",
         "clength": 34,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">be=jom.ri'ʃon</div>\n\t\t<div class=\"glossblock\">in=Sunday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'ta</div>\n\t\t<div class=\"glossblock\">2</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t-i'ʃan</div>\n\t\t<div class=\"glossblock\">2-will.sleep</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eʦ'li |</div>\n\t\t<div class=\"glossblock\">at=1SG</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "in=Sunday",
@@ -876,8 +2740,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "be=jom.ri'ʃon",
             "a'ta",
@@ -890,13 +2759,69 @@
     {
         "ID": "glossa7955-29",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "shor:22[20]",
         "clength": 12,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">at</div>\n\t\t<div class=\"glossblock\">2</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t-i'r-i</div>\n\t\t<div class=\"glossblock\">2-will.see-</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‖</div>\n\t\t<div class=\"glossblock\">‖</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "2",
@@ -906,8 +2831,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "at",
             "t-i'r-i",
@@ -919,15 +2849,76 @@
     {
         "ID": "glossa7955-30",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "D"
         ],
         "citation": "shor:22[21]",
         "clength": 30,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [
+            {
+                "label": "Dolomites",
+                "wdid": "Q1283"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a'tem</div>\n\t\t<div class=\"glossblock\">2</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t-ih'j-u</div>\n\t\t<div class=\"glossblock\">2-will.be-</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ba=dolo'mitim /</div>\n\t\t<div class=\"glossblock\">in.the=Dolomites</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "2",
@@ -937,8 +2928,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "a'tem",
             "t-ih'j-u",
@@ -950,13 +2946,69 @@
     {
         "ID": "glossa7955-31",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "shor:22[22]",
         "clength": 30,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">od.me'at</div>\n\t\t<div class=\"glossblock\">soon</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hu</div>\n\t\t<div class=\"glossblock\">3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">j-ih'je</div>\n\t\t<div class=\"glossblock\">3-will.be</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mena'hel ‖</div>\n\t\t<div class=\"glossblock\">manager</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "soon",
@@ -967,8 +3019,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "od.me'at",
             "hu",
@@ -981,13 +3038,69 @@
     {
         "ID": "glossa7955-32",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "shor:22[23]",
         "clength": 21,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hi</div>\n\t\t<div class=\"glossblock\">3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t-ih'je</div>\n\t\t<div class=\"glossblock\">3-will.be</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">be'seder ‖</div>\n\t\t<div class=\"glossblock\">fine</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3",
@@ -997,8 +3110,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "hi",
             "t-ih'je",
@@ -1010,13 +3128,69 @@
     {
         "ID": "glossa7955-33",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "shor:22[24]",
         "clength": 15,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hem</div>\n\t\t<div class=\"glossblock\">3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">j-ena's-u</div>\n\t\t<div class=\"glossblock\">3-will.try-</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‖</div>\n\t\t<div class=\"glossblock\">‖</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3",
@@ -1026,8 +3200,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "hem",
             "j-ena's-u",
@@ -1039,13 +3218,69 @@
     {
         "ID": "glossa7955-34",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "shor:22[25]",
         "clength": 31,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">az</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t-a'vo</div>\n\t\t<div class=\"glossblock\">2-will.buy</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">li'ʃon</div>\n\t\t<div class=\"glossblock\">to.sleep</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">eʦ'li</div>\n\t\t<div class=\"glossblock\">at.me</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma'χar ‖</div>\n\t\t<div class=\"glossblock\">tomorrow</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "so",
@@ -1057,8 +3292,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "az",
             "t-a'vo",
@@ -1072,6 +3312,36 @@
     {
         "ID": "glossa7955-35",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -1079,9 +3349,35 @@
         ],
         "citation": "shor:22[26]",
         "clength": 29,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t-imʦe-'i</div>\n\t\t<div class=\"glossblock\">2-will.see-</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">li</div>\n\t\t<div class=\"glossblock\">to.me</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">o'to</div>\n\t\t<div class=\"glossblock\">ACC.3SGM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bevaka'ʃa ‖</div>\n\t\t<div class=\"glossblock\">please</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "2-will.see-",
@@ -1092,8 +3388,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "t-imʦe-'i",
             "li",
@@ -1106,15 +3407,71 @@
     {
         "ID": "glossa7955-36",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEF"
         ],
         "citation": "shor:22[27]",
         "clength": 29,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t-a'vo-u</div>\n\t\t<div class=\"glossblock\">2-will.come-</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">laχ'tom</div>\n\t\t<div class=\"glossblock\">to.sign</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">b=a=jo'man ‖</div>\n\t\t<div class=\"glossblock\">in=DEF=diary</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "2-will.come-",
@@ -1124,8 +3481,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "t-a'vo-u",
             "laχ'tom",
@@ -1139,16 +3501,77 @@
         "abbrkey": {
             "DEF": "definite"
         },
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEF"
         ],
         "citation": "shor:22[28]",
         "clength": 25,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʃe</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">j-a'vi</div>\n\t\t<div class=\"glossblock\">3-will.bring</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">li</div>\n\t\t<div class=\"glossblock\">to.me</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">l=a='χeder ‖</div>\n\t\t<div class=\"glossblock\">to=DEF=room</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "pomegranate",
+                "wdid": "Q13188"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʃe</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">j-a'vi</div>\n\t\t<div class=\"glossblock\">3-will.bring</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">li</div>\n\t\t<div class=\"glossblock\">to.me</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">l=a='χeder ‖</div>\n\t\t<div class=\"glossblock\">to=<span class='abbr'>DEF<span class='abbrexpansion'>definite</span></span>=room</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "that",
             "3-will.bring",
@@ -1158,8 +3581,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "ʃe",
             "j-a'vi",
@@ -1172,13 +3600,69 @@
     {
         "ID": "glossa7955-38",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "shor:22[29]",
         "clength": 28,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʃe</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t-ik'ne                 ‖</div>\n\t\t<div class=\"glossblock\">3-will.buy</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "that",
@@ -1187,8 +3671,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "ʃe",
             "t-ik'ne                 ‖"
@@ -1202,6 +3691,36 @@
             "DEF": "definite",
             "NEG": "negation, negative"
         },
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEF",
@@ -1209,10 +3728,36 @@
         ],
         "citation": "shor:22[30]",
         "clength": 26,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʃe=lo</div>\n\t\t<div class=\"glossblock\">that=NEG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t-a'ki</div>\n\t\t<div class=\"glossblock\">2-will.throw.up</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">li</div>\n\t\t<div class=\"glossblock\">to.me</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">b=a='oto ‖</div>\n\t\t<div class=\"glossblock\">in=DEF=car</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʃe=lo</div>\n\t\t<div class=\"glossblock\">that=<span class='abbr'>NEG<span class='abbrexpansion'>negation, negative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t-a'ki</div>\n\t\t<div class=\"glossblock\">2-will.throw.up</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">li</div>\n\t\t<div class=\"glossblock\">to.me</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">b=a='oto ‖</div>\n\t\t<div class=\"glossblock\">in=<span class='abbr'>DEF<span class='abbrexpansion'>definite</span></span>=car</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "that=NEG",
             "2-will.throw.up",
@@ -1222,8 +3767,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "ʃe=lo",
             "t-a'ki",
@@ -1239,6 +3789,36 @@
             "IMP": "imperative",
             "SGM": null
         },
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "IMP",
@@ -1246,10 +3826,36 @@
         ],
         "citation": "shor:22[31]",
         "clength": 17,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">az</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bo-Ø</div>\n\t\t<div class=\"glossblock\">come.IMP-SGM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">n-e'leχ ‖</div>\n\t\t<div class=\"glossblock\">1-will.go</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">az</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bo-Ø</div>\n\t\t<div class=\"glossblock\">come.<span class='abbr'>IMP<span class='abbrexpansion'>imperative</span></span>-SGM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">n-e'leχ ‖</div>\n\t\t<div class=\"glossblock\">1-will.go</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "so",
             "come.IMP-SGM",
@@ -1258,8 +3864,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "az",
             "bo-Ø",
@@ -1271,6 +3882,36 @@
     {
         "ID": "glossa7955-41",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "IMP",
@@ -1278,9 +3919,35 @@
         ],
         "citation": "shor:22[32]",
         "clength": 21,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bo-Ø</div>\n\t\t<div class=\"glossblock\">come.IMP-SGM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t-a'gid</div>\n\t\t<div class=\"glossblock\">2-will.say to.me</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">li</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[…] ‖</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "come.IMP-SGM",
@@ -1291,8 +3958,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "bo-Ø",
             "t-a'gid",
@@ -1308,6 +3980,36 @@
             "DEF": "definite",
             "DEM": "demonstrative"
         },
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DEF",
@@ -1315,10 +4017,36 @@
         ],
         "citation": "shor:22[33]",
         "clength": 35,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">j-aa'le</div>\n\t\t<div class=\"glossblock\">3-will.elevate</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">o'tanu</div>\n\t\t<div class=\"glossblock\">us</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">b=a=mχir</div>\n\t\t<div class=\"glossblock\">in=DEF=price</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʃel=ha=ze ‖</div>\n\t\t<div class=\"glossblock\">of=DEF=DEM</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">j-aa'le</div>\n\t\t<div class=\"glossblock\">3-will.elevate</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">o'tanu</div>\n\t\t<div class=\"glossblock\">us</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">b=a=mχir</div>\n\t\t<div class=\"glossblock\">in=<span class='abbr'>DEF<span class='abbrexpansion'>definite</span></span>=price</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʃel=ha=ze ‖</div>\n\t\t<div class=\"glossblock\">of=<span class='abbr'>DEF<span class='abbrexpansion'>definite</span></span>=<span class='abbr'>DEM<span class='abbrexpansion'>demonstrative</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3-will.elevate",
             "us",
@@ -1328,8 +4056,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "j-aa'le",
             "o'tanu",
@@ -1342,13 +4075,69 @@
     {
         "ID": "glossa7955-43",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "shor:22[34]",
         "clength": 41,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">az</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ma</div>\n\t\t<div class=\"glossblock\">what</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t-aa'se</div>\n\t\t<div class=\"glossblock\">3-will do</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">‖</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">az</div>\n\t\t<div class=\"glossblock\">so</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t-am'ʃiχ</div>\n\t\t<div class=\"glossblock\">3-will.continue</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">la'ʦet</div>\n\t\t<div class=\"glossblock\">to.go.out</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">i'to /</div>\n\t\t<div class=\"glossblock\">with.him</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "so",
@@ -1363,8 +4152,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "az",
             "ma",
@@ -1381,13 +4175,69 @@
     {
         "ID": "glossa7955-44",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "shor:22[34]",
         "clength": 7,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t-iχtov</div>\n\t\t<div class=\"glossblock\">3-will.write</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3-will.write"
@@ -1395,8 +4245,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "t-iχtov"
         ],
@@ -1406,13 +4261,69 @@
     {
         "ID": "glossa7955-45",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "shor:22[34]",
         "clength": 11,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ata</div>\n\t\t<div class=\"glossblock\">2</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">t-iχtov</div>\n\t\t<div class=\"glossblock\">3-will.write</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "2",
@@ -1421,8 +4332,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "ata",
             "t-iχtov"
@@ -1433,13 +4349,69 @@
     {
         "ID": "glossa7955-46",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "shor:22[34]",
         "clength": 10,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʃe</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">y-iχtov</div>\n\t\t<div class=\"glossblock\">3-will.write</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "that",
@@ -1448,8 +4420,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "ʃe",
             "y-iχtov"
@@ -1460,13 +4437,69 @@
     {
         "ID": "glossa7955-47",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "shor:22[34]",
         "clength": 10,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hu</div>\n\t\t<div class=\"glossblock\">3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">y-iχtov</div>\n\t\t<div class=\"glossblock\">3-will.write</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3",
@@ -1475,8 +4508,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "hu",
             "y-iχtov"
@@ -1487,13 +4525,69 @@
     {
         "ID": "glossa7955-48",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "shor:22[34]",
         "clength": 13,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ʃe</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hu</div>\n\t\t<div class=\"glossblock\">3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">y-iχtov</div>\n\t\t<div class=\"glossblock\">3-will.write</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "that",
@@ -1503,8 +4597,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "ʃe",
             "hu",
@@ -1516,13 +4615,69 @@
     {
         "ID": "glossa7955-49",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "afro1255",
+                "label": "Afro-Asiatic"
+            },
+            {
+                "id": "semi1276",
+                "label": "Semitic"
+            },
+            {
+                "id": "west2786",
+                "label": "West Semitic"
+            },
+            {
+                "id": "cent2236",
+                "label": "Central Semitic"
+            },
+            {
+                "id": "nort3165",
+                "label": "Northwest Semitic"
+            },
+            {
+                "id": "cana1267",
+                "label": "Canaanite"
+            },
+            {
+                "id": "hebr1246",
+                "label": "Hebrewic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "shor:22[34]",
         "clength": 7,
+        "coords": [
+            35.0179,
+            31.1056
+        ],
+        "countries": [
+            {
+                "ISO3166": "IL",
+                "label": "Israel"
+            },
+            {
+                "ISO3166": "JO",
+                "label": "Jordan"
+            },
+            {
+                "ISO3166": "LB",
+                "label": "Lebanon"
+            },
+            {
+                "ISO3166": "PS",
+                "label": "Palestine, State of"
+            },
+            {
+                "ISO3166": "SY",
+                "label": "Syrian Arab Republic"
+            }
+        ],
         "doc_ID": 7955,
         "doc_URL": "https://www.glossa-journal.org/article/id/7955",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">y-iχtov</div>\n\t\t<div class=\"glossblock\">3-will.write</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "3-will.write"
@@ -1530,8 +4685,13 @@
         "language_glottocode": "hebr1245",
         "language_iso6393": "heb",
         "language_name": "Modern Hebrew",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Shor, Leon. 2022. Revisiting “verbal agreement”: The case of Israeli Hebrew. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "y-iχtov"
         ],

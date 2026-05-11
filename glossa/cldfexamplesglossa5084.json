@@ -2,6 +2,28 @@
     {
         "ID": "glossa5084-1",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "nakh1245",
+                "label": "Nakh-Daghestanian"
+            },
+            {
+                "id": "dagh1238",
+                "label": "Daghestanian"
+            },
+            {
+                "id": "avar1255",
+                "label": "Avar-Andic-Tsezic"
+            },
+            {
+                "id": "tsez1239",
+                "label": "Tsezic"
+            },
+            {
+                "id": "east2368",
+                "label": "East Tsezic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ABS",
@@ -14,9 +36,23 @@
         ],
         "citation": "comrie:khalilova:etal:13;kimmelman:18[via:48]",
         "clength": 39,
+        "coords": [
+            46.0332,
+            42.1206
+        ],
+        "countries": [
+            {
+                "ISO3166": "GE",
+                "label": "Georgia"
+            },
+            {
+                "ISO3166": "RU",
+                "label": "Russian Federation"
+            }
+        ],
         "doc_ID": 5084,
         "doc_URL": "https://www.glossa-journal.org/article/id/5084",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">öždi</div>\n\t\t<div class=\"glossblock\">boy.ERG</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">waya</div>\n\t\t<div class=\"glossblock\">cow(III).ABS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sabali-ya-d</div>\n\t\t<div class=\"glossblock\">rope-OBL.INST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">m-ico-yo</div>\n\t\t<div class=\"glossblock\">III-tie-PST</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xöx-i-ł.</div>\n\t\t<div class=\"glossblock\">tree-OBL.INTER</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "boy.ERG",
@@ -28,8 +64,13 @@
         "language_glottocode": "bezh1248",
         "language_iso6393": "kap",
         "language_name": "Bezhta",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Kimmelman, Vadim. 2018. Basic argument structure in Russian Sign Language. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "öždi",
             "waya",

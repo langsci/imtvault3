@@ -4,6 +4,20 @@
         "abbrkey": {
             "DAT": "dative"
         },
+        "ancestors": [
+            {
+                "id": "kart1248",
+                "label": "Kartvelian"
+            },
+            {
+                "id": "geor1252",
+                "label": "Georgian-Zan"
+            },
+            {
+                "id": "geor1253",
+                "label": "Georgic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "DAT"
@@ -11,10 +25,45 @@
         "citation": "fortuna:22[1]",
         "clength": 17,
         "coordination": "and",
+        "coords": [
+            43.78613,
+            41.850397
+        ],
+        "countries": [
+            {
+                "ISO3166": "AM",
+                "label": "Armenia"
+            },
+            {
+                "ISO3166": "AZ",
+                "label": "Azerbaijan"
+            },
+            {
+                "ISO3166": "GE",
+                "label": "Georgia"
+            },
+            {
+                "ISO3166": "IR",
+                "label": "Iran, Islamic Republic of"
+            },
+            {
+                "ISO3166": "RU",
+                "label": "Russian Federation"
+            },
+            {
+                "ISO3166": "TR",
+                "label": "Türkiye"
+            }
+        ],
         "doc_ID": 5820,
         "doc_URL": "https://www.glossa-journal.org/article/id/5820",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">k’ats-sa</div>\n\t\t<div class=\"glossblock\">man-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kal-s</div>\n\t\t<div class=\"glossblock\">woman-DAT</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "man and the woman",
+                "wdid": "Q58701"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">k’ats-sa</div>\n\t\t<div class=\"glossblock\">man-<span class='abbr'>DAT<span class='abbrexpansion'>dative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kal-s</div>\n\t\t<div class=\"glossblock\">woman-<span class='abbr'>DAT<span class='abbrexpansion'>dative</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "man-DAT",
             "and",
@@ -23,8 +72,13 @@
         "language_glottocode": "nucl1302",
         "language_iso6393": "kat",
         "language_name": "Georgian",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Fortuna, Marcin. 2022. A phonological solution to allomorphy in Georgian nominal inflection. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "k’ats-sa",
             "da",
@@ -39,6 +93,20 @@
             "GEN": "genitive",
             "NOM": "nominative"
         },
+        "ancestors": [
+            {
+                "id": "kart1248",
+                "label": "Kartvelian"
+            },
+            {
+                "id": "geor1252",
+                "label": "Georgian-Zan"
+            },
+            {
+                "id": "geor1253",
+                "label": "Georgic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "GEN",
@@ -49,10 +117,49 @@
         "citation": "fortuna:22[2]",
         "clength": 32,
         "coordination": "and",
+        "coords": [
+            43.78613,
+            41.850397
+        ],
+        "countries": [
+            {
+                "ISO3166": "AM",
+                "label": "Armenia"
+            },
+            {
+                "ISO3166": "AZ",
+                "label": "Azerbaijan"
+            },
+            {
+                "ISO3166": "GE",
+                "label": "Georgia"
+            },
+            {
+                "ISO3166": "IR",
+                "label": "Iran, Islamic Republic of"
+            },
+            {
+                "ISO3166": "RU",
+                "label": "Russian Federation"
+            },
+            {
+                "ISO3166": "TR",
+                "label": "Türkiye"
+            }
+        ],
         "doc_ID": 5820,
         "doc_URL": "https://www.glossa-journal.org/article/id/5820",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tbilis-isa</div>\n\t\t<div class=\"glossblock\">Tbilisi-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kutais-is</div>\n\t\t<div class=\"glossblock\">Kutaisi-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">silamaze</div>\n\t\t<div class=\"glossblock\">beauty(NOM)</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "Tbilisi",
+                "wdid": "Q994"
+            },
+            {
+                "label": "Kutaisi",
+                "wdid": "Q172415"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tbilis-isa</div>\n\t\t<div class=\"glossblock\">Tbilisi-<span class='abbr'>GEN<span class='abbrexpansion'>genitive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">da</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kutais-is</div>\n\t\t<div class=\"glossblock\">Kutaisi-<span class='abbr'>GEN<span class='abbrexpansion'>genitive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">silamaze</div>\n\t\t<div class=\"glossblock\">beauty(<span class='abbr'>NOM<span class='abbrexpansion'>nominative</span></span>)</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Tbilisi-GEN",
             "and",
@@ -62,8 +169,13 @@
         "language_glottocode": "nucl1302",
         "language_iso6393": "kat",
         "language_name": "Georgian",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Fortuna, Marcin. 2022. A phonological solution to allomorphy in Georgian nominal inflection. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "tbilis-isa",
             "da",
@@ -79,6 +191,20 @@
             "GEN": "genitive",
             "NOM": "nominative"
         },
+        "ancestors": [
+            {
+                "id": "kart1248",
+                "label": "Kartvelian"
+            },
+            {
+                "id": "geor1252",
+                "label": "Georgian-Zan"
+            },
+            {
+                "id": "geor1253",
+                "label": "Georgic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "GEN",
@@ -87,10 +213,40 @@
         ],
         "citation": "fortuna:22[3]",
         "clength": 19,
+        "coords": [
+            43.78613,
+            41.850397
+        ],
+        "countries": [
+            {
+                "ISO3166": "AM",
+                "label": "Armenia"
+            },
+            {
+                "ISO3166": "AZ",
+                "label": "Azerbaijan"
+            },
+            {
+                "ISO3166": "GE",
+                "label": "Georgia"
+            },
+            {
+                "ISO3166": "IR",
+                "label": "Iran, Islamic Republic of"
+            },
+            {
+                "ISO3166": "RU",
+                "label": "Russian Federation"
+            },
+            {
+                "ISO3166": "TR",
+                "label": "Türkiye"
+            }
+        ],
         "doc_ID": 5820,
         "doc_URL": "https://www.glossa-journal.org/article/id/5820",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">silamaze</div>\n\t\t<div class=\"glossblock\">beauty(NOM)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kutais-isa</div>\n\t\t<div class=\"glossblock\">Kutaisi-GEN</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">silamaze</div>\n\t\t<div class=\"glossblock\">beauty(<span class='abbr'>NOM<span class='abbrexpansion'>nominative</span></span>)</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kutais-isa</div>\n\t\t<div class=\"glossblock\">Kutaisi-<span class='abbr'>GEN<span class='abbrexpansion'>genitive</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "beauty(NOM)",
             "Kutaisi-GEN"
@@ -98,8 +254,13 @@
         "language_glottocode": "nucl1302",
         "language_iso6393": "kat",
         "language_name": "Georgian",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Fortuna, Marcin. 2022. A phonological solution to allomorphy in Georgian nominal inflection. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "silamaze",
             "kutais-isa"
@@ -110,15 +271,59 @@
     {
         "ID": "glossa5820-4",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "kart1248",
+                "label": "Kartvelian"
+            },
+            {
+                "id": "geor1252",
+                "label": "Georgian-Zan"
+            },
+            {
+                "id": "geor1253",
+                "label": "Georgic"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "W"
         ],
         "citation": "fortuna:22[5]",
         "clength": 22,
+        "coords": [
+            43.78613,
+            41.850397
+        ],
+        "countries": [
+            {
+                "ISO3166": "AM",
+                "label": "Armenia"
+            },
+            {
+                "ISO3166": "AZ",
+                "label": "Azerbaijan"
+            },
+            {
+                "ISO3166": "GE",
+                "label": "Georgia"
+            },
+            {
+                "ISO3166": "IR",
+                "label": "Iran, Islamic Republic of"
+            },
+            {
+                "ISO3166": "RU",
+                "label": "Russian Federation"
+            },
+            {
+                "ISO3166": "TR",
+                "label": "Türkiye"
+            }
+        ],
         "doc_ID": 5820,
         "doc_URL": "https://www.glossa-journal.org/article/id/5820",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Principle of Locality:</div>\n\t\t<div class=\"glossblock\">When two floating vowels compete for insertion and there is no lexical association line, the piece of melody which is closer to the skeletal slot under discussion gets associated.</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "When two floating vowels compete for insertion and there is no lexical association line, the piece of melody which is closer to the skeletal slot under discussion gets associated."
@@ -126,8 +331,13 @@
         "language_glottocode": "nucl1302",
         "language_iso6393": "kat",
         "language_name": "Georgian",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Fortuna, Marcin. 2022. A phonological solution to allomorphy in Georgian nominal inflection. Glossa: a journal of general linguistics 7(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Principle of Locality:"
         ],

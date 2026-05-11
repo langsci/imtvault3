@@ -4,6 +4,7 @@
         "abbrkey": {
             "NOM": "nominative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "C",
@@ -12,10 +13,17 @@
         ],
         "citation": "popp:tebay:19[1a]",
         "clength": 31,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Conny</div>\n\t\t<div class=\"glossblock\">Conny</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">the.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hund</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">heißt</div>\n\t\t<div class=\"glossblock\">is.named</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Motte.</div>\n\t\t<div class=\"glossblock\">Motte</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "Motte",
+                "wdid": "Q2351140"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Conny</div>\n\t\t<div class=\"glossblock\">Conny</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">the.<span class='abbr'>NOM<span class='abbrexpansion'>nominative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hund</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">heißt</div>\n\t\t<div class=\"glossblock\">is.named</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Motte.</div>\n\t\t<div class=\"glossblock\">Motte</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "of",
             "Conny",
@@ -27,8 +35,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Von",
             "Conny",
@@ -45,6 +56,7 @@
         "abbrkey": {
             "ACC": "accusative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -52,10 +64,12 @@
         ],
         "citation": "popp:tebay:19[1b]",
         "clength": 43,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Ohne</div>\n\t\t<div class=\"glossblock\">without</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Conny</div>\n\t\t<div class=\"glossblock\">Conny</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">den</div>\n\t\t<div class=\"glossblock\">the.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hund</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ist</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">es</div>\n\t\t<div class=\"glossblock\">it</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">langweilig.</div>\n\t\t<div class=\"glossblock\">boring</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Ohne</div>\n\t\t<div class=\"glossblock\">without</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Conny</div>\n\t\t<div class=\"glossblock\">Conny</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">den</div>\n\t\t<div class=\"glossblock\">the.<span class='abbr'>ACC<span class='abbrexpansion'>accusative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hund</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ist</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">es</div>\n\t\t<div class=\"glossblock\">it</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">langweilig.</div>\n\t\t<div class=\"glossblock\">boring</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "without",
             "of",
@@ -69,8 +83,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "*Ohne",
             "von",
@@ -89,6 +106,7 @@
         "abbrkey": {
             "GEN": "genitive"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "C",
@@ -96,10 +114,12 @@
         ],
         "citation": "popp:tebay:19[1c]",
         "clength": 37,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ohne</div>\n\t\t<div class=\"glossblock\">without</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Conny-s</div>\n\t\t<div class=\"glossblock\">Conny-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hund</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ist</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">es</div>\n\t\t<div class=\"glossblock\">it</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">langweilig.’</div>\n\t\t<div class=\"glossblock\">boring</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ohne</div>\n\t\t<div class=\"glossblock\">without</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Conny-s</div>\n\t\t<div class=\"glossblock\">Conny-<span class='abbr'>GEN<span class='abbrexpansion'>genitive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hund</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ist</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">es</div>\n\t\t<div class=\"glossblock\">it</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">langweilig.’</div>\n\t\t<div class=\"glossblock\">boring</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "without",
             "Conny-GEN",
@@ -111,8 +131,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Ohne",
             "Conny-s",
@@ -129,6 +152,7 @@
         "abbrkey": {
             "DAT": "dative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "C",
@@ -136,10 +160,12 @@
         ],
         "citation": "popp:tebay:19[2a]",
         "clength": 38,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Conny</div>\n\t\t<div class=\"glossblock\">Conny</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dem</div>\n\t\t<div class=\"glossblock\">the.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hund</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gefällt</div>\n\t\t<div class=\"glossblock\">is.pleased</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">das</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nicht.</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Conny</div>\n\t\t<div class=\"glossblock\">Conny</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dem</div>\n\t\t<div class=\"glossblock\">the.<span class='abbr'>DAT<span class='abbrexpansion'>dative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hund</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gefällt</div>\n\t\t<div class=\"glossblock\">is.pleased</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">das</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nicht.</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "of",
             "Conny",
@@ -152,9 +178,12 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "*Von",
             "Conny",
@@ -172,6 +201,7 @@
         "abbrkey": {
             "DAT": "dative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "C",
@@ -179,10 +209,12 @@
         ],
         "citation": "popp:tebay:19[2b]",
         "clength": 37,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dem</div>\n\t\t<div class=\"glossblock\">the.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hund</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Conny</div>\n\t\t<div class=\"glossblock\">Conny</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gefällt</div>\n\t\t<div class=\"glossblock\">is.pleased</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">das</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nicht.</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dem</div>\n\t\t<div class=\"glossblock\">the.<span class='abbr'>DAT<span class='abbrexpansion'>dative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hund</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Conny</div>\n\t\t<div class=\"glossblock\">Conny</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gefällt</div>\n\t\t<div class=\"glossblock\">is.pleased</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">das</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nicht.</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the.DAT",
             "dog",
@@ -195,9 +227,12 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Dem",
             "Hund",
@@ -216,6 +251,7 @@
             "DAT": "dative",
             "GEN": "genitive"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "C",
@@ -224,10 +260,12 @@
         ],
         "citation": "popp:tebay:19[2c]",
         "clength": 32,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Conny-s</div>\n\t\t<div class=\"glossblock\">Conny-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hund</div>\n\t\t<div class=\"glossblock\">dog.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gefällt</div>\n\t\t<div class=\"glossblock\">is.pleased</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">das</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nicht.’</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Conny-s</div>\n\t\t<div class=\"glossblock\">Conny-<span class='abbr'>GEN<span class='abbrexpansion'>genitive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hund</div>\n\t\t<div class=\"glossblock\">dog.<span class='abbr'>DAT<span class='abbrexpansion'>dative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gefällt</div>\n\t\t<div class=\"glossblock\">is.pleased</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">das</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nicht.’</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Conny-GEN",
             "dog.DAT",
@@ -238,9 +276,12 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Conny-s",
             "Hund",
@@ -256,16 +297,19 @@
         "abbrkey": {
             "GEN": "genitive"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "GEN"
         ],
         "citation": "popp:tebay:19[3a]",
         "clength": 23,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">das</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Auto</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meines</div>\n\t\t<div class=\"glossblock\">my.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Vater-s</div>\n\t\t<div class=\"glossblock\">father-GEN</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">das</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Auto</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meines</div>\n\t\t<div class=\"glossblock\">my.<span class='abbr'>GEN<span class='abbrexpansion'>genitive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Vater-s</div>\n\t\t<div class=\"glossblock\">father-<span class='abbr'>GEN<span class='abbrexpansion'>genitive</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
             "car",
@@ -275,8 +319,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "das",
             "Auto",
@@ -291,6 +338,7 @@
         "abbrkey": {
             "GEN": "genitive"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "GEN",
@@ -298,10 +346,12 @@
         ],
         "citation": "popp:tebay:19[3b]",
         "clength": 12,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Peter-s</div>\n\t\t<div class=\"glossblock\">Peter-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Auto</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Peter-s</div>\n\t\t<div class=\"glossblock\">Peter-<span class='abbr'>GEN<span class='abbrexpansion'>genitive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Auto</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Peter-GEN",
             "car"
@@ -309,8 +359,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Peter-s",
             "Auto"
@@ -323,16 +376,19 @@
         "abbrkey": {
             "DAT": "dative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "DAT"
         ],
         "citation": "popp:tebay:19[3c]",
         "clength": 23,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mein-em</div>\n\t\t<div class=\"glossblock\">my-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Vater</div>\n\t\t<div class=\"glossblock\">father</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sein</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Auto</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mein-em</div>\n\t\t<div class=\"glossblock\">my-<span class='abbr'>DAT<span class='abbrexpansion'>dative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Vater</div>\n\t\t<div class=\"glossblock\">father</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sein</div>\n\t\t<div class=\"glossblock\">his</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Auto</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "my-DAT",
             "father",
@@ -342,8 +398,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "mein-em",
             "Vater",
@@ -356,13 +415,16 @@
     {
         "ID": "glossa5123-10",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [],
         "citation": "popp:tebay:19[3d]",
         "clength": 25,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">das</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Auto</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meinem</div>\n\t\t<div class=\"glossblock\">my</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Vater</div>\n\t\t<div class=\"glossblock\">father</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the",
@@ -374,8 +436,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "das",
             "Auto",
@@ -391,6 +456,7 @@
         "abbrkey": {
             "NOM": "nominative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "M",
@@ -398,10 +464,12 @@
         ],
         "citation": "popp:tebay:19[4a]",
         "clength": 40,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Die</div>\n\t\t<div class=\"glossblock\">the.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Frau</div>\n\t\t<div class=\"glossblock\">wife</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Max</div>\n\t\t<div class=\"glossblock\">Max</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hat</div>\n\t\t<div class=\"glossblock\">has</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">einen</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Film</div>\n\t\t<div class=\"glossblock\">movie</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gesehen.</div>\n\t\t<div class=\"glossblock\">seen</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Die</div>\n\t\t<div class=\"glossblock\">the.<span class='abbr'>NOM<span class='abbrexpansion'>nominative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Frau</div>\n\t\t<div class=\"glossblock\">wife</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Max</div>\n\t\t<div class=\"glossblock\">Max</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hat</div>\n\t\t<div class=\"glossblock\">has</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">einen</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Film</div>\n\t\t<div class=\"glossblock\">movie</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gesehen.</div>\n\t\t<div class=\"glossblock\">seen</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the.NOM",
             "wife",
@@ -415,8 +483,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Die",
             "Frau",
@@ -435,6 +506,7 @@
         "abbrkey": {
             "NOM": "nominative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "M",
@@ -442,10 +514,12 @@
         ],
         "citation": "popp:tebay:19[4b]",
         "clength": 40,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Max</div>\n\t\t<div class=\"glossblock\">Max</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">die</div>\n\t\t<div class=\"glossblock\">the.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Frau</div>\n\t\t<div class=\"glossblock\">wife</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hat</div>\n\t\t<div class=\"glossblock\">has</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">einen</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Film</div>\n\t\t<div class=\"glossblock\">movie</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gesehen.</div>\n\t\t<div class=\"glossblock\">seen</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Max</div>\n\t\t<div class=\"glossblock\">Max</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">die</div>\n\t\t<div class=\"glossblock\">the.<span class='abbr'>NOM<span class='abbrexpansion'>nominative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Frau</div>\n\t\t<div class=\"glossblock\">wife</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hat</div>\n\t\t<div class=\"glossblock\">has</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">einen</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Film</div>\n\t\t<div class=\"glossblock\">movie</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gesehen.</div>\n\t\t<div class=\"glossblock\">seen</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "of",
             "Max",
@@ -459,8 +533,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Von",
             "Max",
@@ -479,6 +556,7 @@
         "abbrkey": {
             "ACC": "accusative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -487,10 +565,12 @@
         ],
         "citation": "popp:tebay:19[5a]",
         "clength": 48,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ohne</div>\n\t\t<div class=\"glossblock\">without</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">die</div>\n\t\t<div class=\"glossblock\">the.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Frau</div>\n\t\t<div class=\"glossblock\">wife</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Max</div>\n\t\t<div class=\"glossblock\">Max</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bin</div>\n\t\t<div class=\"glossblock\">am</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ins</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kino</div>\n\t\t<div class=\"glossblock\">cinema</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gegangen.</div>\n\t\t<div class=\"glossblock\">gone</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ohne</div>\n\t\t<div class=\"glossblock\">without</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">die</div>\n\t\t<div class=\"glossblock\">the.<span class='abbr'>ACC<span class='abbrexpansion'>accusative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Frau</div>\n\t\t<div class=\"glossblock\">wife</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Max</div>\n\t\t<div class=\"glossblock\">Max</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bin</div>\n\t\t<div class=\"glossblock\">am</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ins</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kino</div>\n\t\t<div class=\"glossblock\">cinema</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gegangen.</div>\n\t\t<div class=\"glossblock\">gone</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "without",
             "the.ACC",
@@ -506,8 +586,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Ohne",
             "die",
@@ -528,6 +611,7 @@
         "abbrkey": {
             "ACC": "accusative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -536,10 +620,12 @@
         ],
         "citation": "popp:tebay:19[5b]",
         "clength": 49,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Ohne</div>\n\t\t<div class=\"glossblock\">without</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Max</div>\n\t\t<div class=\"glossblock\">Max</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">die</div>\n\t\t<div class=\"glossblock\">the.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Frau</div>\n\t\t<div class=\"glossblock\">wife</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bin</div>\n\t\t<div class=\"glossblock\">am</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ins</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kino</div>\n\t\t<div class=\"glossblock\">cinema</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gegangen.</div>\n\t\t<div class=\"glossblock\">gone</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Ohne</div>\n\t\t<div class=\"glossblock\">without</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Max</div>\n\t\t<div class=\"glossblock\">Max</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">die</div>\n\t\t<div class=\"glossblock\">the.<span class='abbr'>ACC<span class='abbrexpansion'>accusative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Frau</div>\n\t\t<div class=\"glossblock\">wife</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bin</div>\n\t\t<div class=\"glossblock\">am</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ins</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kino</div>\n\t\t<div class=\"glossblock\">cinema</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gegangen.</div>\n\t\t<div class=\"glossblock\">gone</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "without",
             "of",
@@ -555,8 +641,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "*Ohne",
             "von",
@@ -577,6 +666,7 @@
         "abbrkey": {
             "ACC": "accusative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -585,10 +675,17 @@
         ],
         "citation": "popp:tebay:19[6a]",
         "clength": 48,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">habe</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Maria</div>\n\t\t<div class=\"glossblock\">Mary</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">den</div>\n\t\t<div class=\"glossblock\">the.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Freund</div>\n\t\t<div class=\"glossblock\">friend</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">im</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kino</div>\n\t\t<div class=\"glossblock\">cinema</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">getroffen.</div>\n\t\t<div class=\"glossblock\">met</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "Mary",
+                "wdid": "Q345"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">habe</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Maria</div>\n\t\t<div class=\"glossblock\">Mary</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">den</div>\n\t\t<div class=\"glossblock\">the.<span class='abbr'>ACC<span class='abbrexpansion'>accusative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Freund</div>\n\t\t<div class=\"glossblock\">friend</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">im</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kino</div>\n\t\t<div class=\"glossblock\">cinema</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">getroffen.</div>\n\t\t<div class=\"glossblock\">met</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
             "have",
@@ -603,8 +700,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Ich",
             "habe",
@@ -624,6 +724,7 @@
         "abbrkey": {
             "DAT": "dative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "DAT",
@@ -632,10 +733,12 @@
         ],
         "citation": "popp:tebay:19[6b]",
         "clength": 37,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hans</div>\n\t\t<div class=\"glossblock\">Hans</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">the.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Frau</div>\n\t\t<div class=\"glossblock\">wife</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">habe</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">geholfen.</div>\n\t\t<div class=\"glossblock\">helped</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hans</div>\n\t\t<div class=\"glossblock\">Hans</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">the.<span class='abbr'>DAT<span class='abbrexpansion'>dative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Frau</div>\n\t\t<div class=\"glossblock\">wife</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">habe</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">geholfen.</div>\n\t\t<div class=\"glossblock\">helped</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "of",
             "Hans",
@@ -648,8 +751,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "*Von",
             "Hans",
@@ -667,6 +773,7 @@
         "abbrkey": {
             "DAT": "dative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "DAT",
@@ -675,10 +782,12 @@
         ],
         "citation": "popp:tebay:19[6c]",
         "clength": 47,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hans</div>\n\t\t<div class=\"glossblock\">Hans</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">the.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Frau</div>\n\t\t<div class=\"glossblock\">wife</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">habe</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mein</div>\n\t\t<div class=\"glossblock\">my</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Auto</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">geliehen.</div>\n\t\t<div class=\"glossblock\">lent</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hans</div>\n\t\t<div class=\"glossblock\">Hans</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">the.<span class='abbr'>DAT<span class='abbrexpansion'>dative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Frau</div>\n\t\t<div class=\"glossblock\">wife</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">habe</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mein</div>\n\t\t<div class=\"glossblock\">my</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Auto</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">geliehen.</div>\n\t\t<div class=\"glossblock\">lent</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "of",
             "Hans",
@@ -693,8 +802,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "*Von",
             "Hans",
@@ -714,6 +826,7 @@
         "abbrkey": {
             "DAT": "dative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "DAT",
@@ -722,10 +835,12 @@
         ],
         "citation": "popp:tebay:19[6d]",
         "clength": 47,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">habe</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hans</div>\n\t\t<div class=\"glossblock\">Hans</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">the.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Frau</div>\n\t\t<div class=\"glossblock\">wife</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mein</div>\n\t\t<div class=\"glossblock\">my</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Auto</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">geliehen.</div>\n\t\t<div class=\"glossblock\">lent</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">habe</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hans</div>\n\t\t<div class=\"glossblock\">Hans</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">the.<span class='abbr'>DAT<span class='abbrexpansion'>dative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Frau</div>\n\t\t<div class=\"glossblock\">wife</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mein</div>\n\t\t<div class=\"glossblock\">my</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Auto</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">geliehen.</div>\n\t\t<div class=\"glossblock\">lent</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
             "have",
@@ -740,8 +855,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "*Ich",
             "habe",
@@ -759,6 +877,7 @@
     {
         "ID": "glossa5123-19",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "H",
@@ -766,9 +885,11 @@
         ],
         "citation": "popp:tebay:19[7a]",
         "clength": 36,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">HANS</div>\n\t\t<div class=\"glossblock\">Hans</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Frau</div>\n\t\t<div class=\"glossblock\">wife</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">habe</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">geholfen.</div>\n\t\t<div class=\"glossblock\">helped</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "of",
@@ -782,8 +903,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Von",
             "HANS",
@@ -799,6 +923,7 @@
     {
         "ID": "glossa5123-20",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "H",
@@ -806,9 +931,11 @@
         ],
         "citation": "popp:tebay:19[7b]",
         "clength": 36,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">HANS</div>\n\t\t<div class=\"glossblock\">Hans</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">habe</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Frau</div>\n\t\t<div class=\"glossblock\">wife</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">geholfen.</div>\n\t\t<div class=\"glossblock\">helped</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "of",
@@ -822,8 +949,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Von",
             "HANS",
@@ -842,6 +972,7 @@
             "DAT": "dative",
             "GEN": "genitive"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "DAT",
@@ -849,10 +980,12 @@
         ],
         "citation": "popp:tebay:19[8a]",
         "clength": 42,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dem</div>\n\t\t<div class=\"glossblock\">the.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Auto</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meine-s</div>\n\t\t<div class=\"glossblock\">my-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Vater-s</div>\n\t\t<div class=\"glossblock\">father-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fehlt</div>\n\t\t<div class=\"glossblock\">lacks</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ein</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Reifen.</div>\n\t\t<div class=\"glossblock\">tire</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dem</div>\n\t\t<div class=\"glossblock\">the.<span class='abbr'>DAT<span class='abbrexpansion'>dative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Auto</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meine-s</div>\n\t\t<div class=\"glossblock\">my-<span class='abbr'>GEN<span class='abbrexpansion'>genitive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Vater-s</div>\n\t\t<div class=\"glossblock\">father-<span class='abbr'>GEN<span class='abbrexpansion'>genitive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fehlt</div>\n\t\t<div class=\"glossblock\">lacks</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ein</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Reifen.</div>\n\t\t<div class=\"glossblock\">tire</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "the.DAT",
             "car",
@@ -865,8 +998,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Dem",
             "Auto",
@@ -884,6 +1020,7 @@
         "abbrkey": {
             "GEN": "genitive"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "GEN",
@@ -891,10 +1028,12 @@
         ],
         "citation": "popp:tebay:19[8b]",
         "clength": 30,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Peter-s</div>\n\t\t<div class=\"glossblock\">Peter-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Auto</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fehlt</div>\n\t\t<div class=\"glossblock\">lacks</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ein</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Reifen.</div>\n\t\t<div class=\"glossblock\">tire</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Peter-s</div>\n\t\t<div class=\"glossblock\">Peter-<span class='abbr'>GEN<span class='abbrexpansion'>genitive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Auto</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fehlt</div>\n\t\t<div class=\"glossblock\">lacks</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ein</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Reifen.</div>\n\t\t<div class=\"glossblock\">tire</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Peter-GEN",
             "car",
@@ -905,8 +1044,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Peter-s",
             "Auto",
@@ -922,16 +1064,19 @@
         "abbrkey": {
             "DAT": "dative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "DAT"
         ],
         "citation": "popp:tebay:19[8c]",
         "clength": 44,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Meine-m</div>\n\t\t<div class=\"glossblock\">my-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Vater</div>\n\t\t<div class=\"glossblock\">father</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">seine-m</div>\n\t\t<div class=\"glossblock\">his-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Auto</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fehlt</div>\n\t\t<div class=\"glossblock\">lacks</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ein</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Reifen.</div>\n\t\t<div class=\"glossblock\">tire</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Meine-m</div>\n\t\t<div class=\"glossblock\">my-<span class='abbr'>DAT<span class='abbrexpansion'>dative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Vater</div>\n\t\t<div class=\"glossblock\">father</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">seine-m</div>\n\t\t<div class=\"glossblock\">his-<span class='abbr'>DAT<span class='abbrexpansion'>dative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Auto</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">fehlt</div>\n\t\t<div class=\"glossblock\">lacks</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ein</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Reifen.</div>\n\t\t<div class=\"glossblock\">tire</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "my-DAT",
             "father",
@@ -944,8 +1089,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Meine-m",
             "Vater",
@@ -964,6 +1112,7 @@
             "DAT": "dative",
             "GEN": "genitive"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "B",
@@ -973,10 +1122,12 @@
         ],
         "citation": "popp:tebay:19[9a]",
         "clength": 58,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mit</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dem</div>\n\t\t<div class=\"glossblock\">the.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Auto</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meine-s</div>\n\t\t<div class=\"glossblock\">my-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Vater-s</div>\n\t\t<div class=\"glossblock\">father-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bin</div>\n\t\t<div class=\"glossblock\">am</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nach</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Berlin</div>\n\t\t<div class=\"glossblock\">Berlin</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gefahren.</div>\n\t\t<div class=\"glossblock\">gone</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mit</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dem</div>\n\t\t<div class=\"glossblock\">the.<span class='abbr'>DAT<span class='abbrexpansion'>dative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Auto</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meine-s</div>\n\t\t<div class=\"glossblock\">my-<span class='abbr'>GEN<span class='abbrexpansion'>genitive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Vater-s</div>\n\t\t<div class=\"glossblock\">father-<span class='abbr'>GEN<span class='abbrexpansion'>genitive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bin</div>\n\t\t<div class=\"glossblock\">am</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nach</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Berlin</div>\n\t\t<div class=\"glossblock\">Berlin</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gefahren.</div>\n\t\t<div class=\"glossblock\">gone</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "with",
             "the.DAT",
@@ -992,8 +1143,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Mit",
             "dem",
@@ -1014,6 +1168,7 @@
         "abbrkey": {
             "GEN": "genitive"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "B",
@@ -1023,10 +1178,12 @@
         ],
         "citation": "popp:tebay:19[9b]",
         "clength": 46,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mit</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Peter-s</div>\n\t\t<div class=\"glossblock\">Peter-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Auto</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bin</div>\n\t\t<div class=\"glossblock\">am</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nach</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Berlin</div>\n\t\t<div class=\"glossblock\">Berlin</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gefahren.</div>\n\t\t<div class=\"glossblock\">gone</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mit</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Peter-s</div>\n\t\t<div class=\"glossblock\">Peter-<span class='abbr'>GEN<span class='abbrexpansion'>genitive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Auto</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bin</div>\n\t\t<div class=\"glossblock\">am</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nach</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Berlin</div>\n\t\t<div class=\"glossblock\">Berlin</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gefahren.</div>\n\t\t<div class=\"glossblock\">gone</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "with",
             "Peter-GEN",
@@ -1040,8 +1197,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Mit",
             "Peter-s",
@@ -1060,6 +1220,7 @@
         "abbrkey": {
             "DAT": "dative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "B",
@@ -1068,10 +1229,17 @@
         ],
         "citation": "popp:tebay:19[9c]",
         "clength": 60,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mit</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meine-m</div>\n\t\t<div class=\"glossblock\">my-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Vater</div>\n\t\t<div class=\"glossblock\">father</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">seine-m</div>\n\t\t<div class=\"glossblock\">his-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Auto</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bin</div>\n\t\t<div class=\"glossblock\">am</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nach</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Berlin</div>\n\t\t<div class=\"glossblock\">Berlin</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gefahren.</div>\n\t\t<div class=\"glossblock\">gone</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "Berlin",
+                "wdid": "Q64"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mit</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meine-m</div>\n\t\t<div class=\"glossblock\">my-<span class='abbr'>DAT<span class='abbrexpansion'>dative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Vater</div>\n\t\t<div class=\"glossblock\">father</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">seine-m</div>\n\t\t<div class=\"glossblock\">his-<span class='abbr'>DAT<span class='abbrexpansion'>dative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Auto</div>\n\t\t<div class=\"glossblock\">car</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bin</div>\n\t\t<div class=\"glossblock\">am</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nach</div>\n\t\t<div class=\"glossblock\">to</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Berlin</div>\n\t\t<div class=\"glossblock\">Berlin</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gefahren.</div>\n\t\t<div class=\"glossblock\">gone</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "with",
             "my-DAT",
@@ -1087,8 +1255,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Mit",
             "meine-m",
@@ -1107,15 +1278,18 @@
     {
         "ID": "glossa5123-27",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "I"
         ],
         "citation": "bayer:bader:etal:01;popp:tebay:19[via:15a]",
         "clength": 29,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*[]</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">denke</div>\n\t\t<div class=\"glossblock\">think</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">die</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ganze</div>\n\t\t<div class=\"glossblock\">whole</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Zeit.</div>\n\t\t<div class=\"glossblock\">time</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -1128,8 +1302,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "*[]",
             "denke",
@@ -1144,15 +1321,18 @@
     {
         "ID": "glossa5123-28",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "I"
         ],
         "citation": "bayer:bader:etal:01;popp:tebay:19[via:15b]",
         "clength": 30,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*[]</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">würde</div>\n\t\t<div class=\"glossblock\">would</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nicht</div>\n\t\t<div class=\"glossblock\">not</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vertrauen.</div>\n\t\t<div class=\"glossblock\">trust</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -1164,8 +1344,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "*[]",
             "würde",
@@ -1179,15 +1362,18 @@
     {
         "ID": "glossa5123-29",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "I"
         ],
         "citation": "bayer:bader:etal:01;popp:tebay:19[via:15c]",
         "clength": 37,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[]</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hab</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gestern</div>\n\t\t<div class=\"glossblock\">yesterday</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">im</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Park</div>\n\t\t<div class=\"glossblock\">park</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">getroffen.</div>\n\t\t<div class=\"glossblock\">met</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "",
@@ -1201,8 +1387,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "[]",
             "hab",
@@ -1221,6 +1410,7 @@
         "abbrkey": {
             "ACC": "accusative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -1229,10 +1419,17 @@
         ],
         "citation": "popp:tebay:19[16a]",
         "clength": 51,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Maria</div>\n\t\t<div class=\"glossblock\">Mary</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">den</div>\n\t\t<div class=\"glossblock\">the.ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Bruder</div>\n\t\t<div class=\"glossblock\">brother</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">habe</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">in</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Stadt</div>\n\t\t<div class=\"glossblock\">town</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gesehen.</div>\n\t\t<div class=\"glossblock\">seen</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "Mary",
+                "wdid": "Q345"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Maria</div>\n\t\t<div class=\"glossblock\">Mary</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">den</div>\n\t\t<div class=\"glossblock\">the.<span class='abbr'>ACC<span class='abbrexpansion'>accusative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Bruder</div>\n\t\t<div class=\"glossblock\">brother</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">habe</div>\n\t\t<div class=\"glossblock\">have</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ich</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">in</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Stadt</div>\n\t\t<div class=\"glossblock\">town</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gesehen.</div>\n\t\t<div class=\"glossblock\">seen</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "of",
             "Mary",
@@ -1248,8 +1445,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Von",
             "Maria",
@@ -1270,16 +1470,19 @@
         "abbrkey": {
             "NOM": "nominative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "NOM"
         ],
         "citation": "popp:tebay:19[17a]",
         "clength": 41,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mit</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dem</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hund</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">die</div>\n\t\t<div class=\"glossblock\">the.NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Frau</div>\n\t\t<div class=\"glossblock\">woman</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sitzt</div>\n\t\t<div class=\"glossblock\">sits</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">im</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gefängnis.</div>\n\t\t<div class=\"glossblock\">jail</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mit</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dem</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hund</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">die</div>\n\t\t<div class=\"glossblock\">the.<span class='abbr'>NOM<span class='abbrexpansion'>nominative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Frau</div>\n\t\t<div class=\"glossblock\">woman</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sitzt</div>\n\t\t<div class=\"glossblock\">sits</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">im</div>\n\t\t<div class=\"glossblock\">in</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Gefängnis.</div>\n\t\t<div class=\"glossblock\">jail</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "with",
             "the",
@@ -1293,8 +1496,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Mit",
             "dem",
@@ -1313,16 +1519,19 @@
         "abbrkey": {
             "DAT": "dative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "DAT"
         ],
         "citation": "popp:tebay:19[17b]",
         "clength": 49,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Mit</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dem</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hund</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">the.DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Frau</div>\n\t\t<div class=\"glossblock\">woman</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ist</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ausbruch</div>\n\t\t<div class=\"glossblock\">escape</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gelungen.</div>\n\t\t<div class=\"glossblock\">succeeded</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Mit</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dem</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hund</div>\n\t\t<div class=\"glossblock\">dog</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">the.<span class='abbr'>DAT<span class='abbrexpansion'>dative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Frau</div>\n\t\t<div class=\"glossblock\">woman</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ist</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">der</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ausbruch</div>\n\t\t<div class=\"glossblock\">escape</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gelungen.</div>\n\t\t<div class=\"glossblock\">succeeded</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "with",
             "the",
@@ -1337,8 +1546,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "*Mit",
             "dem",
@@ -1356,15 +1568,18 @@
     {
         "ID": "glossa5123-33",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "F"
         ],
         "citation": "loetscher:ruoff:etal:97;popp:tebay:19[via:19]",
         "clength": 36,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">S’isch</div>\n\t\t<div class=\"glossblock\">it.is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">schaad,</div>\n\t\t<div class=\"glossblock\">unfortunate</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">isch</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">es</div>\n\t\t<div class=\"glossblock\">it</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">scho</div>\n\t\t<div class=\"glossblock\">already</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Friitig.</div>\n\t\t<div class=\"glossblock\">Friday</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "it.is",
@@ -1377,8 +1592,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "S’isch",
             "schaad,",
@@ -1393,15 +1611,23 @@
     {
         "ID": "glossa5123-34",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "M"
         ],
         "citation": "popp:tebay:19[i]",
         "clength": 30,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
+        "entities": [
+            {
+                "label": "Messi",
+                "wdid": "Q615"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Messi</div>\n\t\t<div class=\"glossblock\">Messi</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">traf</div>\n\t\t<div class=\"glossblock\">scored</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">von</div>\n\t\t<div class=\"glossblock\">from</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hinter</div>\n\t\t<div class=\"glossblock\">behind</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dem</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Tor.</div>\n\t\t<div class=\"glossblock\">goal</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Messi",
@@ -1414,8 +1640,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Messi",
             "traf",
@@ -1432,16 +1661,19 @@
         "abbrkey": {
             "GEN": "genitive"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "GEN"
         ],
         "citation": "popp:tebay:19[ii]",
         "clength": 55,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Wir</div>\n\t\t<div class=\"glossblock\">we</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wollen</div>\n\t\t<div class=\"glossblock\">want</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">heute</div>\n\t\t<div class=\"glossblock\">today</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meiner</div>\n\t\t<div class=\"glossblock\">my</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Frau</div>\n\t\t<div class=\"glossblock\">wife</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">des</div>\n\t\t<div class=\"glossblock\">the.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Bruders</div>\n\t\t<div class=\"glossblock\">brother</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gedenken.</div>\n\t\t<div class=\"glossblock\">remember</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Wir</div>\n\t\t<div class=\"glossblock\">we</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wollen</div>\n\t\t<div class=\"glossblock\">want</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">heute</div>\n\t\t<div class=\"glossblock\">today</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">meiner</div>\n\t\t<div class=\"glossblock\">my</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Frau</div>\n\t\t<div class=\"glossblock\">wife</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">des</div>\n\t\t<div class=\"glossblock\">the.<span class='abbr'>GEN<span class='abbrexpansion'>genitive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Bruders</div>\n\t\t<div class=\"glossblock\">brother</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gedenken.</div>\n\t\t<div class=\"glossblock\">remember</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "we",
             "want",
@@ -1456,9 +1688,12 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
         "modality": "volitive",
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "*Wir",
             "wollen",
@@ -1476,15 +1711,18 @@
     {
         "ID": "glossa5123-36",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "P"
         ],
         "citation": "popp:tebay:19[iii]",
         "clength": 33,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5123,
         "doc_URL": "https://www.glossa-journal.org/article/id/5123",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[von</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Peter</div>\n\t\t<div class=\"glossblock\">Peter</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[ [</div>\n\t\t<div class=\"glossblock\"></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">all</div>\n\t\t<div class=\"glossblock\">all</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">die]</div>\n\t\t<div class=\"glossblock\">the</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Freunde]]</div>\n\t\t<div class=\"glossblock\">friends</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "of",
@@ -1497,8 +1735,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Popp, Marie-Luise and Tebay, Sören Eggert. 2019. No possessor inversion in German PPs. Glossa: a journal of general linguistics 4(1). Open Library of Humanities.",
         "srcwordsbare": [
             "[von",
             "Peter",

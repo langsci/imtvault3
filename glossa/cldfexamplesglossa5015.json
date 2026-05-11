@@ -2,6 +2,32 @@
     {
         "ID": "glossa5015-1",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -12,9 +38,43 @@
         ],
         "citation": "mckenzie:eziz:etal:18[2]",
         "clength": 25,
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[Kitab–ni</div>\n\t\t<div class=\"glossblock\">book–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oqu]–p</div>\n\t\t<div class=\"glossblock\">read–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">baq–tim.</div>\n\t\t<div class=\"glossblock\">try.AUX–PST:1S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "book–ACC",
@@ -24,8 +84,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "[Kitab–ni",
             "oqu]–p",
@@ -37,6 +102,7 @@
     {
         "ID": "glossa5015-2",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "CVB",
@@ -47,9 +113,16 @@
         "citation": "mckenzie:eziz:etal:18[3]",
         "clength": 19,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [
+            {
+                "label": "AVC",
+                "wdid": "Q431852"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Men</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kül–üp</div>\n\t\t<div class=\"glossblock\">laugh–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ket–tim.</div>\n\t\t<div class=\"glossblock\">go–PST:1S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -59,8 +132,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Men",
             "kül–üp",
@@ -72,6 +148,7 @@
     {
         "ID": "glossa5015-3",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "CVB",
@@ -81,9 +158,11 @@
         ],
         "citation": "mckenzie:eziz:etal:18[4]",
         "clength": 22,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Men</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kül–üp</div>\n\t\t<div class=\"glossblock\">laugh–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tashli–dim.</div>\n\t\t<div class=\"glossblock\">throw–PST:1S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -93,8 +172,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Men",
             "kül–üp",
@@ -106,6 +188,7 @@
     {
         "ID": "glossa5015-4",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -116,9 +199,11 @@
         "citation": "mckenzie:eziz:etal:18[5]",
         "clength": 14,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bašla–p</div>\n\t\t<div class=\"glossblock\">start–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ber–iŋ</div>\n\t\t<div class=\"glossblock\">give.AUX–IMPR.2S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "start–CVB",
@@ -127,8 +212,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "bašla–p",
             "ber–iŋ"
@@ -141,6 +229,32 @@
         "abbrkey": {
             "B": null
         },
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -152,9 +266,52 @@
         ],
         "citation": "mckenzie:eziz:etal:18[6]",
         "clength": 26,
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [
+            {
+                "label": "Boston",
+                "wdid": "Q100"
+            },
+            {
+                "label": "Boston",
+                "wdid": "Q100"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Boston–gha</div>\n\t\t<div class=\"glossblock\">B.–DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bér–ip</div>\n\t\t<div class=\"glossblock\">go–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">baq–tim.</div>\n\t\t<div class=\"glossblock\">look.AUX–PST:1S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "B.–DAT",
@@ -164,8 +321,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Boston–gha",
             "bér–ip",
@@ -177,6 +339,32 @@
     {
         "ID": "glossa5015-6",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -188,9 +376,43 @@
         "citation": "mckenzie:eziz:etal:18[7a]",
         "clength": 55,
         "coordination": "and",
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ali</div>\n\t\t<div class=\"glossblock\">A.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">öy–ge</div>\n\t\t<div class=\"glossblock\">house-DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kél–ip,</div>\n\t\t<div class=\"glossblock\">come–CVB,</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tapshuruq</div>\n\t\t<div class=\"glossblock\">homework</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ishle–p,</div>\n\t\t<div class=\"glossblock\">do–CVB,</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">andin</div>\n\t\t<div class=\"glossblock\">and then</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tamaq</div>\n\t\t<div class=\"glossblock\">food</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yé–di.</div>\n\t\t<div class=\"glossblock\">eat–PST:3S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "A.",
@@ -205,8 +427,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Ali",
             "öy–ge",
@@ -225,6 +452,28 @@
         "abbrkey": {
             "M": "masculine"
         },
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -236,9 +485,19 @@
         "citation": "bodrogligeti:03[1179];mckenzie:eziz:etal:18[via:7b]",
         "clength": 46,
         "coordination": "and",
+        "coords": [
+            60.6907,
+            36.6099
+        ],
+        "countries": [
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Murodjon</div>\n\t\t<div class=\"glossblock\">M.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gugurt</div>\n\t\t<div class=\"glossblock\">match</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">chaq–ib</div>\n\t\t<div class=\"glossblock\">strike–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">vikluchatel–ni</div>\n\t\t<div class=\"glossblock\">switch–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">top–di.</div>\n\t\t<div class=\"glossblock\">find–PST:3S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "M.",
@@ -250,8 +509,13 @@
         "language_glottocode": "uzbe1247",
         "language_iso6393": "uzb",
         "language_name": "Uzbek",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Murodjon",
             "gugurt",
@@ -268,6 +532,32 @@
             "COP": "copula",
             "NEG": "negative"
         },
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -281,10 +571,44 @@
         ],
         "citation": "mckenzie:eziz:etal:18[9]",
         "clength": 35,
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Men</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bu</div>\n\t\t<div class=\"glossblock\">this</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hékayi–ni</div>\n\t\t<div class=\"glossblock\">story–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oqu–p</div>\n\t\t<div class=\"glossblock\">read–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–mas=men.</div>\n\t\t<div class=\"glossblock\">become.AUX–AOR.NEG=COP.1S</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Men</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bu</div>\n\t\t<div class=\"glossblock\">this</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hékayi–ni</div>\n\t\t<div class=\"glossblock\">story–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oqu–p</div>\n\t\t<div class=\"glossblock\">read–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–mas=men.</div>\n\t\t<div class=\"glossblock\">become.AUX–AOR.<span class='abbr'>NEG<span class='abbrexpansion'>negative</span></span>=<span class='abbr'>COP<span class='abbrexpansion'>copula</span></span>.1S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
             "this",
@@ -295,8 +619,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Men",
             "bu",
@@ -320,6 +649,32 @@
             "POSS": "possessor agreement",
             "PST": "past tense"
         },
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -336,10 +691,44 @@
         ],
         "citation": "toemuer:lee:03;mckenzie:eziz:etal:18[via:11]",
         "clength": 65,
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kél-idighan-lar-ning</div>\n\t\t<div class=\"glossblock\">come-IPFV-PL-GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hemmi-si</div>\n\t\t<div class=\"glossblock\">everyone-3S.POSS</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kél-ip</div>\n\t\t<div class=\"glossblock\">come-CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol-di,</div>\n\t\t<div class=\"glossblock\">become.AUX-PST:3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">majlis-ni</div>\n\t\t<div class=\"glossblock\">meeting-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bashla-yli</div>\n\t\t<div class=\"glossblock\">begin-OPT.1P</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kél-idighan-lar-ning</div>\n\t\t<div class=\"glossblock\">come-<span class='abbr'>IPFV<span class='abbrexpansion'>imperfective aspect</span></span>-<span class='abbr'>PL<span class='abbrexpansion'>plural noun</span></span>-<span class='abbr'>GEN<span class='abbrexpansion'>genitive/possessive case</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">hemmi-si</div>\n\t\t<div class=\"glossblock\">everyone-3S.<span class='abbr'>POSS<span class='abbrexpansion'>possessor agreement</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kél-ip</div>\n\t\t<div class=\"glossblock\">come-<span class='abbr'>CVB<span class='abbrexpansion'>converb</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol-di,</div>\n\t\t<div class=\"glossblock\">become.<span class='abbr'>AUX<span class='abbrexpansion'>auxiliary form</span></span>-<span class='abbr'>PST<span class='abbrexpansion'>past tense</span></span>:3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">majlis-ni</div>\n\t\t<div class=\"glossblock\">meeting-<span class='abbr'>ACC<span class='abbrexpansion'>accusative case/object marking</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bashla-yli</div>\n\t\t<div class=\"glossblock\">begin-<span class='abbr'>OPT<span class='abbrexpansion'>optative mood</span></span>.1P</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "come-IPFV-PL-GEN",
             "everyone-3S.POSS",
@@ -351,8 +740,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Kél-idighan-lar-ning",
             "hemmi-si",
@@ -367,6 +761,32 @@
     {
         "ID": "glossa5015-10",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "CVB",
@@ -376,9 +796,43 @@
         ],
         "citation": "mckenzie:eziz:etal:18[14a]",
         "clength": 38,
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#Déngiz–gha</div>\n\t\t<div class=\"glossblock\">sea–DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">besh</div>\n\t\t<div class=\"glossblock\">five</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">minut</div>\n\t\t<div class=\"glossblock\">minute</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qara–p</div>\n\t\t<div class=\"glossblock\">look at–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–dum.</div>\n\t\t<div class=\"glossblock\">bol–PST:1S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "sea–DAT",
@@ -390,8 +844,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "#Déngiz–gha",
             "besh",
@@ -405,6 +864,32 @@
     {
         "ID": "glossa5015-11",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -415,9 +900,43 @@
         ],
         "citation": "mckenzie:eziz:etal:18[14b]",
         "clength": 27,
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#Men</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bayliq</div>\n\t\t<div class=\"glossblock\">treasure</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tép–ip</div>\n\t\t<div class=\"glossblock\">find–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–dum.</div>\n\t\t<div class=\"glossblock\">become.AUX–PST:3S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -428,8 +947,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "#Men",
             "bayliq",
@@ -442,6 +966,32 @@
     {
         "ID": "glossa5015-12",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -453,9 +1003,43 @@
         ],
         "citation": "mckenzie:eziz:etal:18[14c]",
         "clength": 30,
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#Put–um–ni</div>\n\t\t<div class=\"glossblock\">leg-1S-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sun–dur–up</div>\n\t\t<div class=\"glossblock\">break–CAUS–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–dum.</div>\n\t\t<div class=\"glossblock\">become.AUX–PST:1S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "leg-1S-ACC",
@@ -465,8 +1049,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "#Put–um–ni",
             "sun–dur–up",
@@ -478,6 +1067,28 @@
     {
         "ID": "glossa5015-13",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "CVB",
@@ -487,9 +1098,19 @@
         ],
         "citation": "mckenzie:eziz:etal:18[15a]",
         "clength": 39,
+        "coords": [
+            60.6907,
+            36.6099
+        ],
+        "countries": [
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#Dengiz–ga</div>\n\t\t<div class=\"glossblock\">sea–DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">besh</div>\n\t\t<div class=\"glossblock\">five</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">daqiqa</div>\n\t\t<div class=\"glossblock\">minute</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">qara–b</div>\n\t\t<div class=\"glossblock\">look at–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bo‘l–dim.</div>\n\t\t<div class=\"glossblock\">bol–PST:1S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "sea–DAT",
@@ -501,8 +1122,13 @@
         "language_glottocode": "uzbe1247",
         "language_iso6393": "uzb",
         "language_name": "Uzbek",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "#Dengiz–ga",
             "besh",
@@ -516,6 +1142,28 @@
     {
         "ID": "glossa5015-14",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -526,9 +1174,19 @@
         ],
         "citation": "mckenzie:eziz:etal:18[15b]",
         "clength": 28,
+        "coords": [
+            60.6907,
+            36.6099
+        ],
+        "countries": [
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#Men</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">xazina</div>\n\t\t<div class=\"glossblock\">treasure</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">top–ib</div>\n\t\t<div class=\"glossblock\">find–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bo‘l–dim.</div>\n\t\t<div class=\"glossblock\">become.AUX–PST:3S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -539,8 +1197,13 @@
         "language_glottocode": "uzbe1247",
         "language_iso6393": "uzb",
         "language_name": "Uzbek",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "#Men",
             "xazina",
@@ -553,6 +1216,28 @@
     {
         "ID": "glossa5015-15",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -564,9 +1249,19 @@
         ],
         "citation": "mckenzie:eziz:etal:18[15c]",
         "clength": 33,
+        "coords": [
+            60.6907,
+            36.6099
+        ],
+        "countries": [
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#Oyog’–im–ni</div>\n\t\t<div class=\"glossblock\">leg-1S-ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sin–dir–ib</div>\n\t\t<div class=\"glossblock\">break–CAUS–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bo‘l–dim.</div>\n\t\t<div class=\"glossblock\">become.AUX–PST:1S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "leg-1S-ACC",
@@ -576,8 +1271,13 @@
         "language_glottocode": "uzbe1247",
         "language_iso6393": "uzb",
         "language_name": "Uzbek",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "#Oyog’–im–ni",
             "sin–dir–ib",
@@ -589,6 +1289,32 @@
     {
         "ID": "glossa5015-16",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -600,9 +1326,43 @@
         ],
         "citation": "mckenzie:eziz:etal:18[16a]",
         "clength": 26,
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#Korli–gha</div>\n\t\t<div class=\"glossblock\">Korla–DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bér–ip</div>\n\t\t<div class=\"glossblock\">go-CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–duq.</div>\n\t\t<div class=\"glossblock\">become.AUX-PST:1P</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Korla–DAT",
@@ -612,8 +1372,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "#Korli–gha",
             "bér–ip",
@@ -625,6 +1390,32 @@
     {
         "ID": "glossa5015-17",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -636,9 +1427,43 @@
         ],
         "citation": "mckenzie:eziz:etal:18[16b]",
         "clength": 26,
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#Korla–ga</div>\n\t\t<div class=\"glossblock\">Korla–DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bar–ib</div>\n\t\t<div class=\"glossblock\">go-CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bo‘l–dik.</div>\n\t\t<div class=\"glossblock\">become.AUX-PST:1P</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Korla–DAT",
@@ -648,8 +1473,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "#Korla–ga",
             "bar–ib",
@@ -661,6 +1491,32 @@
     {
         "ID": "glossa5015-18",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "PST",
@@ -669,9 +1525,43 @@
         "citation": "mckenzie:eziz:etal:18[19a]",
         "clength": 13,
         "coordination": "or",
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kéme</div>\n\t\t<div class=\"glossblock\">ship</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">chök–ti.</div>\n\t\t<div class=\"glossblock\">sink–PST:3S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "ship",
@@ -680,8 +1570,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Kéme",
             "chök–ti."
@@ -692,6 +1587,32 @@
     {
         "ID": "glossa5015-19",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -701,9 +1622,43 @@
         ],
         "citation": "mckenzie:eziz:etal:18[19b]",
         "clength": 21,
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kéme</div>\n\t\t<div class=\"glossblock\">ship</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">chök–üp</div>\n\t\t<div class=\"glossblock\">sink–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bo‘l–di.</div>\n\t\t<div class=\"glossblock\">become.AUX–PST:3S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "ship",
@@ -713,8 +1668,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Kéme",
             "chök–üp",
@@ -726,6 +1686,32 @@
     {
         "ID": "glossa5015-20",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -735,9 +1721,43 @@
         ],
         "citation": "mckenzie:eziz:etal:18[20a]",
         "clength": 32,
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?Besh</div>\n\t\t<div class=\"glossblock\">five</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sa’et–te</div>\n\t\t<div class=\"glossblock\">hour–LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kitab–ni</div>\n\t\t<div class=\"glossblock\">book–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oqu–dum.</div>\n\t\t<div class=\"glossblock\">read–PST:1S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "five",
@@ -748,8 +1768,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "?Besh",
             "sa’et–te",
@@ -762,6 +1787,32 @@
     {
         "ID": "glossa5015-21",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -770,9 +1821,43 @@
         ],
         "citation": "mckenzie:eziz:etal:18[20b]",
         "clength": 28,
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Besh</div>\n\t\t<div class=\"glossblock\">five</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sa’et</div>\n\t\t<div class=\"glossblock\">hour</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kitab–ni</div>\n\t\t<div class=\"glossblock\">book–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oqu–dum.</div>\n\t\t<div class=\"glossblock\">read–PST:1S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "five",
@@ -783,8 +1868,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Besh",
             "sa’et",
@@ -797,6 +1887,32 @@
     {
         "ID": "glossa5015-22",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -808,9 +1924,43 @@
         ],
         "citation": "mckenzie:eziz:etal:18[21a]",
         "clength": 37,
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Besh</div>\n\t\t<div class=\"glossblock\">five</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sa’et–te</div>\n\t\t<div class=\"glossblock\">hour–LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kitab–ni</div>\n\t\t<div class=\"glossblock\">book–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oqu–p</div>\n\t\t<div class=\"glossblock\">read–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–dum.</div>\n\t\t<div class=\"glossblock\">become.AUX–PST:1S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "five",
@@ -822,8 +1972,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Besh",
             "sa’et–te",
@@ -837,6 +1992,32 @@
     {
         "ID": "glossa5015-23",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -847,9 +2028,43 @@
         ],
         "citation": "mckenzie:eziz:etal:18[21b]",
         "clength": 35,
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#Besh</div>\n\t\t<div class=\"glossblock\">five</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sa’et</div>\n\t\t<div class=\"glossblock\">hour</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kitab–ni</div>\n\t\t<div class=\"glossblock\">book–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oqu–p</div>\n\t\t<div class=\"glossblock\">read–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–dum.</div>\n\t\t<div class=\"glossblock\">become.AUX–PST:1S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "five",
@@ -861,8 +2076,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "#Besh",
             "sa’et",
@@ -876,6 +2096,32 @@
     {
         "ID": "glossa5015-24",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -888,9 +2134,43 @@
         "citation": "mckenzie:eziz:etal:18[23]",
         "clength": 45,
         "coordination": "and",
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ali</div>\n\t\t<div class=\"glossblock\">A.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kitab–ni</div>\n\t\t<div class=\"glossblock\">book–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oqu–p,</div>\n\t\t<div class=\"glossblock\">read–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tapshuruq</div>\n\t\t<div class=\"glossblock\">homework</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ishle–p</div>\n\t\t<div class=\"glossblock\">do–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol-di.</div>\n\t\t<div class=\"glossblock\">become.AUX–PST:3S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "A.",
@@ -903,8 +2183,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Ali",
             "kitab–ni",
@@ -921,6 +2206,32 @@
         "abbrkey": {
             "A": "agent-like argument of canonical transitive verb"
         },
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -933,9 +2244,43 @@
         "citation": "mckenzie:eziz:etal:18[24]",
         "clength": 58,
         "coordination": "and",
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ali</div>\n\t\t<div class=\"glossblock\">A.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kitab–ni</div>\n\t\t<div class=\"glossblock\">book–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oqu–p</div>\n\t\t<div class=\"glossblock\">read–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–up,</div>\n\t\t<div class=\"glossblock\">become.AUX–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tapshuruq–ni=mu</div>\n\t\t<div class=\"glossblock\">homework–ACC=even</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ishle–p</div>\n\t\t<div class=\"glossblock\">do–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–di.</div>\n\t\t<div class=\"glossblock\">become.AUX–PST:3S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "A.",
@@ -949,8 +2294,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Ali",
             "kitab–ni",
@@ -966,6 +2316,32 @@
     {
         "ID": "glossa5015-26",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -977,9 +2353,43 @@
         ],
         "citation": "mckenzie:eziz:etal:18[31]",
         "clength": 26,
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kitab–ni</div>\n\t\t<div class=\"glossblock\">book–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oqu–p</div>\n\t\t<div class=\"glossblock\">read–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–mu–dum.</div>\n\t\t<div class=\"glossblock\">become.AUX–NEG–PST:1S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "book–ACC",
@@ -989,9 +2399,14 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Kitab–ni",
             "oqu–p",
@@ -1003,6 +2418,32 @@
     {
         "ID": "glossa5015-27",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AOR",
@@ -1012,9 +2453,43 @@
         ],
         "citation": "mckenzie:eziz:etal:18[32]",
         "clength": 20,
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kéme</div>\n\t\t<div class=\"glossblock\">ship</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">chök–üp</div>\n\t\t<div class=\"glossblock\">sink–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–ar.</div>\n\t\t<div class=\"glossblock\">become.AUX–AOR:3S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "ship",
@@ -1024,8 +2499,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Kéme",
             "chök–üp",
@@ -1037,6 +2517,7 @@
     {
         "ID": "glossa5015-28",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -1047,9 +2528,11 @@
         ],
         "citation": "mckenzie:eziz:etal:18[33]",
         "clength": 25,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kitab–ni</div>\n\t\t<div class=\"glossblock\">book–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oqu–p</div>\n\t\t<div class=\"glossblock\">read–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–arman.</div>\n\t\t<div class=\"glossblock\">become.AUX–AOR:1S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "book–ACC",
@@ -1059,8 +2542,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Kitab–ni",
             "oqu–p",
@@ -1072,6 +2558,32 @@
     {
         "ID": "glossa5015-29",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -1082,9 +2594,43 @@
         ],
         "citation": "mckenzie:eziz:etal:18[38a]",
         "clength": 27,
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#Qeshqer–ge</div>\n\t\t<div class=\"glossblock\">(city)–DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bér–ip</div>\n\t\t<div class=\"glossblock\">go–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–duq.</div>\n\t\t<div class=\"glossblock\">become.AUX–PST:1S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "(city)–DAT",
@@ -1094,8 +2640,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "#Qeshqer–ge",
             "bér–ip",
@@ -1107,6 +2658,32 @@
     {
         "ID": "glossa5015-30",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -1117,9 +2694,43 @@
         ],
         "citation": "mckenzie:eziz:etal:18[38b]",
         "clength": 27,
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#Qarshi–ga</div>\n\t\t<div class=\"glossblock\">(city)–DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bar–ib</div>\n\t\t<div class=\"glossblock\">go–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bo‘l–dik.</div>\n\t\t<div class=\"glossblock\">become.AUX–PST:1S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "(city)–DAT",
@@ -1129,8 +2740,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "#Qarshi–ga",
             "bar–ib",
@@ -1142,6 +2758,32 @@
     {
         "ID": "glossa5015-31",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -1153,9 +2795,43 @@
         "citation": "mckenzie:eziz:etal:18[40]",
         "clength": 23,
         "coordination": "or",
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Kéme</div>\n\t\t<div class=\"glossblock\">ship</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">chök–üp</div>\n\t\t<div class=\"glossblock\">sink–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–mi–di.</div>\n\t\t<div class=\"glossblock\">become.AUX–NEG–PST:3S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "ship",
@@ -1165,9 +2841,14 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Kéme",
             "chök–üp",
@@ -1181,6 +2862,7 @@
         "abbrkey": {
             "A": "agent-like argument of canonical transitive verb"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1192,9 +2874,11 @@
         ],
         "citation": "mckenzie:eziz:etal:18[42]",
         "clength": 35,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Belki</div>\n\t\t<div class=\"glossblock\">maybe</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ali</div>\n\t\t<div class=\"glossblock\">A.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bu</div>\n\t\t<div class=\"glossblock\">this</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kitab–ni</div>\n\t\t<div class=\"glossblock\">book–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oqu–p</div>\n\t\t<div class=\"glossblock\">read–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–di.</div>\n\t\t<div class=\"glossblock\">become.AUX–PST:3S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "maybe",
@@ -1207,8 +2891,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Belki",
             "Ali",
@@ -1226,6 +2913,32 @@
             "A": "agent-like argument of canonical transitive verb",
             "EVID": "indirect evidentiality"
         },
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1239,10 +2952,44 @@
         "citation": "mckenzie:eziz:etal:18[44]",
         "clength": 28,
         "coordination": "and",
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ali</div>\n\t\t<div class=\"glossblock\">A.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kitab–ni</div>\n\t\t<div class=\"glossblock\">book–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oqu–p</div>\n\t\t<div class=\"glossblock\">read–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–uptu.</div>\n\t\t<div class=\"glossblock\">become.AUX–PAST.EVID:3S</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ali</div>\n\t\t<div class=\"glossblock\">A.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kitab–ni</div>\n\t\t<div class=\"glossblock\">book–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">oqu–p</div>\n\t\t<div class=\"glossblock\">read–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–uptu.</div>\n\t\t<div class=\"glossblock\">become.AUX–PAST.<span class='abbr'>EVID<span class='abbrexpansion'>indirect evidentiality</span></span>:3S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "A.",
             "book–ACC",
@@ -1252,8 +2999,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Ali",
             "kitab–ni",
@@ -1269,6 +3021,32 @@
             "A": "agent-like argument of canonical transitive verb",
             "EVID": "indirect evidentiality"
         },
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1282,10 +3060,44 @@
         ],
         "citation": "mckenzie:eziz:etal:18[45]",
         "clength": 33,
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ali</div>\n\t\t<div class=\"glossblock\">A.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">put–i–ni</div>\n\t\t<div class=\"glossblock\">leg–3S–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sun–dur–up</div>\n\t\t<div class=\"glossblock\">break–CAUS–CNV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–uptu.</div>\n\t\t<div class=\"glossblock\">become.AUX–PAST.EVID:3S</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ali</div>\n\t\t<div class=\"glossblock\">A.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">put–i–ni</div>\n\t\t<div class=\"glossblock\">leg–3S–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sun–dur–up</div>\n\t\t<div class=\"glossblock\">break–CAUS–CNV</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–uptu.</div>\n\t\t<div class=\"glossblock\">become.AUX–PAST.<span class='abbr'>EVID<span class='abbrexpansion'>indirect evidentiality</span></span>:3S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "A.",
             "leg–3S–ACC",
@@ -1295,8 +3107,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Ali",
             "put–i–ni",
@@ -1311,6 +3128,32 @@
         "abbrkey": {
             "A": "agent-like argument of canonical transitive verb"
         },
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1325,9 +3168,43 @@
         ],
         "citation": "mckenzie:eziz:etal:18[46]",
         "clength": 50,
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Men</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ishin–imen</div>\n\t\t<div class=\"glossblock\">believe–PRS:1S</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ki,</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ali</div>\n\t\t<div class=\"glossblock\">A.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">put–i–ni</div>\n\t\t<div class=\"glossblock\">leg–3S–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sun–dur–up</div>\n\t\t<div class=\"glossblock\">break–CAUS–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–di.</div>\n\t\t<div class=\"glossblock\">become.AUX–PST:3S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -1341,8 +3218,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Men",
             "ishin–imen",
@@ -1360,6 +3242,32 @@
         "abbrkey": {
             "A": "agent-like argument of canonical transitive verb"
         },
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "A",
@@ -1373,9 +3281,43 @@
         ],
         "citation": "mckenzie:eziz:etal:18[47]",
         "clength": 53,
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Men</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ishin–imen</div>\n\t\t<div class=\"glossblock\">believe–PRS:1S</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ki,</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ali</div>\n\t\t<div class=\"glossblock\">A.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tapshuruq–i–ni</div>\n\t\t<div class=\"glossblock\">homework–3S–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ishle–p</div>\n\t\t<div class=\"glossblock\">do–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–di.</div>\n\t\t<div class=\"glossblock\">become.AUX–PST:3S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -1389,8 +3331,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Men",
             "ishin–imen",
@@ -1406,15 +3353,27 @@
     {
         "ID": "glossa5015-37",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "Q"
         ],
         "citation": "mckenzie:eziz:etal:18[53]",
         "clength": 26,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [
+            {
+                "label": "Assertion",
+                "wdid": "Q7669409"
+            },
+            {
+                "label": "CI",
+                "wdid": "Q6634104"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Qeshqer–ge</div>\n\t\t<div class=\"glossblock\">Qarshi–ga</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bér–ip</div>\n\t\t<div class=\"glossblock\">bar–ip</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–duq.</div>\n\t\t<div class=\"glossblock\">bo‘l–dik.</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Qarshi–ga",
@@ -1424,8 +3383,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Qeshqer–ge",
             "bér–ip",
@@ -1437,6 +3399,7 @@
     {
         "ID": "glossa5015-38",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -1448,9 +3411,11 @@
         ],
         "citation": "mckenzie:eziz:etal:18[56a]",
         "clength": 36,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Men</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u–ning</div>\n\t\t<div class=\"glossblock\">her–GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">resim–i–ni</div>\n\t\t<div class=\"glossblock\">picture–3S–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tart–iwal–dim.</div>\n\t\t<div class=\"glossblock\">pull–CVB.take–PST:1S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -1461,9 +3426,12 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
         "modality": "volitive",
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Men",
             "u–ning",
@@ -1476,6 +3444,7 @@
     {
         "ID": "glossa5015-39",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -1488,9 +3457,11 @@
         ],
         "citation": "mckenzie:eziz:etal:18[56b]",
         "clength": 39,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Men</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">u–ning</div>\n\t\t<div class=\"glossblock\">her–GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">resim–i–ni</div>\n\t\t<div class=\"glossblock\">picture–3S–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">tart–iwal–mi–dim.</div>\n\t\t<div class=\"glossblock\">pull–CVB.take–NEG–PST:1S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -1501,9 +3472,12 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Men",
             "u–ning",
@@ -1516,6 +3490,32 @@
     {
         "ID": "glossa5015-40",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -1526,9 +3526,43 @@
         ],
         "citation": "mckenzie:eziz:etal:18[59]",
         "clength": 27,
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mashina–m</div>\n\t\t<div class=\"glossblock\">car–1S</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">soq–ul–up</div>\n\t\t<div class=\"glossblock\">smash–PASS–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–di.</div>\n\t\t<div class=\"glossblock\">become.AUX–PST:3S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "car–1S",
@@ -1538,8 +3572,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Mashina–m",
             "soq–ul–up",
@@ -1551,6 +3590,32 @@
     {
         "ID": "glossa5015-41",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -1563,9 +3628,43 @@
         ],
         "citation": "mckenzie:eziz:etal:18[61a]",
         "clength": 31,
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#Yaq,</div>\n\t\t<div class=\"glossblock\">No,</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Korli–gha</div>\n\t\t<div class=\"glossblock\">Korla–DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bér–ip</div>\n\t\t<div class=\"glossblock\">go–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–duq.</div>\n\t\t<div class=\"glossblock\">become.AUX–PST:1P</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "No,",
@@ -1576,8 +3675,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "#Yaq,",
             "Korli–gha",
@@ -1590,6 +3694,32 @@
     {
         "ID": "glossa5015-42",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -1602,9 +3732,48 @@
         ],
         "citation": "mckenzie:eziz:etal:18[61b]",
         "clength": 36,
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [
+            {
+                "label": "Samarqand",
+                "wdid": "Q5753"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#Yo‘q,</div>\n\t\t<div class=\"glossblock\">No,</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Samarqand–ga</div>\n\t\t<div class=\"glossblock\">Samarqand–DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bar–ib</div>\n\t\t<div class=\"glossblock\">come–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bo‘l–dik.</div>\n\t\t<div class=\"glossblock\">become.AUX–PST:1P</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "No,",
@@ -1615,8 +3784,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "#Yo‘q,",
             "Samarqand–ga",
@@ -1632,6 +3806,32 @@
             "C": null,
             "H": null
         },
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -1645,9 +3845,43 @@
         "citation": "mckenzie:eziz:etal:18[64]",
         "clength": 34,
         "coordination": "and",
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Harry</div>\n\t\t<div class=\"glossblock\">H.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Cho</div>\n\t\t<div class=\"glossblock\">C.</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bilen</div>\n\t\t<div class=\"glossblock\">with</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">söy–üsh–üp</div>\n\t\t<div class=\"glossblock\">kiss–RECP–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–di.</div>\n\t\t<div class=\"glossblock\">become.AUX–PST:3S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "H.",
@@ -1659,8 +3893,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Harry",
             "Cho",
@@ -1674,6 +3913,7 @@
     {
         "ID": "glossa5015-44",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -1686,9 +3926,11 @@
         ],
         "citation": "mckenzie:eziz:etal:18[73a]",
         "clength": 32,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Pirenik–ler–ni</div>\n\t\t<div class=\"glossblock\">cookie–PL–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yé–me–p</div>\n\t\t<div class=\"glossblock\">eat-NEG–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–dum.</div>\n\t\t<div class=\"glossblock\">become.AUX–PST:1S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "cookie–PL–ACC",
@@ -1698,8 +3940,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "*Pirenik–ler–ni",
             "yé–me–p",
@@ -1713,6 +3958,7 @@
         "abbrkey": {
             "CVB": "converb"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -1725,10 +3971,12 @@
         ],
         "citation": "mckenzie:eziz:etal:18[73b]",
         "clength": 31,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Pirenik–ler–ni</div>\n\t\t<div class=\"glossblock\">cookie–PL–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yé–may</div>\n\t\t<div class=\"glossblock\">eat–NEG.CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–dum.</div>\n\t\t<div class=\"glossblock\">become.AUX–PST:1S</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">*Pirenik–ler–ni</div>\n\t\t<div class=\"glossblock\">cookie–PL–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yé–may</div>\n\t\t<div class=\"glossblock\">eat–NEG.<span class='abbr'>CVB<span class='abbrexpansion'>converb</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–dum.</div>\n\t\t<div class=\"glossblock\">become.AUX–PST:1S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "cookie–PL–ACC",
             "eat–NEG.CVB",
@@ -1737,9 +3985,12 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "polarity": "negative",
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "*Pirenik–ler–ni",
             "yé–may",
@@ -1753,6 +4004,28 @@
         "abbrkey": {
             "Q": "yes/no question marker"
         },
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "AUX",
@@ -1765,9 +4038,19 @@
         ],
         "citation": "bodrogligeti:03[725];mckenzie:eziz:etal:18[via:i]",
         "clength": 49,
+        "coords": [
+            60.6907,
+            36.6099
+        ],
+        "countries": [
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Hozirgi</div>\n\t\t<div class=\"glossblock\">present</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zamon–da</div>\n\t\t<div class=\"glossblock\">time–LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">har</div>\n\t\t<div class=\"glossblock\">every</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kim–ga</div>\n\t\t<div class=\"glossblock\">person–DAT</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ishon–ib</div>\n\t\t<div class=\"glossblock\">believe–CVB</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bo‘l–adi=mi?</div>\n\t\t<div class=\"glossblock\">become.AUX–PRS.3S=Q</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "present",
@@ -1780,8 +4063,13 @@
         "language_glottocode": "uzbe1247",
         "language_iso6393": "uzb",
         "language_name": "Uzbek",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Hozirgi",
             "zamon–da",
@@ -1799,6 +4087,32 @@
             "PRTP": null,
             "PST": "past tense"
         },
+        "ancestors": [
+            {
+                "id": "turk1311",
+                "label": "Turkic"
+            },
+            {
+                "id": "comm1245",
+                "label": "Common Turkic"
+            },
+            {
+                "id": "kipc1240",
+                "label": "Kipchak-Turkestan"
+            },
+            {
+                "id": "uygh1241",
+                "label": "Turkestan"
+            },
+            {
+                "id": "uygh1240",
+                "label": "Modern Turkestan"
+            },
+            {
+                "id": "uigh1243",
+                "label": "Uyghuric"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "categories": [
             "ACC",
@@ -1810,10 +4124,44 @@
         ],
         "citation": "mckenzie:eziz:etal:18[i]",
         "clength": 33,
+        "coords": [
+            87.38,
+            43.88
+        ],
+        "countries": [
+            {
+                "ISO3166": "CN",
+                "label": "China"
+            },
+            {
+                "ISO3166": "IN",
+                "label": "India"
+            },
+            {
+                "ISO3166": "KG",
+                "label": "Kyrgyzstan"
+            },
+            {
+                "ISO3166": "KZ",
+                "label": "Kazakhstan"
+            },
+            {
+                "ISO3166": "MN",
+                "label": "Mongolia"
+            },
+            {
+                "ISO3166": "PK",
+                "label": "Pakistan"
+            },
+            {
+                "ISO3166": "UZ",
+                "label": "Uzbekistan"
+            }
+        ],
         "doc_ID": 5015,
         "doc_URL": "https://www.glossa-journal.org/article/id/5015",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pirenik–ler–ni</div>\n\t\t<div class=\"glossblock\">cookie–PL–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ye–may</div>\n\t\t<div class=\"glossblock\">eat–</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–may=du.</div>\n\t\t<div class=\"glossblock\">bol–NEG.PRTP=PST:3S</div>\n\t</div>\n</div>\n",
+        "entities": [],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Pirenik–ler–ni</div>\n\t\t<div class=\"glossblock\">cookie–PL–ACC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ye–may</div>\n\t\t<div class=\"glossblock\">eat–</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bol–may=du.</div>\n\t\t<div class=\"glossblock\">bol–NEG.PRTP=<span class='abbr'>PST<span class='abbrexpansion'>past tense</span></span>:3S</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "cookie–PL–ACC",
             "eat–",
@@ -1822,8 +4170,13 @@
         "language_glottocode": "uigh1240",
         "language_iso6393": "uig",
         "language_name": "Uighur",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [
+            "Eurasia"
+        ],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "McKenzie, Andrew and Eziz, Gülnar and Major, Travis. 2018. Latent homomorphism and content satisfaction: The double life of Turkic auxiliary –(İ)p bol–. Glossa: a journal of general linguistics 3(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Pirenik–ler–ni",
             "ye–may",

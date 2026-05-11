@@ -4,6 +4,7 @@
         "abbrkey": {
             "NOM": "nominative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "COP",
@@ -13,10 +14,17 @@
         ],
         "citation": "schlenker:20[3a]",
         "clength": 40,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Taro-ga</div>\n\t\t<div class=\"glossblock\">Taro-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[yamome-dearu]</div>\n\t\t<div class=\"glossblock\">[[widow-COP]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zyosei-ni]</div>\n\t\t<div class=\"glossblock\">woman-DAT]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">atta.</div>\n\t\t<div class=\"glossblock\">met</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "Taro",
+                "wdid": "Q227997"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Taro-ga</div>\n\t\t<div class=\"glossblock\">Taro-<span class='abbr'>NOM<span class='abbrexpansion'>nominative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[yamome-dearu]</div>\n\t\t<div class=\"glossblock\">[[widow-COP]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">zyosei-ni]</div>\n\t\t<div class=\"glossblock\">woman-DAT]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">atta.</div>\n\t\t<div class=\"glossblock\">met</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Taro-NOM",
             "[[widow-COP]",
@@ -26,8 +34,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Taro-ga",
             "[[yamome-dearu]",
@@ -42,6 +53,7 @@
         "abbrkey": {
             "NOM": "nominative"
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "COP",
@@ -51,10 +63,21 @@
         ],
         "citation": "ingason:16:1;schlenker:20[via:3b]",
         "clength": 41,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
-        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#Taro-ga</div>\n\t\t<div class=\"glossblock\">Taro-NOM</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[zyosei-dearu]</div>\n\t\t<div class=\"glossblock\">[[woman-COP]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yamome-ni]</div>\n\t\t<div class=\"glossblock\">widow-DAT]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">atta.</div>\n\t\t<div class=\"glossblock\">met</div>\n\t</div>\n</div>\n",
+        "entities": [
+            {
+                "label": "Taro",
+                "wdid": "Q227997"
+            },
+            {
+                "label": "Japanese",
+                "wdid": "Q161652"
+            }
+        ],
+        "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#Taro-ga</div>\n\t\t<div class=\"glossblock\">Taro-<span class='abbr'>NOM<span class='abbrexpansion'>nominative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[[zyosei-dearu]</div>\n\t\t<div class=\"glossblock\">[[woman-COP]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yamome-ni]</div>\n\t\t<div class=\"glossblock\">widow-DAT]</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">atta.</div>\n\t\t<div class=\"glossblock\">met</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Taro-NOM",
             "[[woman-COP]",
@@ -64,8 +87,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "#Taro-ga",
             "[[zyosei-dearu]",
@@ -78,15 +104,18 @@
     {
         "ID": "glossa5308-3",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "I"
         ],
         "citation": "schlenker:20[19]",
         "clength": 14,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Wǒ</div>\n\t\t<div class=\"glossblock\">I</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">yéye</div>\n\t\t<div class=\"glossblock\">paternal-grand-father</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">shì</div>\n\t\t<div class=\"glossblock\">be</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "I",
@@ -97,8 +126,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Wǒ",
             "de",
@@ -113,6 +145,7 @@
         "abbrkey": {
             "DE": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "B",
@@ -121,9 +154,11 @@
         ],
         "citation": "schlenker:20[19a]",
         "clength": 25,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">laízì</div>\n\t\t<div class=\"glossblock\">coming</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Bólín</div>\n\t\t<div class=\"glossblock\">Berlin</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">DE</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Déguó</div>\n\t\t<div class=\"glossblock\">German</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rén.</div>\n\t\t<div class=\"glossblock\">person.</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "coming",
@@ -135,8 +170,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "laízì",
             "Bólín",
@@ -152,6 +190,7 @@
         "abbrkey": {
             "DE": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "B",
@@ -160,9 +199,16 @@
         ],
         "citation": "schlenker:20[19b]",
         "clength": 27,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
+        "entities": [
+            {
+                "label": "Germany",
+                "wdid": "Q183"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">¹ laízì</div>\n\t\t<div class=\"glossblock\">coming</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Déguó</div>\n\t\t<div class=\"glossblock\">Germany</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">DE</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Bólín</div>\n\t\t<div class=\"glossblock\">Berlin</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rén.</div>\n\t\t<div class=\"glossblock\">person.</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "coming",
@@ -174,8 +220,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "¹ laízì",
             "Déguó",
@@ -191,6 +240,7 @@
         "abbrkey": {
             "DE": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "B",
@@ -200,9 +250,20 @@
         ],
         "citation": "schlenker:20[19c]",
         "clength": 27,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
+        "entities": [
+            {
+                "label": "East German",
+                "wdid": "Q16957"
+            },
+            {
+                "label": "Berlin",
+                "wdid": "Q64"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">laízì</div>\n\t\t<div class=\"glossblock\">coming</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Bólín</div>\n\t\t<div class=\"glossblock\">Berlin</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">DE</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dóng Dé</div>\n\t\t<div class=\"glossblock\">East German</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rén.</div>\n\t\t<div class=\"glossblock\">person.</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "coming",
@@ -214,8 +275,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "laízì",
             "Bólín",
@@ -231,6 +295,7 @@
         "abbrkey": {
             "DE": null
         },
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "B",
@@ -240,9 +305,16 @@
         ],
         "citation": "schlenker:20[19d]",
         "clength": 27,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
+        "entities": [
+            {
+                "label": "East Germany",
+                "wdid": "Q16957"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">laízì</div>\n\t\t<div class=\"glossblock\">coming</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Dóng Dé</div>\n\t\t<div class=\"glossblock\">East Germany</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">DE</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Bólín</div>\n\t\t<div class=\"glossblock\">Berlin</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">rén.</div>\n\t\t<div class=\"glossblock\">person.</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "coming",
@@ -254,8 +326,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "laízì",
             "Dóng Dé",
@@ -269,15 +344,18 @@
     {
         "ID": "glossa5308-8",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "S"
         ],
         "citation": "schlenker:20[21]",
         "clength": 18,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Sam</div>\n\t\t<div class=\"glossblock\">Sam</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">a</div>\n\t\t<div class=\"glossblock\">has</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">embauché</div>\n\t\t<div class=\"glossblock\">hired</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">a-fem</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Sam",
@@ -288,8 +366,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Sam",
             "a",
@@ -302,15 +383,18 @@
     {
         "ID": "glossa5308-9",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "F"
         ],
         "citation": "schlenker:20[21a]",
         "clength": 22,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">femme</div>\n\t\t<div class=\"glossblock\">woman</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">française</div>\n\t\t<div class=\"glossblock\">French-fem</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">veuve.</div>\n\t\t<div class=\"glossblock\">widowed-fem</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "woman",
@@ -320,8 +404,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "femme",
             "française",
@@ -333,15 +420,18 @@
     {
         "ID": "glossa5308-10",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "F"
         ],
         "citation": "schlenker:20[21b]",
         "clength": 33,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#veuve</div>\n\t\t<div class=\"glossblock\">widow</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">française</div>\n\t\t<div class=\"glossblock\">French-fem</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sexe</div>\n\t\t<div class=\"glossblock\">sex</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">féminin.</div>\n\t\t<div class=\"glossblock\">female</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "widow",
@@ -353,8 +443,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "#veuve",
             "française",
@@ -368,15 +461,18 @@
     {
         "ID": "glossa5308-11",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "F"
         ],
         "citation": "schlenker:20[21c]",
         "clength": 25,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">personne</div>\n\t\t<div class=\"glossblock\">person-fem</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">française</div>\n\t\t<div class=\"glossblock\">French</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">veuve.</div>\n\t\t<div class=\"glossblock\">widowed</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "person-fem",
@@ -386,8 +482,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "personne",
             "française",
@@ -399,15 +498,18 @@
     {
         "ID": "glossa5308-12",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "F"
         ],
         "citation": "schlenker:20[21d]",
         "clength": 35,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">personne</div>\n\t\t<div class=\"glossblock\">person-fem</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">française</div>\n\t\t<div class=\"glossblock\">French</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">de</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sexe</div>\n\t\t<div class=\"glossblock\">sex</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">féminin.</div>\n\t\t<div class=\"glossblock\">female</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "person-fem",
@@ -419,8 +521,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "personne",
             "française",
@@ -434,6 +539,7 @@
     {
         "ID": "glossa5308-13",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "F"
@@ -441,9 +547,16 @@
         "citation": "schlenker:20[22a]",
         "clength": 32,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
+        "entities": [
+            {
+                "label": "French",
+                "wdid": "Q150"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">femme</div>\n\t\t<div class=\"glossblock\">woman</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">française</div>\n\t\t<div class=\"glossblock\">French-fem</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[veuve et</div>\n\t\t<div class=\"glossblock\">widowed-fem and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">âgée].</div>\n\t\t<div class=\"glossblock\">senior</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "woman",
@@ -454,8 +567,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "femme",
             "française",
@@ -468,6 +584,7 @@
     {
         "ID": "glossa5308-14",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "F"
@@ -475,9 +592,16 @@
         "citation": "schlenker:20[22b]",
         "clength": 43,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
+        "entities": [
+            {
+                "label": "French",
+                "wdid": "Q150"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#veuve</div>\n\t\t<div class=\"glossblock\">widow</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">française</div>\n\t\t<div class=\"glossblock\">French-fem</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[de</div>\n\t\t<div class=\"glossblock\">of</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">sexe</div>\n\t\t<div class=\"glossblock\">sex</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">féminin</div>\n\t\t<div class=\"glossblock\">female</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">âgée].</div>\n\t\t<div class=\"glossblock\">senior</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "widow",
@@ -491,8 +615,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "#veuve",
             "française",
@@ -508,6 +635,7 @@
     {
         "ID": "glossa5308-15",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "B",
@@ -516,9 +644,16 @@
         ],
         "citation": "schlenker:20[23a]",
         "clength": 43,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
+        "entities": [
+            {
+                "label": "Berliner German",
+                "wdid": "Q497778"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?Ceci</div>\n\t\t<div class=\"glossblock\">This</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">an</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">adresse</div>\n\t\t<div class=\"glossblock\">address</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">allemande</div>\n\t\t<div class=\"glossblock\">German</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">berlinoise.</div>\n\t\t<div class=\"glossblock\">Berliner</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "This",
@@ -531,8 +666,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "?Ceci",
             "est",
@@ -547,6 +685,7 @@
     {
         "ID": "glossa5308-16",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "B",
@@ -555,9 +694,16 @@
         ],
         "citation": "schlenker:20[23b]",
         "clength": 43,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
+        "entities": [
+            {
+                "label": "German",
+                "wdid": "Q183"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#Ceci</div>\n\t\t<div class=\"glossblock\">This</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">an</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">adresse</div>\n\t\t<div class=\"glossblock\">address</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">berlinoise</div>\n\t\t<div class=\"glossblock\">Berliner</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">allemande.</div>\n\t\t<div class=\"glossblock\">German</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "This",
@@ -570,8 +716,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "#Ceci",
             "est",
@@ -586,6 +735,7 @@
     {
         "ID": "glossa5308-17",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "B",
@@ -595,9 +745,11 @@
         ],
         "citation": "schlenker:20[23c]",
         "clength": 47,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?Ceci</div>\n\t\t<div class=\"glossblock\">This</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">an</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">adresse</div>\n\t\t<div class=\"glossblock\">address</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est-allemande</div>\n\t\t<div class=\"glossblock\">East-German</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">berlinoise.</div>\n\t\t<div class=\"glossblock\">Berliner</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "This",
@@ -610,8 +762,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "?Ceci",
             "est",
@@ -626,6 +781,7 @@
     {
         "ID": "glossa5308-18",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "B",
@@ -635,9 +791,11 @@
         ],
         "citation": "schlenker:20[23d]",
         "clength": 46,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ceci</div>\n\t\t<div class=\"glossblock\">This</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">an</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">adresse</div>\n\t\t<div class=\"glossblock\">address</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">berlinoise</div>\n\t\t<div class=\"glossblock\">Berliner</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est-allemande.</div>\n\t\t<div class=\"glossblock\">East-German</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "This",
@@ -650,8 +808,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Ceci",
             "est",
@@ -666,6 +827,7 @@
     {
         "ID": "glossa5308-19",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "I",
@@ -674,9 +836,24 @@
         ],
         "citation": "schlenker:20[24a]",
         "clength": 43,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
+        "entities": [
+            {
+                "label": "Italian",
+                "wdid": "Q652"
+            },
+            {
+                "label": "Mediterranean",
+                "wdid": "Q4918"
+            },
+            {
+                "label": "human language",
+                "wdid": "Q20162172"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ceci</div>\n\t\t<div class=\"glossblock\">This</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">an</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">île</div>\n\t\t<div class=\"glossblock\">island</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">méditerranéenne</div>\n\t\t<div class=\"glossblock\">Mediterranean</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">italienne.</div>\n\t\t<div class=\"glossblock\">Italian</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "This",
@@ -689,8 +866,16 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [
+            {
+                "label": "human language",
+                "wdid": "Q20162172"
+            }
+        ],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Ceci",
             "est",
@@ -705,6 +890,7 @@
     {
         "ID": "glossa5308-20",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "I",
@@ -713,9 +899,16 @@
         ],
         "citation": "schlenker:20[24b]",
         "clength": 44,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
+        "entities": [
+            {
+                "label": "Mediterranean",
+                "wdid": "Q4918"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#Ceci</div>\n\t\t<div class=\"glossblock\">This</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">an</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">île</div>\n\t\t<div class=\"glossblock\">island</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">italienne</div>\n\t\t<div class=\"glossblock\">Italian</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">méditerranéenne.</div>\n\t\t<div class=\"glossblock\">Mediterranean</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "This",
@@ -728,8 +921,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "#Ceci",
             "est",
@@ -744,6 +940,7 @@
     {
         "ID": "glossa5308-21",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "F",
@@ -752,9 +949,20 @@
         ],
         "citation": "schlenker:20[24c]",
         "clength": 43,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
+        "entities": [
+            {
+                "label": "French",
+                "wdid": "Q150"
+            },
+            {
+                "label": "Mediterranean",
+                "wdid": "Q4918"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ceci</div>\n\t\t<div class=\"glossblock\">This</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">an</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">île</div>\n\t\t<div class=\"glossblock\">island</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">méditerranéenne</div>\n\t\t<div class=\"glossblock\">Mediterranean</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">française.</div>\n\t\t<div class=\"glossblock\">French</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "This",
@@ -767,8 +975,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Ceci",
             "est",
@@ -783,6 +994,7 @@
     {
         "ID": "glossa5308-22",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "F",
@@ -791,9 +1003,20 @@
         ],
         "citation": "schlenker:20[24d]",
         "clength": 43,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
+        "entities": [
+            {
+                "label": "Mediterranean",
+                "wdid": "Q4918"
+            },
+            {
+                "label": "French",
+                "wdid": "Q150"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ceci</div>\n\t\t<div class=\"glossblock\">This</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">une</div>\n\t\t<div class=\"glossblock\">an</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">île</div>\n\t\t<div class=\"glossblock\">island</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">française</div>\n\t\t<div class=\"glossblock\">French</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">méditerranéenne.</div>\n\t\t<div class=\"glossblock\">Mediterranean</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "This",
@@ -806,8 +1029,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Ceci",
             "est",
@@ -822,6 +1048,7 @@
     {
         "ID": "glossa5308-23",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "B",
@@ -831,9 +1058,20 @@
         "citation": "schlenker:20[25a]",
         "clength": 62,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
+        "entities": [
+            {
+                "label": "German",
+                "wdid": "Q183"
+            },
+            {
+                "label": "Berlin",
+                "wdid": "Q64"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?Ceci</div>\n\t\t<div class=\"glossblock\">This</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">un</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">numéro</div>\n\t\t<div class=\"glossblock\">number</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">allemand</div>\n\t\t<div class=\"glossblock\">German</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[berlinois</div>\n\t\t<div class=\"glossblock\">Berliner</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">itself</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">terminant</div>\n\t\t<div class=\"glossblock\">ending</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">en 0].</div>\n\t\t<div class=\"glossblock\">in 0.</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "This",
@@ -850,8 +1088,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "?Ceci",
             "est",
@@ -870,6 +1111,7 @@
     {
         "ID": "glossa5308-24",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "B",
@@ -878,9 +1120,11 @@
         ],
         "citation": "schlenker:20[25b]",
         "clength": 62,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">#Ceci</div>\n\t\t<div class=\"glossblock\">This</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">un</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">numéro</div>\n\t\t<div class=\"glossblock\">number</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">berlinois</div>\n\t\t<div class=\"glossblock\">Berliner</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[allemand</div>\n\t\t<div class=\"glossblock\">German</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">itself</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">terminant</div>\n\t\t<div class=\"glossblock\">ending</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">en 0].</div>\n\t\t<div class=\"glossblock\">in 0.</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "This",
@@ -897,8 +1141,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "#Ceci",
             "est",
@@ -917,6 +1164,7 @@
     {
         "ID": "glossa5308-25",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "B",
@@ -927,9 +1175,20 @@
         "citation": "schlenker:20[25c]",
         "clength": 66,
         "coordination": "and",
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
+        "entities": [
+            {
+                "label": "East-German",
+                "wdid": "Q16957"
+            },
+            {
+                "label": "Berlin",
+                "wdid": "Q64"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">?Ceci</div>\n\t\t<div class=\"glossblock\">This</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">un</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">numéro</div>\n\t\t<div class=\"glossblock\">number</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est-allemand</div>\n\t\t<div class=\"glossblock\">East-German</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[berlinois</div>\n\t\t<div class=\"glossblock\">Berliner</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">itself</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">terminant</div>\n\t\t<div class=\"glossblock\">ending</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">en 0].</div>\n\t\t<div class=\"glossblock\">in 0.</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "This",
@@ -946,8 +1205,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "?Ceci",
             "est",
@@ -966,6 +1228,7 @@
     {
         "ID": "glossa5308-26",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "B",
@@ -975,9 +1238,16 @@
         ],
         "citation": "schlenker:20[25d]",
         "clength": 65,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
+        "entities": [
+            {
+                "label": "East-German",
+                "wdid": "Q16957"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Ceci</div>\n\t\t<div class=\"glossblock\">This</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">est</div>\n\t\t<div class=\"glossblock\">is</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">un</div>\n\t\t<div class=\"glossblock\">a</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">numéro</div>\n\t\t<div class=\"glossblock\">number</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">berlinois</div>\n\t\t<div class=\"glossblock\">Berliner</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">[est-allemand</div>\n\t\t<div class=\"glossblock\">East-German</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">et</div>\n\t\t<div class=\"glossblock\">and</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">se</div>\n\t\t<div class=\"glossblock\">itself</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">terminant</div>\n\t\t<div class=\"glossblock\">ending</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">en 0].</div>\n\t\t<div class=\"glossblock\">in 0.</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "This",
@@ -994,8 +1264,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Ceci",
             "est",
@@ -1014,15 +1287,18 @@
     {
         "ID": "glossa5308-27",
         "abbrkey": {},
+        "ancestors": [],
         "book_metalanguage": "stan1293",
         "categories": [
             "M"
         ],
         "citation": "schlenker:20[i]",
         "clength": 57,
+        "coords": [],
+        "countries": [],
         "doc_ID": 5308,
         "doc_URL": "https://www.glossa-journal.org/article/id/5308",
-        "entities": null,
+        "entities": [],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mary-nun [[caki-casin-ul</div>\n\t\t<div class=\"glossblock\">Mary-top [[caki-casin-</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">coaha-nun]</div>\n\t\t<div class=\"glossblock\">like-</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">namca-lul]</div>\n\t\t<div class=\"glossblock\">man-</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mannassta.</div>\n\t\t<div class=\"glossblock\">met.</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "Mary-top [[caki-casin-",
@@ -1033,8 +1309,11 @@
         "language_glottocode": "undefined",
         "language_iso6393": "und",
         "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "glossa",
+        "rightsholder": "Schlenker, Philippe. 2020. Inside out: A note on the hierarchical update of nominal modifiers. Glossa: a journal of general linguistics 5(1). Open Library of Humanities.",
         "srcwordsbare": [
             "Mary-nun [[caki-casin-ul",
             "coaha-nun]",
