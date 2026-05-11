@@ -2,6 +2,52 @@
     {
         "ID": "langsci51-57f7308d3f",
         "abbrkey": {},
+        "ancestors": [
+            {
+                "id": "indo1319",
+                "label": "Indo-European"
+            },
+            {
+                "id": "clas1257",
+                "label": "Classical Indo-European"
+            },
+            {
+                "id": "indo1320",
+                "label": "Indo-Iranian"
+            },
+            {
+                "id": "iran1271",
+                "label": "Iranian-Nuristani"
+            },
+            {
+                "id": "iran1269",
+                "label": "Iranian"
+            },
+            {
+                "id": "cent2317",
+                "label": "Central Iranian PBS"
+            },
+            {
+                "id": "cent2318",
+                "label": "Central Iranian PB"
+            },
+            {
+                "id": "nort3177",
+                "label": "Northwestern Iranian"
+            },
+            {
+                "id": "tati1243",
+                "label": "Adharic"
+            },
+            {
+                "id": "gora1267",
+                "label": "Gorani"
+            },
+            {
+                "id": "gura1251",
+                "label": "Gurani"
+            }
+        ],
         "book_metalanguage": "stan1293",
         "book_title": "Language strategies for the domain of colour",
         "categories": [
@@ -13,9 +59,16 @@
         ],
         "citation": "bleys:ed:15",
         "clength": 29,
+        "coords": [],
+        "countries": [],
         "doc_ID": 51,
         "doc_URL": "https://langsci-press.org/catalog/book/51",
-        "entities": null,
+        "entities": [
+            {
+                "label": "Urals",
+                "wdid": "Q35600"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Na</div>\n\t\t<div class=\"glossblock\">On</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Urale</div>\n\t\t<div class=\"glossblock\">Ural-LOC</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">mnogo</div>\n\t\t<div class=\"glossblock\">many</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">krasnyh</div>\n\t\t<div class=\"glossblock\">red-PL.GEN</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">korov.</div>\n\t\t<div class=\"glossblock\">cows-GEN</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "On",
@@ -24,11 +77,14 @@
             "red-PL.GEN",
             "cows-GEN"
         ],
-        "language_glottocode": "undefined",
+        "language_glottocode": "hawr1243",
         "language_iso6393": "und",
-        "language_name": "",
-        "license": "https://creativecommons.org/licenses/by/4.0",
+        "language_name": "Hawraman-I Taxt",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "macroareas": [],
+        "parententities": [],
         "provider": "langsci",
+        "rightsholder": "Bleys, Joris (ed.) 2015. Language strategies for the domain of colour. (Computational Models of Language Evolution, 3.) Berlin: Language Science Press.",
         "srcwordsbare": [
             "Na",
             "Urale",

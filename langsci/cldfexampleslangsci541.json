@@ -24,12 +24,12 @@
                 "label": "Bima-Lembata"
             },
             {
-                "id": "flor1240",
-                "label": "Flores-Sumba-Hawu"
+                "id": "flor1244",
+                "label": "Flores"
             },
             {
                 "id": "flor1241",
-                "label": "Flores Barat"
+                "label": "West-Central Flores"
             },
             {
                 "id": "ngad1265",
@@ -75,7 +75,12 @@
         ],
         "doc_ID": 541,
         "doc_URL": "https://langsci-press.org/catalog/book/541",
-        "entities": [],
+        "entities": [
+            {
+                "label": "cassowary",
+                "wdid": "Q201231"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mareyas</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>PN<span class='abbrexpansion'>proper noun</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">nyongo=me=ae</div>\n\t\t<div class=\"glossblock\">road=<span class='abbr'>LOC<span class='abbrexpansion'>locative</span></span>=<span class='abbr'>RST<span class='abbrexpansion'>restrictive</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dirom</div>\n\t\t<div class=\"glossblock\">cassowary</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gullbe=de</div>\n\t\t<div class=\"glossblock\">huge=<span class='abbr'>ACC<span class='abbrexpansion'>accusative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">paya</div>\n\t\t<div class=\"glossblock\">shoot</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">d-ä-gag-än</div>\n\t\t<div class=\"glossblock\"><span class='abbr'><span class='abbr'>REM<span class='abbrexpansion'>remote past</span></span><span class='abbrexpansion'>remote past</span></span>-3NDUP-<span class='abbr'>AUX<span class='abbrexpansion'>auxiliary</span></span>-<span class='abbr'><span class='abbr'>REM<span class='abbrexpansion'>remote past</span></span><span class='abbrexpansion'>remote past</span></span>.3SGA</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">gabma</div>\n\t\t<div class=\"glossblock\">white_person</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">bägäl=alle</div>\n\t\t<div class=\"glossblock\">bow=<span class='abbr'>INS<span class='abbrexpansion'>instrumental</span></span></div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "PN",
@@ -179,147 +184,59 @@
             -1.0,
             53.0
         ],
-        "countries": [
-            {
-                "ISO3166": "AU",
-                "label": "Australia"
-            },
-            {
-                "ISO3166": "BM",
-                "label": "Bermuda"
-            },
-            {
-                "ISO3166": "BR",
-                "label": "Brazil"
-            },
-            {
-                "ISO3166": "BZ",
-                "label": "Belize"
-            },
-            {
-                "ISO3166": "CA",
-                "label": "Canada"
-            },
-            {
-                "ISO3166": "CC",
-                "label": "Cocos (Keeling) Islands"
-            },
-            {
-                "ISO3166": "CK",
-                "label": "Cook Islands"
-            },
-            {
-                "ISO3166": "CU",
-                "label": "Cuba"
-            },
-            {
-                "ISO3166": "CX",
-                "label": "Christmas Island"
-            },
-            {
-                "ISO3166": "DO",
-                "label": "Dominican Republic"
-            },
-            {
-                "ISO3166": "FK",
-                "label": "Falkland Islands (Malvinas)"
-            },
-            {
-                "ISO3166": "GB",
-                "label": "United Kingdom"
-            },
-            {
-                "ISO3166": "GG",
-                "label": "Guernsey"
-            },
-            {
-                "ISO3166": "GI",
-                "label": "Gibraltar"
-            },
-            {
-                "ISO3166": "GP",
-                "label": "Guadeloupe"
-            },
-            {
-                "ISO3166": "GS",
-                "label": "South Georgia and the South Sandwich Islands"
-            },
-            {
-                "ISO3166": "GT",
-                "label": "Guatemala"
-            },
-            {
-                "ISO3166": "GY",
-                "label": "Guyana"
-            },
-            {
-                "ISO3166": "HN",
-                "label": "Honduras"
-            },
-            {
-                "ISO3166": "IE",
-                "label": "Ireland"
-            },
-            {
-                "ISO3166": "IM",
-                "label": "Isle of Man"
-            },
-            {
-                "ISO3166": "IO",
-                "label": "British Indian Ocean Territory"
-            },
-            {
-                "ISO3166": "JE",
-                "label": "Jersey"
-            },
-            {
-                "ISO3166": "KY",
-                "label": "Cayman Islands"
-            },
-            {
-                "ISO3166": "LR",
-                "label": "Liberia"
-            },
-            {
-                "ISO3166": "MX",
-                "label": "Mexico"
-            },
-            {
-                "ISO3166": "NF",
-                "label": "Norfolk Island"
-            },
-            {
-                "ISO3166": "PN",
-                "label": "Pitcairn"
-            },
-            {
-                "ISO3166": "SH",
-                "label": "Saint Helena, Ascension and Tristan da Cunha"
-            },
-            {
-                "ISO3166": "SR",
-                "label": "Suriname"
-            },
-            {
-                "ISO3166": "UM",
-                "label": "United States Minor Outlying Islands"
-            },
-            {
-                "ISO3166": "US",
-                "label": "United States"
-            },
-            {
-                "ISO3166": "VE",
-                "label": "Venezuela, Bolivarian Republic of"
-            },
-            {
-                "ISO3166": "ZA",
-                "label": "South Africa"
-            }
-        ],
+        "countries": [],
         "doc_ID": 541,
         "doc_URL": "https://langsci-press.org/catalog/book/541",
-        "entities": [],
+        "entities": [
+            {
+                "label": "bananas",
+                "wdid": "Q503"
+            },
+            {
+                "label": "plant product",
+                "wdid": "Q107122793"
+            },
+            {
+                "label": "vegetarian food",
+                "wdid": "Q107126067"
+            },
+            {
+                "label": "Vegetable",
+                "wdid": "Q11004"
+            },
+            {
+                "label": "Berry_(botany)",
+                "wdid": "Q13184"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "biological material",
+                "wdid": "Q28969293"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Plant",
+                "wdid": "Q756"
+            },
+            {
+                "label": "tropical_fruit",
+                "wdid": "Q844144"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">up=de</div>\n\t\t<div class=\"glossblock\">banana=<span class='abbr'>ACC<span class='abbrexpansion'>accusative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">adade</div>\n\t\t<div class=\"glossblock\">like_this</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">ikop</div>\n\t\t<div class=\"glossblock\">see</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">d-ä-ga-eyo</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>REM<span class='abbrexpansion'>remote past</span></span>-3NDUP-<span class='abbr'>AUX<span class='abbrexpansion'>auxiliary</span></span>.3SGP-3NSGA</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">wo</div>\n\t\t<div class=\"glossblock\">ripe</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">abal</div>\n\t\t<div class=\"glossblock\">very</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             "banana=ACC",
@@ -333,16 +250,53 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "licence": "https://creativecommons.org/licenses/by/4.0",
-        "macroareas": [
-            "Australia",
-            "North America",
-            "Uninhabited",
-            "Papunesia",
-            "Africa",
-            "Eurasia",
-            "South America"
+        "macroareas": [],
+        "parententities": [
+            {
+                "label": "plant product",
+                "wdid": "Q107122793"
+            },
+            {
+                "label": "vegetarian food",
+                "wdid": "Q107126067"
+            },
+            {
+                "label": "Vegetable",
+                "wdid": "Q11004"
+            },
+            {
+                "label": "Berry_(botany)",
+                "wdid": "Q13184"
+            },
+            {
+                "label": "Fruit",
+                "wdid": "Q1364"
+            },
+            {
+                "label": "Food",
+                "wdid": "Q2095"
+            },
+            {
+                "label": "material",
+                "wdid": "Q214609"
+            },
+            {
+                "label": "biological material",
+                "wdid": "Q28969293"
+            },
+            {
+                "label": "fruit",
+                "wdid": "Q3314483"
+            },
+            {
+                "label": "Plant",
+                "wdid": "Q756"
+            },
+            {
+                "label": "tropical_fruit",
+                "wdid": "Q844144"
+            }
         ],
-        "parententities": [],
         "provider": "langsci",
         "rightsholder": "unknown",
         "srcwordsbare": [
@@ -439,144 +393,7 @@
             -1.0,
             53.0
         ],
-        "countries": [
-            {
-                "ISO3166": "AU",
-                "label": "Australia"
-            },
-            {
-                "ISO3166": "BM",
-                "label": "Bermuda"
-            },
-            {
-                "ISO3166": "BR",
-                "label": "Brazil"
-            },
-            {
-                "ISO3166": "BZ",
-                "label": "Belize"
-            },
-            {
-                "ISO3166": "CA",
-                "label": "Canada"
-            },
-            {
-                "ISO3166": "CC",
-                "label": "Cocos (Keeling) Islands"
-            },
-            {
-                "ISO3166": "CK",
-                "label": "Cook Islands"
-            },
-            {
-                "ISO3166": "CU",
-                "label": "Cuba"
-            },
-            {
-                "ISO3166": "CX",
-                "label": "Christmas Island"
-            },
-            {
-                "ISO3166": "DO",
-                "label": "Dominican Republic"
-            },
-            {
-                "ISO3166": "FK",
-                "label": "Falkland Islands (Malvinas)"
-            },
-            {
-                "ISO3166": "GB",
-                "label": "United Kingdom"
-            },
-            {
-                "ISO3166": "GG",
-                "label": "Guernsey"
-            },
-            {
-                "ISO3166": "GI",
-                "label": "Gibraltar"
-            },
-            {
-                "ISO3166": "GP",
-                "label": "Guadeloupe"
-            },
-            {
-                "ISO3166": "GS",
-                "label": "South Georgia and the South Sandwich Islands"
-            },
-            {
-                "ISO3166": "GT",
-                "label": "Guatemala"
-            },
-            {
-                "ISO3166": "GY",
-                "label": "Guyana"
-            },
-            {
-                "ISO3166": "HN",
-                "label": "Honduras"
-            },
-            {
-                "ISO3166": "IE",
-                "label": "Ireland"
-            },
-            {
-                "ISO3166": "IM",
-                "label": "Isle of Man"
-            },
-            {
-                "ISO3166": "IO",
-                "label": "British Indian Ocean Territory"
-            },
-            {
-                "ISO3166": "JE",
-                "label": "Jersey"
-            },
-            {
-                "ISO3166": "KY",
-                "label": "Cayman Islands"
-            },
-            {
-                "ISO3166": "LR",
-                "label": "Liberia"
-            },
-            {
-                "ISO3166": "MX",
-                "label": "Mexico"
-            },
-            {
-                "ISO3166": "NF",
-                "label": "Norfolk Island"
-            },
-            {
-                "ISO3166": "PN",
-                "label": "Pitcairn"
-            },
-            {
-                "ISO3166": "SH",
-                "label": "Saint Helena, Ascension and Tristan da Cunha"
-            },
-            {
-                "ISO3166": "SR",
-                "label": "Suriname"
-            },
-            {
-                "ISO3166": "UM",
-                "label": "United States Minor Outlying Islands"
-            },
-            {
-                "ISO3166": "US",
-                "label": "United States"
-            },
-            {
-                "ISO3166": "VE",
-                "label": "Venezuela, Bolivarian Republic of"
-            },
-            {
-                "ISO3166": "ZA",
-                "label": "South Africa"
-            }
-        ],
+        "countries": [],
         "doc_ID": 541,
         "doc_URL": "https://langsci-press.org/catalog/book/541",
         "entities": [],
@@ -597,15 +414,7 @@
         "language_iso6393": "eng",
         "language_name": "English",
         "licence": "https://creativecommons.org/licenses/by/4.0",
-        "macroareas": [
-            "Australia",
-            "North America",
-            "Uninhabited",
-            "Papunesia",
-            "Africa",
-            "Eurasia",
-            "South America"
-        ],
+        "macroareas": [],
         "parententities": [],
         "provider": "langsci",
         "rightsholder": "unknown",
@@ -649,7 +458,52 @@
         "countries": [],
         "doc_ID": 541,
         "doc_URL": "https://langsci-press.org/catalog/book/541",
-        "entities": [],
+        "entities": [
+            {
+                "label": "cassowary",
+                "wdid": "Q201231"
+            },
+            {
+                "label": "river source",
+                "wdid": "Q7376362"
+            },
+            {
+                "label": "Spring_(hydrology)",
+                "wdid": "Q124714"
+            },
+            {
+                "label": "Body_of_water",
+                "wdid": "Q15324"
+            },
+            {
+                "label": "extremity",
+                "wdid": "Q20203388"
+            },
+            {
+                "label": "physico-geographical object",
+                "wdid": "Q20719696"
+            },
+            {
+                "label": "geographic location",
+                "wdid": "Q2221906"
+            },
+            {
+                "label": "geographic entity",
+                "wdid": "Q27096213"
+            },
+            {
+                "label": "beginning",
+                "wdid": "Q529711"
+            },
+            {
+                "label": "beginning_of_a_watercourse",
+                "wdid": "Q57578857"
+            },
+            {
+                "label": "value",
+                "wdid": "Q878143"
+            }
+        ],
         "html": "<div class=\"imtblocks\">\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">.5pt-.9pt</div>\n\t\t<div class=\"glossblock\">.5pt-.9pt</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">2</div>\n\t\t<div class=\"glossblock\">3</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">däbe</div>\n\t\t<div class=\"glossblock\">that</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">dirom=de</div>\n\t\t<div class=\"glossblock\">cassowary=<span class='abbr'>ACC<span class='abbrexpansion'>accusative</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">Mareyas</div>\n\t\t<div class=\"glossblock\"><span class='abbr'>PN<span class='abbrexpansion'>proper noun</span></span></div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">kapu</div>\n\t\t<div class=\"glossblock\">carry</div>\n\t</div>\n\t<div class=\"imtblock\">\n\t\t<div class=\"srcblock\">d-ä-gag-än</div>\n\t\t<div class=\"glossblock\"><span class='abbr'><span class='abbr'>REM<span class='abbrexpansion'>remote past</span></span><span class='abbrexpansion'>remote past</span></span>-3NDUP-<span class='abbr'>AUX<span class='abbrexpansion'>auxiliary</span></span>-<span class='abbr'><span class='abbr'>REM<span class='abbrexpansion'>remote past</span></span><span class='abbrexpansion'>remote past</span></span>.3SGA</div>\n\t</div>\n</div>\n",
         "imtwordsbare": [
             ".5pt-.9pt",
@@ -665,7 +519,44 @@
         "language_name": "",
         "licence": "https://creativecommons.org/licenses/by/4.0",
         "macroareas": [],
-        "parententities": [],
+        "parententities": [
+            {
+                "label": "Spring_(hydrology)",
+                "wdid": "Q124714"
+            },
+            {
+                "label": "Body_of_water",
+                "wdid": "Q15324"
+            },
+            {
+                "label": "extremity",
+                "wdid": "Q20203388"
+            },
+            {
+                "label": "physico-geographical object",
+                "wdid": "Q20719696"
+            },
+            {
+                "label": "geographic location",
+                "wdid": "Q2221906"
+            },
+            {
+                "label": "geographic entity",
+                "wdid": "Q27096213"
+            },
+            {
+                "label": "beginning",
+                "wdid": "Q529711"
+            },
+            {
+                "label": "beginning_of_a_watercourse",
+                "wdid": "Q57578857"
+            },
+            {
+                "label": "value",
+                "wdid": "Q878143"
+            }
+        ],
         "provider": "langsci",
         "rightsholder": "unknown",
         "srcwordsbare": [
